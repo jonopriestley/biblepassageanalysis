@@ -17175,6 +17175,7 @@ function capitaliseName(book) {
     */
 }
 
+// Unused
 function abbreviate(book) {
     const abbreviations = {
         'Genesis': 'Gen', 'Exodus': 'Ex', 'Leviticus': 'Lev', 'Numbers': 'Num',
@@ -17208,13 +17209,13 @@ function makePassageName(location) {
 
     const l = location;
 
-    let loc = `${start_book} ${l[1]}.${l[2]} - ${end_book} ${l[4]}.${l[5]}`; // multiple books
+    let loc = `${start_book} ${l[1]}:${l[2]} - ${end_book} ${l[4]}:${l[5]}`; // multiple books
     if (l[0] === l[3]) {
-        loc = `${start_book} ${l[1]}.${l[2]} - ${l[4]}.${l[5]}`; // multiple chapters
+        loc = `${start_book} ${l[1]}:${l[2]} - ${l[4]}:${l[5]}`; // multiple chapters
         if (l[1] === l[4]) { // one chapter
-            loc = `${start_book} ${l[1]}.${l[2]}-${l[5]}`;
+            loc = `${start_book} ${l[1]}:${l[2]}-${l[5]}`;
             if (l[2] === l[5]) { // one verse
-                loc = `${start_book} ${l[1]}.${l[2]}`;
+                loc = `${start_book} ${l[1]}:${l[2]}`;
             }
         }
     }
@@ -17222,6 +17223,7 @@ function makePassageName(location) {
     return loc;
 }
 
+// Unused
 function writeToExcel(strongs_nums, location) {
     const language = getLanguage(location[0]);
     const workbook = xlsx.readFile('StrongsNumbers.xlsx');
@@ -17292,8 +17294,7 @@ function writeToExcel(strongs_nums, location) {
 function displayOutput(output, location) {
     let num, count, pos, word, root, gloss;
     let xl = (getLanguage(location[0]) === 'Hebrew') ? getHebrewData() : getGreekData();
-    console.log(xl);
-    document.getElementById('output-table-body').innerHTML = '';
+    resetTable();
     for (let i = 0; i < output.length; i++) {
         num = parseInt(output[i][0], 10);
         count = output[i][1];
@@ -17313,11 +17314,18 @@ function displayOutput(output, location) {
         `;
     }
 
-    document.getElementById('passage-name-display').innerText = makePassageName(location).replaceAll('.', ':');
+    document.getElementById('passage-name-display').innerText = makePassageName(location);
     document.getElementById('output').style.opacity = 1;
 }
 
+function resetTable() {
+    document.getElementById('output-table-body').innerHTML = '';
+    document.getElementById('output').style.opacity = 0;
+}
+
 function mainFunction() {
+    resetTable();
+
     const location = getPassageLocation();
     if (location === null) return;
     console.log(location);
