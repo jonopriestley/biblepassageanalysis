@@ -10,6 +10,7 @@ body {
     margin: 0;
     border: 0;
     background-color: var(--bg);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -44,7 +45,6 @@ h1 {
 
 
 #passage-input {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 24pt;
     float: left;
     margin-right: 10px;
@@ -73,7 +73,6 @@ h1 {
 
 .passage-name-display {
     margin-bottom: 20px;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 20pt;
     font-weight: bold;
 }
@@ -86,7 +85,6 @@ h1 {
     border-collapse: collapse;
     border-spacing: 1px;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 th {
