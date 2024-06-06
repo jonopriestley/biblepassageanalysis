@@ -87,6 +87,10 @@ h1 {
     text-align: center;
 }
 
+.gloss {
+    text-align: left;
+}
+
 th {
     border: 1px solid #dededf;
     background-color: #eceff1;
