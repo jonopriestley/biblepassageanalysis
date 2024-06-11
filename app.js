@@ -736,9 +736,9 @@ let data = `אָב|noun masc|אב|1. father
 אֱלִידָד|name|---|1. God of (his ) love 2. Elidad, an Israelite
 אֶלְיָדָע|name|ידע|1. God (is) knowing 2. Eljada, the name of two Israelites and of an Aramaean leader
 אַלְיָה|noun fem|אלה|1. the stout part, i.e. the fat tail of the Oriental sheep
-אֵלִיָּה|name|---|1. God of Jehovah 2. Elijah, the name of the famous prophet and of two other Israelites
+אֵלִיָּה|name|---|1. God of Yahweh 2. Elijah, the name of the famous prophet and of two other Israelites
 אֱלִיהוּ|name|הוא היא|1. God of him 2. Elihu, the name of one of Job's friends, and of three Israelites
-אֶלְיְהוֹעֵינַי|name|עין|1. towards Jehovah (are) my eyes 2. Eljehoenai or Eljoenai, the name of seven Israelites
+אֶלְיְהוֹעֵינַי|name|עין|1. towards Yahweh (are) my eyes 2. Eljehoenai or Eljoenai, the name of seven Israelites
 אֶלְיַחְבָּא|name|חבא|1. God will hide 2. Eljachba, an Israelite
 אֱלִיחֹרֶף|name|---|1. God of autumn 2. Elichoreph, an Israelite
 אֱלִיל|adjective|לוא לוה|1. good for nothing, by anal. vain or vanity 2. specifically an idol
@@ -1196,7 +1196,7 @@ let data = `אָב|noun masc|אב|1. father
 בָּדד|verb|בדד|1. to divide 2. (reflexively) be solitary
 בָּדָד|adverb|בדד|1. separate 2. adverb, separately
 בְּדד|name|בדד|1. separation 2. Bedad, an Edomite
-בֵּדְיָה|name|---|1. servant of Jehovah 2. Bedejah, an Israelite
+בֵּדְיָה|name|---|1. servant of Yahweh 2. Bedejah, an Israelite
 בְּדִיל|noun masc|בדל|1. alloy (because removed by smelting) 2. by analogy, tin
 בָּדל|verb|בדל|1. to divide (in variation senses literally or figuratively, separate, distinguish, differ, select, etc.)
 בָּדָל|noun masc|בדל|1. a part
@@ -1436,7 +1436,7 @@ let data = `אָב|noun masc|אב|1. father
 בְּנַס|verb-stem|בנס|1. to be enraged
 בִּנְעָא|name|---|1. Bina or Binah, an Israelite
 בֶּן־עַמִּי|name|---|1. son of my people 2. Ben-Ammi, a son of Lot
-בְּסוֹדְיָה|name|---|1. in (the) counsel of Jehovah 2. Besodejah, an Israelite
+בְּסוֹדְיָה|name|---|1. in (the) counsel of Yahweh 2. Besodejah, an Israelite
 בְּסַר|name|בוס|1. domineering 2. Besai, one of the Nethinim
 בֶּסֶר|noun masc|---|1. an immature grape
 בֹּסֶר|noun masc|---|1. sour grape
@@ -1464,7 +1464,7 @@ let data = `אָב|noun masc|אב|1. father
 בַּעַל חָנָן|name|חנן|1. possessor of grace 2. Baal-Chanan, the name of an Edomite, also of an Israelite
 בַּעַל חָצוֹר|Name/l.|---|1. possessor of a village 2. Baal-Chatsor, a place in Israel
 בַּעַל חֶרְמוֹן|Name/l.|---|1. possessor of Hermon 2. Baal-Chermon, a place in Israel
-בַּעֲלִי|noun masc|---|1. my master 2. Baali, a symbolical name for Jehovah
+בַּעֲלִי|noun masc|---|1. my master 2. Baali, a symbolical name for Yahweh
 בּעֲלֵי בָּמוֹת|noun masc|---|1. Baals of (the) heights 2. Baale-Bamoth, a place East of the Jordan
 בְּעֶלְיָדָע|name|ידע|1. Baal has known 2. Beeljada, an Israelite
 בְּעַלְיָה|name|---|1. Jah (is) master 2. Bealjah, an Israelite
@@ -2237,7 +2237,7 @@ let data = `אָב|noun masc|אב|1. father
 הוֹמָם|name|---|1. raging 2. Homam, an Edomitish chieftain
 הוּן|verb-stem|הון|1. (properly) to be naught, i.e. (figuratively) to be (causatively, act) light
 הוֹן|injunction|הון|1. wealth 2. (by implication) enough
-הוֹשָׁמָע|name|שׁמע|1. Jehovah has heard 2. Hoshama, an Israelite
+הוֹשָׁמָע|name|שׁמע|1. Yahweh has heard 2. Hoshama, an Israelite
 הוֹשֵׁעַ|name|ישׁע|1. deliverer 2. Hoshea, the name of five Israelites
 הוֹשִׁעִיה|name|ישׁע|1. Jah has saved 2. Hoshajah, the name of two Israelites
 הוֹתִיר|name|יתר|1. he has caused to remain 2. Hothir, an Israelite
@@ -2465,7 +2465,7 @@ let data = `אָב|noun masc|אב|1. father
 זַן|noun masc|---|1. sort
 זָנַב|verb|---|1. to curtail, i.e. cut off the rear
 זָנָב|noun masc|---|1. the tail (literally or figuratively)
-זָנָה|verb|זנה|1. to commit adultery (usually of the female, and less often of simple fornication, rarely of involuntary ravishment) 2. (figuratively) to commit idolatr ry (the Jewish people being regarded as the spouse of Jehovah)
+זָנָה|verb|זנה|1. to commit adultery (usually of the female, and less often of simple fornication, rarely of involuntary ravishment) 2. (figuratively) to commit idolatr ry (the Jewish people being regarded as the spouse of Yahweh)
 זָנוֹחַ|Name/l.|זנח|1. rejected 2. Zanoach, the name of two places in Israel
 זָנוּן|noun masc|זנה|1. adultery 2. (figuratively) idolatry
 זְנוּת|noun fem|זנה|1. adultery, i.e. (figuratively) infidelity, idolatry
@@ -3184,7 +3184,7 @@ let data = `אָב|noun masc|אב|1. father
 טוֹב|Name/l.|---|1. good 2. Tob, a region apparently East of the Jordan
 טוּב|noun masc|טוב|1. (as a noun) good, in the widest sense. i.e. beauty, gladness, welfare 2. (especially) goodness 3. (superlative concretely) the best
 טוֹב אֲדֹנִיָּהוּ|name|---|1. pleasing (to) Adonijah 2. Tob-Adonijah, an Israelite
-טוֹבִיָּה|name|---|1. goodness of Jehovah 2. Tobijah, the name of three Israelites and of one Samaritan
+טוֹבִיָּה|name|---|1. goodness of Yahweh 2. Tobijah, the name of three Israelites and of one Samaritan
 טָוָה|verb-stem|טוה|1. to spin
 טוּחַ|verb-stem|טוח|1. to smear, especially with lime
 טוֹפָפָה|noun fem|---|1. a fillet for the forehead
@@ -3342,9 +3342,9 @@ let data = `אָב|noun masc|אב|1. father
 יְהֻד|Name/l.|---|1. Jehud, a place in Israel
 יֶהְדַי|name|---|1. Judaistic 2. Jehdai, an Israelite
 יְהֻדִיָּה|adjective|---|1. Jehudijah, a Jewess
-יֵהוּא|name|---|1. Jehovah (is) He 2. Jehu, the name of five Israelites
-יְהוֹאָחָז|name|אחז|1. Jehovah-seized 2. Jehoachaz, the name of three Israelites
-יְהוֹאָשׁ|name|אשׁ|1. Jehovah-fired 2. Jehoash, the name of two Israelite kings
+יֵהוּא|name|---|1. Yahweh (is) He 2. Jehu, the name of five Israelites
+יְהוֹאָחָז|name|אחז|1. Yahweh-seized 2. Jehoachaz, the name of three Israelites
+יְהוֹאָשׁ|name|אשׁ|1. Yahweh-fired 2. Jehoash, the name of two Israelite kings
 יְהיּד|Name/l.|---|1. (properly) Judah 2. (hence) Judaea
 יְהוּדָאִי|n/g.|---|1. a Jehudaite (or Judaite), i.e. Jew
 יְהוּדָה|name|ידה|1. celebrated 2. Jehudah (or Judah), the name of five Israelites 3. also of the tribe descended from the first, and of its territory
@@ -3352,39 +3352,39 @@ let data = `אָב|noun masc|אב|1. father
 יְהוּדִי|name|---|1. Jehudi, an Israelite
 יְהוּדִית|adjective|---|1. the Jewish (used adverbially) language
 יְהוּדִית|name|---|1. Jewess 2. Jehudith, a Canaanitess
-יְהוָֹה|name|היה|1. (the) self-Existent or Eternal 2. Jehovah, Jewish national name of God
+יְהוָה|name|היה|1. (the) self-Existent or Eternal 2. Yahweh, Jewish national name of God
 יְהוִֹה|name|---|1. God
-יְהוָֹה יִרְאֶה|Name/l.|ראה|1. Jehovah will see (to it) 2. Jehovah-Jireh, a symbolical name for Mount Moriah
-יְהוָֹה נִסִּי|Name/l.|---|1. Jehovah (is) my banner 2. Jehovah-Nissi, a symbolical name of an altar in the Desert
-יְהוָֹה צִדְקֵנוּ|name|---|1. Jehovah (is) our right 2. Jehovah-Tsidkenu, a symbolical epithet of the Messiah and of Jerusalem
-יְהוָֹה שָׁלוֹם|Name/l.|שׁלם|1. Jehovah (is) peace 2. Jehovah-Shalom, a symbolical name of an altar in Israel
-יְהוָֹה שָׁמָּה|Name/l.|---|1. Jehovah (is) thither 2. Jehovah-Shammah, a symbolic title of Jerusalem
-יְהוֹזָבָד|name|זבד|1. Jehovah-endowed 2. Jehozabad, the name of three Israelites
-יְהוֹחָנָן|name|חנן|1. Jehovah-favored 2. Jehochanan, the name of eight Israelites
-יְהוֹיָדָע|name|ידע|1. Jehovah-known 2. Jehojada, the name of three Israelites
-יְהוֹיָכִין|name|כון|1. Jehovah will establish 2. Jehojakin, a Jewish king
-יְהוֹיָקִים|name|קום|1. Jehovah will raise 2. Jehojakim, a Jewish king
-יְהוֹיָרִיב|name|ריב רוב|1. Jehovah will contend 2. Jehojarib, the name of two Israelites
+יְהוָה יִרְאֶה|Name/l.|ראה|1. Yahweh will see (to it) 2. Yahweh-Jireh, a symbolical name for Mount Moriah
+יְהוָה נִסִּי|Name/l.|---|1. Yahweh (is) my banner 2. Yahweh-Nissi, a symbolical name of an altar in the Desert
+יְהוָה צִדְקֵנוּ|name|---|1. Yahweh (is) our right 2. Yahweh-Tsidkenu, a symbolical epithet of the Messiah and of Jerusalem
+יְהוָה שָׁלוֹם|Name/l.|שׁלם|1. Yahweh (is) peace 2. Yahweh-Shalom, a symbolical name of an altar in Israel
+יְהוָה שָׁמָּה|Name/l.|---|1. Yahweh (is) thither 2. Yahweh-Shammah, a symbolic title of Jerusalem
+יְהוֹזָבָד|name|זבד|1. Yahweh-endowed 2. Jehozabad, the name of three Israelites
+יְהוֹחָנָן|name|חנן|1. Yahweh-favored 2. Jehochanan, the name of eight Israelites
+יְהוֹיָדָע|name|ידע|1. Yahweh-known 2. Jehojada, the name of three Israelites
+יְהוֹיָכִין|name|כון|1. Yahweh will establish 2. Jehojakin, a Jewish king
+יְהוֹיָקִים|name|קום|1. Yahweh will raise 2. Jehojakim, a Jewish king
+יְהוֹיָרִיב|name|ריב רוב|1. Yahweh will contend 2. Jehojarib, the name of two Israelites
 יְהוּכַל|name|יכל|1. potent 2. Jehukal, an Israelite
-יְהוֹנָדָב|name|נדב|1. Jehovah-largessed 2. Jehonadab, the name of an Israelite and of an Arab
-יְהוֹנָתָן|name|נתן|1. Jehovah-given 2. Jehonathan, the name of four Israelites
+יְהוֹנָדָב|name|נדב|1. Yahweh-largessed 2. Jehonadab, the name of an Israelite and of an Arab
+יְהוֹנָתָן|name|נתן|1. Yahweh-given 2. Jehonathan, the name of four Israelites
 יְהוֹסֵף|name|---|1. Jehoseph (i.e. Joseph), a son of Jacob
-יְהוֹעַדָּה|name|עדה|1. Jehovah-adorned 2. Jehoaddah, an Israelite
-יְהוֹעַדִּין|name|עדן|1. Jehovah-pleased 2. Jehoaddin or Jehoaddan, an Israelitess
-יְהוֹצָדָק|name|צדק|1. Jehovah-righted 2. Jehotsadak, an Israelite
-יְהוֹרָם|name|רום|1. Jehovah-raised 2. Jehoram, the name of a Syrian and of three Israelites
-יְהוֹשֶׁבַע|name|שׁבע|1. Jehovah-sworn 2. Jehosheba, an Israelitess
+יְהוֹעַדָּה|name|עדה|1. Yahweh-adorned 2. Jehoaddah, an Israelite
+יְהוֹעַדִּין|name|עדן|1. Yahweh-pleased 2. Jehoaddin or Jehoaddan, an Israelitess
+יְהוֹצָדָק|name|צדק|1. Yahweh-righted 2. Jehotsadak, an Israelite
+יְהוֹרָם|name|רום|1. Yahweh-raised 2. Jehoram, the name of a Syrian and of three Israelites
+יְהוֹשֶׁבַע|name|שׁבע|1. Yahweh-sworn 2. Jehosheba, an Israelitess
 יְהוֹשַׁבְעַת|name|---|1. Jehoshabath, an Israelitess
-יְהוֹשׁוּעַ|name|ישׁע|1. Jehovah-saved 2. Jehoshua (i.e. Joshua), the Jewish leader
-יְהוֹשָׁפָט|Name/l.|שׁפט|1. Jehovah-judged 2. Jehoshaphat, the name of six Israelites 3. also of a valley near Jerusalem
+יְהוֹשׁוּעַ|name|ישׁע|1. Yahweh-saved 2. Jehoshua (i.e. Joshua), the Jewish leader
+יְהוֹשָׁפָט|Name/l.|שׁפט|1. Yahweh-judged 2. Jehoshaphat, the name of six Israelites 3. also of a valley near Jerusalem
 יָהִיר|adjective|---|1. elated 2. (hence) arrogant
 יְהַלֶּלְאֵל|name|הלל|1. praising God 2. Jehallelel, the name of two Israelites
 יַהֲלֹם|noun masc|הלם|1. a precious stone, probably onyx
 יַהַץ|Name/l.|---|1. perhaps threshing-floor 2. Jahats or Jahtsah, a place East of the Jordan
-יוֹאָב|name|---|1. Jehovah-fathered 2. Joab, the name of three Israelites
-יוֹאָח|name|---|1. Jehovah-brothered 2. Joach, the name of four Israelites
+יוֹאָב|name|---|1. Yahweh-fathered 2. Joab, the name of three Israelites
+יוֹאָח|name|---|1. Yahweh-brothered 2. Joach, the name of four Israelites
 יוֹאָחָז|name|---|1. Joachaz, the name of two Israelites
-יוֹאֵל|name|---|1. Jehovah (is his) God 2. Joel, the name of twelve Israelites
+יוֹאֵל|name|---|1. Yahweh (is his) God 2. Joel, the name of twelve Israelites
 יוֹאָשׁ|name|---|1. Joash, the name of six Israelites
 יוֹב|name|---|1. Job, an Israelite
 יוֹבָב|name|יבב|1. howler 2. Jobab, the name of two Israelites and of three foreigners
@@ -3392,14 +3392,14 @@ let data = `אָב|noun masc|אב|1. father
 יוּבַל|noun masc|יבל|1. a stream
 יוֹבָל|name|יבל|1. stream 2. Jubal, an antediluvian
 יוֹזָבָד|name|---|1. Jozabad, the name of ten Israelites
-יוֹזָכָר|name|זכר|1. Jehovah-remembered 2. Jozacar, an Israelite
-יוֹחָא|name|חיה|1. Jehovah-revived 2. Jocha, the name of two Israelites
+יוֹזָכָר|name|זכר|1. Yahweh-remembered 2. Jozacar, an Israelite
+יוֹחָא|name|חיה|1. Yahweh-revived 2. Jocha, the name of two Israelites
 יוֹחָנָן|name|---|1. Jochanan, the name of nine Israelites
 יוֹיָדָע|name|---|1. Jojada, the name of two Israelites
 יוֹיָכִין|name|---|1. Jojakin, an Israelite king
 יוֹיָקִים|name|---|1. Jojakim, an Israelite
 יוֹיָרִיב|name|---|1. Jojarib, the name of four Israelites
-יוֹכֶבֶד|name|כבד|1. Jehovah-gloried 2. Jokebed, the mother of Moses
+יוֹכֶבֶד|name|כבד|1. Yahweh-gloried 2. Jokebed, the mother of Moses
 יוּכַל|name|---|1. Jukal, an Israelite
 יוֹם|noun masc|יום|1. a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an  associated term), (often used adverb)
 יוֹם|noun masc|יום|1. a day
@@ -3418,8 +3418,8 @@ let data = `אָב|noun masc|אב|1. father
 יוֹסִפְיָה|name|יסף|1. Jah (is) adding 2. Josiphjah, an Israelite
 יוֹעֵאלָה|name|יעל|1. furthermore 2. Joelah, an Israelite
 יוֹעֵד|name|יעד|1. appointer 2. Joed, an Israelite
-יוֹעֶזֶר|name|---|1. Jehovah (is his) help 2. Joezer, an Israelite
-יוֹעָשׁ|name|עושׁ|1. Jehovah-hastened 2. Joash, the name of two Israelites
+יוֹעֶזֶר|name|---|1. Yahweh (is his) help 2. Joezer, an Israelite
+יוֹעָשׁ|name|עושׁ|1. Yahweh-hastened 2. Joash, the name of two Israelites
 יוֹצָדָק|name|---|1. Jotsadak, an Israelite
 יוֹקִים|name|---|1. Jokim, an Israelite
 יוֹרֶה|noun masc|ירה ירא|1. sprinkling 2. (hence) a sprinkling (or autumnal showers)
@@ -3427,11 +3427,11 @@ let data = `אָב|noun masc|אב|1. father
 יוֹרַי|name|ירה ירא|1. rainy 2. Jorai, an Israelite
 יוֹרָם|name|---|1. Joram, the name of three Israelites and one Syrian
 יוּשַׁב חֶסֶד|name|שׁוב|1. kindness will be returned 2. Jushab-Chesed, an Israelite
-יוֹשִׁבְיָה|name|ישׁב|1. Jehovah will cause to dwell 2. Josibjah, an Israelite
+יוֹשִׁבְיָה|name|ישׁב|1. Yahweh will cause to dwell 2. Josibjah, an Israelite
 יוֹשָׁה|name|---|1. Joshah, an Israelite
-יוֹשַׁוְיָה|name|שׁוה|1. Jehovah-set 2. Joshavjah, an Israelite
+יוֹשַׁוְיָה|name|שׁוה|1. Yahweh-set 2. Joshavjah, an Israelite
 יוֹשָׁפָט|name|---|1. Joshaphat, an Israelite
-יוֹתָם|name|---|1. Jehovah (is) perfect 2. Jotham, the name of three Israelites
+יוֹתָם|name|---|1. Yahweh (is) perfect 2. Jotham, the name of three Israelites
 יוֹתֵר|adverb|יתר|1. (properly) redundant 2. (hence) over and above, as adjective, noun, adverb or conjunction (as follows)
 יְזַוְאֵל|name|אול|1. sprinkled of God 2. Jezavel, an Israelite
 יִזִּיָּה|name|---|1. sprinkled of Jah 2. Jizzijah, an Israelite
@@ -5004,7 +5004,7 @@ let data = `אָב|noun masc|אב|1. father
 מַקָּבָה|noun fem|נקב|1. (properly) a perforatrix, i.e. a hammer (as piercing)
 מַקֶּבֶת|noun fem|נקב|1. (properly) a perforator, i.e. a hammer (as piercing) 2. (intransitively) a perforation, i.e. a quarry
 מַקֵּדָה|Name/l.|---|1. fold 2. Makkedah, a place in Israel
-מִקְדָּשׁ|noun masc|קדשׁ|1. a consecrated thing or place, especially, a palace, sanctuary (whether of Jehovah or of idols) or asylum
+מִקְדָּשׁ|noun masc|קדשׁ|1. a consecrated thing or place, especially, a palace, sanctuary (whether of Yahweh or of idols) or asylum
 מַקְהֵל|noun masc|קהל|1. an assembly
 מַקְהֵלת|name|---|1. assemblies 2. Makheloth, a place in the Desert
 מַקְוֶה|noun masc|קוה|1. something waited for, i.e. confidence (objective or subjective) 2. also a collection, i.e. (of water) a pond, or (of men and horses) a caravan    or drove
@@ -6204,7 +6204,7 @@ let data = `אָב|noun masc|אב|1. father
 עָכָר|name|עכר|1. troublesome 2. Akar, an Israelite
 עָכְרָן|name|עכר|1. muddler 2. Okran, an Israelite
 עַכְשׁוּב|noun masc|---|1. an asp (from lurking coiled up)
-עַל|adverb|עלה|1. (properly) the top 2. (specifically) the highest (i.e. God) 3. (adverbially) aloft, to Jehovah
+עַל|adverb|עלה|1. (properly) the top 2. (specifically) the highest (i.e. God) 3. (adverbially) aloft, to Yahweh
 עַל|Preposition|עלה|1. above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications (as follow)
 עַל|Preposition|עלה|1. about, against, concerning, for, (there-)fore, from, in, X more, of, (there-, up-)on, (in-)to, + why with
 עֹל|noun masc|עלל|1. a yoke (as imposed on the neck), literally or figuratively
