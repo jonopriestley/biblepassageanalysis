@@ -6,10 +6,10 @@ function getPassageLocation() {
 
     let passage = document.getElementById('passage-input').value;
 
-    if (passage.length < 4 || !passage.includes(' ')) {
+    /*if (passage.length < 4 || !passage.includes(' ')) {
         console.log(`Unclear passage: ${passage}`);
 		return null;
-    }
+    }*/
 
     // If it doesnt contain '-' then it's one verse/chapter
     // If it does contain '-' then it could be multiple of any of them
@@ -103,14 +103,14 @@ function getPassageLocation() {
         'revelation': [20, 29, 22, 11, 14, 17, 17, 13, 21, 11, 19, 17, 18, 20, 8, 21, 18, 24, 21, 15, 27, 21]
     }
 
-    let [start_book, start_verse] = splitBookAndVerse(passage[0], passage_data);
+    let [start_book, start_verse] = splitBookAndVerse(passage[0], passage_data, 'start');
 
     if (start_verse === null) return null;
 
     let end_book, end_verse;
 
     if (has_hyphen) {
-		[end_book, end_verse] = splitBookAndVerse(passage[1], passage_data);
+		[end_book, end_verse] = splitBookAndVerse(passage[1], passage_data, 'end');
 
         if (end_verse === null) return null;
 
@@ -121,6 +121,9 @@ function getPassageLocation() {
                 end_verse = `${s}:${end_verse}`;
             }
         }
+    } else if (passage[0].split(' ').length === 1) {       // if it only has a book name
+        end_book = start_book;
+        end_verse = `${passage_data[start_book].length}`;
     } else if ((passage[0].match(/:/g) || []).length < 2) { // No hypen (from above) and < 2 of ':'
 		end_book = start_book;
 		end_verse = start_verse;
@@ -159,7 +162,7 @@ function getPassageLocation() {
 	return [start_book, start_chapter_number, start_verse_number, end_book, end_chapter_number, end_verse_number];
 }
 
-function splitBookAndVerse(passage, passage_data) {
+function splitBookAndVerse(passage, passage_data, start_end) {
     passage = passage.trim().toLowerCase();  // remove blankspace on either side and make lower case
     const letters = 'abcdefghijklmnopqrstuvwxyz';
     const numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
@@ -181,10 +184,7 @@ function splitBookAndVerse(passage, passage_data) {
         }
     }
 
-    if (!book || !verses) {
-        console.log('Unclear passage given.');
-        return [null, null];
-    }
+    if (!book) book = passage;
 
     let book_names = Object.keys(passage_data);
 
@@ -199,7 +199,9 @@ function splitBookAndVerse(passage, passage_data) {
     }
 
     book = book_names[0];
-    
+
+    if (!verses && start_end === 'start') verses = '1';
+
     return [book, verses];
 
 }
@@ -17223,78 +17225,13 @@ function makePassageName(location) {
     return loc;
 }
 
-// Unused
-function writeToExcel(strongs_nums, location) {
-    const language = getLanguage(location[0]);
-    const workbook = xlsx.readFile('StrongsNumbers.xlsx');
-    const sheet = workbook.Sheets[language];
-    const data = xlsx.utils.sheet_to_json(sheet);
-
-    const outputData = {
-        'Occurances': [],
-        'Number': [],
-        'Word': [],
-        'Part of Speech': [],
-        'Root': [],
-        'Glossary': []
-    };
-
-    const gloss_lengths = [];
-
-    strongs_nums.forEach(([num, occurances]) => {
-        const row = data[num - 1];
-        const gloss = row.Gloss.split('\n').filter(line => /^[0-9]/.test(line)).join('\n');
-
-        let gloss_length = 0;
-        for (const char of gloss) {
-            gloss_length++;
-            if (char === '\n') {
-                gloss_length += 49 - (gloss_length % 51);
-            }
-        }
-
-        gloss_lengths.push(1 + Math.floor(gloss_length / 51));
-
-        const root = row.Root !== 'nan' ? row.Root : '---';
-
-        outputData.Number.push(num);
-        outputData.Occurances.push(occurances);
-        outputData.Word.push(row.Word);
-        outputData['Part of Speech'].push(row['Part of Speech']);
-        outputData.Root.push(root);
-        outputData.Glossary.push(gloss);
-    });
-
-    const loc = makePassageName(location);
-    const newWorkbook = xlsx.utils.book_new();
-    const newSheet = xlsx.utils.json_to_sheet(outputData);
-
-    xlsx.utils.book_append_sheet(newWorkbook, newSheet, loc);
-
-    const wscols = [
-        {wch: 10}, // 'Occurances'
-        {wch: 10}, // 'Number'
-        {wch: 15}, // 'Word'
-        {wch: 15}, // 'Part of Speech'
-        {wch: 15}, // 'Root'
-        {wch: 40}  // 'Glossary'
-    ];
-
-    newSheet['!cols'] = wscols;
-
-    gloss_lengths.forEach((glossLength, i) => {
-        const row = newSheet[`!rows`];
-        if (!row) newSheet[`!rows`] = [];
-        newSheet[`!rows`][i + 1] = {hpt: 9 + 12 * glossLength}; // height in points
-    });
-
-    xlsx.writeFile(newWorkbook, 'Passage_Data_Output.xlsx');
-}
-
 function displayOutput(output, location) {
     let num, count, pos, word, root, gloss;
     let xl = (getLanguage(location[0]) === 'Hebrew') ? getHebrewData() : getGreekData();
     resetTable();
+    console.log(`Rows: ${output.length}`);
+    let table = document.getElementById("output-table-body");
+    let row, cell1, cell2, cell3, cell4, cell5, cell6;
     for (let i = 0; i < output.length; i++) {
         num = parseInt(output[i][0], 10);
         count = output[i][1];
@@ -17303,17 +17240,25 @@ function displayOutput(output, location) {
         root = xl[num - 1][2];
         gloss = xl[num - 1][3];
         gloss = gloss.slice(0, 1) + gloss.slice(1).replace(/[0-9]\./g, '<br>\$&');  // put breaks between each definition
+        
+        row = table.insertRow();
+        cell1 = row.insertCell();
+        cell2 = row.insertCell();
+        cell3 = row.insertCell();
+        cell4 = row.insertCell();
+        cell5 = row.insertCell();
+        cell6 = row.insertCell();
 
-        document.getElementById('output-table-body').innerHTML += `<tr>
-        <td>${num}</td>
-        <td>${count}</td>
-        <td>${word}</td>
-        <td>${pos}</td>
-        <td>${root}</td>
-        <td class=\"gloss\">${gloss}</td>
-        </tr>
-        `;
+        cell1.innerHTML = `${num}`;
+        cell2.innerHTML = `${count}`;
+        cell3.innerHTML = `${word}`;
+        cell4.innerHTML = `${pos}`;
+        cell5.innerHTML = `${root}`;
+        cell6.innerHTML = `${gloss}`;
+        cell6.style = 'text-align: left;';
+
     }
+    
 
     document.getElementById('passage-name-display').innerText = makePassageName(location);
     document.getElementById('output').style.opacity = 1;
@@ -17330,10 +17275,10 @@ function mainFunction() {
     const location = getPassageLocation();
     if (location === null) return;
     console.log(location);
-
+    
     let strongs_nums = getStrongsNumbers(location);
     strongs_nums = Object.entries(strongs_nums).sort((a, b) => b[1] - a[1]);
-    //writeToExcel(strongs_nums, location);
     displayOutput(strongs_nums, location);
+
 }
 
