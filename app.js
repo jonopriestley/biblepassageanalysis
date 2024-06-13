@@ -8970,3208 +8970,3208 @@ let data = `אָב|noun masc|אב|1. father
 }
 
 function getGreekData() {
-let data = `α|noun|---|1. the first letter of the alphabet 2. (figuratively) only 3. (numerically) the first 4. (prefix, commonly) not, without (a-, an-, i.e. amoral, anarchy) 5. (prefix, occasionally) in the sense of a union (i.e. akin, adelphos "brother")
-Ἀαρών|Name Person|אַהֲרוֹן|1. Aaron, the brother of Moses
-Ἀβαδδών|Name Person|אֲבַדּוֹן|1. a destroying angel
-ἀβαρής|adjective|βάρος|1. weightless 2. (figuratively) not burdensome
+let data = `ἄλφα|noun|---|1. the first letter of the alphabet 2. (figuratively) only 3. (numerically) the first 4. (prefix, commonly) not, without (a-, an-, i.e. amoral, anarchy) 5. (prefix, occasionally) in the sense of a union (i.e. akin, adelphos "brother")
+Ἀαρών|Name Person|אַהֲרוֹן|1. Aaron, the brother of Moses
+Ἀβαδδών|Name Person|אֲבַדּוֹן|1. a destroying angel
+ἀβαρής|adjective|βάρος|1. weightless 2. (figuratively) not burdensome
 Ἀββᾶ|Name Person|אַב|1. (vocatively) father
 Ἄβελ|Name Person|הֶבֶל|1. Abel, the son of Adam
-Ἀβιά|Name Person|אֲבִיָה אֲבִיָהוּ|1. Abijah, the name of two Israelites
-Ἀβιάθαρ|Name Person|אֶבְיָתָר|1. Abiathar, an Israelite
-Ἀβιληνή|Name Location|---|1. Abilene, a region of Syria
-Ἀβιούδ|Name Person|אֲבִיהוּד|1. Abihud, an Israelite
-Ἀβραάμ|Name Person|אַבְרָהָם|1. Abraham, the Hebrew patriarch
+Ἀβιά|Name Person|אֲבִיָה אֲבִיָהוּ|1. Abijah, the name of two Israelites
+Ἀβιάθαρ|Name Person|אֶבְיָתָר|1. Abiathar, an Israelite
+Ἀβιληνή|Name Location|---|1. Abilene, a region of Syria
+Ἀβιούδ|Name Person|אֲבִיהוּד|1. Abihud, an Israelite
+Ἀβραάμ|Name Person|אַבְרָהָם|1. Abraham, the Hebrew patriarch
 ἄβυσσος|noun|βυθός|1. depthless 2. (specially) infernal "abyss"
-Ἄγαβος|Name Person|---|1. Agabus, an Israelite
-ἀγαθοεργέω|verb|ἔργον|1. to work good
-ἀγαθοποιέω|verb|ἀγαθοποιός|1. to be a well-doer (as a favor or a duty)
-ἀγαθοποιΐα|noun|ἀγαθοποιός|1. well-doing, i.e. virtue
-ἀγαθοποιός|adjective|ποιέω|1. a well-doer, i.e. virtuous
-ἀγαθός|adjective|---|1. good
-ἀγαθωσύνη|noun|ἀγαθός|1. goodness, i.e. virtue or beneficence
-ἀγαλλίασις|noun|ἀγαλλιάω|1. exultation 2. (specially) welcome
-ἀγαλλιάω|verb|ἅλλομαι|1. (properly) to jump for joy, i.e. exult
+Ἀγαβος|Name Person|---|1. Agabus, an Israelite
+ἀγαθοεργέω|verb|ἔργον|1. to work good
+ἀγαθοποιέω|verb|ἀγαθοποιός|1. to be a well-doer (as a favor or a duty)
+ἀγαθοποιΐα|noun|ἀγαθοποιός|1. well-doing, i.e. virtue
+ἀγαθοποιός|adjective|ποιέω|1. a well-doer, i.e. virtuous
+ἀγαθός|adjective|---|1. good
+ἀγαθωσύνη|noun|ἀγαθός|1. goodness, i.e. virtue or beneficence
+ἀγαλλίασις|noun|ἀγαλλιάω|1. exultation 2. (specially) welcome
+ἀγαλλιάω|verb|ἅλλομαι|1. (properly) to jump for joy, i.e. exult
 ἄγαμος|noun|γάμος|1. unmarried
-ἀγανακτέω|verb|---|1. to be greatly afflicted 2. (figuratively) indignant
-ἀγανάκτησις|noun|ἀγανακτέω|1. indignation
-ἀγαπάω|verb|עָגַב|1. to love (in a social or moral sense)
-ἀγάπη|noun|ἀγαπάω|1. love, i.e. affection or benevolence 2. (specially, plural) a love-feast
-ἀγαπητός|adjective|ἀγαπάω|1. beloved
-Ἄγαρ|Name Person|הָגָר|1. Hagar, the concubine of Abraham
-ἀγγαρεύω|verb|---|1. (properly) to be a courier 2. (by implication) to press into public service
+ἀγανακτέω|verb|---|1. to be greatly afflicted 2. (figuratively) indignant
+ἀγανάκτησις|noun|ἀγανακτέω|1. indignation
+ἀγαπάω|verb|עָגַב|1. to love (in a social or moral sense)
+ἀγάπη|noun|ἀγαπάω|1. love, i.e. affection or benevolence 2. (specially, plural) a love-feast
+ἀγαπητός|adjective|ἀγαπάω|1. beloved
+Ἅγαρ|Name Person|הָגָר|1. Hagar, the concubine of Abraham
+ἀγγαρεύω|verb|---|1. (properly) to be a courier 2. (by implication) to press into public service
 ἀγγεῖον|noun|---|1. a receptacle
-ἀγγελία|noun|ἄγγελος|1. a message 2. an announcement 3. (by implication) a precept
+ἀγγελία|noun|ἄγγελος|1. a message 2. an announcement 3. (by implication) a precept
 ἄγγελος|noun|---|1. a messenger 2. (especially) an "angel" of God 3. (of evil, Satan) a demon 4. (by implication) a person carrying forth a message from God, i.e. a servant (a disciple, pastor, elder, prophet, etc.) 5. (also, by implication) a thing or event carrying forth a message from God, i.e. a hardship (pestilence, wind, etc.), or an animal (donkey, locusts, etc.))
 ἄγε|verb|ἄγω|1. (properly) lead, i.e. come on
-ἀγέλη|noun|ἄγω|1. a herd, a drove
-ἀγενεαλόγητος|adjective|γενεαλογέω|1. unregistered as to birth
-ἀγενής|adjective|γένος|1. (properly) without kin 2. (socially) of unknown descent 3. (by implication) ignoble
-ἁγιάζω|verb|ἅγιος|1. to make holy 2. (ceremonially) purify or consecrate 3. (mentally) to venerate
-ἁγιασμός|noun|ἁγιάζω|1. (properly) purification 2. (the state) purity 3. (concretely, by Hebraism) a purifier
+ἀγέλη|noun|ἄγω|1. a herd, a drove
+ἀγενεαλόγητος|adjective|γενεαλογέω|1. unregistered as to birth
+ἀγενής|adjective|γένος|1. (properly) without kin 2. (socially) of unknown descent 3. (by implication) ignoble
+ἁγιάζω|verb|ἅγιος|1. to make holy 2. (ceremonially) purify or consecrate 3. (mentally) to venerate
+ἁγιασμός|noun|ἁγιάζω|1. (properly) purification 2. (the state) purity 3. (concretely, by Hebraism) a purifier
 ἅγιον|adjective|ἅγιος|1. a sacred thing 2. (of location) a sacred place
 ἅγιος|adjective|---|1. sacred 2. (physically) pure 3. (morally) blameless 4. (religious, ceremonially) consecrated
-ἁγιότης|noun|ἅγιος|1. sanctity 2. (properly) the state of sanctity
-ἁγιωσύνη|noun|ἅγιος|1. sacredness 2. (properly) the quality of sacredness
-ἀγκάλη|noun|---|1. an arm (as curved)
+ἁγιότης|noun|ἅγιος|1. sanctity 2. (properly) the state of sanctity
+ἁγιωσύνη|noun|ἅγιος|1. sacredness 2. (properly) the quality of sacredness
+ἀγκάλη|noun|---|1. an arm (as curved)
 ἄγκιστρον|noun|---|1. a hook (as bent)
 ἄγκυρα|noun|---|1. an "anchor" (as crooked)
 ἄγναφος|adjective|γναφεύς|1. (properly) unprocessed (cloth), not carded or shrunk 2. (by implication) new (cloth)
-ἁγνεία|noun|ἁγνός|1. cleanliness (the quality) 2. (specially) chastity
-ἁγνίζω|verb|ἁγνός|1. to make clean 2. (figuratively) to sanctify (ceremonially or morally)
-ἁγνισμός|noun|ἁγνίζω|1. a cleansing (the act) 2. (ceremonially) to purify by offering (or other method) for appeasement
-ἀγνοέω|verb|νοιέω|1. not to know (through lack of information or intelligence) 2. (by implication) to ignore (through dislike, disinterest, or unwillingness)
-ἀγνόημα|noun|ἀγνοέω|1. a thing ignored, i.e. shortcoming
+ἁγνεία|noun|ἁγνός|1. cleanliness (the quality) 2. (specially) chastity
+ἁγνίζω|verb|ἁγνός|1. to make clean 2. (figuratively) to sanctify (ceremonially or morally)
+ἁγνισμός|noun|ἁγνίζω|1. a cleansing (the act) 2. (ceremonially) to purify by offering (or other method) for appeasement
+ἀγνοέω|verb|νοιέω|1. not to know (through lack of information or intelligence) 2. (by implication) to ignore (through dislike, disinterest, or unwillingness)
+ἀγνόημα|noun|ἀγνοέω|1. a thing ignored, i.e. shortcoming
 ἄγνοια|noun|ἀγνοέω|1. ignorance 2. (properly) the quality of ignorance
-ἁγνός|adjective|---|1. (properly) clean 2. (figuratively) innocent, modest, perfect
-ἁγνότης|noun|ἁγνός|1. cleanness (the state) 2. (figuratively) blamelessness
+ἁγνός|adjective|---|1. (properly) clean 2. (figuratively) innocent, modest, perfect
+ἁγνότης|noun|ἁγνός|1. cleanness (the state) 2. (figuratively) blamelessness
 ἁγνῶς|adverb|ἁγνός|1. purely, i.e. honestly
-ἀγνωσία|noun|γνῶσις|1. ignorance 2. (properly) the state of ignorance
+ἀγνωσία|noun|γνῶσις|1. ignorance 2. (properly) the state of ignorance
 ἄγνωστος|adjective|γνωστός|1. not known, unknown 2. (mentally) ignorant 3. (figuratively) obscure
-ἀγορά|noun|---|1. (properly) the town-square (as a place of public resort) 2. (by implication) a market or thoroughfare
-ἀγοράζω|verb|ἀγορά|1. (properly) to go to market 2. (by implication) to purchase 3. (specially) to redeem
+ἀγορά|noun|---|1. (properly) the town-square (as a place of public resort) 2. (by implication) a market or thoroughfare
+ἀγοράζω|verb|ἀγορά|1. (properly) to go to market 2. (by implication) to purchase 3. (specially) to redeem
 ἀγοραῖος|adjective|ἀγορά|1. relating to the market-place, i.e. forensic (times) 2. (by implication) vulgar
 ἄγρα|noun|ἄγω|1. (abstractly) a catching (of fish) 2. (concretely) a haul (of fish)
-ἀγράμματος|adjective|γράμμα|1. unlettered, i.e. illiterate, uneducated
-ἀγραυλέω|verb|αὐλέω|1. to camp out
-ἀγρεύω|verb|ἄγρα|1. to hunt 2. (figuratively) to entrap
-ἀγριέλαιος|noun|ἐλαῖα|1. a wild olive (tree or fruit) 2. (plant family) an oleaster (i.e. Elaeagnus, Silverberry, Olea Europea, etc.)
+ἀγράμματος|adjective|γράμμα|1. unlettered, i.e. illiterate, uneducated
+ἀγραυλέω|verb|αὐλέω|1. to camp out
+ἀγρεύω|verb|ἄγρα|1. to hunt 2. (figuratively) to entrap
+ἀγριέλαιος|noun|ἐλαῖα|1. a wild olive (tree or fruit) 2. (plant family) an oleaster (i.e. Elaeagnus, Silverberry, Olea Europea, etc.)
 ἄγριος|adjective|ἀγρός|1. wild (as pertaining to the country) 2. (literally) natural 3. (figuratively) fierce
-Ἀγρίππας|Name Person|ἵππος|1. wild-horse tamer 2. Agrippas, one of the Herods
-ἀγρός|noun|ἄγω|1. a field (as a drive for cattle) 2. (genitive case) the country 3. (specially) a farm, i.e. hamlet
-ἀγρυπνέω|verb|ὕπνος|1. to be sleepless, i.e. keep awake
-ἀγρυπνία|noun|ἀγρυπνέω|1. sleeplessness, i.e. a keeping awake
+Ἀγρίππας|Name Person|ἵππος|1. wild-horse tamer 2. Agrippas, one of the Herods
+ἀγρός|noun|ἄγω|1. a field (as a drive for cattle) 2. (genitive case) the country 3. (specially) a farm, i.e. hamlet
+ἀγρυπνέω|verb|ὕπνος|1. to be sleepless, i.e. keep awake
+ἀγρυπνία|noun|ἀγρυπνέω|1. sleeplessness, i.e. a keeping awake
 ἄγω|verb|---|1. (properly) to lead 2. (by implication) to bring, drive 3. (reflexively) to go 4. (specially) to pass (time) 5. (figuratively) to induce
-ἀγωγή|noun|ἄγω|1. a bringing up, i.e. mode of living
-ἀγών|noun|ἄγω|1. (properly) a place of assembly (as if led) 2. (by implication) a contest (held there) 3. (figuratively) an effort or anxiety
-ἀγωνία|noun|ἀγών|1. a struggle 2. (properly) the state of struggle 3. (figuratively) anguish
-ἀγωνίζομαι|verb|ἀγών|1. to struggle 2. (literally) to compete for a prize 3. (figuratively) to contend with an adversary 4. (genitive case) to endeavor to accomplish something
-Ἀδάμ|Name Person|אָדָם|1. Adam, the first man 2. (typically, of Jesus) man (as his representative)
-ἀδάπανος|adjective|δαπάνη|1. without cost, i.e. gratuitous
-Ἀδδί|Name Person|---|1. Addi, an Israelite
-ἀδελφή|noun|ἀδελφός|1. a sister 2. (of faith) a sister in our Lord, Jesus
-ἀδελφός|noun|---|1. a brother 2. (of faith) a brother in our Lord, Jesus
-ἀδελφότης|noun|ἀδελφός|1. (properly) the feeling of brotherliness 2. (commonly) brotherhood,  i.e. the (Christian) fraternity
+ἀγωγή|noun|ἄγω|1. a bringing up, i.e. mode of living
+ἀγών|noun|ἄγω|1. (properly) a place of assembly (as if led) 2. (by implication) a contest (held there) 3. (figuratively) an effort or anxiety
+ἀγωνία|noun|ἀγών|1. a struggle 2. (properly) the state of struggle 3. (figuratively) anguish
+ἀγωνίζομαι|verb|ἀγών|1. to struggle 2. (literally) to compete for a prize 3. (figuratively) to contend with an adversary 4. (genitive case) to endeavor to accomplish something
+Ἀδάμ|Name Person|אָדָם|1. Adam, the first man 2. (typically, of Jesus) man (as his representative)
+ἀδάπανος|adjective|δαπάνη|1. without cost, i.e. gratuitous
+Ἀδδί|Name Person|---|1. Addi, an Israelite
+ἀδελφή|noun|ἀδελφός|1. a sister 2. (of faith) a sister in our Lord, Jesus
+ἀδελφός|noun|---|1. a brother 2. (of faith) a brother in our Lord, Jesus
+ἀδελφότης|noun|ἀδελφός|1. (properly) the feeling of brotherliness 2. (commonly) brotherhood,  i.e. the (Christian) fraternity
 ἄδηλος|adjective|δῆλος|1. hidden 2. (figuratively) indistinct
-ἀδηλότης|noun|ἄδηλος|1. uncertainty
-ἀδήλως|adverb|ἄδηλος|1. uncertainly
-ἀδημονέω|verb|---|1. to be in distress (of mind)
-ᾅδης|noun|εἴδω|1. (properly) unseen 2. (commonly) "Hades," the place (state) of departed souls
-ἀδιάκριτος|adjective|διακρίνω|1. (properly) undistinguished 2. (actively) impartial
-ἀδιάλειπτος|adjective|διά|1. uninterrupted, i.e. permanent, unceasing
-ἀδιαλείπτως|adverb|λείπω|1. uninterruptedly, unceasingly 2. (on occasion, as appropriate) without omission
-ἀδιαφθορία|noun|διαφθείρω|1. incorruptibleness 2. (figuratively) purity (of doctrine)
-ἀδικέω|verb|ἄδικος|1. to be unjust 2. (actively) to do wrong (morally, socially or physically)
-ἀδίκημα|noun|ἀδικέω|1. a wrong done
-ἀδικία|noun|ἄδικος|1. (legal) injustice 2. (properly) the quality 3. (by implication) the act 4. (morally) wrongfulness (of character, life or act)
+ἀδηλότης|noun|ἄδηλος|1. uncertainty
+ἀδήλως|adverb|ἄδηλος|1. uncertainly
+ἀδημονέω|verb|---|1. to be in distress (of mind)
+ᾍδης|noun|εἴδω|1. (properly) unseen 2. (commonly) "Hades," the place (state) of departed souls
+ἀδιάκριτος|adjective|διακρίνω|1. (properly) undistinguished 2. (actively) impartial
+ἀδιάλειπτος|adjective|διά|1. uninterrupted, i.e. permanent, unceasing
+ἀδιαλείπτως|adverb|λείπω|1. uninterruptedly, unceasingly 2. (on occasion, as appropriate) without omission
+ἀδιαφθορία|noun|διαφθείρω|1. incorruptibleness 2. (figuratively) purity (of doctrine)
+ἀδικέω|verb|ἄδικος|1. to be unjust 2. (actively) to do wrong (morally, socially or physically)
+ἀδίκημα|noun|ἀδικέω|1. a wrong done
+ἀδικία|noun|ἄδικος|1. (legal) injustice 2. (properly) the quality 3. (by implication) the act 4. (morally) wrongfulness (of character, life or act)
 ἄδικος|adjective|δίκη|1. unjust 2. (by extension) wicked 3. (by implication) treacherous 4. (specially) heathen
-ἀδίκως|adverb|ἄδικος|1. unjustly
-ἀδόκιμος|adjective|δόκιμος|1. unapproved, i.e. rejected 2. (by implication) worthless
+ἀδίκως|adverb|ἄδικος|1. unjustly
+ἀδόκιμος|adjective|δόκιμος|1. unapproved, i.e. rejected 2. (by implication) worthless
 ἄδολος|adjective|δόλος|1. without deceit, honest, sincere 2. (figuratively) unadulterated, pure
-Ἀδραμυττηνός|adjective/g.|---|1. Adramyttene or belonging to Adramyttium 2. (location) modern northwest Turkey (Edremit)
-Ἀδρίας|Name Location|---|1. the Adriatic sea (including the Ionian)
-ἁδρότης|noun|---|1. plumpness 2. (figuratively) liberality
-ἀδυνατέω|verb|ἀδύνατος|1. to be unable 2. (passively) to be impossible
-ἀδύνατος|adjective|δυνατός|1. unable, i.e. weak 2. (passively) impossible
+Ἀδραμυττηνός|adjective/g.|---|1. Adramyttene or belonging to Adramyttium 2. (location) modern northwest Turkey (Edremit)
+Ἀδρίας|Name Location|---|1. the Adriatic sea (including the Ionian)
+ἁδρότης|noun|---|1. plumpness 2. (figuratively) liberality
+ἀδυνατέω|verb|ἀδύνατος|1. to be unable 2. (passively) to be impossible
+ἀδύνατος|adjective|δυνατός|1. unable, i.e. weak 2. (passively) impossible
 ᾄδω|verb|---|1. to sing
-ἀεί|adverb|---|1. "ever" 2. (by qualification) regularly 3. (by implication) earnestly
-ἀετός|noun|---|1. an eagle (from its wind-like flight)
+ἀεί|adverb|---|1. "ever" 2. (by qualification) regularly 3. (by implication) earnestly
+ἀετός|noun|---|1. an eagle (from its wind-like flight)
 ἄζυμος|adjective|ζύμη|1. unleavened 2. (figuratively) uncorrupted 3. (specially in the neutral plural, by implication) the Passover week
-Ἀζώρ|Name Person|---|1. Azor, an Israelite
+Ἀζώρ|Name Person|---|1. Azor, an Israelite
 Ἄζωτος|Name Location|אַשׁדּוֹד|1. Azotus (i.e. Ashdod), a place in Israel
-ἀήρ|noun|---|1. "air" (as naturally surrounding)
-ἀθανασία|noun|θάνατος|1. deathlessness, immortality 2. not bound or subject to death
-ἀθέμιτος|adjective|τίθημι|1. illegal 2. (by implication) shamefully wicked
+ἀήρ|noun|---|1. "air" (as naturally surrounding)
+ἀθανασία|noun|θάνατος|1. deathlessness, immortality 2. not bound or subject to death
+ἀθέμιτος|adjective|τίθημι|1. illegal 2. (by implication) shamefully wicked
 ἄθεος|adjective|θεός|1. without god
 ἄθεσμος|adjective|τίθημι|1. lawless 2. (by implication) criminal
-ἀθετέω|verb|τίθημι|1. to set aside 2. (by implication) to disesteem, neutralize or violate
-ἀθέτησις|noun|ἀθετέω|1. cancellation
+ἀθετέω|verb|τίθημι|1. to set aside 2. (by implication) to disesteem, neutralize or violate
+ἀθέτησις|noun|ἀθετέω|1. cancellation
 Ἀθῆναι|Name Location|---|1. Athens, the capitol of Greece 2. (archaic) Athenoe
 Ἀθηναῖος|adjective/g.|Ἀθῆναι|1. an Athenian, an inhabitant of Athens 2. (archaic) Athenoean, an inhabitant of Athenai
-ἀθλέω|verb|---|1. to contend in the competitive games
+ἀθλέω|verb|---|1. to contend in the competitive games
 ἄθλησις|noun|ἀθλέω|1. a struggle (figuratively)
-ἀθυμέω|verb|θυμός|1. to be spiritless, i.e. disheartened
-ἄθωος|adjective|τίθημι|1. not guilty
-αἴγεος|adjective|---|1. belonging to a goat
-αἰγιαλός|noun|ἅλς|1. a beach (on which the waves dash)
-Αἰγύπτιος|adjective/g.|Αἴγυπτος|1. an Egyptian or inhabitant of Egypt 2. (archaic) an Ægyptian or inhabitant of Ægyptus
+ἀθυμέω|verb|θυμός|1. to be spiritless, i.e. disheartened
+ἀθῷος|adjective|τίθημι|1. not guilty
+αἴγειος|adjective|---|1. belonging to a goat
+αἰγιαλός|noun|ἅλς|1. a beach (on which the waves dash)
+Αἰγύπτιος|adjective/g.|Αἴγυπτος|1. an Egyptian or inhabitant of Egypt 2. (archaic) an Ægyptian or inhabitant of Ægyptus
 Αἴγυπτος|Name Location|---|1. Egypt (Ægyptus), the land of the Nile
-ἀΐδιος|adjective|ἀεί|1. (forward and backward) eternal 2. (forward only) everlasting
-αἰδώς|noun|εἴδω|1. bashfulness 2. (towards men), modesty 3. (towards God) awe
-Αἰθίοψ|Name/g.|ὀπτάνομαι|1. an Ethiopian 2. a dark-skinned person from a particular ancient region in north east Africa
+ἀΐδιος|adjective|ἀεί|1. (forward and backward) eternal 2. (forward only) everlasting
+αἰδώς|noun|εἴδω|1. bashfulness 2. (towards men), modesty 3. (towards God) awe
+Αἰθίοψ|Name/g.|ὀπτάνομαι|1. an Ethiopian 2. a dark-skinned person from a particular ancient region in north east Africa
 αἷμα|noun|---|1. blood 2. (literally) of men or animals 3. (figuratively) the juice of grapes 4. (specially) the atoning blood of Christ 5. (by implication) bloodshed, also kindred
-αἱματεκχυσία|noun|ἐκχέω|1. an effusion of blood
-αἱμορῥέω|verb|ῥέω|1. to flow blood, i.e. have a hemorrhage
-Αἰνέας|Name Person|---|1. Aeneas, an Israelite
+αἱματεκχυσία|noun|ἐκχέω|1. an effusion of blood
+αἱμορροέω|verb|ῥέω|1. to flow blood, i.e. have a hemorrhage
+Αἰνέας|Name Person|---|1. Aeneas, an Israelite
 αἴνεσις|noun|αἰνέω|1. a praising (the act) 2. (specially) a thank(-offering)
-αἰνέω|verb|αἶνος|1. to praise (God)
+αἰνέω|verb|αἶνος|1. to praise (God)
 αἴνιγμα|noun|αἶνος|1. an obscure saying, "enigma" 2. (abstractly) obscureness
 αἶνος|noun|---|1. (properly) a story 2. praise (of God)
-Αἰνών|Name Location|עַיִן|1. Ænon, a place in Israel
-αἱρέομαι|verb|---|1. to take for oneself, i.e. to prefer
+Αἰνών|Name Location|עַיִן|1. Ænon, a place in Israel
+αἱρέω|verb|---|1. to take for oneself, i.e. to prefer
 αἵρεσις|noun|αἱρέομαι|1. (properly) a choice 2. (by extension) a preference 3. (specially) a (religious) party, a sect, a denomination 4. (abstractly) disunion
-αἱρετίζω|verb|αἱρέομαι|1. to make a choice
-αἱρετικός|adjective|αἱρέομαι|1. schismatic, discordant, divisive
+αἱρετίζω|verb|αἱρέομαι|1. to make a choice
+αἱρετικός|adjective|αἱρέομαι|1. schismatic, discordant, divisive
 αἴρω|verb|---|1. to lift up 2. (by implication) to take up or away 3. (figuratively) to raise (the voice), keep in suspense (the mind) 4. (specially) to sail away (i.e. weigh anchor) 5. (by Hebraism) to atone for sin
-αἰσθάνομαι|verb|---|1. to perceive 2. (properly) to perceive by the senses
+αἰσθάνομαι|verb|---|1. to perceive 2. (properly) to perceive by the senses
 αἴσθησις|noun|αἰσθάνομαι|1. perception 2. (figuratively) discernment
-αἰσθητήριον|noun|αἰσθάνομαι|1. (properly) an organ of perception 2. (figuratively) judgment
-αἰσχροκερδής|adjective|κέρδος|1. characterized by sordid, disgraceful gain 2. of disgraceful gain
+αἰσθητήριον|noun|αἰσθάνομαι|1. (properly) an organ of perception 2. (figuratively) judgment
+αἰσχροκερδής|adjective|κέρδος|1. characterized by sordid, disgraceful gain 2. of disgraceful gain
 αἰσχροκερδῶς|adverb|αἰσχροκερδής|1. to gain in a disgracefully, sordidly manner
-αἰσχρολογία|noun|λόγος|1. vile, disgraceful conversation
-αἰσχρόν|adjective|αἰσχρός|1. a shameful thing, i.e. of improper conduct
-αἰσχρός|adjective|---|1. shameful, disgraceful, i.e. base 2. (specially) venal, i.e. bribable
-αἰσχρότης|noun|αἰσχρός|1. shamefulness, i.e. obscenity
-αἰσχύνη|noun|αἰσχύνομαι|1. shame, disgrace
-αἰσχύνομαι|verb|---|1. to feel shame (for oneself)
-αἰτέω|verb|---|1. to ask
+αἰσχρολογία|noun|λόγος|1. vile, disgraceful conversation
+αἰσχρόν|adjective|αἰσχρός|1. a shameful thing, i.e. of improper conduct
+αἰσχρός|adjective|---|1. shameful, disgraceful, i.e. base 2. (specially) venal, i.e. bribable
+αἰσχρότης|noun|αἰσχρός|1. shamefulness, i.e. obscenity
+αἰσχύνη|noun|αἰσχύνομαι|1. shame, disgrace
+αἰσχύνομαι|verb|---|1. to feel shame (for oneself)
+αἰτέω|verb|---|1. to ask
 αἴτημα|noun|---|1. a thing asked 2. (abstractly) an asking
-αἰτία|noun|---|1. a cause (as if asked for) 2. (logically) a reason (motive, matter) 3. (legally) a crime (alleged or proved)
-αἰτίαμα|noun|αἰτία|1. a thing charged
+αἰτία|noun|---|1. a cause (as if asked for) 2. (logically) a reason (motive, matter) 3. (legally) a crime (alleged or proved)
+αἰτίωμα|noun|αἰτία|1. a thing charged
 αἴτιον|adjective|αἴτιος|1. a reason or crime
 αἴτιος|adjective|---|1. causative 2. (concretely) a causer (i.e. initiator)
-αἰφνίδιος|adjective|φαίνω|1. unexpected 2. (adverbially) suddenly
-αἰχμαλωσία|noun|αἰχμαλωτός|1. captivity
-αἰχμαλωτεύω|verb|αἰχμαλωτός|1. to capture
-αἰχμαλωτίζω|verb|αἰχμαλωτός|1. to make captive
-αἰχμαλωτός|noun|ἅλωσις|1. (properly) a prisoner of war 2. (genitive case) a captive
-αἰών|noun|---|1. (properly) an age 2. (by extension) perpetuity (also past) 3. (by implication) the world 4. (specially, Jewish) a Messianic period (present or future) 
-αἰώνιος|adjective|αἰών|1. perpetual (also used of past time, or past and future as well)
-ἀκαθαρσία|noun|ἀκάθαρτος|1. impurity (the quality)
-ἀκαθάρτης|noun|ἀκάθαρτος|1. impurity (the state)
-ἀκάθαρτος|adjective|καθαίρω|1. impure 2. (ceremonially, morally) lewd 3. (specially) demonic
-ἀκαιρέομαι|verb|καιρός|1. to be unseasonable, out of season 2. to be without or lacking occasion 3. (by implication) to fail of a proper occasion
-ἀκαίρως|adverb|καιρός|1. unseasonably 2. untimely
+αἰφνίδιος|adjective|φαίνω|1. unexpected 2. (adverbially) suddenly
+αἰχμαλωσία|noun|αἰχμαλωτός|1. captivity
+αἰχμαλωτεύω|verb|αἰχμαλωτός|1. to capture
+αἰχμαλωτίζω|verb|αἰχμαλωτός|1. to make captive
+αἰχμάλωτος|noun|ἅλωσις|1. (properly) a prisoner of war 2. (genitive case) a captive
+αἰών|noun|---|1. (properly) an age 2. (by extension) perpetuity (also past) 3. (by implication) the world 4. (specially, Jewish) a Messianic period (present or future) 
+αἰώνιος|adjective|αἰών|1. perpetual (also used of past time, or past and future as well)
+ἀκαθαρσία|noun|ἀκάθαρτος|1. impurity (the quality)
+ἀκαθάρτης|noun|ἀκάθαρτος|1. impurity (the state)
+ἀκάθαρτος|adjective|καθαίρω|1. impure 2. (ceremonially, morally) lewd 3. (specially) demonic
+ἀκαιρέομαι|verb|καιρός|1. to be unseasonable, out of season 2. to be without or lacking occasion 3. (by implication) to fail of a proper occasion
+ἀκαίρως|adverb|καιρός|1. unseasonably 2. untimely
 ἄκακος|adjective|κακός|1. not bad 2. (objectively) innocent 3. (subjectively) unsuspecting
 ἄκανθα|noun|---|1. a thorn
-ἀκάνθινος|adjective|ἄκανθα|1. thorny
+ἀκάνθινος|adjective|ἄκανθα|1. thorny
 ἄκαρπος|adjective|καρπός|1. barren
-ἀκατάγνωστος|adjective|καταγινώσκω|1. unblamable
-ἀκατακάλυπτος|adjective|κατά|1. unveiled
-ἀκατάκριτος|adjective|κατακρίνω|1. without (legal) trial
-ἀκατάλυτος|adjective|καταλύω|1. indissoluble 2. (figuratively) permanent
-ἀκατάπαυστος|adjective|καταπαύω|1. unrefraining
-ἀκαταστασία|noun|ἀκατάστατος|1. instability, i.e. disorder
-ἀκατάστατος|adjective|καθίστημι|1. inconstant
-ἀκατάσχετος|adjective|κατέχω|1. unrestrainable
-Ἀκελδαμά|Name Location|חֵלֶק|1. Akeldama, a place near Jerusalem
-ἀκέραιος|adjective|κεράννυμι|1. unmixed 2. (figuratively) innocent
-ἀκλινής|adjective|κλίνω|1. not leaning 2. (figuratively) firm
-ἀκμάζω|verb|---|1. to make a point 2. (figuratively) mature
-ἀκμήν|noun|---|1. (adverbially) just now, i.e. still
-ἀκοή|noun|ἀκούω|1. hearing
-ἀκολουθέω|verb|ἀκολουθέω|1. (properly) to be in the same way with, i.e. to accompany 2. (specially) to accompany as a disciple
-ἀκούω|verb|ἀκούω|1. to hear
-ἀκρασία|noun|ἀκράτης|1. want of self-restraint
-ἀκράτης|adjective|κράτος|1. powerless, i.e. without self-control
+ἀκατάγνωστος|adjective|καταγινώσκω|1. unblamable
+ἀκατακάλυπτος|adjective|κατά|1. unveiled
+ἀκατάκριτος|adjective|κατακρίνω|1. without (legal) trial
+ἀκατάλυτος|adjective|καταλύω|1. indissoluble 2. (figuratively) permanent
+ἀκατάπαυστος|adjective|καταπαύω|1. unrefraining
+ἀκαταστασία|noun|ἀκατάστατος|1. instability, i.e. disorder
+ἀκατάστατος|adjective|καθίστημι|1. inconstant
+ἀκατάσχετος|adjective|κατέχω|1. unrestrainable
+Ἀκελδαμά|Name Location|חֵלֶק|1. Akeldama, a place near Jerusalem
+ἀκέραιος|adjective|κεράννυμι|1. unmixed 2. (figuratively) innocent
+ἀκλινής|adjective|κλίνω|1. not leaning 2. (figuratively) firm
+ἀκμάζω|verb|---|1. to make a point 2. (figuratively) mature
+ἀκμήν|noun|---|1. (adverbially) just now, i.e. still
+ἀκοή|noun|ἀκούω|1. hearing
+ἀκολουθέω|verb|ἀκολουθέω|1. (properly) to be in the same way with, i.e. to accompany 2. (specially) to accompany as a disciple
+ἀκούω|verb|ἀκούω|1. to hear
+ἀκρασία|noun|ἀκράτης|1. want of self-restraint
+ἀκρατής|adjective|κράτος|1. powerless, i.e. without self-control
 ἄκρατος|adjective|κεράννυμι|1. undiluted
-ἀκρίβεια|noun|ἄκρον|1. exactness
-ἀκριβέστατος|adjective|ἄκρον|1. most exact
-ἀκριβέστερον|adverb|ἄκρον|1. (adverbially) more exactly
-ἀκριβόω|verb|ἄκρον|1. to be exact, i.e. ascertain
-ἀκριβώς|adverb|ἄκρον|1. exactly
-ἀκρίς|noun|ἄκρον|1. a locust
-ἀκροατήριον|noun|ἀκροατής|1. an audience-room, i.e. courtroom
-ἀκροατής|noun|ἀκούω|1. a hearer (merely)
-ἀκροβυστία|noun|ἄκρον|1. the foreskin 2. (by implication) an uncircumcised gentile 3. (figuratively) unregenerate state or person
+ἀκρίβεια|noun|ἄκρον|1. exactness
+ἀκριβέστατος|adjective|ἄκρον|1. most exact
+ἀκριβέστερον|adverb|ἄκρον|1. (adverbially) more exactly
+ἀκριβόω|verb|ἄκρον|1. to be exact, i.e. ascertain
+ἀκριβῶς|adverb|ἄκρον|1. exactly
+ἀκρίς|noun|ἄκρον|1. a locust
+ἀκροατήριον|noun|ἀκροατής|1. an audience-room, i.e. courtroom
+ἀκροατής|noun|ἀκούω|1. a hearer (merely)
+ἀκροβυστία|noun|ἄκρον|1. the foreskin 2. (by implication) an uncircumcised gentile 3. (figuratively) unregenerate state or person
 ἀκρογωνιαῖος|adjective|γωνία|1. belonging to the extreme corner
-ἀκροθίνιον|noun|ἄκρον|1. (properly, in the plural) the top of the heap 2. (by implication) best of the booty
+ἀκροθίνιον|noun|ἄκρον|1. (properly, in the plural) the top of the heap 2. (by implication) best of the booty
 ἄκρον|noun|---|1. the extremity
-Ἀκύλας|Name Person|---|1. Akulas, an Israelite
-ἀκυρόω|verb|κυρόω|1. to invalidate
-ἀκωλύτως|adverb|κωλύω|1. in an unhindered manner, i.e. freely
+Ἀκύλας|Name Person|---|1. Akulas, an Israelite
+ἀκυρόω|verb|κυρόω|1. to invalidate
+ἀκωλύτως|adverb|κωλύω|1. in an unhindered manner, i.e. freely
 ἄκων|adjective|ἑκών|1. unwilling, involuntary
-ἀλάβαστρον|noun|---|1. (properly) an "alabaster" box 2. (by extension) a perfume vase (of any material)
-ἀλαζονεία|noun|ἀλαζών|1. Empty boasting, mere bragging 2. (by implication) self-confidence
-ἀλαζών|noun|---|1. a boaster or braggart
-ἀλαλάζω|verb|---|1. to cry out loudly (vehemently), clamor 2. (by implication) to wail 3. (figuratively) to clang
-ἀλάλητος|adjective|λαλέω|1. unspeakable
+ἀλάβαστρον|noun|---|1. (properly) an "alabaster" box 2. (by extension) a perfume vase (of any material)
+ἀλαζονεία|noun|ἀλαζών|1. Empty boasting, mere bragging 2. (by implication) self-confidence
+ἀλαζών|noun|---|1. a boaster or braggart
+ἀλαλάζω|verb|---|1. to cry out loudly (vehemently), clamor 2. (by implication) to wail 3. (figuratively) to clang
+ἀλάλητος|adjective|λαλέω|1. unspeakable
 ἄλαλος|adjective|λαλέω|1. mute
 ἅλας|noun|ἅλς|1. salt 2. (figuratively) prudence (i.e. wisdom, sound judgement)
-αλείφω|verb|λιπαρός|1. to rub with oil (or perfumed oil or ointment)
-ἀλεκτοροφωνία|noun|φωνή|1. cock-crow 2. (figuratively) the third night-watch
-ἀλέκτωρ|noun|---|1. a cock or male fowl
-Ἀλεξανδρεύς|Name/g.|---|1. an Alexandreian or inhabitant of Alexandria
-Ἀλεξανδρίνος|adjective/g.|---|1. Alexandrine, or belonging to Alexandria
-Ἀλέξανδρος|Name Person|ἀνήρ|1. man-defender 2. Alexander, the name of three Israelites and one other man
+ἀλείφω|verb|λιπαρός|1. to rub with oil (or perfumed oil or ointment)
+ἀλεκτοροφωνία|noun|φωνή|1. cock-crow 2. (figuratively) the third night-watch
+ἀλέκτωρ|noun|---|1. a cock or male fowl
+Ἀλεξανδρεύς|Name/g.|---|1. an Alexandreian or inhabitant of Alexandria
+Ἀλεξανδρῖνος|adjective/g.|---|1. Alexandrine, or belonging to Alexandria
+Ἀλέξανδρος|Name Person|ἀνήρ|1. man-defender 2. Alexander, the name of three Israelites and one other man
 ἄλευρον|noun|---|1. flour
-ἀλήθεια|noun|ἀληθής|1. truth
-ἀληθεύω|verb|ἀληθής|1. to be true (in doctrine and profession)
-ἀληθής|adjective|λανθάνω|1. true (as not concealing)
-ἀληθινός|adjective|ἀληθής|1. truthful
-ἀλήθω|verb|---|1. to grind
+ἀλήθεια|noun|ἀληθής|1. truth
+ἀληθεύω|verb|ἀληθής|1. to be true (in doctrine and profession)
+ἀληθής|adjective|λανθάνω|1. true (as not concealing)
+ἀληθινός|adjective|ἀληθής|1. truthful
+ἀλήθω|verb|---|1. to grind
 ἀληθῶς|adverb|ἀληθής|1. truly
-ἁλιεύς|noun|ἅλς|1. a sailor (as engaged on the salt water) 2. (by implication) a fisher
-ἁλιεύω|verb|ἁλιεύς|1. to be a fisher 2. (by implication) to fish
-ἁλίζω|verb|ἅλς|1. to salt
-ἀλίσγεμα|noun|---|1. (ceremonially) defilement
-ἀλλά|conjunction|ἄλλος|1. (properly) other things 2. (adverbially) contrariwise (in many relations)
-ἀλλάσσω|verb|ἄλλος|1. to change, transform, make different
-ἀλλαχόθεν|adverb|ἄλλος|1. from elsewhere
-ἀλληγορέω|verb|ἄλλος|1. to allegorize, make into a allegory
-ἀλληλουϊα|Hebrew|הָלַל|1. praise ye Jah!, an adoring exclamation
-ἀλλήλων|p/c|ἄλλος|1. one another
-ἀλλογενής|adjective|γένος|1. foreign, i.e. not a Jew
+ἁλιεύς|noun|ἅλς|1. a sailor (as engaged on the salt water) 2. (by implication) a fisher
+ἁλιεύω|verb|ἁλιεύς|1. to be a fisher 2. (by implication) to fish
+ἁλίζω|verb|ἅλς|1. to salt
+ἀλίσγημα|noun|---|1. (ceremonially) defilement
+ἀλλά|conjunction|ἄλλος|1. (properly) other things 2. (adverbially) contrariwise (in many relations)
+ἀλλάσσω|verb|ἄλλος|1. to change, transform, make different
+ἀλλαχόθεν|adverb|ἄλλος|1. from elsewhere
+ἀλληγορέω|verb|ἄλλος|1. to allegorize, make into a allegory
+Ἁλληλούϊα|Hebrew|הָלַל|1. praise ye Jah!, an adoring exclamation
+ἀλλήλων|p/c|ἄλλος|1. one another
+ἀλλογενής|adjective|γένος|1. foreign, i.e. not a Jew
 ἅλλομαι|verb|---|1. to jump 2. (figuratively) to gush
 ἄλλος|adjective|---|1. "else," i.e. different
-ἀλλοτριεπίσκοπος|noun|ἐπίσκοπος|1. overseeing others' affairs, i.e. a meddler (specially, in Gentile customs)
-ἀλλότριος|adjective|ἄλλος|1. another's, i.e. not one's own 2. (by extension) foreign, not akin, hostile
-ἀλλόφυλος|adjective|φυλή|1. foreign 2. (specially) Gentile
+ἀλλοτριοεπίσκοπος|noun|ἐπίσκοπος|1. overseeing others' affairs, i.e. a meddler (specially, in Gentile customs)
+ἀλλότριος|adjective|ἄλλος|1. another's, i.e. not one's own 2. (by extension) foreign, not akin, hostile
+ἀλλόφυλος|adjective|φυλή|1. foreign 2. (specially) Gentile
 ἄλλως|adverb|ἄλλος|1. differently
-ἀλοάω|verb|εἱλίσσω|1. to tread out grain
+ἀλοάω|verb|εἱλίσσω|1. to tread out grain
 ἄλογος|adjective|λόγος|1. irrational
-ἀλοή|noun|---|1. aloes (the gum)
+ἀλόη|noun|---|1. aloes (the gum)
 ἅλς|noun|---|1. "salt"
-ἁλυκός|adjective|ἅλς|1. briny
-ἀλυπότερος|adjective|λύπη|1. more without grief
+ἁλυκός|adjective|ἅλς|1. briny
+ἄλυπος|adjective|λύπη|1. more without grief
 ἅλυσις|noun|---|1. a fetter or manacle
-ἀλυσιτελής|adjective|λυσιτελεῖ|1. unprofitable, gainless 2. (by implication) exceedingly injurious, malicious, destructive, or deadly
-Ἀλφαῖος|Name Person|---|1. Alphoeus, an Israelite
+ἀλυσιτελής|adjective|λυσιτελεῖ|1. unprofitable, gainless 2. (by implication) exceedingly injurious, malicious, destructive, or deadly
+Ἀλφαίος|Name Person|---|1. Alphoeus, an Israelite
 ἅλων|noun|εἱλίσσω|1. a threshing-floor (as rolled hard) 2. (figuratively) the grain (and chaff, as just threshed)
-ἀλώπηξ|noun|---|1. a fox 2. (figuratively) a cunning person
+ἀλώπηξ|noun|---|1. a fox 2. (figuratively) a cunning person
 ἅλωσις|noun|αἱρέομαι|1. capture
 ἅμα|adverb|---|1. (properly) at the "same" time
-ἀμαθής|adjective|μανθάνω|1. ignorant
-ἀμαράντινος|adjective|ἀμάραντος|1. "amaranthine", a flower that never withers or fades 2. (by implication) fadeless, everlasting
-ἀμάραντος|adjective|μαραίνω|1. unfading 2. (by implication) perpetual
-ἁμαρτάνω|verb|μέρος|1. (properly) to miss the mark (and so not share in the prize) 2. (figuratively) to err 3. (especially, morally) to sin
-ἁμάρτημα|noun|ἁμαρτάνω|1. a sin
-ἁμαρτία|noun|ἁμαρτάνω|1. a sin
-ἀμάρτυρος|adjective|μάρτυς|1. unattested
-ἁμαρτωλός|adjective|ἁμαρτάνω|1. sinful, i.e. a sinner
+ἀμαθής|adjective|μανθάνω|1. ignorant
+ἀμαράντινος|adjective|ἀμάραντος|1. "amaranthine", a flower that never withers or fades 2. (by implication) fadeless, everlasting
+ἀμάραντος|adjective|μαραίνω|1. unfading 2. (by implication) perpetual
+ἁμαρτάνω|verb|μέρος|1. (properly) to miss the mark (and so not share in the prize) 2. (figuratively) to err 3. (especially, morally) to sin
+ἁμάρτημα|noun|ἁμαρτάνω|1. a sin
+ἁμαρτία|noun|ἁμαρτάνω|1. a sin
+ἀμάρτυρος|adjective|μάρτυς|1. unattested
+ἁμαρτωλός|adjective|ἁμαρτάνω|1. sinful, i.e. a sinner
 ἄμαχος|adjective|μάχη|1. peaceable
-ἀμάω|verb|ἅμα|1. (properly) to collect 2. (by implication) reap
-ἀμέθυστος|noun|μεθύω|1. the "amethyst" (supposed to prevent intoxication)
-ἀμελέω|verb|μέλω|1. to be careless of
+ἀμάω|verb|ἅμα|1. (properly) to collect 2. (by implication) reap
+ἀμέθυστος|noun|μεθύω|1. the "amethyst" (supposed to prevent intoxication)
+ἀμελέω|verb|μέλω|1. to be careless of
 ἄμεμπτος|adjective|μέμφομαι|1. irreproachable
-ἀμέμπτως|adverb|ἄμεμπτος|1. faultlessly
-ἀμέριμνος|adjective|μέριμνα|1. not anxious
-ἀμετάθετος|adjective|μετατίθημι|1. unchangeable 2. (neuter as abstract) unchangeability
-ἀμετακίνητος|adjective|μετακινέω|1. immovable
-ἀμεταμέλητος|adjective|μεταμέλλομαι|1. irrevocable
-ἀμετανόητος|adjective|μετανοέω|1. unrepentant
+ἀμέμπτως|adverb|ἄμεμπτος|1. faultlessly
+ἀμέριμνος|adjective|μέριμνα|1. not anxious
+ἀμετάθετος|adjective|μετατίθημι|1. unchangeable 2. (neuter as abstract) unchangeability
+ἀμετακίνητος|adjective|μετακινέω|1. immovable
+ἀμεταμέλητος|adjective|μεταμέλλομαι|1. irrevocable
+ἀμετανόητος|adjective|μετανοέω|1. unrepentant
 ἄμετρος|adjective|μέτρον|1. immoderate
-ἀμήν|Hebrew|אָמֵן|1. (properly) firm 2. (figuratively) trustworthy 3. (adverbially) surely 4. (often as interjection) so be it
-ἀμήτωρ|adjective|μήτηρ|1. motherless, i.e. of unknown maternity
-ἀμίαντος|adjective|μιαίνω|1. unsoiled 2. (figuratively) pure
-Ἀμιναδάβ|Name Person|עַמִּינָדָב|1. Aminadab, an Israelite
+ἀμήν|Hebrew|אָמֵן|1. (properly) firm 2. (figuratively) trustworthy 3. (adverbially) surely 4. (often as interjection) so be it
+ἀμήτωρ|adjective|μήτηρ|1. motherless, i.e. of unknown maternity
+ἀμίαντος|adjective|μιαίνω|1. unsoiled 2. (figuratively) pure
+Ἀμιναδάβ|Name Person|עַמִּינָדָב|1. Aminadab, an Israelite
 ἄμμος|noun|ἅμα|1. sand (as heaped on the beach)
-ἀμνός|noun|---|1. a lamb
-ἀμοιβή|noun|---|1. compensate
+ἀμνός|noun|---|1. a lamb
+ἀμοιβή|noun|---|1. compensate
 ἄμπελος|noun|ἅλων|1. a vine (as coiling about a support)
-ἀμπελουργός|adjective|ἔργον|1. a vine-worker, i.e. pruner
-ἀμπελών|noun|ἄμπελος|1. a vineyard
-Ἀμπλίας|Name Person|---|1. Amplias, a Roman Christian
-αμύνομαι|verb|---|1. to ward off (for oneself), i.e. protect
-ἀμφίβληστρον|noun|βάλλω|1. a (fishing) net (as thrown about the fish)
-ἀμφιέννυμι|verb|ἀμφότερος|1. to enrobe
-Ἀμφίπολις|Name Location|πόλις|1. a city surrounded by a river 2. Amphipolis, a place in Macedonia
+ἀμπελουργός|adjective|ἔργον|1. a vine-worker, i.e. pruner
+ἀμπελών|noun|ἄμπελος|1. a vineyard
+Ἀμπλίας|Name Person|---|1. Amplias, a Roman Christian
+ἀμύνομαι|verb|---|1. to ward off (for oneself), i.e. protect
+ἀμφίβληστρον|noun|βάλλω|1. a (fishing) net (as thrown about the fish)
+ἀμφιέννυμι|verb|ἀμφότερος|1. to enrobe
+Ἀμφίπολις|Name Location|πόλις|1. a city surrounded by a river 2. Amphipolis, a place in Macedonia
 ἄμφοδον|noun|ὁδός|1. a fork in the road
-ἀμφότερος|adjective|---|1. (in plural) both
-ἀμώμητος|adjective|μωμάομαι|1. unblamable
+ἀμφότεροι|adjective|---|1. (in plural) both
+ἀμώμητος|adjective|μωμάομαι|1. unblamable
 ἄμωμος|adjective|μῶμος|1. unblemished
-Ἀμών|Name Person|אָמוֹן|1. Amon, an Israelite
-Ἀμώς|Name Person|אָמוֹץ|1. Amos, an Israelite
+Ἀμών|Name Person|אָמוֹן|1. Amon, an Israelite
+Ἀμώς|Name Person|אָמוֹץ|1. Amos, an Israelite
 ἄν|particle|---|1. denoting a supposition, wish, possibility or uncertainty
-ἀνά|preposition|---|1. (properly) up 2. (by extension, used distributively) severally or amidst, etc. 3. (by implication, as a prefix) (it often means) repetition, intensity, reversal, etc
-ἀναβαθμός|noun|ἀναβαίνω|1. a stairway
-ἀναβαίνω|verb|βάσις|1. to go up
-ἀναβάλλομαι|verb|βάλλω|1. to put off (for oneself)
-ἀναβιβάζω|verb|βάσις|1. to cause to go up, i.e. haul (a net)
-ἀναβλέπω|verb|βλέπω|1. to look up 2. (by implication) to recover sight
-ἀνάβλεψις|noun|ἀναβλέπω|1. restoration of sight
-ἀναβοάω|verb|βοάω|1. to raise a cry
-ἀναβολή|noun|ἀναβάλλομαι|1. a putting off
-ἀναγγέλλω|verb|ἄγγελος|1. to announce (in detail)
-ἀναγεννάω|verb|γεννάω|1. to beget 2. (by extension) to bear (again)
-ἀναγινώσκω|verb|γινώσκω|1. to know again 2. (by extension) to read
-ἀναγκάζω|verb|ἀναγκή|1. to necessitate
+ἀνά|preposition|---|1. (properly) up 2. (by extension, used distributively) severally or amidst, etc. 3. (by implication, as a prefix) (it often means) repetition, intensity, reversal, etc
+ἀναβαθμός|noun|ἀναβαίνω|1. a stairway
+ἀναβαίνω|verb|βάσις|1. to go up
+ἀναβάλλω|verb|βάλλω|1. to put off (for oneself)
+ἀναβιβάζω|verb|βάσις|1. to cause to go up, i.e. haul (a net)
+ἀναβλέπω|verb|βλέπω|1. to look up 2. (by implication) to recover sight
+ἀνάβλεψις|noun|ἀναβλέπω|1. restoration of sight
+ἀναβοάω|verb|βοάω|1. to raise a cry
+ἀναβολή|noun|ἀναβάλλομαι|1. a putting off
+ἀναγγέλλω|verb|ἄγγελος|1. to announce (in detail)
+ἀναγεννάω|verb|γεννάω|1. to beget 2. (by extension) to bear (again)
+ἀναγινώσκω|verb|γινώσκω|1. to know again 2. (by extension) to read
+ἀναγκάζω|verb|ἀναγκή|1. to necessitate
 ἀναγκαῖος|adjective|ἀναγκή|1. necessary 2. (by implication) close (of kin)
 ἀναγκαστῶς|adverb|ἀναγκάζω|1. compulsorily
-ἀναγκή|noun|ἀγκάλη|1. constraint 2. (by implication) distress
-ἀναγνωρίζομαι|verb|γνωρίζω|1. to make (oneself) known
-ἀνάγνωσις|noun|ἀναγινώσκω|1. (the act of) reading
-ἀνάγω|verb|ἄγω|1. to lead up 2. (by extension) to bring out 3. (specially) to sail away
-ἀναδείκνυμι|verb|δεικνύω|1. to exhibit 2. (by implication) to indicate, appoint
-ἀνάδειξις|noun|ἀναδείκνυμι|1. (the act of) exhibition
-ἀναδέχομαι|verb|δέχομαι|1. to entertain (as a guest)
-ἀναδίδωμι|verb|δίδωμι|1. to hand over
-ἀναζάω|verb|ζάω|1. to recover life
-ἀναζητέω|verb|ζητέω|1. to search out
-ἀναζώννυμι|verb|---|1. to gird afresh
-ἀναζωπυρέω|verb|ζῶον|1. to re-enkindle
-ἀναθάλλω|verb|---|1. to revive
-ἀνάθεμα|noun|ἀνατίθεμαι|1. a (religious) ban 2. (concretely) excommunicated (thing or person)
-ἀναθεματίζω|verb|ἀνάθεμα|1. to bind with a vow under penalty of curse and damnation
-ἀναθεωρέω|verb|θεωρέω|1. to look again at (i.e. attentively)
-ἀνάθημα|noun|ἀνάθεμα|1. a offering in fulfillment of a vow (a votive offering)
-ἀναίδεια|noun|αἰδώς|1. impudence 2. (by implication) importunity
-ἀναίρεσις|noun|ἀναιρέω|1. execution, the act of killing
-ἀναιρέω|verb|αἱρέομαι|1. to take up 2. (by implication) to take away 3. (violently) to eliminate, to abolish, to murder 4. (of government) to execute
-ἀναίτιος|adjective|αἴτιος|1. innocent
-ἀνακαθίζω|verb|καθίζω|1. (properly) to set up 2. (reflexively) to sit up
-ἀνακαινίζω|verb|καινός|1. to restore
-ἀνακαινόω|verb|καινός|1. to renovate
-ἀνακαίνωσις|noun|ἀνακαινόω|1. renovation
-ἀνακαλύπτω|verb|καλύπτω|1. to unveil
-ἀνακάμπτω|verb|κάμπτω|1. to turn back
-ἀνακεῖμαι|verb|κεῖμαι|1. to recline at a meal (or as a corpse)
-ἀνακεφαλαίομαι|verb|κεφαλαιόω|1. to sum up
-ἀνακλίνω|verb|κλίνω|1. to lean back 2. to recline
-ἀνακόπτω|verb|κόπτω|1. to beat back, i.e. check
-ἀνακράζω|verb|κράζω|1. to scream out 2. (literally) to scream up
-ἀνακρίνω|verb|κρίνω|1. (properly) to scrutinize 2. (by implication) investigate, interrogate, determine
-ἀνάκρισις|noun|ἀνακρίνω|1. a (judicial) investigation
-ἀνακύπτω|verb|κύπτω|1. to unbend, i.e. rise 2. (figuratively) be elated
-ἀναλαμβάνω|verb|λαμβάνω|1. to take up
-ἀνάληψις|noun|ἀναλαμβάνω|1. ascension
-ἀναλίσκω|verb|αἱρέομαι|1. (properly) to use up, i.e. destroy
-ἀναλογία|noun|λόγος|1. proportion
-ἀναλογίζομαι|verb|ἀναλογία|1. to estimate 2. (figuratively) contemplate
+ἀνάγκη|noun|ἀγκάλη|1. constraint 2. (by implication) distress
+ἀναγνωρίζω|verb|γνωρίζω|1. to make (oneself) known
+ἀνάγνωσις|noun|ἀναγινώσκω|1. (the act of) reading
+ἀνάγω|verb|ἄγω|1. to lead up 2. (by extension) to bring out 3. (specially) to sail away
+ἀναδείκνυμι|verb|δεικνύω|1. to exhibit 2. (by implication) to indicate, appoint
+ἀνάδειξις|noun|ἀναδείκνυμι|1. (the act of) exhibition
+ἀναδέχομαι|verb|δέχομαι|1. to entertain (as a guest)
+ἀναδίδωμι|verb|δίδωμι|1. to hand over
+ἀναζάω|verb|ζάω|1. to recover life
+ἀναζητέω|verb|ζητέω|1. to search out
+ἀναζώννυμι|verb|---|1. to gird afresh
+ἀναζωπυρέω|verb|ζῶον|1. to re-enkindle
+ἀναθάλλω|verb|---|1. to revive
+ἀνάθεμα|noun|ἀνατίθεμαι|1. a (religious) ban 2. (concretely) excommunicated (thing or person)
+ἀναθεματίζω|verb|ἀνάθεμα|1. to bind with a vow under penalty of curse and damnation
+ἀναθεωρέω|verb|θεωρέω|1. to look again at (i.e. attentively)
+ἀνάθημα|noun|ἀνάθεμα|1. a offering in fulfillment of a vow (a votive offering)
+ἀναίδεια|noun|αἰδώς|1. impudence 2. (by implication) importunity
+ἀναίρεσις|noun|ἀναιρέω|1. execution, the act of killing
+ἀναιρέω|verb|αἱρέομαι|1. to take up 2. (by implication) to take away 3. (violently) to eliminate, to abolish, to murder 4. (of government) to execute
+ἀναίτιος|adjective|αἴτιος|1. innocent
+ἀνακαθίζω|verb|καθίζω|1. (properly) to set up 2. (reflexively) to sit up
+ἀνακαινίζω|verb|καινός|1. to restore
+ἀνακαινόω|verb|καινός|1. to renovate
+ἀνακαίνωσις|noun|ἀνακαινόω|1. renovation
+ἀνακαλύπτω|verb|καλύπτω|1. to unveil
+ἀνακάμπτω|verb|κάμπτω|1. to turn back
+ἀνάκειμαι|verb|κεῖμαι|1. to recline at a meal (or as a corpse)
+ἀνακεφαλαιόω|verb|κεφαλαιόω|1. to sum up
+ἀνακλίνω|verb|κλίνω|1. to lean back 2. to recline
+ἀνακόπτω|verb|κόπτω|1. to beat back, i.e. check
+ἀνακράζω|verb|κράζω|1. to scream out 2. (literally) to scream up
+ἀνακρίνω|verb|κρίνω|1. (properly) to scrutinize 2. (by implication) investigate, interrogate, determine
+ἀνάκρισις|noun|ἀνακρίνω|1. a (judicial) investigation
+ἀνακύπτω|verb|κύπτω|1. to unbend, i.e. rise 2. (figuratively) be elated
+ἀναλαμβάνω|verb|λαμβάνω|1. to take up
+ἀνάληψις|noun|ἀναλαμβάνω|1. ascension
+ἀναλίσκω|verb|αἱρέομαι|1. (properly) to use up, i.e. destroy
+ἀναλογία|noun|λόγος|1. proportion
+ἀναλογίζομαι|verb|ἀναλογία|1. to estimate 2. (figuratively) contemplate
 ἄναλος|adjective|ἅλς|1. unsalty, saltless 2. (by implication) lacking taste, insipid 3. (figuratively) lacking life, lifeless
-ἀνάλυσις|noun|ἀναλύω|1. departure
-ἀναλύω|verb|λύω|1. to break up, i.e. depart
-ἀναμάρτητος|adjective|ἁμαρτάνω|1. sinless
-ἀναμένω|verb|μένω|1. to patiently await
-ἀναμιμνήσκω|verb|μιμνήσκω|1. to remind and admonish 2. (reflexively) to remember and consider
-ἀνάμνησις|noun|ἀναμιμνήσκω|1. recollection
-ἀνανεόω|verb|νέος|1. to renew, renovate, i.e. reform
-ἀνανήφω|verb|νήφω|1. to become sober again 2. (figuratively) regain (one's) senses
-Ἀνανίας|Name Person|חֲנַניָהוּ|1. Ananias, the name of three Israelites
-ἀναντίρῥητος|adjective|ἀντί|1. indisputable, without dispute
-ἀναντιρῥήτως|adverb|ἀναντίρῥητος|1. without disputing
-ἀνάξιος|adjective|ἄξιος|1. (properly) of dissimilar weight or value 2. (comparatively) unworthy, undeserving (of good or bad) 3. (by implication) unfit, unsuitable (as if drawing a rebuke)
-ἀναξίως|adverb|ἀνάξιος|1. (properly) weighing or valuing differently 2. (comparatively) unworthily, undeservingly 3. (by implication) unsuitably, unfitly
-ἀνάπαυσις|noun|ἀναπαύω|1. intermission 2. (by implication) recreation
-ἀναπαύω|verb|παύω|1. (reflexively) to repose, to rest 2. (literally or figuratively) to be exempt, to remain 3. (by implication) to refresh
-ἀναπείθω|verb|πείθω|1. to incite
-ἀναπέμπω|verb|πέμπω|1. to send back 2. (literally) to send up
-ἀνάπηρος|adjective|---|1. crippled
-ἀναπίπτω|verb|πίπτω|1. to fall back, i.e. lie down, lean back
-ἀναπληρόω|verb|πληρόω|1. to very fully complete 2. (by implication) to very fully occupy, supply 3. (figuratively) to very fully accomplish (by coincidence or obedience)
-ἀναπολόγητος|adjective|ἀπολογέομαι|1. unjustifiable, indefensible, inexcusable
-ἀναπτύσσω|verb|πτύσσω|1. to unroll (a scroll or volume)
-ἀνάπτω|verb|ἅπτω|1. to enkindle
-ἀναρίθμητος|adjective|ἀριθμέω|1. unnumbered, i.e. without number
-ἀνασείω|verb|σείω|1. to shake up 2. (figuratively) to excite
-ἀνασκευάζω|verb|σκεῦος|1. (properly) to pack up (baggage) 2. (by implication, and figuratively) to upset
-ἀνασπάω|verb|σπάω|1. to draw out 2. (literally) to draw up
-ἀνάστασις|noun|ἵστημι|1. a standing up again 2. (literally) a resurrection from death 3. (individual, genitive case or by implication) its author 4. (figuratively) a recovery or moral recovery of spiritual truth
-ἀναστατόω|verb|ἵστημι|1. (properly) to drive out of home 2. (by implication) to disturb
-ἀνασταυρόω|verb|σταυρόω|1. to recrucify (figuratively)
-ἀναστενάζω|verb|στενάζω|1. to sigh deeply
-ἀναστρέφω|verb|στρέφω|1. to overturn 2. also, to return 3. (by implication) to busy oneself, i.e. remain, live
-ἀναστροφή|noun|ἀναστρέφω|1. behavior
-ἀνατάσσομαι|verb|τάσσω|1. to compose (in a very orderly manner)
-ἀνατέλλω|verb|τέλος|1. to (cause to) arise
-ἀνατίθεμαι|verb|τίθημι|1. to set forth (for oneself), i.e propound, declare
-ἀνατολή|noun|ἀνατέλλω|1. a rising of light 2. (figuratively) dawn 3. (by implication) the east (also in plural)
-ἀνατρέπω|verb|τροπή|1. to upturn 2. (figuratively) to overturn (subvert)
-ἀνατρέφω|verb|τρέφω|1. to rear (a child)
-ἀναφαίνω|verb|φαίνω|1. to show 2. (reflexively) appear 3. (passively) to have pointed out
-ἀναφέρω|verb|φέρω|1. to bear up, carry up
-ἀναφωνέω|verb|φωνέω|1. to speak out, exclaim
-ἀνάχυσις|noun|---|1. (properly) effusion 2. (figuratively) license
-ἀναχωρέω|verb|χωρέω|1. to depart
-ἀνάψυξις|noun|ἀναψύχω|1. (properly) a recovery of breath 2. (figuratively) revival
-ἀναψύχω|verb|ψύχω|1. (properly) to cool off 2. (figuratively) to relieve
-ἀνδραποδιστής|noun|πούς|1. an enslaver (as bringing men to his feet)
-Ἀνδρέας|Name Person|ἀνήρ|1. manly 2. Andreas, an Israelite
-ἀνδρίζομαι|verb|ἀνήρ|1. to act manly
-Ἀνδρόνικος|Name Person|νίκος|1. man of victory 2. Andronicos, an Israelite
-ἀνδροφόνος|noun|φόνος|1. a manslayer, i.e. a murderer
-ἀνέγκλητος|adjective|ἐγκαλέω|1. unaccused 2. (by implication) irreproachable, blameless
-ἀνεκδιήγητος|adjective|ἐκδιηγέομαι|1. not expounded in full, i.e. indescribable
-ἀνεκλάλητος|adjective|ἐκλαλέω|1. not spoken out 2. (by implication) unutterable
-ἀνέκλειπτος|adjective|ἐκλείπω|1. not left out 2. (by implication) inexhaustible
-ἀνεκτότερος|adjective|ἀνέχομαι|1. more endurable
-ἀνελεήμων|adjective|ἐλεήμων|1. merciless
-ἀνεμίζω|verb|ἄνεμος|1. to toss with the wind
+ἀνάλυσις|noun|ἀναλύω|1. departure
+ἀναλύω|verb|λύω|1. to break up, i.e. depart
+ἀναμάρτητος|adjective|ἁμαρτάνω|1. sinless
+ἀναμένω|verb|μένω|1. to patiently await
+ἀναμιμνήσκω|verb|μιμνήσκω|1. to remind and admonish 2. (reflexively) to remember and consider
+ἀνάμνησις|noun|ἀναμιμνήσκω|1. recollection
+ἀνανεόω|verb|νέος|1. to renew, renovate, i.e. reform
+ἀνανήφω|verb|νήφω|1. to become sober again 2. (figuratively) regain (one's) senses
+Ἀνανίας|Name Person|חֲנַניָהוּ|1. Ananias, the name of three Israelites
+ἀναντίρρητος|adjective|ἀντί|1. indisputable, without dispute
+ἀναντιρρήτως|adverb|ἀναντίρῥητος|1. without disputing
+ἀνάξιος|adjective|ἄξιος|1. (properly) of dissimilar weight or value 2. (comparatively) unworthy, undeserving (of good or bad) 3. (by implication) unfit, unsuitable (as if drawing a rebuke)
+ἀναξίως|adverb|ἀνάξιος|1. (properly) weighing or valuing differently 2. (comparatively) unworthily, undeservingly 3. (by implication) unsuitably, unfitly
+ἀνάπαυσις|noun|ἀναπαύω|1. intermission 2. (by implication) recreation
+ἀναπαύω|verb|παύω|1. (reflexively) to repose, to rest 2. (literally or figuratively) to be exempt, to remain 3. (by implication) to refresh
+ἀναπείθω|verb|πείθω|1. to incite
+ἀναπέμπω|verb|πέμπω|1. to send back 2. (literally) to send up
+ἀνάπηρος|adjective|---|1. crippled
+ἀναπίπτω|verb|πίπτω|1. to fall back, i.e. lie down, lean back
+ἀναπληρόω|verb|πληρόω|1. to very fully complete 2. (by implication) to very fully occupy, supply 3. (figuratively) to very fully accomplish (by coincidence or obedience)
+ἀναπολόγητος|adjective|ἀπολογέομαι|1. unjustifiable, indefensible, inexcusable
+ἀναπτύσσω|verb|πτύσσω|1. to unroll (a scroll or volume)
+ἀνάπτω|verb|ἅπτω|1. to enkindle
+ἀναρίθμητος|adjective|ἀριθμέω|1. unnumbered, i.e. without number
+ἀνασείω|verb|σείω|1. to shake up 2. (figuratively) to excite
+ἀνασκευάζω|verb|σκεῦος|1. (properly) to pack up (baggage) 2. (by implication, and figuratively) to upset
+ἀνασπάω|verb|σπάω|1. to draw out 2. (literally) to draw up
+ἀνάστασις|noun|ἵστημι|1. a standing up again 2. (literally) a resurrection from death 3. (individual, genitive case or by implication) its author 4. (figuratively) a recovery or moral recovery of spiritual truth
+ἀναστατόω|verb|ἵστημι|1. (properly) to drive out of home 2. (by implication) to disturb
+ἀνασταυρόω|verb|σταυρόω|1. to recrucify (figuratively)
+ἀναστενάζω|verb|στενάζω|1. to sigh deeply
+ἀναστρέφω|verb|στρέφω|1. to overturn 2. also, to return 3. (by implication) to busy oneself, i.e. remain, live
+ἀναστροφή|noun|ἀναστρέφω|1. behavior
+ἀνατάσσομαι|verb|τάσσω|1. to compose (in a very orderly manner)
+ἀνατέλλω|verb|τέλος|1. to (cause to) arise
+ἀνατίθημι|verb|τίθημι|1. to set forth (for oneself), i.e propound, declare
+ἀνατολή|noun|ἀνατέλλω|1. a rising of light 2. (figuratively) dawn 3. (by implication) the east (also in plural)
+ἀνατρέπω|verb|τροπή|1. to upturn 2. (figuratively) to overturn (subvert)
+ἀνατρέφω|verb|τρέφω|1. to rear (a child)
+ἀναφαίνω|verb|φαίνω|1. to show 2. (reflexively) appear 3. (passively) to have pointed out
+ἀναφέρω|verb|φέρω|1. to bear up, carry up
+ἀναφωνέω|verb|φωνέω|1. to speak out, exclaim
+ἀνάχυσις|noun|---|1. (properly) effusion 2. (figuratively) license
+ἀναχωρέω|verb|χωρέω|1. to depart
+ἀνάψυξις|noun|ἀναψύχω|1. (properly) a recovery of breath 2. (figuratively) revival
+ἀναψύχω|verb|ψύχω|1. (properly) to cool off 2. (figuratively) to relieve
+ἀνδραποδιστής|noun|πούς|1. an enslaver (as bringing men to his feet)
+Ἀνδρέας|Name Person|ἀνήρ|1. manly 2. Andreas, an Israelite
+ἀνδρίζομαι|verb|ἀνήρ|1. to act manly
+Ἀνδρόνικος|Name Person|νίκος|1. man of victory 2. Andronicos, an Israelite
+ἀνδροφόνος|noun|φόνος|1. a manslayer, i.e. a murderer
+ἀνέγκλητος|adjective|ἐγκαλέω|1. unaccused 2. (by implication) irreproachable, blameless
+ἀνεκδιήγητος|adjective|ἐκδιηγέομαι|1. not expounded in full, i.e. indescribable
+ἀνεκλάλητος|adjective|ἐκλαλέω|1. not spoken out 2. (by implication) unutterable
+ἀνέκλειπτος|adjective|ἐκλείπω|1. not left out 2. (by implication) inexhaustible
+ἀνεκτός|adjective|ἀνέχομαι|1. more endurable
+ἀνελεήμων|adjective|ἐλεήμων|1. merciless
+ἀνεμίζω|verb|ἄνεμος|1. to toss with the wind
 ἄνεμος|noun|ἀήρ|1. wind 2. (plural, by implication) the four quarters of the earth (north, south, east, and west)
-ἀνένδεκτος|adjective|ἐνδέχεται|1. unadmitted 2. (by implication) not supposable
-ἀνεξερεύνητος|adjective|ἐξερευνάω|1. not searched out 2. (by implication) inscrutable
-ἀνεξίκακος|adjective|κακός|1. enduring of ill, i.e. forbearing
-ἀνεξιχνίαστος|adjective|ἐκ|1. not tracked out 2. (by implication) untraceable
-ἀνεπαίσχυντος|adjective|ἐπί|1. not ashamed, i.e. irreprehensible
-ἀνεπίληπτος|adjective|ἐπιλαμβάνομαι|1. not arrested 2. (by implication) inculpable
-ἀνέρχομαι|verb|ἔρχομαι|1. to ascend
+ἀνένδεκτος|adjective|ἐνδέχεται|1. unadmitted 2. (by implication) not supposable
+ἀνεξερεύνητος|adjective|ἐξερευνάω|1. not searched out 2. (by implication) inscrutable
+ἀνεξίκακος|adjective|κακός|1. enduring of ill, i.e. forbearing
+ἀνεξιχνίαστος|adjective|ἐκ|1. not tracked out 2. (by implication) untraceable
+ἀνεπαίσχυντος|adjective|ἐπί|1. not ashamed, i.e. irreprehensible
+ἀνεπίληπτος|adjective|ἐπιλαμβάνομαι|1. not arrested 2. (by implication) inculpable
+ἀνέρχομαι|verb|ἔρχομαι|1. to ascend
 ἄνεσις|noun|ἀνίημι|1. relaxation 2. (figuratively) relief
-ἀνετάζω|verb|---|1. to investigate (judicially)
+ἀνετάζω|verb|---|1. to investigate (judicially)
 ἄνευ|preposition|---|1. without
-ἀνεύθετος|adjective|εὔθετος|1. not well placed 2. (figuratively) inappropriate
-ἀνευρίσκω|verb|εὑρίσκω|1. to find out
-ἀνέχομαι|verb|ἔχω|1. to hold oneself up against 2. (figuratively) put up with
-ἀνέψιος|noun|---|1. (properly) akin 2. (specially) a cousin
+ἀνεύθετος|adjective|εὔθετος|1. not well placed 2. (figuratively) inappropriate
+ἀνευρίσκω|verb|εὑρίσκω|1. to find out
+ἀνέχομαι|verb|ἔχω|1. to hold oneself up against 2. (figuratively) put up with
+ἀνεψιός|noun|---|1. (properly) akin 2. (specially) a cousin
 ἄνηθον|noun|---|1. dill
-ἀνήκω|verb|ἥκω|1. to attain to 2. (figuratively) be proper
-ἀνήμερος|adjective|---|1. savage
-ἀνήρ|noun|---|1. (properly) a man, an individual male 2. (maritally) a husband
-ἀνθίστημι|verb|ἵστημι|1. to stand against, i.e. oppose
-ἀνθομολογέομαι|verb|ὁμολογέω|1. to confess in turn, i.e. respond in praise
+ἀνήκω|verb|ἥκω|1. to attain to 2. (figuratively) be proper
+ἀνήμερος|adjective|---|1. savage
+ἀνήρ|noun|---|1. (properly) a man, an individual male 2. (maritally) a husband
+ἀνθίστημι|verb|ἵστημι|1. to stand against, i.e. oppose
+ἀνθομολογέομαι|verb|ὁμολογέω|1. to confess in turn, i.e. respond in praise
 ἄνθος|noun|---|1. a blossom
-ἀνθρακιά|noun|ἄνθραξ|1. a bed of burning coals
+ἀνθρακιά|noun|ἄνθραξ|1. a bed of burning coals
 ἄνθραξ|noun|---|1. a live coal
-ἀνθρωπάρεσκος|adjective|ἀρέσκω|1. man-courting, i.e. fawning
-ἀνθρώπινος|adjective|ἄνθρωπος|1. human, mankind
-ἀνθρωποκτόνος|adjective|ἄνθρωπος|1. a manslayer
+ἀνθρωπάρεσκος|adjective|ἀρέσκω|1. man-courting, i.e. fawning
+ἀνθρώπινος|adjective|ἄνθρωπος|1. human, mankind
+ἀνθρωποκτόνος|adjective|ἄνθρωπος|1. a manslayer
 ἄνθρωπος|noun|ὀπτάνομαι|1. (properly) man-faced 2. (concretely) a human being (man or female) 3. (generally) all human beings 4. (indefinitely) a man, someone, one     
-ἀνθυπατεύω|verb|ἀνθύπατος|1. to act as proconsul (governor)
-ἀνθύπατος|noun|ὑπέρ|1. instead of the highest officer 2. (specially) a Roman proconsul (governor)
-ἀνίημι|verb|---|1. to let up 2. (literally) slacken 3. (figuratively) desert, desist from
-ἀνίλεως|adjective|ἵλεως|1. inexorable
+ἀνθυπατεύω|verb|ἀνθύπατος|1. to act as proconsul (governor)
+ἀνθύπατος|noun|ὑπέρ|1. instead of the highest officer 2. (specially) a Roman proconsul (governor)
+ἀνίημι|verb|---|1. to let up 2. (literally) slacken 3. (figuratively) desert, desist from
+ἀνέλεος|adjective|ἵλεως|1. inexorable
 ἄνιπτος|adjective|νίπτω|1. uncleansed 2. (ceremonially) unwashed
-ἀνίστημι|verb|ἵστημι|1. to stand up
-Ἄννα|Name Person|חַנָּה|1. Anna, an Israelitess
+ἀνίστημι|verb|ἵστημι|1. to stand up
+Ἅννα|Name Person|חַנָּה|1. Anna, an Israelitess
 Ἄννας|Name Person|חֲנַניָהוּ|1. Annas, an Israelite
-ἀνόητος|adjective|νοιέω|1. unintelligent 2. (by implication) sensual
+ἀνόητος|adjective|νοιέω|1. unintelligent 2. (by implication) sensual
 ἄνοια|noun|νοῦς|1. stupidity 2. (by implication) rage
-ἀνοίγω|verb|---|1. to open up
-ἀνοικοδομέω|verb|οἰκοδομέω|1. to rebuild
+ἀνοίγω|verb|---|1. to open up
+ἀνοικοδομέω|verb|οἰκοδομέω|1. to rebuild
 ἄνοιξις|noun|ἀνοίγω|1. opening (throat)
-ἀνομία|noun|ἄνομος|1. illegality, i.e. violation of law 2. (genitive case) wickedness
+ἀνομία|noun|ἄνομος|1. illegality, i.e. violation of law 2. (genitive case) wickedness
 ἄνομος|adjective|νόμος|1. lawless 2. (negatively) not subject to (the Jewish) law 3. (by implication) a Gentile 4. (positively) wicked
-ἀνόμως|adverb|ἄνομος|1. lawlessly 2. (specially) not amenable to (the Jewish) law
-ἀνορθόω|verb|ὀρθός|1. to straighten up 2. to raise up
-ἀνόσιος|adjective|ὅσιος|1. unholy, wicked
-ἀνοχή|noun|ἀνέχομαι|1. self-restraint, i.e. tolerance
-ἀνταγωνίζομαι|verb|ἀγωνίζομαι|1. to struggle against 2. (figuratively) "antagonize"
-ἀντάλλαγμα|noun|ἀλλάσσω|1. an equivalent or ransom
-ἀνταναπληρόω|verb|ἀναπληρόω|1. to supplement
-ἀνταποδίδωμι|verb|ἀποδίδωμι|1. to requite (good or evil)
-ἀνταπόδομα|noun|ἀνταποδίδωμι|1. (properly, the thing) a requital
-ἀνταπόδοσις|noun|ἀνταποδίδωμι|1. (properly, the act) requital
-ἀνταποκρίνομαι|verb|ἀποκρίνομαι|1. to contradict or dispute
-ἀντέπω|verb|ἔπω|1. (properly) to speak against 2. (concretely) to refute or deny
-ἀντέχομαι|verb|ἔχω|1. to hold oneself opposite to 2. (by implication) adhere to 3. (by extension) to care for
-ἀντί|preposition|---|1. opposite, i.e. instead or because 2. opposed to 3. (rarely) in addition to
-ἀντιβάλλω|verb|βάλλω|1. to toss back and forth 2. to bandy
-ἀντιδιατίθεμαι|verb|διατίθεμαι|1. to set oneself opposite, i.e. be  disputatious
-ἀντίδικος|noun|δίκη|1. an opponent or adversary (in a lawsuit) 2. (specially) Satan (Adversary-Accuser), as the arch-enemy
-ἀντίθεσις|noun|τίθημι|1. opposition, i.e. a conflict (of theories)
-ἀντικαθίστημι|verb|καθίστημι|1. to set down (troops) against, i.e. withstand
-ἀντικαλέω|verb|καλέω|1. to invite in return
-ἀντίκειμαι|verb|κεῖμαι|1. to lie opposite, i.e. be adverse to 2. (figuratively) repugnant to
-ἀντικρύ|adverb|---|1. opposite
-ἀντιλαμβάνομαι|verb|λαμβάνω|1. to take hold of in turn, i.e. to relieve 2. also to participate
-ἀντίλεγω|verb|λέγω|1. to dispute, refuse
-ἀντίληψις|noun|ἀντιλαμβάνομαι|1. relief
-ἀντιλογία|noun|ἀντίλεγω|1. dispute, strife
-ἀντιλοιδορέω|verb|λοιδορέω|1. to rail in reply
-ἀντίλυτρον|noun|λύτρον|1. a redemption-price, ransom
-ἀντιμετρέω|verb|μετρέω|1. to measure in return
-ἀντιμισθία|noun|μισθός|1. recompense, repayment
-Ἀντιόχεια|Name Location|---|1. Antiochia, a place in Syria
-Ἀντιοχεύς|Name/g.|Ἀντιόχεια|1. an Antiochian or inhabitant of Antiochia
-ἀντιπαρέρχομαι|verb|παρέρχομαι|1. to go along opposite
-Ἀντίπας|Name Person|πατήρ|1. Antipas, a Christian
-Ἀντιπατρίς|Name Location|πατήρ|1. Antipatris, a place in Israel
-ἀντιπέραν|adverb|πέραν|1. on the opposite side
-ἀντιπίπτω|verb|πίπτω|1. to oppose
-ἀντιστρατεύομαι|verb|στρατεύομαι|1. (figuratively) to attack 2. (by implication) destroy
-ἀντιτάσσομαι|verb|τάσσω|1. to arrange oneself against, i.e. oppose
-ἀντίτυπον|adjective|τύπος|1. corresponding ("antitype"), i.e. a representative, counterpart
-ἀντίχριστος|noun|Χριστός|1. an adversary (or opponent) of the Messiah, the Anointed-One
-ἀντλέω|verb|---|1. (properly) to bale up (bilge water) 2. (by extension) to draw water (with a bucket, pitcher, etc.)
+ἀνόμως|adverb|ἄνομος|1. lawlessly 2. (specially) not amenable to (the Jewish) law
+ἀνορθόω|verb|ὀρθός|1. to straighten up 2. to raise up
+ἀνόσιος|adjective|ὅσιος|1. unholy, wicked
+ἀνοχή|noun|ἀνέχομαι|1. self-restraint, i.e. tolerance
+ἀνταγωνίζομαι|verb|ἀγωνίζομαι|1. to struggle against 2. (figuratively) "antagonize"
+ἀντάλλαγμα|noun|ἀλλάσσω|1. an equivalent or ransom
+ἀνταναπληρόω|verb|ἀναπληρόω|1. to supplement
+ἀνταποδίδωμι|verb|ἀποδίδωμι|1. to requite (good or evil)
+ἀνταπόδομα|noun|ἀνταποδίδωμι|1. (properly, the thing) a requital
+ἀνταπόδοσις|noun|ἀνταποδίδωμι|1. (properly, the act) requital
+ἀνταποκρίνομαι|verb|ἀποκρίνομαι|1. to contradict or dispute
+ἀντεῖπον|verb|ἔπω|1. (properly) to speak against 2. (concretely) to refute or deny
+ἀντέχομαι|verb|ἔχω|1. to hold oneself opposite to 2. (by implication) adhere to 3. (by extension) to care for
+ἀντί|preposition|---|1. opposite, i.e. instead or because 2. opposed to 3. (rarely) in addition to
+ἀντιβάλλω|verb|βάλλω|1. to toss back and forth 2. to bandy
+ἀντιδιατίθεμαι|verb|διατίθεμαι|1. to set oneself opposite, i.e. be  disputatious
+ἀντίδικος|noun|δίκη|1. an opponent or adversary (in a lawsuit) 2. (specially) Satan (Adversary-Accuser), as the arch-enemy
+ἀντίθεσις|noun|τίθημι|1. opposition, i.e. a conflict (of theories)
+ἀντικαθίστημι|verb|καθίστημι|1. to set down (troops) against, i.e. withstand
+ἀντικαλέω|verb|καλέω|1. to invite in return
+ἀντίκειμαι|verb|κεῖμαι|1. to lie opposite, i.e. be adverse to 2. (figuratively) repugnant to
+ἀντικρύ|adverb|---|1. opposite
+ἀντιλαμβάνομαι|verb|λαμβάνω|1. to take hold of in turn, i.e. to relieve 2. also to participate
+ἀντιλέγω|verb|λέγω|1. to dispute, refuse
+ἀντίληψις|noun|ἀντιλαμβάνομαι|1. relief
+ἀντιλογία|noun|ἀντίλεγω|1. dispute, strife
+ἀντιλοιδορέω|verb|λοιδορέω|1. to rail in reply
+ἀντίλυτρον|noun|λύτρον|1. a redemption-price, ransom
+ἀντιμετρέω|verb|μετρέω|1. to measure in return
+ἀντιμισθία|noun|μισθός|1. recompense, repayment
+Ἀντιόχεια|Name Location|---|1. Antiochia, a place in Syria
+Ἀντιοχεύς|Name/g.|Ἀντιόχεια|1. an Antiochian or inhabitant of Antiochia
+ἀντιπαρέρχομαι|verb|παρέρχομαι|1. to go along opposite
+Ἀντίπας|Name Person|πατήρ|1. Antipas, a Christian
+Ἀντιπατρίς|Name Location|πατήρ|1. Antipatris, a place in Israel
+ἀντιπέραν|adverb|πέραν|1. on the opposite side
+ἀντιπίπτω|verb|πίπτω|1. to oppose
+ἀντιστρατεύομαι|verb|στρατεύομαι|1. (figuratively) to attack 2. (by implication) destroy
+ἀντιτάσσομαι|verb|τάσσω|1. to arrange oneself against, i.e. oppose
+ἀντίτυπος|adjective|τύπος|1. corresponding ("antitype"), i.e. a representative, counterpart
+ἀντίχριστος|noun|Χριστός|1. an adversary (or opponent) of the Messiah, the Anointed-One
+ἀντλέω|verb|---|1. (properly) to bale up (bilge water) 2. (by extension) to draw water (with a bucket, pitcher, etc.)
 ἄντλημα|noun|ἀντλέω|1. a baling-vessel
-ἀντοφθαλμέω|verb|ὀφθαλμός|1. to face
+ἀντοφθαλμέω|verb|ὀφθαλμός|1. to face
 ἄνυδρος|adjective|ὕδωρ|1. waterless, i.e. dry
-ἀνυπόκριτος|adjective|ὑποκρίνομαι|1. undissembled, i.e. sincere
-ἀνυπότακτος|adjective|ὑποτάσσω|1. unsubdued, i.e. insubordinate (in fact or temper)
+ἀνυπόκριτος|adjective|ὑποκρίνομαι|1. undissembled, i.e. sincere
+ἀνυπότακτος|adjective|ὑποτάσσω|1. unsubdued, i.e. insubordinate (in fact or temper)
 ἄνω|adverb|---|1. upward or on the top
-ἀνώγεον|noun|γῆ|1. above the ground 2. (properly) the second floor of a building 3. used for a dome or a balcony on the upper story
+ἀνώγεον|noun|γῆ|1. above the ground 2. (properly) the second floor of a building 3. used for a dome or a balcony on the upper story
 ἄνωθεν|adverb|ἄνω|1. from above 2. (by analogy) from the first 3. (by implication) anew
-ἀνωτερικός|adjective|ἀνώτερος|1. superior 2. (locally) more remote
-ἀνώτερος|adjective|ἄνω|1. upper 2. (neuter as adverb) to a more conspicuous place, in a former part of the book
-ἀνωφελής|adjective|ὠφέλιμος|1. useless 2. (neuter) inutility
-ἀξίνη|noun|---|1. an axe
+ἀνωτερικός|adjective|ἀνώτερος|1. superior 2. (locally) more remote
+ἀνώτερον|adjective|ἄνω|1. upper 2. (neuter as adverb) to a more conspicuous place, in a former part of the book
+ἀνωφελής|adjective|ὠφέλιμος|1. useless 2. (neuter) inutility
+ἀξίνη|noun|---|1. an axe
 ἄξιος|adjective|ἄγω|1. (properly) of similar weight or value 2. (comparatively) worthy, deserving (of good or bad) 3. (by implication) suitable, fitting, appropriate (as if drawing praise)
-ἀξιόω|verb|ἄξιος|1. to deem deserving (worthy) or fit
-ἀξίως|adverb|ἄξιος|1. appropriately
-ἀόρατος|adjective|ὁρατός|1. invisible
-ἀπαγγέλλω|verb|ἄγγελος|1. to declare, announce
-ἀπάγχομαι|verb|---|1. to strangle oneself off (i.e. to death)
-ἀπάγω|verb|ἄγω|1. to take off (in various senses)
-ἀπαίδευτος|adjective|παιδεύω|1. uninstructed 2. (figuratively) stupid
-ἀπαίρω|verb|αἴρω|1. to lift off, i.e. remove
-ἀπαιτέω|verb|αἰτέω|1. to demand back
-ἀπαλγέω|verb|---|1. to grieve out, i.e. become apathetic
-ἀπαλλάσσω|verb|ἀλλάσσω|1. to change away, i.e. release 2. (reflexively) remove
-ἀπαλλοτριόω|verb|ἀλλότριος|1. to estrange away 2. (passively and figuratively) to be non-participant
-ἀπαλός|adjective|---|1. soft
-ἀπαντάω|verb|ἀντί|1. to meet away, i.e. encounter
-ἀπάντησις|noun|ἀπαντάω|1. a (friendly) encounter
+ἀξιόω|verb|ἄξιος|1. to deem deserving (worthy) or fit
+ἀξίως|adverb|ἄξιος|1. appropriately
+ἀόρατος|adjective|ὁρατός|1. invisible
+ἀπαγγέλλω|verb|ἄγγελος|1. to declare, announce
+ἀπάγχω|verb|---|1. to strangle oneself off (i.e. to death)
+ἀπάγω|verb|ἄγω|1. to take off (in various senses)
+ἀπαίδευτος|adjective|παιδεύω|1. uninstructed 2. (figuratively) stupid
+ἀπαίρω|verb|αἴρω|1. to lift off, i.e. remove
+ἀπαιτέω|verb|αἰτέω|1. to demand back
+ἀπαλγέω|verb|---|1. to grieve out, i.e. become apathetic
+ἀπαλλάσσω|verb|ἀλλάσσω|1. to change away, i.e. release 2. (reflexively) remove
+ἀπαλλοτριόομαι|verb|ἀλλότριος|1. to estrange away 2. (passively and figuratively) to be non-participant
+ἁπαλός|adjective|---|1. soft
+ἀπαντάω|verb|ἀντί|1. to meet away, i.e. encounter
+ἀπάντησις|noun|ἀπαντάω|1. a (friendly) encounter
 ἅπαξ|adverb|ἅπας|1. one time (numerically or conclusively)
-ἀπαράβατος|adjective|παραβαίνω|1. not passing away, i.e. untransferable (perpetual)
-ἀπαρασκεύαστος|adjective|παρασκευάζω|1. unready, unprepared
-ἀπαρνέομαι|verb|ἀρνέομαι|1. to deny utterly, i.e. disown, abstain
-ἀπάρτι|adverb|ἄρτι|1. from now, i.e. henceforth (already)
-ἀπαρτισμός|noun|ἀπάρτι|1. completion
-ἀπαρχή|noun|ἄρχομαι|1. a beginning of sacrifice 2. (figuratively) the (Jewish) first-fruit
+ἀπαράβατος|adjective|παραβαίνω|1. not passing away, i.e. untransferable (perpetual)
+ἀπαρασκεύαστος|adjective|παρασκευάζω|1. unready, unprepared
+ἀπαρνέομαι|verb|ἀρνέομαι|1. to deny utterly, i.e. disown, abstain
+ἀπάρτι|adverb|ἄρτι|1. from now, i.e. henceforth (already)
+ἀπαρτισμός|noun|ἀπάρτι|1. completion
+ἀπαρχή|noun|ἄρχομαι|1. a beginning of sacrifice 2. (figuratively) the (Jewish) first-fruit
 ἅπας|adjective|πᾶς|1. absolutely all 2. (singularly) every one
-ἀπατάω|verb|---|1. to deceive, i.e. delude
-ἀπάτη|noun|ἀπατάω|1. deception, delusion
-ἀπάτωρ|adjective|πατήρ|1. fatherless, i.e. of unrecorded paternity
-ἀπαύγασμα|noun|αὐγάζω|1. an off-flash, i.e. effulgence
-ἀπείδω|verb|εἴδω|1. to see fully
-ἀπείθεια|noun|ἀπειθής|1. disbelief (obstinate and rebellious)
-ἀπειθέω|verb|ἀπειθής|1. to disbelieve (wilfully and perversely)
-ἀπειθής|adjective|πείθω|1. unpersuadable, i.e. contumacious
-ἀπειλέω|verb|---|1. to menace 2. (by implication) to forbid
-ἀπειλή|noun|ἀπειλέω|1. a menace
+ἀπατάω|verb|---|1. to deceive, i.e. delude
+ἀπάτη|noun|ἀπατάω|1. deception, delusion
+ἀπάτωρ|adjective|πατήρ|1. fatherless, i.e. of unrecorded paternity
+ἀπαύγασμα|noun|αὐγάζω|1. an off-flash, i.e. effulgence
+ἀπείδω|verb|εἴδω|1. to see fully
+ἀπείθεια|noun|ἀπειθής|1. disbelief (obstinate and rebellious)
+ἀπειθέω|verb|ἀπειθής|1. to disbelieve (wilfully and perversely)
+ἀπειθής|adjective|πείθω|1. unpersuadable, i.e. contumacious
+ἀπειλέω|verb|---|1. to menace 2. (by implication) to forbid
+ἀπειλή|noun|ἀπειλέω|1. a menace
 ἄπειμι|verb|εἰμί|1. to be absent, away
 ἄπειμι|verb|εἰμί|1. to go away
-ἀπειπόμην|verb|ἔπω|1. to say off for oneself, i.e. disown
-ἀπείραστος|adjective|πειράω|1. untried, i.e. not temptable
+ἀπεῖπον|verb|ἔπω|1. to say off for oneself, i.e. disown
+ἀπείραστος|adjective|πειράω|1. untried, i.e. not temptable
 ἄπειρος|adjective|πεῖρα|1. inexperienced, i.e. ignorant
-ἀπεκδέχομαι|verb|ἐκδέχομαι|1. to expect fully
-ἀπεκδύομαι|verb|ἐκδύω|1. to divest oneself completely 2. (outwardly, externally) to despoil another completely
-ἀπέκδυσις|noun|ἀπεκδύομαι|1. divestment
-ἀπελαύνω|verb|ἐλαύνω|1. to dismiss
-ἀπελεγμός|noun|ἐλέγχω|1. refutation 2. (by implication) contempt
-ἀπελεύθερος|noun|ἐλεύθερος|1. one freed away, i.e. a freedman
+ἀπεκδέχομαι|verb|ἐκδέχομαι|1. to expect fully
+ἀπεκδύομαι|verb|ἐκδύω|1. to divest oneself completely 2. (outwardly, externally) to despoil another completely
+ἀπέκδυσις|noun|ἀπεκδύομαι|1. divestment
+ἀπελαύνω|verb|ἐλαύνω|1. to dismiss
+ἀπελεγμός|noun|ἐλέγχω|1. refutation 2. (by implication) contempt
+ἀπελεύθερος|noun|ἐλεύθερος|1. one freed away, i.e. a freedman
 Ἀπελλῆς|Name Person|---|1. Apelles, a Christian
-ἀπελπίζω|verb|ἐλπίζω|1. to hope out, i.e. fully expect
-ἀπέναντι|adverb|ἔναντι|1. from in front, i.e. opposite, before or against
-ἀπέραντος|adjective|πέραν|1. unfinished 2. (by implication) interminable
-ἀπερισπάστως|adverb|περισπάω|1. undistractedly, in an undistracted manner 2. free from (domestic) anxiety or concern
-ἀπερίτμητος|adjective|περιτέμνω|1. uncircumcised
-ἀπέρχομαι|verb|ἔρχομαι|1. to go off (depart) 2. to go aside (apart) 3. or to go behind (follow)
-ἀπέχει|verb|ἀπέχω|1. it is sufficient
-ἀπέχομαι|verb|ἀπέχω|1. to hold oneself off, i.e. refrain
-ἀπέχω|verb|ἔχω|1. (actively) to have out, i.e. receive in full 2. (intransitively) to keep (oneself) away 3. (literally or figuratively) to be distant
-ἀπιστέω|verb|ἄπιστος|1. to be unbelieving 2. (transitively) disbelieve 3. (by implication) disobey
-ἀπιστία|noun|ἄπιστος|1. faithlessness 2. (negatively) disbelief (lack of Christian faith) 3. (positively) unfaithfulness (disobedience)
+ἀπελπίζω|verb|ἐλπίζω|1. to hope out, i.e. fully expect
+ἀπέναντι|adverb|ἔναντι|1. from in front, i.e. opposite, before or against
+ἀπέραντος|adjective|πέραν|1. unfinished 2. (by implication) interminable
+ἀπερισπάστως|adverb|περισπάω|1. undistractedly, in an undistracted manner 2. free from (domestic) anxiety or concern
+ἀπερίτμητος|adjective|περιτέμνω|1. uncircumcised
+ἀπέρχομαι|verb|ἔρχομαι|1. to go off (depart) 2. to go aside (apart) 3. or to go behind (follow)
+ἀπέχει|verb|ἀπέχω|1. it is sufficient
+ἀπέχομαι|verb|ἀπέχω|1. to hold oneself off, i.e. refrain
+ἀπέχω|verb|ἔχω|1. (actively) to have out, i.e. receive in full 2. (intransitively) to keep (oneself) away 3. (literally or figuratively) to be distant
+ἀπιστέω|verb|ἄπιστος|1. to be unbelieving 2. (transitively) disbelieve 3. (by implication) disobey
+ἀπιστία|noun|ἄπιστος|1. faithlessness 2. (negatively) disbelief (lack of Christian faith) 3. (positively) unfaithfulness (disobedience)
 ἄπιστος|adjective|πιστός|1. (actively) disbelieving, i.e. without Christian faith 2. (specially) a heathen 3. (passively) untrustworthy (person) or unbelievable, incredible (thing)
-ἁπλότης|noun|ἁπλοῦς|1. singleness 2. (subjectively) sincerity (without dissimulation or self-seeking) 3. (objectively) generosity (copious bestowal)
+ἁπλότης|noun|ἁπλοῦς|1. singleness 2. (subjectively) sincerity (without dissimulation or self-seeking) 3. (objectively) generosity (copious bestowal)
 ἁπλοῦς|adjective|πλέκω|1. (properly) folded together, i.e. single 2. (figuratively) clear
 ἁπλῶς|adverb|ἁπλότης|1. bountifully
-ἀπό|preposition|---|1. "off," i.e. away (from something near), in various senses (of place, time, or relation)
-ἀποβαίνω|verb|βάσις|1. (literally) to disembark 2. (figuratively) to come out in the end, to result
-ἀποβάλλω|verb|βάλλω|1. to throw off 2. (figuratively) to lose
-ἀποβλέπω|verb|βλέπω|1. to look away from everything else 2. (figuratively) intently regard
-ἀπόβλητος|adjective|ἀποβάλλω|1. cast off 2. (figuratively) such as to be rejected
-ἀποβολή|noun|ἀποβάλλω|1. rejection 2. (figuratively) loss
-ἀπογενόμενος|verb|γίνομαι|1. absent, i.e. deceased 2. (figuratively) renounced
-ἀπογραφή|noun|ἀπογράφω|1. an enrollment 2. (by implication) an assessment
-ἀπογράφω|verb|γράφω|1. to write off (a copy or list), i.e. enrol
-ἀποδείκνυμι|verb|δεικνύω|1. to show off, i.e. exhibit 2. (figuratively) to demonstrate, i.e. accredit
-ἀπόδειξις|noun|ἀποδείκνυμι|1. demonstration, manifestation
-ἀποδεκατόω|verb|δεκατόω|1. to tithe (as debtor or creditor)
-ἀπόδεκτος|adjective|ἀποδέχομαι|1. accepted, i.e. agreeable
-ἀποδέχομαι|verb|δέχομαι|1. to receive fully 2. (of persons) to welcome 3. (things) to approve
-ἀποδημέω|verb|ἀπόδημος|1. to go abroad, i.e. visit a foreign land
-ἀπόδημος|adjective|δῆμος|1. absent from one's own people, i.e. a foreign traveller
-ἀποδίδωμι|verb|δίδωμι|1. to give away, i.e. up, over, back, etc. (in various applications)
-ἀποδιορίζω|verb|Ἀλέξανδρος|1. to disjoin (by a boundary) 2. (figuratively) a party
-ἀποδοκιμάζω|verb|δοκιμάζω|1. to disapprove 2. (by implication) to repudiate
-ἀποδοχή|noun|ἀποδέχομαι|1. acceptance
-ἀπόθεσις|noun|ἀποτίθημι|1. a laying aside
-ἀποθήκη|noun|ἀποτίθημι|1. a repository, i.e. granary
-ἀποθησαυρίζω|verb|θησαυρίζω|1. to treasure away
-ἀποθλίβω|verb|θλίβω|1. to crowd (from every side)
-ἀποθνήσκω|verb|θνήσκω|1. to die off
-ἀποκαθίστημι|verb|καθίστημι|1. to restore, reconstitute (in health, home or organization)
-ἀποκαλύπτω|verb|καλύπτω|1. to take off the cover, i.e. disclose
-ἀποκάλυψις|noun|ἀποκαλύπτω|1. disclosure
-ἀποκαραδοκία|noun|δοκέω|1. intense anticipation
-ἀποκαταλλάσσω|verb|καταλλάσσω|1. to reconcile fully
-ἀποκατάστασις|noun|ἀποκαθίστημι|1. reconstitution
-ἀπόκειμαι|verb|κεῖμαι|1. to be reserved 2. (figuratively) to await
-ἀποκεφαλίζω|verb|κεφαλή|1. to decapitate
-ἀποκλείω|verb|κλείω|1. to close fully
-ἀποκόπτω|verb|κόπτω|1. to amputate 2. (reflexively, by irony) to mutilate (the private parts), to castrate
-ἀπόκριμα|noun|ἀποκρίνομαι|1. a judicial decision
-ἀποκρίνομαι|verb|κρίνω|1. to conclude for oneself 2. (by implication) to respond 3. (by Hebraism) to begin to speak (where an address is expected)
-ἀπόκρισις|noun|ἀποκρίνομαι|1. a response
-ἀποκρύπτω|verb|κρύπτω|1. to conceal away (i.e. fully) 2. (figuratively) to keep secret
-ἀπόκρυφος|adjective|ἀποκρύπτω|1. secret 2. (by implication) treasured
-ἀποκτείνω|verb|---|1. to kill outright 2. (figuratively) to destroy
-ἀποκυέω|verb|κύμα|1. to breed forth 2. (by transference) to generate (figuratively)
-ἀποκυλίω|verb|κυλιόω|1. to roll away
-ἀπολαμβάνω|verb|λαμβάνω|1. to receive 2. (specially) to receive in full, or as a host 3. (also) to take aside
-ἀπόλαυσις|noun|---|1. full enjoyment
-ἀπολείπω|verb|λείπω|1. to leave behind 2. (passively) remain 3. (by implication) to forsake
-ἀπολείχω|verb|---|1. to lick clean
-ἀπόλλυμι|verb|ὄλεθρος|1. to destroy fully 2. (reflexively) to perish, or lose
-Ἀπολλύων|Name Person|ἀπόλλυμι|1. a destroyer (i.e. Satan)
-Ἀπολλωνία|Name Location|ἀπόλλυμι|1. Apollonia, a place in Macedonia
-Ἀπολλώς|Name Person|ἀπόλλυμι|1. Apollos, an Israelite
-ἀπολογέομαι|verb|λόγος|1. to give an account of oneself 2. (legally) to make a plea 3. (by extension) to justify oneself (exonerate)
-ἀπολογία|noun|λόγος|1. a plea ("apology")
-ἀπολούω|verb|λούω|1. to wash fully 2. (figuratively) have remitted (reflexively)
-ἀπολύτρωσις|noun|λύτρον|1. (the act) ransom in full 2. (figuratively) riddance 3. (specially) Christian salvation
-ἀπολύω|verb|λύω|1. to release fully 2. (literally) to release, dismiss 3. (reflexively) to depart 4. (figuratively) to let die, to pardon 5. (maritally) to divorce     
-ἀπομάσσομαι|verb|---|1. to scrape away
-ἀπονέμω|verb|νόμος|1. to apportion, i.e. bestow
-ἀπονίπτω|verb|νίπτω|1. to wash off (reflexively, one's own hands symbolically)
-ἀποπίπτω|verb|πίπτω|1. to fall off
-ἀποπλανάω|verb|πλανάω|1. to lead astray 2. (figuratively, passively) to stray (from truth)
-ἀποπλέω|verb|πλέω|1. to set sail
-ἀποπλύνω|verb|πλύνω|1. to rinse off
-ἀποπνίγω|verb|πνίγω|1. to stifle (by drowning or overgrowth)
-ἀπορέω|verb|πορεύομαι|1. to have no way out, i.e. be at a loss (mentally)
-ἀπορία|noun|πορεύομαι|1. a (state of) quandary
-ἀπορῥίπτω|verb|ῥίπτω|1. to hurl off, i.e. precipitate (oneself)
-ἀπορφανίζω|verb|ὀρφανός|1. to bereave wholly 2. (figuratively) separate (from intercourse)
-ἀποσκευάζω|verb|σκεῦος|1. to pack up (one's) baggage
-ἀποσκίασμα|noun|σκία|1. a shading off, i.e. obscuration
-ἀποσπάω|verb|σπάω|1. to drag forth 2. (literally) unsheathe (a sword) 3. (relatively, with a degree of force implied) withdraw (personally or factiously)
-ἀποστασία|noun|ἀποστάσιον|1. defection from truth (properly, the state) 2. "apostasy"
-ἀποστάσιον|noun|ἀφίστημι|1. (properly) something separative 2. (specially) divorce
-ἀποστεγάζω|verb|στέγη|1. to unroof
-ἀποστέλλω|verb|στέλλω|1. set apart 2. (by implication) to send out (properly, on a mission)
-ἀποστερέω|verb|---|1. to despoil
-ἀποστολή|noun|ἀποστέλλω|1. commission 2. (specially) apostolate
-ἀπόστολος|noun|ἀποστέλλω|1. a delegate 2. (specially) an ambassador of the Gospel 3. (officially) a commissioner of Christ, "apostle" (with miraculous powers)
-ἀποστοματίζω|verb|στόμα|1. to speak off-hand (properly, dictate), i.e. to catechize (in an invidious manner)
-ἀποστρέφω|verb|στρέφω|1. to turn away or back
-ἀποστυγέω|verb|στυγνητός|1. to detest utterly
-ἀποσυνάγωγος|adjective|συναγωγή|1. (properly) cut off from the gathering 2. (religiously) excommunicated
-ἀποτάσσομαι|verb|τάσσω|1. (literally) to bid farewell (by departing or dismissing) 2. (figuratively) to renounce
-ἀποτελέω|verb|τελέω|1. to complete entirely, i.e. consummate
-ἀποτίθημι|verb|τίθημι|1. to put away
-ἀποτινάσσω|verb|---|1. to brush off
-ἀποτίνω|verb|τίνω|1. to pay in full
-ἀποτολμάω|verb|τολμάω|1. to venture plainly
-ἀποτομία|noun|ἀποτόμως|1. (figuratively) decisiveness, i.e. rigor
-ἀποτόμως|adverb|---|1. abruptly, i.e. peremptorily
-ἀποτρέπω|verb|τροπή|1. to deflect 2. (reflexively) avoid
-ἀπουσία|noun|ἄπειμι|1. absense
-ἀποφέρω|verb|φέρω|1. to carry off
-ἀποφεύγω|verb|φεύγω|1. (figuratively) to escape
-ἀποφθέγγομαι|verb|φθέγγομαι|1. to enunciate plainly, i.e. declare
-ἀποφορτίζομαι|verb|φορτίζω|1. to unload
-ἀπόχρησις|noun|χράομαι|1. the act of using up, i.e. consumption
-ἀποχωρέω|verb|χωρέω|1. to go away, depart
-ἀποχωρίζω|verb|χωρίζω|1. to rend apart 2. (reflexively) to separate
-ἀποψύχω|verb|ψύχω|1. to breathe out, i.e. faint
+ἀπό|preposition|---|1. "off," i.e. away (from something near), in various senses (of place, time, or relation)
+ἀποβαίνω|verb|βάσις|1. (literally) to disembark 2. (figuratively) to come out in the end, to result
+ἀποβάλλω|verb|βάλλω|1. to throw off 2. (figuratively) to lose
+ἀποβλέπω|verb|βλέπω|1. to look away from everything else 2. (figuratively) intently regard
+ἀπόβλητος|adjective|ἀποβάλλω|1. cast off 2. (figuratively) such as to be rejected
+ἀποβολή|noun|ἀποβάλλω|1. rejection 2. (figuratively) loss
+ἀπογίνομαι|verb|γίνομαι|1. absent, i.e. deceased 2. (figuratively) renounced
+ἀπογραφή|noun|ἀπογράφω|1. an enrollment 2. (by implication) an assessment
+ἀπογράφω|verb|γράφω|1. to write off (a copy or list), i.e. enrol
+ἀποδείκνυμι|verb|δεικνύω|1. to show off, i.e. exhibit 2. (figuratively) to demonstrate, i.e. accredit
+ἀπόδειξις|noun|ἀποδείκνυμι|1. demonstration, manifestation
+ἀποδεκατόω|verb|δεκατόω|1. to tithe (as debtor or creditor)
+ἀπόδεκτος|adjective|ἀποδέχομαι|1. accepted, i.e. agreeable
+ἀποδέχομαι|verb|δέχομαι|1. to receive fully 2. (of persons) to welcome 3. (things) to approve
+ἀποδημέω|verb|ἀπόδημος|1. to go abroad, i.e. visit a foreign land
+ἀπόδημος|adjective|δῆμος|1. absent from one's own people, i.e. a foreign traveller
+ἀποδίδωμι|verb|δίδωμι|1. to give away, i.e. up, over, back, etc. (in various applications)
+ἀποδιορίζω|verb|Ἀλέξανδρος|1. to disjoin (by a boundary) 2. (figuratively) a party
+ἀποδοκιμάζω|verb|δοκιμάζω|1. to disapprove 2. (by implication) to repudiate
+ἀποδοχή|noun|ἀποδέχομαι|1. acceptance
+ἀπόθεσις|noun|ἀποτίθημι|1. a laying aside
+ἀποθήκη|noun|ἀποτίθημι|1. a repository, i.e. granary
+ἀποθησαυρίζω|verb|θησαυρίζω|1. to treasure away
+ἀποθλίβω|verb|θλίβω|1. to crowd (from every side)
+ἀποθνῄσκω|verb|θνήσκω|1. to die off
+ἀποκαθίστημι|verb|καθίστημι|1. to restore, reconstitute (in health, home or organization)
+ἀποκαλύπτω|verb|καλύπτω|1. to take off the cover, i.e. disclose
+ἀποκάλυψις|noun|ἀποκαλύπτω|1. disclosure
+ἀποκαραδοκία|noun|δοκέω|1. intense anticipation
+ἀποκαταλλάσσω|verb|καταλλάσσω|1. to reconcile fully
+ἀποκατάστασις|noun|ἀποκαθίστημι|1. reconstitution
+ἀπόκειμαι|verb|κεῖμαι|1. to be reserved 2. (figuratively) to await
+ἀποκεφαλίζω|verb|κεφαλή|1. to decapitate
+ἀποκλείω|verb|κλείω|1. to close fully
+ἀποκόπτω|verb|κόπτω|1. to amputate 2. (reflexively, by irony) to mutilate (the private parts), to castrate
+ἀπόκριμα|noun|ἀποκρίνομαι|1. a judicial decision
+ἀποκρίνομαι|verb|κρίνω|1. to conclude for oneself 2. (by implication) to respond 3. (by Hebraism) to begin to speak (where an address is expected)
+ἀπόκρισις|noun|ἀποκρίνομαι|1. a response
+ἀποκρύπτω|verb|κρύπτω|1. to conceal away (i.e. fully) 2. (figuratively) to keep secret
+ἀπόκρυφος|adjective|ἀποκρύπτω|1. secret 2. (by implication) treasured
+ἀποκτείνω|verb|---|1. to kill outright 2. (figuratively) to destroy
+ἀποκυέω|verb|κύμα|1. to breed forth 2. (by transference) to generate (figuratively)
+ἀποκυλίω|verb|κυλιόω|1. to roll away
+ἀπολαμβάνω|verb|λαμβάνω|1. to receive 2. (specially) to receive in full, or as a host 3. (also) to take aside
+ἀπόλαυσις|noun|---|1. full enjoyment
+ἀπολείπω|verb|λείπω|1. to leave behind 2. (passively) remain 3. (by implication) to forsake
+ἀπολείχω|verb|---|1. to lick clean
+ἀπόλλυμι|verb|ὄλεθρος|1. to destroy fully 2. (reflexively) to perish, or lose
+Ἀπολλύων|Name Person|ἀπόλλυμι|1. a destroyer (i.e. Satan)
+Ἀπολλωνία|Name Location|ἀπόλλυμι|1. Apollonia, a place in Macedonia
+Ἀπολλώς|Name Person|ἀπόλλυμι|1. Apollos, an Israelite
+ἀπολογέομαι|verb|λόγος|1. to give an account of oneself 2. (legally) to make a plea 3. (by extension) to justify oneself (exonerate)
+ἀπολογία|noun|λόγος|1. a plea ("apology")
+ἀπολούω|verb|λούω|1. to wash fully 2. (figuratively) have remitted (reflexively)
+ἀπολύτρωσις|noun|λύτρον|1. (the act) ransom in full 2. (figuratively) riddance 3. (specially) Christian salvation
+ἀπολύω|verb|λύω|1. to release fully 2. (literally) to release, dismiss 3. (reflexively) to depart 4. (figuratively) to let die, to pardon 5. (maritally) to divorce     
+ἀπομάσσω|verb|---|1. to scrape away
+ἀπονέμω|verb|νόμος|1. to apportion, i.e. bestow
+ἀπονίπτω|verb|νίπτω|1. to wash off (reflexively, one's own hands symbolically)
+ἀποπίπτω|verb|πίπτω|1. to fall off
+ἀποπλανάω|verb|πλανάω|1. to lead astray 2. (figuratively, passively) to stray (from truth)
+ἀποπλέω|verb|πλέω|1. to set sail
+ἀποπλύνω|verb|πλύνω|1. to rinse off
+ἀποπνίγω|verb|πνίγω|1. to stifle (by drowning or overgrowth)
+ἀπορέω|verb|πορεύομαι|1. to have no way out, i.e. be at a loss (mentally)
+ἀπορία|noun|πορεύομαι|1. a (state of) quandary
+ἀπορρίπτω|verb|ῥίπτω|1. to hurl off, i.e. precipitate (oneself)
+ἀπορφανίζω|verb|ὀρφανός|1. to bereave wholly 2. (figuratively) separate (from intercourse)
+ἀποσκευάζομαι|verb|σκεῦος|1. to pack up (one's) baggage
+ἀποσκίασμα|noun|σκία|1. a shading off, i.e. obscuration
+ἀποσπάω|verb|σπάω|1. to drag forth 2. (literally) unsheathe (a sword) 3. (relatively, with a degree of force implied) withdraw (personally or factiously)
+ἀποστασία|noun|ἀποστάσιον|1. defection from truth (properly, the state) 2. "apostasy"
+ἀποστάσιον|noun|ἀφίστημι|1. (properly) something separative 2. (specially) divorce
+ἀποστεγάζω|verb|στέγη|1. to unroof
+ἀποστέλλω|verb|στέλλω|1. set apart 2. (by implication) to send out (properly, on a mission)
+ἀποστερέω|verb|---|1. to despoil
+ἀποστολή|noun|ἀποστέλλω|1. commission 2. (specially) apostolate
+ἀπόστολος|noun|ἀποστέλλω|1. a delegate 2. (specially) an ambassador of the Gospel 3. (officially) a commissioner of Christ, "apostle" (with miraculous powers)
+ἀποστοματίζω|verb|στόμα|1. to speak off-hand (properly, dictate), i.e. to catechize (in an invidious manner)
+ἀποστρέφω|verb|στρέφω|1. to turn away or back
+ἀποστυγέω|verb|στυγνητός|1. to detest utterly
+ἀποσυνάγωγος|adjective|συναγωγή|1. (properly) cut off from the gathering 2. (religiously) excommunicated
+ἀποτάσσομαι|verb|τάσσω|1. (literally) to bid farewell (by departing or dismissing) 2. (figuratively) to renounce
+ἀποτελέω|verb|τελέω|1. to complete entirely, i.e. consummate
+ἀποτίθημι|verb|τίθημι|1. to put away
+ἀποτινάσσω|verb|---|1. to brush off
+ἀποτίνω|verb|τίνω|1. to pay in full
+ἀποτολμάω|verb|τολμάω|1. to venture plainly
+ἀποτομία|noun|ἀποτόμως|1. (figuratively) decisiveness, i.e. rigor
+ἀποτόμως|adverb|---|1. abruptly, i.e. peremptorily
+ἀποτρέπω|verb|τροπή|1. to deflect 2. (reflexively) avoid
+ἀπουσία|noun|ἄπειμι|1. absense
+ἀποφέρω|verb|φέρω|1. to carry off
+ἀποφεύγω|verb|φεύγω|1. (figuratively) to escape
+ἀποφθέγγομαι|verb|φθέγγομαι|1. to enunciate plainly, i.e. declare
+ἀποφορτίζομαι|verb|φορτίζω|1. to unload
+ἀπόχρησις|noun|χράομαι|1. the act of using up, i.e. consumption
+ἀποχωρέω|verb|χωρέω|1. to go away, depart
+ἀποχωρίζω|verb|χωρίζω|1. to rend apart 2. (reflexively) to separate
+ἀποψύχω|verb|ψύχω|1. to breathe out, i.e. faint
 Ἄππιος|Name Person|---|1. of Appius, the name of a Roman
-ἀπρόσιτος|adjective|πρός|1. inaccessible
-ἀπρόσκοπος|adjective|προσκόπτω|1. actively, inoffensive, i.e. not leading into sin 2. (passively) faultless, i.e. not led into sin
-ἀπροσωπολήπτος|adverb|πρόσωπον|1. in a way not accepting the person, i.e. impartially
-ἀπταίστος|adjective|πταίω|1. not stumbling 2. (figuratively) without sin
+ἀπρόσιτος|adjective|πρός|1. inaccessible
+ἀπρόσκοπος|adjective|προσκόπτω|1. actively, inoffensive, i.e. not leading into sin 2. (passively) faultless, i.e. not led into sin
+ἀπροσωπολήπτως|adverb|πρόσωπον|1. in a way not accepting the person, i.e. impartially
+ἄπταιστος|adjective|πταίω|1. not stumbling 2. (figuratively) without sin
 ἅπτομαι|verb|ἅπτω|1. (properly) to attach oneself to, i.e. to touch (in many implied relations)
 ἅπτω|verb|---|1. (properly) to fasten to 2. (specially) to set on fire
-Ἀπφία|Name Person|---|1. Apphia, a woman of Collosae
-ἀπωθέομαι|verb|---|1. to push off 2. (figuratively) to reject
-ἀπώλεια|noun|ἀπόλλυμι|1. destruction, ruin or loss (physical, spiritual or eternal)
-ἀρά|noun|αἴρω|1. (properly) a prayer (as lifted to Heaven) 2. (commonly, by implication) a curse
+Ἀπφία|Name Person|---|1. Apphia, a woman of Collosae
+ἀπωθέω|verb|---|1. to push off 2. (figuratively) to reject
+ἀπώλεια|noun|ἀπόλλυμι|1. destruction, ruin or loss (physical, spiritual or eternal)
+ἀρά|noun|αἴρω|1. (properly) a prayer (as lifted to Heaven) 2. (commonly, by implication) a curse
 ἄρα|particle|αἴρω|1. a particle denoting an inference more or less decisive (as follows)
 ἆρα|particle|ἄρα|1. denoting an interrogation to which a negative answer is presumed
-Ἀραβία|Name Location|עֲרָב עֲרַב|1. Arabia, a region of Asia
-Ἀράμ|Name Person|רָם|1. Aram (i.e. Ram), an Israelite
+Ἀραβία|Name Location|עֲרָב עֲרַב|1. Arabia, a region of Asia
+Ἀράμ|Name Person|רָם|1. Aram (i.e. Ram), an Israelite
 Ἄραψ|Name/g.|Ἀραβία|1. an Arab or native of Arabia
-ἀργέω|verb|ἀργός|1. to be idle 2. (figuratively) to delay
-ἀργός|adjective|ἔργον|1. inactive, i.e. unemployed 2. (by implication) lazy, useless
-ἀργύρεος|adjective|ἄργυρος|1. made of silver
-ἀργύριον|noun|ἄργυρος|1. silvery 2. (by implication) cash 3. (specially) a silverling (i.e. drachma or shekel)
-ἀργυροκόπος|noun|κόπτω|1. a beater (i.e. worker) of silver
+ἀργέω|verb|ἀργός|1. to be idle 2. (figuratively) to delay
+ἀργός|adjective|ἔργον|1. inactive, i.e. unemployed 2. (by implication) lazy, useless
+ἀργυροῦς|adjective|ἄργυρος|1. made of silver
+ἀργύριον|noun|ἄργυρος|1. silvery 2. (by implication) cash 3. (specially) a silverling (i.e. drachma or shekel)
+ἀργυροκόπος|noun|κόπτω|1. a beater (i.e. worker) of silver
 ἄργυρος|noun|---|1. silver (the metal, in the articles or coin)
-Ἄρειος Πάγος|Name Location|πήγνυμι|1. rock of Ares, a place in Athens
-Ἀρεοπαγίτης|Name/g.|Ἄρειος Πάγος|1. an Areopagite or member of the court held on Mars' Hill
-ἀρέσκεια|noun|ἀρέσκω|1. complaisance
-ἀρέσκω|verb|αἴρω|1. to be agreeable 2. (by implication) to seek to be agreeable
-ἀρεστός|adjective|ἀρέσκω|1. agreeable 2. (by implication) fit
-Ἀρέτας|Name Person|---|1. Aretas, an Arabian
-ἀρέτη|noun|αἴρω|1. (properly) manliness (valor), i.e. excellence (intrinsic or attributed)
-ἀρήν|noun|αἴρω|1. a lamb (as a male)
-ἀριθμέω|verb|ἀριθμός|1. to enumerate or count
-ἀριθμός|noun|αἴρω|1. a number (as reckoned up)
-Ἀριμαθαία|Name Location|רָמָה|1. Arimathaea (or Ramah), a place in Israel
-Ἀρίσταρχος|Name Person|ἄρχω|1. best ruling 2. Aristarchus, a Macedonian
-αριστάω|verb|ἄριστον|1. to take the principle meal
-ἀριστερός|adjective|αἴρω|1. the left hand (as second-best)
-Ἀριστόβουλος|Name Person|βουλή|1. best counselling 2. Aristoboulus, a Christian
+Ἄρειος πάγος|Name Location|πήγνυμι|1. rock of Ares, a place in Athens
+Ἀρεοπαγίτης|Name/g.|Ἄρειος Πάγος|1. an Areopagite or member of the court held on Mars' Hill
+ἀρέσκεια|noun|ἀρέσκω|1. complaisance
+ἀρέσκω|verb|αἴρω|1. to be agreeable 2. (by implication) to seek to be agreeable
+ἀρεστός|adjective|ἀρέσκω|1. agreeable 2. (by implication) fit
+Ἀρέτας|Name Person|---|1. Aretas, an Arabian
+ἀρετή|noun|αἴρω|1. (properly) manliness (valor), i.e. excellence (intrinsic or attributed)
+ἀρήν|noun|αἴρω|1. a lamb (as a male)
+ἀριθμέω|verb|ἀριθμός|1. to enumerate or count
+ἀριθμός|noun|αἴρω|1. a number (as reckoned up)
+Ἀριμαθαία|Name Location|רָמָה|1. Arimathaea (or Ramah), a place in Israel
+Ἀρίσταρχος|Name Person|ἄρχω|1. best ruling 2. Aristarchus, a Macedonian
+ἀριστάω|verb|ἄριστον|1. to take the principle meal
+ἀριστερός|adjective|αἴρω|1. the left hand (as second-best)
+Ἀριστόβουλος|Name Person|βουλή|1. best counselling 2. Aristoboulus, a Christian
 ἄριστον|noun|αἴρω|1. the best meal (or breakfast 2. perhaps from eri ("early")), i.e. luncheon
-ἀρκετός|adjective|ἀρκέω|1. satisfactory
-ἀρκέω|verb|---|1. (properly) to ward off 2. (by implication) to avail 3. (figuratively) to be satisfactory
-ἄρκτος|noun|ἀρκέω|1. a bear (as obstructing by ferocity)
+ἀρκετός|adjective|ἀρκέω|1. satisfactory
+ἀρκέω|verb|---|1. (properly) to ward off 2. (by implication) to avail 3. (figuratively) to be satisfactory
+ἄρκος|noun|ἀρκέω|1. a bear (as obstructing by ferocity)
 ἅρμα|noun|αἴρω|1. a chariot (as raised or fitted together)
-Ἀρμαγεδδών|Name Location|הַר|1. Armageddon (or Har-Meggiddon), a symbolic name
-ἁρμόζω|verb|ἁρμός|1. to joint 2. (figuratively) to woo 3. (reflexively) to betroth
-ἁρμός|noun|---|1. an joint (of the body)
-ἀρνέομαι|verb|ῥέω|1. to contradict (by saying) 2. (concretely) to deny 3. (by implication) to disavow, reject, renounce, or disown
-ἀρνίον|noun|ἀρήν|1. a lambkin
-ἀροτριόω|verb|ἄροτρον|1. to plow
+Ἁρμαγεδών|Name Location|הַר|1. Armageddon (or Har-Meggiddon), a symbolic name
+ἁρμόζω|verb|ἁρμός|1. to joint 2. (figuratively) to woo 3. (reflexively) to betroth
+ἁρμός|noun|---|1. an joint (of the body)
+ἀρνέομαι|verb|ῥέω|1. to contradict (by saying) 2. (concretely) to deny 3. (by implication) to disavow, reject, renounce, or disown
+ἀρνίον|noun|ἀρήν|1. a lambkin
+ἀροτριάω|verb|ἄροτρον|1. to plow
 ἄροτρον|noun|---|1. a plow
-ἁρπαγή|noun|ἁρπάζω|1. (properly, abstract) pillage
-ἁρπαγμός|noun|ἁρπάζω|1. (properly, concrete) plunder
-ἁρπάζω|verb|αἱρέομαι|1. to seize
+ἁρπαγή|noun|ἁρπάζω|1. (properly, abstract) pillage
+ἁρπαγμός|noun|ἁρπάζω|1. (properly, concrete) plunder
+ἁρπάζω|verb|αἱρέομαι|1. to seize
 ἅρπαξ|adjective|ἁρπάζω|1. rapacious
-ἀρῥαβών|noun|עֲרָבוֹן|1. a pledge, i.e. part of the purchase-money or property given in advance as security for the rest
-ἄρῥαφος|adjective|ῥαφίς|1. unsewed, i.e. of a single piece
-ἄρῥην|noun|αἴρω|1. male (as stronger for lifting)
-ἄρῥητος|adjective|ῥητῶς|1. unsaid 2. (by implication) inexpressible
-ἄρῥωστος|adjective|ῥώννυμι|1. sick
-ἀρσενοκοίτης|noun|κοίτη|1. a male homosexual, sodomite
-Ἀρτεμάς|Name Person|δῶρον|1. gift of Artemis 2. Artemas (or Artemidorus), a Christian
+ἀρραβών|noun|עֲרָבוֹן|1. a pledge, i.e. part of the purchase-money or property given in advance as security for the rest
+ἄραφος|adjective|ῥαφίς|1. unsewed, i.e. of a single piece
+ἄρσην|noun|αἴρω|1. male (as stronger for lifting)
+ἄρρητος|adjective|ῥητῶς|1. unsaid 2. (by implication) inexpressible
+ἄρρωστος|adjective|ῥώννυμι|1. sick
+ἀρσενοκοίτης|noun|κοίτη|1. a male homosexual, sodomite
+Ἀρτεμᾶς|Name Person|δῶρον|1. gift of Artemis 2. Artemas (or Artemidorus), a Christian
 Ἄρτεμις|Name Person|ἄρτι|1. prompt 2. Artemis, the name of a Grecian goddess borrowed by the Asiatics for one of their deities
-ἀρτέμων|noun|ἄρτι|1. (properly) something ready 2. (specially) the topsail (rather than foresail or jib) of a vessel
+ἀρτέμων|noun|ἄρτι|1. (properly) something ready 2. (specially) the topsail (rather than foresail or jib) of a vessel
 ἄρτι|adverb|αἴρω|1. just now
-ἀρτιγέννητος|adjective|γεννητός|1. just born 2. (figuratively) a young convert
+ἀρτιγέννητος|adjective|γεννητός|1. just born 2. (figuratively) a young convert
 ἄρτιος|adjective|ἄρτι|1. fresh 2. (by implication) complete
 ἄρτος|noun|αἴρω|1. bread (as raised) or a loaf
-ἀρτύω|verb|αἴρω|1. to prepare, i.e. spice (with stimulating condiments)
-Ἀρφαξάδ|Name Person|אַרפַּכשַׁד|1. Arphaxad, a patriarch (post-diluvian, post-flood)
-ἀρχάγγελος|noun|ἄγγελος|1. a chief angel
+ἀρτύω|verb|αἴρω|1. to prepare, i.e. spice (with stimulating condiments)
+Ἀρφαξάδ|Name Person|אַרפַּכשַׁד|1. Arphaxad, a patriarch (post-diluvian, post-flood)
+ἀρχάγγελος|noun|ἄγγελος|1. a chief angel
 ἀρχαῖος|adjective|ἀρχή|1. original or primeval
-Ἀρχέλαος|Name Person|Λαοδικεύς|1. people-ruling 2. Archelaus, a Jewish king
-ἀρχή|noun|ἄρχομαι|1. (properly abstract) a commencement 2. (concretely) chief (in various applications of order, time, place, or rank)
-ἀρχηγός|noun|ἄγω|1. a chief leader
-ἀρχιερατικός|adjective|ἱερός|1. high-priestly
-ἀρχιερεύς|noun|ἱερεύς|1. the high-priest 2. (literally) of the Jews 3. (typically) Christ 4. (by extension) a chief priest
-ἀρχιποίμην|noun|ποιμήν|1. a head shepherd
+Ἀρχέλαος|Name Person|Λαοδικεύς|1. people-ruling 2. Archelaus, a Jewish king
+ἀρχή|noun|ἄρχομαι|1. (properly abstract) a commencement 2. (concretely) chief (in various applications of order, time, place, or rank)
+ἀρχηγός|noun|ἄγω|1. a chief leader
+ἀρχιερατικός|adjective|ἱερός|1. high-priestly
+ἀρχιερεύς|noun|ἱερεύς|1. the high-priest 2. (literally) of the Jews 3. (typically) Christ 4. (by extension) a chief priest
+ἀρχιποίμην|noun|ποιμήν|1. a head shepherd
 Ἄρχιππος|Name Person|ἵππος|1. horse-ruler 2. Archippus, a Christian
-ἀρχισυνάγωγος|noun|συναγωγή|1. a ruler of a gathering 2. (specially, Jewish) a director of the "synagogue" services 3. (specially, Christian) a presiding elder of a gathering
-ἀρχιτέκτων|noun|τέκτων|1. a chief constructor, i.e. "architect"
-ἀρχιτελώνης|noun|τελώνης|1. a principle tax-gatherer
-ἀρχιτρίκλινος|noun|τρεῖς|1. director of the entertainment
+ἀρχισυνάγωγος|noun|συναγωγή|1. a ruler of a gathering 2. (specially, Jewish) a director of the "synagogue" services 3. (specially, Christian) a presiding elder of a gathering
+ἀρχιτέκτων|noun|τέκτων|1. a chief constructor, i.e. "architect"
+ἀρχιτελώνης|noun|τελώνης|1. a principle tax-gatherer
+ἀρχιτρίκλινος|noun|τρεῖς|1. director of the entertainment
 ἄρχομαι|verb|ἄρχω|1. to commence (in order of time)
 ἄρχω|verb|---|1. to be first (in political rank or power)
 ἄρχων|noun|ἄρχω|1. a first (in rank or power)
 ἄρωμα|noun|αἴρω|1. an aromatic
-Ἀσά|Name Person|אָסָא|1. Asa, an Israelite
-ἀσάλευτος|adjective|σαλεύω|1. unshaken 2. (by implication) immovable (figuratively)
+Ἀσά|Name Person|אָסָא|1. Asa, an Israelite
+ἀσάλευτος|adjective|σαλεύω|1. unshaken 2. (by implication) immovable (figuratively)
 ἄσβεστος|adjective|σβέννυμι|1. not extinguished 2. (by implication) perpetual
-ἀσέβεια|noun|ἀσεβής|1. irreverence 2. (by implication) wickedness
-ἀσεβέω|verb|ἀσεβής|1. to be irreverent 2. (by implication) to be wicked
-ἀσεβής|adjective|σέβομαι|1. irreverent 2. (by implication) wicked
-ἀσέλγεια|noun|---|1. licentiousness (sometimes including other vices)
+ἀσέβεια|noun|ἀσεβής|1. irreverence 2. (by implication) wickedness
+ἀσεβέω|verb|ἀσεβής|1. to be irreverent 2. (by implication) to be wicked
+ἀσεβής|adjective|σέβομαι|1. irreverent 2. (by implication) wicked
+ἀσέλγεια|noun|---|1. licentiousness (sometimes including other vices)
 ἄσημος|adjective|σημαίνω|1. unmarked 2. (figuratively) ignoble
-Ἀσήρ|Name Person|אָשֵׁר|1. Aser (i.e. Asher), an Israelite tribe
-ἀσθένεια|noun|ἀσθενής|1. feebleness (of mind or body) 2. (by implication) malady 3. (morally) frailty
-ἀσθενέω|verb|ἀσθενής|1. to be feeble (in any sense)
-ἀσθένημα|noun|ἀσθενέω|1. a scruple of conscience
-ἀσθενής|adjective|σθενόω|1. strengthless, without strength 2. weak
-Ἀσία|Name Location|---|1. Asia, i.e. Asia Minor 2. (usually) only its western shore
-Ἀσιανός|Name/g.|Ἀσία|1. an Asian (i.e. Asiatic) or an inhabitant of Asia
-Ἀσιάρχης|Name/g.|ἀρχή|1. an Asiarch or president of the public festivities in a city of Asia Minor
-ἀσιτία|noun|ἄσιτος|1. fasting (the state)
+Ἀσήρ|Name Person|אָשֵׁר|1. Aser (i.e. Asher), an Israelite tribe
+ἀσθένεια|noun|ἀσθενής|1. feebleness (of mind or body) 2. (by implication) malady 3. (morally) frailty
+ἀσθενέω|verb|ἀσθενής|1. to be feeble (in any sense)
+ἀσθένημα|noun|ἀσθενέω|1. a scruple of conscience
+ἀσθενής|adjective|σθενόω|1. strengthless, without strength 2. weak
+Ἀσία|Name Location|---|1. Asia, i.e. Asia Minor 2. (usually) only its western shore
+Ἀσιανός|Name/g.|Ἀσία|1. an Asian (i.e. Asiatic) or an inhabitant of Asia
+Ἀσιάρχης|Name/g.|ἀρχή|1. an Asiarch or president of the public festivities in a city of Asia Minor
+ἀσιτία|noun|ἄσιτος|1. fasting (the state)
 ἄσιτος|adjective|σίτος|1. without (taking) food
-ἀσκέω|verb|---|1. to elaborate 2. (figuratively) train (by implication, strive)
-ἀσκός|noun|---|1. a leathern (or skin) bag used as a bottle
-ἀσμένως|adverb|ἡδονή|1. with pleasure
+ἀσκέω|verb|---|1. to elaborate 2. (figuratively) train (by implication, strive)
+ἀσκός|noun|---|1. a leathern (or skin) bag used as a bottle
+ἀσμένως|adverb|ἡδονή|1. with pleasure
 ἄσοφος|adjective|σοφός|1. unwise
-ἀσπάζομαι|verb|σπάω|1. to enfold in the arms 2. (by implication) to salute, (figuratively) to welcome
-ἀσπασμός|noun|ἀσπάζομαι|1. a greeting (in person or by letter)
+ἀσπάζομαι|verb|σπάω|1. to enfold in the arms 2. (by implication) to salute, (figuratively) to welcome
+ἀσπασμός|noun|ἀσπάζομαι|1. a greeting (in person or by letter)
 ἄσπιλος|adjective|σπιλόω|1. unblemished (physically or morally)
-ἀσπίς|noun|---|1. a buckler (or round shield) 2. used of a serpent (as coiling itself), probably the "asp"
+ἀσπίς|noun|---|1. a buckler (or round shield) 2. used of a serpent (as coiling itself), probably the "asp"
 ἄσπονδος|adjective|σπένδω|1. (literally) without libation (which usually accompanied a treaty) 2. (by implication) truceless
-ἀσσάριον|noun|---|1. an assarius or as, a Roman coin
+ἀσσάριον|noun|---|1. an assarius or as, a Roman coin
 ἆσσον|adverb|ἐγγύς|1. more nearly, i.e. very near
 Ἄσσος|Name Location|---|1. Assus, a city of Asia MInor
-ἀστατέω|verb|ἵστημι|1. to be non-stationary 2. (figuratively) homeless
+ἀστατέω|verb|ἵστημι|1. to be non-stationary 2. (figuratively) homeless
 ἀστεῖος|adjective|---|1. urbane 2. (by implication) handsome
-ἀστήρ|noun|στρώννυμι|1. a star (as strown over the sky)
-ἀστήρικτος|adjective|στηρίζω|1. unfixed 2. (figuratively) vacillating
+ἀστήρ|noun|στρώννυμι|1. a star (as strown over the sky)
+ἀστήρικτος|adjective|στηρίζω|1. unfixed 2. (figuratively) vacillating
 ἄστοργος|adjective|---|1. hard-hearted towards kindred
-ἀστοχέω|verb|---|1. to miss the mark 2. (figuratively) deviate from truth
-ἀστραπή|noun|ἀστράπτω|1. lightning 2. (by analogy) glare
-ἀστράπτω|verb|ἀστήρ|1. to flash as lightning
+ἀστοχέω|verb|---|1. to miss the mark 2. (figuratively) deviate from truth
+ἀστραπή|noun|ἀστράπτω|1. lightning 2. (by analogy) glare
+ἀστράπτω|verb|ἀστήρ|1. to flash as lightning
 ἄστρον|noun|ἀστήρ|1. (properly) a constellation 2. put for a single star (natural or artificial)
-Ἀσύγκριτος|Name Person|συγκρίνω|1. incomparable 2. Asyncritus, a Christian
-ἀσύμφωνος|adjective|σύμφωνος|1. inharmonious (figuratively)
-ἀσύνετος|adjective|συνετός|1. unintelligent 2. (by implication) wicked
-ἀσύνθετος|adjective|συντίθεμαι|1. (properly) not agreed, i.e. treacherous to compacts
-ἀσφάλεια|noun|ἀσφαλής|1. security
-ἀσφαλής|adjective|---|1. unfailing 2. secure
-ἀσφαλίζω|verb|ἀσφαλής|1. to render secure
+Ἀσύγκριτος|Name Person|συγκρίνω|1. incomparable 2. Asyncritus, a Christian
+ἀσύμφωνος|adjective|σύμφωνος|1. inharmonious (figuratively)
+ἀσύνετος|adjective|συνετός|1. unintelligent 2. (by implication) wicked
+ἀσύνθετος|adjective|συντίθεμαι|1. (properly) not agreed, i.e. treacherous to compacts
+ἀσφάλεια|noun|ἀσφαλής|1. security
+ἀσφαλής|adjective|---|1. unfailing 2. secure
+ἀσφαλίζω|verb|ἀσφαλής|1. to render secure
 ἀσφαλῶς|adverb|ἀσφαλής|1. securely
-ἀσχημονέω|verb|ἀσχήμων|1. to be (i.e. act) unbecoming
-ἀσχημοσύνη|noun|ἀσχήμων|1. a lack of form 2. (morally) an indecency 3. (by implication) the genitalia, pudenda
-ἀσχήμων|adjective|ἔχω|1. (properly) shapeless 2. (figuratively) inelegant
-ἀσωτία|noun|σώζω|1. (properly) unsavedness 2. (by implication) profligacy
-ἀσώτως|adverb|σώζω|1. dissolutely
-ἀτακτέω|verb|ἄτακτος|1. to be (i.e. act) irregular
+ἀσχημονέω|verb|ἀσχήμων|1. to be (i.e. act) unbecoming
+ἀσχημοσύνη|noun|ἀσχήμων|1. a lack of form 2. (morally) an indecency 3. (by implication) the genitalia, pudenda
+ἀσχήμων|adjective|ἔχω|1. (properly) shapeless 2. (figuratively) inelegant
+ἀσωτία|noun|σώζω|1. (properly) unsavedness 2. (by implication) profligacy
+ἀσώτως|adverb|σώζω|1. dissolutely
+ἀτακτέω|verb|ἄτακτος|1. to be (i.e. act) irregular
 ἄτακτος|adjective|τάσσω|1. unarranged 2. (by implication) insubordinate (religiously)
-ἀτάκτως|adverb|ἄτακτος|1. irregularly (morally)
+ἀτάκτως|adverb|ἄτακτος|1. irregularly (morally)
 ἄτεκνος|adjective|τέκνον|1. childless
-ἀτενίζω|verb|---|1. to gaze intently
+ἀτενίζω|verb|---|1. to gaze intently
 ἄτερ|preposition|---|1. aloof, i.e. apart from
-ἀτιμάζω|verb|ἄτιμος|1. to render infamous 2. (by implication) contemn or maltreat
-ἀτιμία|noun|ἄτιμος|1. infamy 2. (subjectively) comparative indignity 3. (objectively) dishonor
+ἀτιμάζω|verb|ἄτιμος|1. to render infamous 2. (by implication) contemn or maltreat
+ἀτιμία|noun|ἄτιμος|1. infamy 2. (subjectively) comparative indignity 3. (objectively) dishonor
 ἄτιμος|adjective|τιμή|1. (negatively) unhonoured 2. (positively) dishonoured
-ατιμόω|verb|ἀτιμάζω|1. to maltreat
-ἀτμίς|noun|---|1. mist
+ἀτιμόω|verb|ἀτιμάζω|1. to maltreat
+ἀτμίς|noun|---|1. mist
 ἄτομος|adjective|τομώτερος|1. uncut 2. (by implication) indivisible (an "atom" of time)
 ἄτοπος|adjective|τόπος|1. out of place 2. (figuratively) improper, injurious, wicked
-Ἀττάλεια|Name Location|---|1. Attaleia, a place in Pamphylia
-αὐγάζω|verb|αὐγή|1. to beam forth (figuratively)
-αὐγή|noun|---|1. a ray of light 2. (by implication) radiance, dawn
-Αὔγουστος|Name Person|---|1. Augustus, a title of the Roman emperor
-αὐθάδης|adjective|ἡδονή|1. self-pleasing, i.e. arrogant
-αὐθαίρετος|adjective|αἱρετίζω|1. self-chosen 2. (by implication) voluntary
-αὐθεντέω|verb|αὐτός|1. to act of oneself 2. (figuratively) dominate
-αὐλέω|verb|αὐλός|1. to play the flute
-αὐλή|noun|---|1. a yard (as open to the wind) 2. (by implication) a mansion
-αὐλητής|noun|αὐλέω|1. a flute-player
-αὐλίζομαι|verb|αὐλή|1. to pass the night (properly, in the open air)
-αὐλός|noun|---|1. a flute (as blown)
-αὐξάνω|verb|---|1. to grow ("wax"), i.e. enlarge
+Ἀττάλεια|Name Location|---|1. Attaleia, a place in Pamphylia
+αὐγάζω|verb|αὐγή|1. to beam forth (figuratively)
+αὐγή|noun|---|1. a ray of light 2. (by implication) radiance, dawn
+Αὐγούστος|Name Person|---|1. Augustus, a title of the Roman emperor
+αὐθάδης|adjective|ἡδονή|1. self-pleasing, i.e. arrogant
+αὐθαίρετος|adjective|αἱρετίζω|1. self-chosen 2. (by implication) voluntary
+αὐθεντέω|verb|αὐτός|1. to act of oneself 2. (figuratively) dominate
+αὐλέω|verb|αὐλός|1. to play the flute
+αὐλή|noun|---|1. a yard (as open to the wind) 2. (by implication) a mansion
+αὐλητής|noun|αὐλέω|1. a flute-player
+αὐλίζομαι|verb|αὐλή|1. to pass the night (properly, in the open air)
+αὐλός|noun|---|1. a flute (as blown)
+αὐξάνω|verb|---|1. to grow ("wax"), i.e. enlarge
 αὔξησις|noun|αὐξάνω|1. growth
 αὔριον|adverb|ἀήρ|1. (properly) fresh, i.e.  to-morrow
-αὐστηρός|adjective|ἀήρ|1. rough (properly as a gale) 2. (figuratively) severe
-αὐτάρκεια|noun|αὐτάρκης|1. self-satisfaction 2. (abstractly) contentedness 3. (concretely) a competence
-αὐτάρκης|adjective|ἀρκέω|1. self-complacent, i.e. contented
-αὐτοκατάκριτος|adjective|κατακρίνω|1. self-condemned
-αὐτόματος|adjective|μάτην|1. self-moved ("automatic"), i.e. spontaneous
-αὐτόπτης|adjective|ὀπτάνομαι|1. self-seeing, i.e. an eye-witness
-αὐτός|p/p.|---|1. self
+αὐστηρός|adjective|ἀήρ|1. rough (properly as a gale) 2. (figuratively) severe
+αὐτάρκεια|noun|αὐτάρκης|1. self-satisfaction 2. (abstractly) contentedness 3. (concretely) a competence
+αὐτάρκης|adjective|ἀρκέω|1. self-complacent, i.e. contented
+αὐτοκατάκριτος|adjective|κατακρίνω|1. self-condemned
+αὐτόματος|adjective|μάτην|1. self-moved ("automatic"), i.e. spontaneous
+αὐτόπτης|adjective|ὀπτάνομαι|1. self-seeing, i.e. an eye-witness
+αὐτός|p/p.|---|1. self
 αὐτοῦ|adverb|αὐτός|1. (properly) belonging to the same spot, i.e. in this (or that) place
 αὑτοῦ|p/p.|ἑαυτού|1. self
-αὐτόχειρ|adjective|χείρ|1. self-handed, i.e. doing personally
-αὐχμηρός|adjective|---|1. (properly) dirty 2. (by implication) obscure
-ἀφαιρέω|verb|αἱρέομαι|1. to remove
-ἀφανής|adjective|φαίνω|1. non-apparent
-ἀφανίζω|verb|ἀφανής|1. to render unapparent 2. (actively) consume (becloud) 3. (passively) disappear (be destroyed)
-ἀφανισμός|noun|ἀφανίζω|1. disappearance 2. (figuratively) abrogation
+αὐτόχειρ|adjective|χείρ|1. self-handed, i.e. doing personally
+αὐχμηρός|adjective|---|1. (properly) dirty 2. (by implication) obscure
+ἀφαιρέω|verb|αἱρέομαι|1. to remove
+ἀφανής|adjective|φαίνω|1. non-apparent
+ἀφανίζω|verb|ἀφανής|1. to render unapparent 2. (actively) consume (becloud) 3. (passively) disappear (be destroyed)
+ἀφανισμός|noun|ἀφανίζω|1. disappearance 2. (figuratively) abrogation
 ἄφαντος|adjective|φαίνω|1. non-manifested, i.e. invisible
-ἀφεδρών|noun|ἑδραῖος|1. a place of sitting apart, i.e. a privy
-ἀφειδία|noun|φείδομαι|1. unsparingness, i.e. austerity (asceticism)
-ἀφελότης|noun|---|1. smoothness 2. (figuratively) simplicity
+ἀφεδρών|noun|ἑδραῖος|1. a place of sitting apart, i.e. a privy
+ἀφειδία|noun|φείδομαι|1. unsparingness, i.e. austerity (asceticism)
+ἀφελότης|noun|---|1. smoothness 2. (figuratively) simplicity
 ἄφεσις|noun|ἀφίημι|1. freedom 2. (figuratively) pardon
-ἁφή|noun|ἅπτομαι|1. probably a ligament (as fastening)
-ἀφθαρσία|noun|ἄφθαρτος|1. incorruptibility 2. (genitive) unending existence 3. (figuratively) genuineness
+ἁφή|noun|ἅπτομαι|1. probably a ligament (as fastening)
+ἀφθαρσία|noun|ἄφθαρτος|1. incorruptibility 2. (genitive) unending existence 3. (figuratively) genuineness
 ἄφθαρτος|adjective|φθείρω|1. undecaying (in essence or continuance)
-ἀφίημι|verb|---|1. to send forth
-ἀφικνέομαι|verb|ἱκανός|1. to go (i.e. spread) forth (by rumor)
-ἀφιλάγαθος|adjective|φιλάγαθος|1. hostile to virtue
-ἀφιλάργυρος|adjective|φιλάργυρος|1. without fondness of silver (money)
+ἀφίημι|verb|---|1. to send forth
+ἀφικνέομαι|verb|ἱκανός|1. to go (i.e. spread) forth (by rumor)
+ἀφιλάγαθος|adjective|φιλάγαθος|1. hostile to virtue
+ἀφιλάργυρος|adjective|φιλάργυρος|1. without fondness of silver (money)
 ἄφιξις|noun|ἀφικνέομαι|1. (properly) arrival 2. (by implication) departure
-ἀφίστημι|verb|ἵστημι|1. to remove 2. (actively) instigate to revolt 3. (usually, reflexively) to desist, desert, etc.
+ἀφίστημι|verb|ἵστημι|1. to remove 2. (actively) instigate to revolt 3. (usually, reflexively) to desist, desert, etc.
 ἄφνω|adverb|ἀφανής|1. unawares, i.e. unexpectedly
-ἀφόβως|adverb|φόβος|1. fearlessly
-ἀφομοιόω|verb|ὁμοιόω|1. to assimilate closely
-ἀφοράω|verb|ὁράω|1. to consider attentively
-ἀφορίζω|verb|ὁρίζω|1. to set off by boundary 2. (figuratively) limit, exclude, appoint, etc.
-ἀφορμή|noun|ὁρμάω|1. a starting-point 2. (figuratively) an opportunity
-ἀφρίζω|verb|ἀφρός|1. to froth at the mouth (in epilepsy)
-ἀφρός|noun|---|1. froth, i.e. drool
-ἀφροσύνη|noun|ἄφρων|1. senselessness 2. (euphemistically) egotism 3. (morally) recklessness
+ἀφόβως|adverb|φόβος|1. fearlessly
+ἀφομοιόω|verb|ὁμοιόω|1. to assimilate closely
+ἀφοράω|verb|ὁράω|1. to consider attentively
+ἀφορίζω|verb|ὁρίζω|1. to set off by boundary 2. (figuratively) limit, exclude, appoint, etc.
+ἀφορμή|noun|ὁρμάω|1. a starting-point 2. (figuratively) an opportunity
+ἀφρίζω|verb|ἀφρός|1. to froth at the mouth (in epilepsy)
+ἀφρός|noun|---|1. froth, i.e. drool
+ἀφροσύνη|noun|ἄφρων|1. senselessness 2. (euphemistically) egotism 3. (morally) recklessness
 ἄφρων|adjective|φρήν|1. (properly) mindless, i.e. stupid 2. (by implication) ignorant 3. (specially) egotistic 4. (practically) rash 5. (morally) unbelieving
-ἀφυπνόω|verb|ὕπνος|1. (properly) to become awake 2. (by implication) to drop (off) in slumber
+ἀφυπνόω|verb|ὕπνος|1. (properly) to become awake 2. (by implication) to drop (off) in slumber
 ἄφωνος|adjective|φωνή|1. voiceless, i.e. mute (by nature or choice) 2. (figuratively) meaningless
-Ἀχάζ|Name Person|אָחָז|1. Achaz, an Israelite
-Ἀχαία|Name Location|---|1. Achaia (i.e. Greece), a country of Europe
-Ἀχαϊκός|Name Person|Ἀχαία|1. an Achaian 2. Achaicus, a Christian
-ἀχάριστος|adjective|χαρίζομαι|1. thankless, i.e. ungrateful
-Ἀχείμ|Name Person|---|1. Achim, an Israelite
-ἀχειροποίητος|adjective|χειροποίητος|1. unmanufactured, i.e. inartificial
-ἀχλύς|noun|---|1. dimness of sight 2. (probably) a cataract
+Ἄχαζ|Name Person|אָחָז|1. Achaz, an Israelite
+Ἀχαϊα|Name Location|---|1. Achaia (i.e. Greece), a country of Europe
+Ἀχαϊκός|Name Person|Ἀχαία|1. an Achaian 2. Achaicus, a Christian
+ἀχάριστος|adjective|χαρίζομαι|1. thankless, i.e. ungrateful
+Ἀχείμ|Name Person|---|1. Achim, an Israelite
+ἀχειροποίητος|adjective|χειροποίητος|1. unmanufactured, i.e. inartificial
+ἀχλύς|noun|---|1. dimness of sight 2. (probably) a cataract
 ἀχρεῖος|adjective|χρή|1. useless 2. (euphemistically) unmeritorious
-αχρειόω|verb|ἀχρεῖος|1. to render useless, i.e. spoil
+ἀχρειόω|verb|ἀχρεῖος|1. to render useless, i.e. spoil
 ἄχρηστος|adjective|χρηστός|1. inefficient 2. (by implication) detrimental
 ἄχρι|preposition|---|1. (of time) until or (of place) up to
 ἄχυρον|noun|---|1. chaff (as diffusive)
-ἀψευδής|adjective|ψεῦδος|1. (properly) without lies or falsehood 2. (concretely) truthful, veracious
+ἀψευδής|adjective|ψεῦδος|1. (properly) without lies or falsehood 2. (concretely) truthful, veracious
 ἄψινθος|noun|---|1. wormwood (as a type of bitterness 2. (figuratively) calamity)
 ἄψυχος|adjective|ψυχή|1. lifeless, i.e. inanimate (mechanical)
-Βάαλ|Name Person|בַּעַל|1. Baal, a Phoenician deity 2. (literally) master
-Βαβυλών|Name Location|בָּבֶל|1. Babylon, the capitol of Chaldaea
-βαθμός|noun|βάσις|1. a step 2. (figuratively) grade (of dignity)
-βάθος|noun|βάσις|1. great depth 2. (of intellect) deep, profound matters 3. (by implication) extent 4. (figuratively) mystery
-βαθύνω|verb|βαθύς|1. to deepen
-βαθύς|adjective|βάσις|1. profound (as going down)
-βαΐον|noun|βάσις|1. a palm twig (as going out far)
-Βαλαάμ|Name Person|בִּלעָם|1. Balaam, a Mesopotamian 2. (symbolically) a false teacher loving unrighteousness and immorality
-Βαλάκ|Name Person|בָּלָק|1. Balak, a Moabite
-βαλάντιον|noun|βάλλω|1. a pouch (for money)
-βάλλω|verb|---|1. to throw
-βαπτίζω|verb|βάπτω|1. to immerse, submerge 2. to make whelmed or soaked (i.e. fully wet)
-βάπτισμα|noun|βαπτίζω|1. immersion (technically or figuratively)
-βαπτισμός|noun|βαπτίζω|1. ceremonial washing as a ritual
-Βαπτιστής|Name Person|βαπτίζω|1. a "baptizer" (immerser), as an epithet of Christ's forerunner, John
-βάπτω|verb|---|1. (literally) to dip (in water), i.e. cover completely with a fluid 2. (in the New Testament only in a qualified or special sense) to moisten (a part of one's person) 3. (by implication) to stain (as with dye)
+Βάαλ|Name Person|בַּעַל|1. Baal, a Phoenician deity 2. (literally) master
+Βαβυλών|Name Location|בָּבֶל|1. Babylon, the capitol of Chaldaea
+βαθμός|noun|βάσις|1. a step 2. (figuratively) grade (of dignity)
+βάθος|noun|βάσις|1. great depth 2. (of intellect) deep, profound matters 3. (by implication) extent 4. (figuratively) mystery
+βαθύνω|verb|βαθύς|1. to deepen
+βαθύς|adjective|βάσις|1. profound (as going down)
+βαΐον|noun|βάσις|1. a palm twig (as going out far)
+Βαλαάμ|Name Person|בִּלעָם|1. Balaam, a Mesopotamian 2. (symbolically) a false teacher loving unrighteousness and immorality
+Βαλάκ|Name Person|בָּלָק|1. Balak, a Moabite
+βαλάντιον|noun|βάλλω|1. a pouch (for money)
+βάλλω|verb|---|1. to throw
+βαπτίζω|verb|βάπτω|1. to immerse, submerge 2. to make whelmed or soaked (i.e. fully wet)
+βάπτισμα|noun|βαπτίζω|1. immersion (technically or figuratively)
+βαπτισμός|noun|βαπτίζω|1. ceremonial washing as a ritual
+βαπτιστής|Name Person|βαπτίζω|1. a "baptizer" (immerser), as an epithet of Christ's forerunner, John
+βάπτω|verb|---|1. (literally) to dip (in water), i.e. cover completely with a fluid 2. (in the New Testament only in a qualified or special sense) to moisten (a part of one's person) 3. (by implication) to stain (as with dye)
 Βαραββᾶς|Name Person|גָּאוֹן|1. son of Abba 2. Bar-abbas, an Israelite
-Βαράκ|Name Person|בָּרָק|1. Barak, an Israelite
-Βαραχίας|Name Person|בֶּרֶכיָהוּ|1. Barachias (i.e. Berechijah), an Israelite
-βάρβαρος|adjective|---|1. a foreigner (i.e. non-Greek)
-βαρέω|verb|βαρύς|1. to weigh down (figuratively)
-βαρέως|adverb|βαρύς|1. heavily (figuratively)
+Βαράκ|Name Person|בָּרָק|1. Barak, an Israelite
+Βαραχίας|Name Person|בֶּרֶכיָהוּ|1. Barachias (i.e. Berechijah), an Israelite
+βάρβαρος|adjective|---|1. a foreigner (i.e. non-Greek)
+βαρέω|verb|βαρύς|1. to weigh down (figuratively)
+βαρέως|adverb|βαρύς|1. heavily (figuratively)
 Βαρθολομαῖος|Name Person|בַּר|1. son of Tolmai 2. Bar-tholomoeus, a Christian apostle
-Βαριησοῦς|Name Person|בַּר|1. son of Jesus (or Joshua) 2. Bar-jesus, an Israelite
+Βαρϊησοῦς|Name Person|בַּר|1. son of Jesus (or Joshua) 2. Bar-jesus, an Israelite
 Βαριωνᾶς|Name Person|בַּר|1. son of Jonas (or Jonah) 2. Bar-jonas, an Israelite
-Βαρνάβας|Name Person|בַּר|1. son of Nabas (i.e. prophecy) 2. Barnabas, an Israelite
-βάρος|noun|---|1. weight 2. (figuratively, N.T. only) a load, abundance, authority
-Βαρσαβᾶς|Name Person|בַּר|1. son of Sabas (or Tsaba) 2. Bar-sabas, the name of two Israelites
-Βαρτιμαῖος|Name Person|בַּר|1. son of Timoeus (or the unclean) 2. Bar-timoeus, an Israelite
-βαρύνω|verb|βαρύς|1. to burden (figuratively)
-βαρύς|adjective|---|1. weighty 2. (figuratively) burdensome, grave
-βαρύτιμος|adjective|τιμή|1. highly valuable
-βασανίζω|verb|βάσανος|1. to torture
-βασανισμός|noun|βασανίζω|1. torture
-βασανιστής|noun|βασανίζω|1. a torturer
-βάσανος|noun|---|1. a touchstone used to test the purity of gold 2. (generally) a test to prove the genuineness of a thing 3. (figuratively) an instrument used in questioning by which one is compelled to divulge the truth 4. (by analogy) torture
-βασιλεία|noun|βασιλεύς|1. (properly) royalty 2. (abstractly) rule 3. (concretely) a realm
-βασίλειον|adjective|βασίλειος|1. a palace
-βασίλειος|adjective|βασιλεύς|1. kingly (in nature)
-βασιλεύς|noun|βάσις|1. a sovereign (king, emperor, ruler)
-βασιλεύω|verb|βασιλεύς|1. to rule
-βασιλικός|adjective|βασιλεύς|1. regal (in relation) 2. (literally) belonging to (or befitting) the sovereign (as land, dress, or a courtier) 3. (figuratively) preeminent
-βασίλισσα|noun|βασιλεύω|1. a queen
-βάσις|noun|---|1. a pace ("base") 2. (by implication) the foot
-βασκαίνω|verb|---|1. to malign 2. (by extension) to fascinate (by false representations)
-βαστάζω|verb|βάσις|1. to lift 2. (figuratively) endure, declare, sustain, receive, etc.
-βάτος|noun|---|1. a brier shrub
-βάτος|noun|בַּת|1. a bath, or measure for liquids
-βάτραχος|noun|---|1. a frog
-βαττολογέω|verb|λόγος|1. to stutter 2. (by implication) to talk repetitiously and tediously
-βδέλυγμα|noun|βδελύσσω|1. a detestation 2. (specially) idolatry
-βδελυκτός|adjective|βδελύσσω|1. detestable 2. (specially) idolatrous
-βδελύσσω|verb|---|1. to be disgusted 2. (by implication) detest (especially of idolatry)
-βέβαιος|adjective|βάσις|1. firm, steadfast, stable
-βεβαιόω|verb|βέβαιος|1. to make firm, steadfast 2. (figuratively) to confirm
-βεβαίωσις|noun|βεβαιόω|1. a confirmation
-βέβηλος|adjective|βάσις|1. accessible (as by crossing the door-way) 2. (by implication, of Jewish notions) profane, heathenish, wicked
-βεβηλόω|verb|βέβηλος|1. to profane, desecrate
-Βεελζεβούλ|Name Person|בַּעַל זְבוּב|1. dung-god 2. Beelzebul, a name of Satan
-Βελίαλ|Name Person|בְּלִיַעַל|1. worthlessness 2. Belial, as an epithet of Satan
-βέλος|noun|βάλλω|1. a missile, i.e. spear or arrow
-βελτίον|adverb|ἀγαθός|1. better
-Βενιαμίν|Name Person|בִּניָמִין|1. Benjamin, an Israelite
-Βερνίκη|Name Person|νίκη|1. victorious 2. Bernice, a member of the Herodian family
-Βέροια|Name Location|πέραν|1. Beroea, a place in Macedonia
+Βαρνάβας|Name Person|בַּר|1. son of Nabas (i.e. prophecy) 2. Barnabas, an Israelite
+βάρος|noun|---|1. weight 2. (figuratively, N.T. only) a load, abundance, authority
+Βαρσαββᾶς|Name Person|בַּר|1. son of Sabas (or Tsaba) 2. Bar-sabas, the name of two Israelites
+Βαρτίμαιος|Name Person|בַּר|1. son of Timoeus (or the unclean) 2. Bar-timoeus, an Israelite
+βαρύνω|verb|βαρύς|1. to burden (figuratively)
+βαρύς|adjective|---|1. weighty 2. (figuratively) burdensome, grave
+βαρύτιμος|adjective|τιμή|1. highly valuable
+βασανίζω|verb|βάσανος|1. to torture
+βασανισμός|noun|βασανίζω|1. torture
+βασανιστής|noun|βασανίζω|1. a torturer
+βάσανος|noun|---|1. a touchstone used to test the purity of gold 2. (generally) a test to prove the genuineness of a thing 3. (figuratively) an instrument used in questioning by which one is compelled to divulge the truth 4. (by analogy) torture
+βασιλεία|noun|βασιλεύς|1. (properly) royalty 2. (abstractly) rule 3. (concretely) a realm
+βασίλειον|adjective|βασίλειος|1. a palace
+βασίλειος|adjective|βασιλεύς|1. kingly (in nature)
+βασιλεύς|noun|βάσις|1. a sovereign (king, emperor, ruler)
+βασιλεύω|verb|βασιλεύς|1. to rule
+βασιλικός|adjective|βασιλεύς|1. regal (in relation) 2. (literally) belonging to (or befitting) the sovereign (as land, dress, or a courtier) 3. (figuratively) preeminent
+βασίλισσα|noun|βασιλεύω|1. a queen
+βάσις|noun|---|1. a pace ("base") 2. (by implication) the foot
+βασκαίνω|verb|---|1. to malign 2. (by extension) to fascinate (by false representations)
+βαστάζω|verb|βάσις|1. to lift 2. (figuratively) endure, declare, sustain, receive, etc.
+βάτος|noun|---|1. a brier shrub
+βάτος|noun|בַּת|1. a bath, or measure for liquids
+βάτραχος|noun|---|1. a frog
+βαττολογέω|verb|λόγος|1. to stutter 2. (by implication) to talk repetitiously and tediously
+βδέλυγμα|noun|βδελύσσω|1. a detestation 2. (specially) idolatry
+βδελυκτός|adjective|βδελύσσω|1. detestable 2. (specially) idolatrous
+βδελύσσομαι|verb|---|1. to be disgusted 2. (by implication) detest (especially of idolatry)
+βέβαιος|adjective|βάσις|1. firm, steadfast, stable
+βεβαιόω|verb|βέβαιος|1. to make firm, steadfast 2. (figuratively) to confirm
+βεβαίωσις|noun|βεβαιόω|1. a confirmation
+βέβηλος|adjective|βάσις|1. accessible (as by crossing the door-way) 2. (by implication, of Jewish notions) profane, heathenish, wicked
+βεβηλόω|verb|βέβηλος|1. to profane, desecrate
+Βεελζεβούλ|Name Person|בַּעַל זְבוּב|1. dung-god 2. Beelzebul, a name of Satan
+Βελίαρ|Name Person|בְּלִיַעַל|1. worthlessness 2. Belial, as an epithet of Satan
+βέλος|noun|βάλλω|1. a missile, i.e. spear or arrow
+βελτίων|adverb|ἀγαθός|1. better
+Βενιαμίν|Name Person|בִּניָמִין|1. Benjamin, an Israelite
+Βερνίκη|Name Person|νίκη|1. victorious 2. Bernice, a member of the Herodian family
+Βέροια|Name Location|πέραν|1. Beroea, a place in Macedonia
 Βεροιαῖος|adjective/g.|Βέροια|1. a Beroeoean or native of Beroea
-Βηθαβαρά|Name Location|בַּיִת|1. ferry-house 2. Bethabara (i.e. Bethabarah), a place on the Jordan
-Βηθανία|Name Location|---|1. date-house 2. Beth-any, a place in Israel
-Βηθεσδά|Name Location|---|1. house of kindness 2. Beth-esda, a pool in Jerusalem
-Βηθλεέμ|Name Location|בֵּיתּ לְעַפרָה|1. Bethleem (i.e. Beth-lechem), a place in Israel
-Βηθσαϊδά|Name Location|---|1. fishing-house 2. Bethsaida, a place in Israel
-Βηθφαγή|Name Location|---|1. fig-house 2. Beth-phage, a place in Israel
+Βηθαβαρά|Name Location|בַּיִת|1. ferry-house 2. Bethabara (i.e. Bethabarah), a place on the Jordan
+Βηθανία|Name Location|---|1. date-house 2. Beth-any, a place in Israel
+Βηθεσδά|Name Location|---|1. house of kindness 2. Beth-esda, a pool in Jerusalem
+Βηθλεέμ|Name Location|בֵּיתּ לְעַפרָה|1. Bethleem (i.e. Beth-lechem), a place in Israel
+Βηθσαϊδά|Name Location|---|1. fishing-house 2. Bethsaida, a place in Israel
+Βηθφαγή|Name Location|---|1. fig-house 2. Beth-phage, a place in Israel
 βῆμα|noun|βάσις|1. a step, i.e. foot-breadth 2. (by implication) a raised platform for public speaking (rostrum), i.e. a tribunal
-βήρυλλος|noun|---|1. a "beryl" 2. a mineral of great hardness usually of blue or bluish green, but also yellow, pink, and white. (i.e. aquamarine and emerald)
-βία|noun|---|1. force, strength
-βιάζω|verb|βίος|1. to force 2. (reflexively) to crowd oneself (into) 3. (passively) to be seized
-βίαιος|adjective|βία|1. violent
-βιαστής|noun|βιάζω|1. a forcer 2. (figuratively) energetic
-βιβλιαρίδιον|noun|βιβλίον|1. a little scroll 2. a booklet
-βιβλίον|noun|βίβλος|1. a roll
-βίβλος|noun|---|1. (properly) the inner bark of the papyrus plant 2. (by implication) a scroll or sheet of writing
-βιβρώσκω|verb|βόσκω|1. to eat
-Βιθυνία|Name Location|---|1. Bithynia, a region of Asia
-βίος|noun|---|1. natural, physical life 2. (literally) the present state of bodily existence 3. (by implication) the means of livelihood
-βιόω|verb|βίος|1. to spend bodily existence
-βίωσις|noun|βιόω|1. living (physically, bodily) 2. (properly) the act of living 3. (by implication) the mode of living, i.e. habit or conduct
-βιωτικός|adjective|βιόω|1. relating to the present bodily existence
-βλαβερός|adjective|βλάπτω|1. injurious
-βλάπτω|verb|---|1. (properly) to hinder 2. (by implication) to injure
-βλαστάνω|verb|---|1. to germinate 2. (by implication) to yield fruit
-Βλάστος|Name Person|βλαστάνω|1. Blastus, an officer of Herod Agrippa
-βλασφημέω|verb|βλάσφημος|1. to vilify 2. (specially) to speak irreverently
-βλασφημία|noun|βλάσφημος|1. vilification (especially against God)
-βλάσφημος|adjective|φήμη|1. scurrilious, i.e. calumnious (against men) 2. (specially) irreverent (against God)
-βλέμμα|noun|βλέπω|1. vision (properly, concrete) 2. (by implication, abstract)
-βλέπω|verb|---|1. to look at
-βλητέος|adjective|βάλλω|1. fit to be cast (i.e. applied)
-Βοανεργές|Name Person|בֵּן|1. sons of commotion 2. Boanerges, an epithet of two of the apostles
-βοάω|verb|---|1. to cry, i.e. shout (for help or in a tumultuous way)
-βοή|noun|βοάω|1. a cry (or call) for aid, etc.
-βοήθεια|noun|βοηθός|1. aid 2. (specially) a rope or chain for frapping a vessel
-βοηθέω|verb|βοηθός|1. to aid or relieve
-βοηθός|noun|βοή|1. a helper that gives aid or relief in time of distress
-βόθυνος|noun|βαθύνω|1. a hole (in the ground) 2. (specially) a cistern
-βολή|noun|βάλλω|1. a throw (as a measure of distance)
-βολίζω|verb|βολίς|1. to heave the lead 2. (concretely) to measure the depth of the sea (i.e. to sound)
-βολίς|noun|βάλλω|1. a missile, i.e. javelin
-Βοόζ|Name Person|בּוֹעַז|1. Booz, (i.e. Boaz), an Israelite
-βόρβορος|noun|---|1. mud
-βορῥᾶς|noun|---|1. the north (properly, wind)
-βόσκω|verb|---|1. to pasture 2. (by extension) to feed with fodder 3. (reflexively) to graze
-Βοσόρ|Name Person|בְּעוֹר|1. Bosor (i.e. Beor), a Moabite
-βοτάνη|noun|βόσκω|1. herbage (as if for grazing)
-βότρυς|noun|---|1. a bunch (of grapes)
-βουλευτής|noun|βουλεύω|1. an adviser 2. (specially) a councillor or member of the Jewish Sanhedrin
-βουλεύω|verb|βουλή|1. to advise 2. (reflexively) deliberate 3. (by implication) resolve
-βουλή|noun|βούλομαι|1. volition, the act of willing or resolving 2. (objectively) advice 3. (by implication) purpose
-βούλημα|noun|βούλομαι|1. a resolve
-βούλομαι|verb|---|1. to "will" or resolve 2. (reflexively) be willing
-βουνός|noun|---|1. a hillock
+βήρυλλος|noun|---|1. a "beryl" 2. a mineral of great hardness usually of blue or bluish green, but also yellow, pink, and white. (i.e. aquamarine and emerald)
+βία|noun|---|1. force, strength
+βίαζομαι|verb|βίος|1. to force 2. (reflexively) to crowd oneself (into) 3. (passively) to be seized
+βίαιος|adjective|βία|1. violent
+βιαστής|noun|βιάζω|1. a forcer 2. (figuratively) energetic
+βιβλιδάριον|noun|βιβλίον|1. a little scroll 2. a booklet
+βιβλίον|noun|βίβλος|1. a roll
+βίβλος|noun|---|1. (properly) the inner bark of the papyrus plant 2. (by implication) a scroll or sheet of writing
+βιβρώσκω|verb|βόσκω|1. to eat
+βιθυνία|Name Location|---|1. Bithynia, a region of Asia
+βίος|noun|---|1. natural, physical life 2. (literally) the present state of bodily existence 3. (by implication) the means of livelihood
+βιόω|verb|βίος|1. to spend bodily existence
+βίωσις|noun|βιόω|1. living (physically, bodily) 2. (properly) the act of living 3. (by implication) the mode of living, i.e. habit or conduct
+βιωτικός|adjective|βιόω|1. relating to the present bodily existence
+βλαβερός|adjective|βλάπτω|1. injurious
+βλάπτω|verb|---|1. (properly) to hinder 2. (by implication) to injure
+βλαστάνω|verb|---|1. to germinate 2. (by implication) to yield fruit
+Βλάστος|Name Person|βλαστάνω|1. Blastus, an officer of Herod Agrippa
+βλασφημέω|verb|βλάσφημος|1. to vilify 2. (specially) to speak irreverently
+βλασφημία|noun|βλάσφημος|1. vilification (especially against God)
+βλάσφημος|adjective|φήμη|1. scurrilious, i.e. calumnious (against men) 2. (specially) irreverent (against God)
+βλέμμα|noun|βλέπω|1. vision (properly, concrete) 2. (by implication, abstract)
+βλέπω|verb|---|1. to look at
+βλητέος|adjective|βάλλω|1. fit to be cast (i.e. applied)
+Βοανεργές|Name Person|בֵּן|1. sons of commotion 2. Boanerges, an epithet of two of the apostles
+βοάω|verb|---|1. to cry, i.e. shout (for help or in a tumultuous way)
+βοή|noun|βοάω|1. a cry (or call) for aid, etc.
+βοήθεια|noun|βοηθός|1. aid 2. (specially) a rope or chain for frapping a vessel
+βοηθέω|verb|βοηθός|1. to aid or relieve
+βοηθός|noun|βοή|1. a helper that gives aid or relief in time of distress
+βόθυνος|noun|βαθύνω|1. a hole (in the ground) 2. (specially) a cistern
+βολή|noun|βάλλω|1. a throw (as a measure of distance)
+βολίζω|verb|βολίς|1. to heave the lead 2. (concretely) to measure the depth of the sea (i.e. to sound)
+βολίς|noun|βάλλω|1. a missile, i.e. javelin
+Βοόζ|Name Person|בּוֹעַז|1. Booz, (i.e. Boaz), an Israelite
+βόρβορος|noun|---|1. mud
+βορρᾶς|noun|---|1. the north (properly, wind)
+βόσκω|verb|---|1. to pasture 2. (by extension) to feed with fodder 3. (reflexively) to graze
+Βοσόρ|Name Person|בְּעוֹר|1. Bosor (i.e. Beor), a Moabite
+βοτάνη|noun|βόσκω|1. herbage (as if for grazing)
+βότρυς|noun|---|1. a bunch (of grapes)
+βουλευτής|noun|βουλεύω|1. an adviser 2. (specially) a councillor or member of the Jewish Sanhedrin
+βουλεύω|verb|βουλή|1. to advise 2. (reflexively) deliberate 3. (by implication) resolve
+βουλή|noun|βούλομαι|1. volition, the act of willing or resolving 2. (objectively) advice 3. (by implication) purpose
+βούλημα|noun|βούλομαι|1. a resolve
+βούλομαι|verb|---|1. to "will" or resolve 2. (reflexively) be willing
+βουνός|noun|---|1. a hillock
 βοῦς|noun|βόσκω|1. an ox (as grazing), i.e. an animal of that species ("beef")
 βραβεῖον|noun|---|1. an award (of arbitration) 2. (specially) a prize in the public games
-βραβεύω|verb|---|1. to arbitrate 2. (genitive case) to govern 3. (figuratively) to prevail
-βραδύνω|verb|βραδύς|1. to delay
-βραδυπλοέω|verb|πλέω|1. to sail slowly
-βραδύς|adjective|---|1. slow 2. (figuratively) dull
-βραδύτης|noun|βραδύς|1. tardiness
-βραχίων|noun|βραχύς|1. the arm 2. (figuratively) strength
-βραχύς|adjective|---|1. short
-βρέφος|noun|---|1. an infant, (properly) unborn
-βρέχω|verb|---|1. to moisten (especially by a shower)
-βροντή|noun|---|1. thunder
-βροχή|noun|βρέχω|1. rain
-βρόχος|noun|---|1. a noose
-βρυγμός|noun|βρύχω|1. a grating (of the teeth)
-βρύχω|verb|---|1. to grate the teeth (in pain or rage)
-βρύω|verb|---|1. to swell out 2. (by implication) to gush
+βραβεύω|verb|---|1. to arbitrate 2. (genitive case) to govern 3. (figuratively) to prevail
+βραδύνω|verb|βραδύς|1. to delay
+βραδυπλοέω|verb|πλέω|1. to sail slowly
+βραδύς|adjective|---|1. slow 2. (figuratively) dull
+βραδυτής|noun|βραδύς|1. tardiness
+βραχίων|noun|βραχύς|1. the arm 2. (figuratively) strength
+βραχύς|adjective|---|1. short
+βρέφος|noun|---|1. an infant, (properly) unborn
+βρέχω|verb|---|1. to moisten (especially by a shower)
+βροντή|noun|---|1. thunder
+βροχή|noun|βρέχω|1. rain
+βρόχος|noun|---|1. a noose
+βρυγμός|noun|βρύχω|1. a grating (of the teeth)
+βρύχω|verb|---|1. to grate the teeth (in pain or rage)
+βρύω|verb|---|1. to swell out 2. (by implication) to gush
 βρῶμα|noun|βιβρώσκω|1. food 2. (ceremonially) especially articles allowed or forbidden by the Jewish law
-βρώσιμος|adjective|βρῶσις|1. edible
+βρώσιμος|adjective|βρῶσις|1. edible
 βρῶσις|noun|βιβρώσκω|1. (abstractly) eating 2. (by extension, concretely) food
-βυθίζω|verb|βυθός|1. to sink 2. (by implication) to drown
-βυθός|noun|βάθος|1. depth 2. (by implication) the sea
-βυρσεύς|noun|---|1. a tanner
-βύσσινος|adjective|βύσσος|1. made of linen (neuter a linen cloth)
-βύσσος|noun|בּוּץ|1. white linen
-βῶμος|noun|βάσις|1. (properly) a stand 2. (specially) an altar
-γαββαθά|noun|---|1. the knoll 2. gabbatha, a vernacular term for the Roman tribunal in Jerusalem
-Γαβριήλ|Name Person|גַּברִיאֵל|1. Gabriel, an archangel
-γάγγραινα|noun|---|1. an ulcer, ("gangrene")
-Γάδ|Name Person|גָּד|1. Gad, a tribe of Israelites
-Γαδαρηνός|adjective/g.|---|1. a Gadarene or inhabitant of Gadara
-γάζα|noun|---|1. a treasure
-Γάζα|Name Location|עַזָּה|1. Gazah (i.e. Azzah), a place in Israel
-γαζοφυλάκιον|noun|φυλακή|1. a treasure-house, i.e. a court in the temple for the collection-boxes
-Γάϊος|Name Person|---|1. Gaius (i.e. Caius), a Christian
-γάλα|noun|---|1. (figuratively) milk
-Γαλάτης|Name/g.|Γαλατία|1. a Galatian or inhabitant of Galatia
-Γαλατία|Name Location|---|1. Galatia, a region of Asia
-Γαλατικός|adjective/g.|Γαλατία|1. Galatic or relating to Galatia
-γαλήνη|noun|---|1. tranquillity
-Γαλιλαία|Name Location|גָּלִיל גָּלִילָה|1. known as the heathen circle 2. Galiloea, a region of Israel
+βυθίζω|verb|βυθός|1. to sink 2. (by implication) to drown
+βυθός|noun|βάθος|1. depth 2. (by implication) the sea
+βυρσεύς|noun|---|1. a tanner
+βύσσινος|adjective|βύσσος|1. made of linen (neuter a linen cloth)
+βύσσος|noun|בּוּץ|1. white linen
+βωμός|noun|βάσις|1. (properly) a stand 2. (specially) an altar
+Γαββαθᾶ|noun|---|1. the knoll 2. gabbatha, a vernacular term for the Roman tribunal in Jerusalem
+Γαβριήλ|Name Person|גַּברִיאֵל|1. Gabriel, an archangel
+γάγγραινα|noun|---|1. an ulcer, ("gangrene")
+Γάδ|Name Person|גָּד|1. Gad, a tribe of Israelites
+Γαδαρηνός|adjective/g.|---|1. a Gadarene or inhabitant of Gadara
+γάζα|noun|---|1. a treasure
+Γάζα|Name Location|עַזָּה|1. Gazah (i.e. Azzah), a place in Israel
+γαζοφυλάκιον|noun|φυλακή|1. a treasure-house, i.e. a court in the temple for the collection-boxes
+Γάϊος|Name Person|---|1. Gaius (i.e. Caius), a Christian
+γάλα|noun|---|1. (figuratively) milk
+Γαλάτης|Name/g.|Γαλατία|1. a Galatian or inhabitant of Galatia
+Γαλατία|Name Location|---|1. Galatia, a region of Asia
+Γαλατικός|adjective/g.|Γαλατία|1. Galatic or relating to Galatia
+γαλήνη|noun|---|1. tranquillity
+Γαλιλαία|Name Location|גָּלִיל גָּלִילָה|1. known as the heathen circle 2. Galiloea, a region of Israel
 Γαλιλαῖος|Name/g.|Γαλιλαία|1. Galilean or belonging to Galilea
-Γαλλίων|Name Person|---|1. Gallion (i.e. Gallio), a Roman officer
-Γαμαλιήλ|Name Person|גַּמלִיאֵל|1. Gamaliel (i.e. Gamliel), an Israelite
-γαμέω|verb|γάμος|1. to wed (of either sex)
-γαμίσκω|verb|γάμος|1. to espouse (a daughter to a husband)
-γάμος|noun|---|1. nuptials
-γάρ|conjunction|---|1. (properly) assigning a reason
-γαστήρ|noun|---|1. the stomach 2. (by analogy) the matrix 3. (figuratively) a gourmand
-γέ|particle|---|1. of emphasis or qualification
-Γεδεών|Name Person|גִּדעוֹן|1. Gedeon (i.e. Gid(e)on), an Israelite
-γέεννα|noun|גַּיא גַּי|1. valley of (the son of) Hinnom 2. ge-henna (or Ge-Hinnom), a valley of Jerusalem,
+Γαλλίων|Name Person|---|1. Gallion (i.e. Gallio), a Roman officer
+Γαμαλιήλ|Name Person|גַּמלִיאֵל|1. Gamaliel (i.e. Gamliel), an Israelite
+γαμέω|verb|γάμος|1. to wed (of either sex)
+γαμίσκω|verb|γάμος|1. to espouse (a daughter to a husband)
+γάμος|noun|---|1. nuptials
+γάρ|conjunction|---|1. (properly) assigning a reason
+γαστήρ|noun|---|1. the stomach 2. (by analogy) the matrix 3. (figuratively) a gourmand
+γε|particle|---|1. of emphasis or qualification
+Γεδεών|Name Person|גִּדעוֹן|1. Gedeon (i.e. Gid(e)on), an Israelite
+γέεννα|noun|גַּיא גַּי|1. valley of (the son of) Hinnom 2. ge-henna (or Ge-Hinnom), a valley of Jerusalem,
 Γεθσημανῆ|Name Location|---|1. oil-press 2. Gethsemane, a garden near Jerusalem
-γείτων|noun|γῆ|1. a neighbour (as adjoining one's ground) 2. (by implication) a friend
-γελάω|verb|---|1. to laugh (as a sign of joy or satisfaction)
-γέλως|noun|γελάω|1. laughter (as a mark of gratification)
-γεμίζω|verb|γέμω|1. to fill entirely
-γέμω|verb|---|1. to swell out, i.e. be full
-γενεά|noun|γεννάω|1. a generation 2. (by implication) an age (the period or the persons)
-γενεαλογέω|verb|λόγος|1. to reckon by generations, i.e. trace in genealogy
-γενεαλογία|noun|λόγος|1. tracing by generations, i.e. "genealogy"
-γενέσια|noun|γένεσις|1. birthday ceremonies
-γένεσις|noun|γεννάω|1. nativity 2. (figuratively) nature
-γενετή|noun|γενεά|1. birth
-γεννάω|verb|γεννάω|1. (properly, of the father) to procreate 2. (by extension, of the mother) to conceive 3. (figuratively) to regenerate
-γέννημα|noun|γεννάω|1. offspring 2. (by analogy) produce
-Γεννησαρέτ|Name Location|---|1. Gennesaret (i.e. Kinnereth), a lake and plain in Israel
-γέννησις|noun|γεννάω|1. nativity
-γεννητός|adjective|γεννάω|1. born
-γένος|noun|γίνομαι|1. kin
-Γεργεσηνός|Name/g.|גִּרגָּשִׁי|1. a Gergesene (i.e. Girgashite) or one of the aborigines of Israel
-γερουσία|noun|γέρων|1. the eldership 2. (collectively) the Jewish Sanhedrin
-γέρων|noun|---|1. old (man)
-γεύομαι|verb|---|1. to taste 2. (by implication) to eat 3. (figuratively) to experience (good or ill)
-γεωργέω|verb|γεωργός|1. to till (the soil)
-γεώργιον|noun|γεωργός|1. cultivable, i.e. a farm
-γεωργός|noun|ἔργον|1. a land-worker, i.e. farmer
+γείτων|noun|γῆ|1. a neighbour (as adjoining one's ground) 2. (by implication) a friend
+γελάω|verb|---|1. to laugh (as a sign of joy or satisfaction)
+γέλως|noun|γελάω|1. laughter (as a mark of gratification)
+γεμίζω|verb|γέμω|1. to fill entirely
+γέμω|verb|---|1. to swell out, i.e. be full
+γενεά|noun|γεννάω|1. a generation 2. (by implication) an age (the period or the persons)
+γενεαλογέω|verb|λόγος|1. to reckon by generations, i.e. trace in genealogy
+γενεαλογία|noun|λόγος|1. tracing by generations, i.e. "genealogy"
+γενέσια|noun|γένεσις|1. birthday ceremonies
+γένεσις|noun|γεννάω|1. nativity 2. (figuratively) nature
+γενετή|noun|γενεά|1. birth
+γεννάω|verb|γεννάω|1. (properly, of the father) to procreate 2. (by extension, of the mother) to conceive 3. (figuratively) to regenerate
+γέννημα|noun|γεννάω|1. offspring 2. (by analogy) produce
+Γεννησαρέτ|Name Location|---|1. Gennesaret (i.e. Kinnereth), a lake and plain in Israel
+γέννησις|noun|γεννάω|1. nativity
+γεννητός|adjective|γεννάω|1. born
+γένος|noun|γίνομαι|1. kin
+Γεργεσηνός|Name/g.|גִּרגָּשִׁי|1. a Gergesene (i.e. Girgashite) or one of the aborigines of Israel
+γερουσία|noun|γέρων|1. the eldership 2. (collectively) the Jewish Sanhedrin
+γέρων|noun|---|1. old (man)
+γεύομαι|verb|---|1. to taste 2. (by implication) to eat 3. (figuratively) to experience (good or ill)
+γεωργέω|verb|γεωργός|1. to till (the soil)
+γεώργιον|noun|γεωργός|1. cultivable, i.e. a farm
+γεωργός|noun|ἔργον|1. a land-worker, i.e. farmer
 γῆ|noun|---|1. soil 2. (by extension) a region, or the solid part or the whole of the earthly globe (including the occupants in each application)
-γήρας|noun|---|1. old age
-γηράσκω|verb|γήρας|1. to grow old
-γίνομαι|verb|γίνομαι|1. to cause to be ("gen"-erate) 2. (reflexively) to become (come into being)
-γινώσκω|verb|---|1. to "know" (absolutely)
-γλεύκος|noun|---|1. sweet wine 2. (properly) fresh, unfermented juice, but used of the more sugary, fermented wine (and therefore highly inebriating)
-γλυκύς|adjective|---|1. sweet (i.e. not bitter nor salt)
+γῆρας|noun|---|1. old age
+γηράσκω|verb|γήρας|1. to grow old
+γίνομαι|verb|γίνομαι|1. to cause to be ("gen"-erate) 2. (reflexively) to become (come into being)
+γινώσκω|verb|---|1. to "know" (absolutely)
+γλεῦκος|noun|---|1. sweet wine 2. (properly) fresh, unfermented juice, but used of the more sugary, fermented wine (and therefore highly inebriating)
+γλυκύς|adjective|---|1. sweet (i.e. not bitter nor salt)
 γλῶσσα|noun|---|1. the tongue 2. (by implication) a language 3. (specially) a language not naturally acquired
-γλωσσόκομον|noun|κόσμος|1. (properly) a case (to keep mouthpieces of wind-instruments in) i.e. (by extension) a casket or (specially) purse
-γναφεύς|noun|---|1. a cloth-dresser
-γνήσιος|adjective|γένεσις|1. legitimate (of birth), i.e. genuine
-γνησίως|adverb|γνήσιος|1. genuinely, i.e. really
-γνόφος|noun|---|1. gloom (as of a storm) 2. stormy gloom
-γνώμη|noun|γινώσκω|1. cognition 2. (subjectively) opinion 3. (objectively) resolve (counsel, consent, etc.)
-γνωρίζω|verb|γινώσκω|1. to make known 2. (subjectively) to know
+γλωσσόκομον|noun|κόσμος|1. (properly) a case (to keep mouthpieces of wind-instruments in) i.e. (by extension) a casket or (specially) purse
+γναφεύς|noun|---|1. a cloth-dresser
+γνήσιος|adjective|γένεσις|1. legitimate (of birth), i.e. genuine
+γνησίως|adverb|γνήσιος|1. genuinely, i.e. really
+γνόφος|noun|---|1. gloom (as of a storm) 2. stormy gloom
+γνώμη|noun|γινώσκω|1. cognition 2. (subjectively) opinion 3. (objectively) resolve (counsel, consent, etc.)
+γνωρίζω|verb|γινώσκω|1. to make known 2. (subjectively) to know
 γνῶσις|noun|γινώσκω|1. knowing (the act) 2. (by implication) knowledge
-γνώστης|noun|γινώσκω|1. an expert, a connoisseur
-γνωστός|adjective|γινώσκω|1. known (absolutely) 2. (of things) understood clearly as fact or truth 3. (of people)  well-known, well-acquainted
-γογγύζω|verb|---|1. to grumble
-γογγυσμός|noun|γογγύζω|1. a grumbling
-γογγυστής|noun|γογγύζω|1. a grumbler
-γόης|noun|---|1. (properly) a wizard (as muttering spells) 2. (by implication) an imposter
+γνώστης|noun|γινώσκω|1. an expert, a connoisseur
+γνωστός|adjective|γινώσκω|1. known (absolutely) 2. (of things) understood clearly as fact or truth 3. (of people)  well-known, well-acquainted
+γογγύζω|verb|---|1. to grumble
+γογγυσμός|noun|γογγύζω|1. a grumbling
+γογγυστής|noun|γογγύζω|1. a grumbler
+γόης|noun|---|1. (properly) a wizard (as muttering spells) 2. (by implication) an imposter
 Γολγοθᾶ|Name Location|---|1. the skull 2. Golgotha, a knoll near Jerusalem
-Γόμορῥα|Name Location|עֲמוֹרָה|1. Gomorrha (i.e. Amorah), a place near the Dead Sea
-γόμος|noun|γέμω|1. a load (as filling) 2. (specially) a cargo 3. (by extension) wares
-γονεύς|noun|γίνομαι|1. a parent
-γονύ|noun|---|1. the "knee"
-γονυπετέω|verb|πίπτω|1. to fall on the knee
-γράμμα|noun|γράφω|1. a writing, i.e. a letter, note, epistle, book, etc. 2. (plural) learning
-γραμματεύς|noun|γράμμα|1. a writer 2. (professionally) scribe or secretary
-γραπτός|adjective|γράφω|1. inscribed (figuratively)
-γραφή|noun|---|1. a document, i.e. holy Writ (or its contents or a statement in it)
-γράφω|verb|---|1. to "grave", especially to write 2. (figuratively) to describe
-γραώδης|adjective|εἶδος|1. crone-like, i.e. silly
-γρηγορεύω|verb|ἐγείρω|1. to keep awake, i.e. watch
-γυμνάζω|verb|γυμνός|1. to practise naked (in the games), i.e. train (figuratively)
-γυμνασία|noun|γυμνάζω|1. training 2. (figuratively) asceticism
-γυμνητεύω|verb|γυμνός|1. to strip 2. (reflexively) go poorly clad
-γυμνός|adjective|---|1. nude
-γυμνότης|noun|γυμνός|1. nudity (absolute or comparative)
-γυναικάριον|noun|γυνή|1. a little (i.e. foolish) woman
+Γόμορρα|Name Location|עֲמוֹרָה|1. Gomorrha (i.e. Amorah), a place near the Dead Sea
+γόμος|noun|γέμω|1. a load (as filling) 2. (specially) a cargo 3. (by extension) wares
+γονεύς|noun|γίνομαι|1. a parent
+γόνυ|noun|---|1. the "knee"
+γονυπετέω|verb|πίπτω|1. to fall on the knee
+γράμμα|noun|γράφω|1. a writing, i.e. a letter, note, epistle, book, etc. 2. (plural) learning
+γραμματεύς|noun|γράμμα|1. a writer 2. (professionally) scribe or secretary
+γραπτός|adjective|γράφω|1. inscribed (figuratively)
+γραφή|noun|---|1. a document, i.e. holy Writ (or its contents or a statement in it)
+γράφω|verb|---|1. to "grave", especially to write 2. (figuratively) to describe
+γραώδης|adjective|εἶδος|1. crone-like, i.e. silly
+γρηγορέω|verb|ἐγείρω|1. to keep awake, i.e. watch
+γυμνάζω|verb|γυμνός|1. to practise naked (in the games), i.e. train (figuratively)
+γυμνασία|noun|γυμνάζω|1. training 2. (figuratively) asceticism
+γυμνητεύω|verb|γυμνός|1. to strip 2. (reflexively) go poorly clad
+γυμνός|adjective|---|1. nude
+γυμνότης|noun|γυμνός|1. nudity (absolute or comparative)
+γυναικάριον|noun|γυνή|1. a little (i.e. foolish) woman
 γυναικεῖος|adjective|γυνή|1. feminine
-γυνή|noun|γίνομαι|1. a woman 2. (specially) a wife
-Γώγ|Name Person|גּוֹג|1. Gog, a symbolic name for some future Antichrist
-γωνία|noun|---|1. an angle
-Δαβίδ|Name Person|דָּוִד דָּוִידּ|1. Dabid (i.e. David), the Israelite king
-δαιμονίζομαι|verb|δαίμων|1. to be exercised by a demon
-δαιμόνιον|noun|δαίμων|1. a demonic being 2. (by extension) a deity
-δαιμονιώδης|adjective|δαίμων|1. dæmon-like, demonic
-δαίμων|noun|---|1. a demon or supernatural spirit (of a bad nature)
-δάκνω|verb|---|1. to bite 2. (figuratively) thwart
-δάκρυ|noun|---|1. a tear
-δακρύω|verb|δάκρυ|1. to shed tears
-δακτύλιος|noun|δάκτυλος|1. a finger-ring
-δάκτυλος|noun|δέκα|1. a finger
-Δαλμανουθά|Name Location|---|1. Dalmanutha, a place in Israel
-Δαλματία|Name Location|---|1. Dalmatia, a region of Europe
-δαμάζω|verb|---|1. to tame
-δάμαλις|noun|δαμάζω|1. a heifer (as tame)
-Δάμαρις|Name Person|δαμάζω|1. perhaps gentle 2. Damaris, an Athenian woman
-Δαμασκηνός|adjective/g.|Δαμασκός|1. a Damascene or inhabitant of Damascus
-Δαμασκός|Name Location|דַּמֶּשֶׂק|1. Damascus, a city of Syria
-δανείζω|verb|δάνειον|1. to loan on interest 2. (reflexively) to borrow
-δάνειον|noun|δίδωμι|1. a loan
-δανειστής|noun|δανείζω|1. a lender
-Δανιήλ|Name Person|דָּנִיֵאל דָּנִאֵל|1. Daniel, an Israelite
-δαπανάω|verb|δαπάνη|1. to expend 2. (in a good sense) to incur cost 3. (in a bad sense) to waste
-δαπάνη|noun|---|1. expense (as consuming)
-δέ|conjunction|---|1. but, and, etc.
-δέησις|noun|δέομαι|1. a petition
+γυνή|noun|γίνομαι|1. a woman 2. (specially) a wife
+Γώγ|Name Person|גּוֹג|1. Gog, a symbolic name for some future Antichrist
+γωνία|noun|---|1. an angle
+Δαυίδ|Name Person|דָּוִד דָּוִידּ|1. Dabid (i.e. David), the Israelite king
+δαιμονίζομαι|verb|δαίμων|1. to be exercised by a demon
+δαιμόνιον|noun|δαίμων|1. a demonic being 2. (by extension) a deity
+δαιμονιώδης|adjective|δαίμων|1. dæmon-like, demonic
+δαίμων|noun|---|1. a demon or supernatural spirit (of a bad nature)
+δάκνω|verb|---|1. to bite 2. (figuratively) thwart
+δάκρυον|noun|---|1. a tear
+δακρύω|verb|δάκρυ|1. to shed tears
+δακτύλιος|noun|δάκτυλος|1. a finger-ring
+δάκτυλος|noun|δέκα|1. a finger
+Δαλμανουθά|Name Location|---|1. Dalmanutha, a place in Israel
+Δαλματία|Name Location|---|1. Dalmatia, a region of Europe
+δαμάζω|verb|---|1. to tame
+δάμαλις|noun|δαμάζω|1. a heifer (as tame)
+Δάμαρις|Name Person|δαμάζω|1. perhaps gentle 2. Damaris, an Athenian woman
+Δαμασκηνός|adjective/g.|Δαμασκός|1. a Damascene or inhabitant of Damascus
+Δαμασκός|Name Location|דַּמֶּשֶׂק|1. Damascus, a city of Syria
+δανείζω|verb|δάνειον|1. to loan on interest 2. (reflexively) to borrow
+δάνειον|noun|δίδωμι|1. a loan
+δανειστής|noun|δανείζω|1. a lender
+Δανιήλ|Name Person|דָּנִיֵאל דָּנִאֵל|1. Daniel, an Israelite
+δαπανάω|verb|δαπάνη|1. to expend 2. (in a good sense) to incur cost 3. (in a bad sense) to waste
+δαπάνη|noun|---|1. expense (as consuming)
+δέ|conjunction|---|1. but, and, etc.
+δέησις|noun|δέομαι|1. a petition
 δεῖ|verb|δέω|1. it is (was, etc.) necessary (as binding)
 δεῖγμα|noun|δεικνύω|1. a specimen (as shown)
-δειγματίζω|verb|δεῖγμα|1. to exhibit
-δεικνύω|verb|---|1. to show
-δειλία|noun|δειλός|1. timidity
-δειλιάω|verb|δειλία|1. to be timid
-δειλός|adjective|---|1. timid 2. (by implication) faithless
+δειγματίζω|verb|δεῖγμα|1. to exhibit
+δείκνυμι|verb|---|1. to show
+δειλία|noun|δειλός|1. timidity
+δειλιάω|verb|δειλία|1. to be timid
+δειλός|adjective|---|1. timid 2. (by implication) faithless
 δεῖνα|adjective|---|1. so and so (when the person is not specified)
 δεινῶς|adverb|---|1. terribly, i.e. excessively
-δειπνέω|verb|δεῖπνον|1. to dine, i.e. take the principle (or evening) meal
+δειπνέω|verb|δεῖπνον|1. to dine, i.e. take the principle (or evening) meal
 δεῖπνον|noun|---|1. dinner, i.e. the chief meal (usually in the evening)
-δεισιδαιμονέστερος|adjective|δαίμων|1. more religious than others
-δεισιδαιμονία|noun|δαίμων|1. religion
-δέκα|noun|---|1. ten
-δεκαδύο|noun|δύο|1. two and ten, i.e. twelve
-δεκαπέντε|noun|πέντε|1. ten and five, i.e. fifteen
-Δεκάπολις|Name Location|πόλις|1. the ten-city region 2. the Decapolis, a district in Syria
-δεκατέσσαρες|noun|τέσσαρες|1. ten and four, i.e. fourteen
-δεκάτη|adjective|δέκατος|1. a tenth, i.e. as a percentage 2. (technically) a tithe
-δέκατος|adjective|δέκα|1. tenth
-δεκατόω|verb|δεκάτη|1. to tithe, i.e. to give, take, or receive a tenth
-δεκτός|adjective|δέχομαι|1. approved 2. (figuratively) propitious
-δελεάζω|verb|δόλος|1. to entrap 2. (figuratively) delude
-δένδρον|noun|---|1. a tree
-δεξιολάβος|noun|λαμβάνω|1. a guardsman (as if taking the right) or light-armed soldier
-δεξιός|adjective|δέχομαι|1. the right side or (feminine) hand (as that which usually takes)
-δέομαι|verb|δέω|1. to beg (as binding oneself), i.e. petition
+δεισιδαίμων|adjective|δαίμων|1. more religious than others
+δεισιδαιμονία|noun|δαίμων|1. religion
+δέκα|noun|---|1. ten
+δεκαδύο|noun|δύο|1. two and ten, i.e. twelve
+δεκαπέντε|noun|πέντε|1. ten and five, i.e. fifteen
+Δεκάπολις|Name Location|πόλις|1. the ten-city region 2. the Decapolis, a district in Syria
+δεκατέσσαρες|noun|τέσσαρες|1. ten and four, i.e. fourteen
+δεκάτη|adjective|δέκατος|1. a tenth, i.e. as a percentage 2. (technically) a tithe
+δέκατος|adjective|δέκα|1. tenth
+δεκατόω|verb|δεκάτη|1. to tithe, i.e. to give, take, or receive a tenth
+δεκτός|adjective|δέχομαι|1. approved 2. (figuratively) propitious
+δελεάζω|verb|δόλος|1. to entrap 2. (figuratively) delude
+δένδρον|noun|---|1. a tree
+δεξιόλαβος|noun|λαμβάνω|1. a guardsman (as if taking the right) or light-armed soldier
+δεξιός|adjective|δέχομαι|1. the right side or (feminine) hand (as that which usually takes)
+δέομαι|verb|δέω|1. to beg (as binding oneself), i.e. petition
 Δερβαῖος|adjective/g.|Δέρβη|1. a Derbæan or inhabitant of Derbe
-Δέρβη|Name Location|---|1. Derbe, a place in Asia Minor
-δέρμα|noun|δέρω|1. a hide
-δερμάτινος|adjective|δέρμα|1. made of hide
-δέρω|verb|---|1. (properly) to flay 2. (by implication) to scourge 3. (by analogy) to thrash
-δεσμεύω|verb|δεσμέω|1. to be a binder (captor), i.e. to enchain (a prisoner), to tie on (a load)
-δεσμέω|verb|δεσμόν|1. to tie, i.e. shackle
-δεσμή|noun|δεσμέω|1. a bundle
-δέσμιος|noun|δεσμόν|1. a captive (as bound)
-δεσμόν|noun|δέω|1. a band, i.e. ligament (of the body) or shackle (of a prisoner) 2. (figuratively) an impediment or disability
-δεσμοφύλαξ|noun|φύλαξ|1. a jailer (as guarding the prisoners)
-δεσμωτήριον|noun|δεσμέω|1. a place of bondage, i.e. a dungeon
-δεσμώτης|noun|δεσμέω|1. (passively) a captive
-δεσπότης|noun|δέω|1. an absolute ruler ("despot")
+Δέρβη|Name Location|---|1. Derbe, a place in Asia Minor
+δέρμα|noun|δέρω|1. a hide
+δερμάτινος|adjective|δέρμα|1. made of hide
+δέρω|verb|---|1. (properly) to flay 2. (by implication) to scourge 3. (by analogy) to thrash
+δεσμεύω|verb|δεσμέω|1. to be a binder (captor), i.e. to enchain (a prisoner), to tie on (a load)
+δεσμέω|verb|δεσμόν|1. to tie, i.e. shackle
+δέσμη|noun|δεσμέω|1. a bundle
+δέσμιος|noun|δεσμόν|1. a captive (as bound)
+δεσμός|noun|δέω|1. a band, i.e. ligament (of the body) or shackle (of a prisoner) 2. (figuratively) an impediment or disability
+δεσμοφύλαξ|noun|φύλαξ|1. a jailer (as guarding the prisoners)
+δεσμωτήριον|noun|δεσμέω|1. a place of bondage, i.e. a dungeon
+δεσμώτης|noun|δεσμέω|1. (passively) a captive
+δεσπότης|noun|δέω|1. an absolute ruler ("despot")
 δεῦρο|adverb|---|1. here
 δεῦτε|verb|δεῦρο|1. come hither!
 δευτεραῖος|adjective|δεύτερος|1. secondary 2. (specially) on the second day
-δευτερόπρωτος|adjective|πρῶτος|1. second-first 2. (specially) a designation of the Sabbath immediately after the Paschal week (being the second after Passover day, and the first of the seven Sabbaths intervening before Pentecost)
-δεύτερος|adjective|δύο|1. second (in time, place, or rank) 2. (also adverb) secondly
-δέχομαι|verb|---|1. to receive
-δέω|verb|---|1. to bind 2. (regarding marriage) to be bethrothed, to pledge to give oneself in marriage
-δή|particle|---|1. now, then, etc.
+δευτερόπρωτος|adjective|πρῶτος|1. second-first 2. (specially) a designation of the Sabbath immediately after the Paschal week (being the second after Passover day, and the first of the seven Sabbaths intervening before Pentecost)
+δεύτερος|adjective|δύο|1. second (in time, place, or rank) 2. (also adverb) secondly
+δέχομαι|verb|---|1. to receive
+δέω|verb|---|1. to bind 2. (regarding marriage) to be bethrothed, to pledge to give oneself in marriage
+δή|particle|---|1. now, then, etc.
 δῆλος|adjective|---|1. clear
-δηλόω|verb|δῆλος|1. to make plain (by words)
+δηλόω|verb|δῆλος|1. to make plain (by words)
 Δημᾶς|Name Person|Δημήτριος|1. Demas, a Christian
-δημηγορέω|verb|ἀγορά|1. to be a people-gatherer, i.e. to address a public assembly
-Δημήτριος|Name Person|---|1. Demetrius, the name of an Ephesian and of a Christian
-δημιουργός|noun|ἔργον|1. a worker for the people, i.e. mechanic (spoken of the Creator)
+δημηγορέω|verb|ἀγορά|1. to be a people-gatherer, i.e. to address a public assembly
+Δημήτριος|Name Person|---|1. Demetrius, the name of an Ephesian and of a Christian
+δημιουργός|noun|ἔργον|1. a worker for the people, i.e. mechanic (spoken of the Creator)
 δῆμος|noun|δέω|1. the public (as bound together socially)
-δημόσιος|adjective|δῆμος|1. public 2. (feminine singular dative case as adverb) in public
-δηνάριον|noun|---|1. a denarius (or ten asses)
-δήποτε|particle|ποτέ|1. indeed, at any time
-δήπου|adverb|πού|1. indeed doubtless
-διά|preposition|---|1. through
-διαβαίνω|verb|βάσις|1. to cross
-διαβάλλω|verb|βάλλω|1. (figuratively) to slander
-διαβεβαιόομαι|verb|βεβαιόω|1. to confirm thoroughly (by words), i.e. asseverate
-διαβλέπω|verb|βλέπω|1. to look through, i.e. recover full vision
-διάβολος|adjective|διαβάλλω|1. a slanderer 2. (specially) Satan
-διαγγέλλω|verb|ἄγγελος|1. to herald thoroughly
-διαγίνομαι|verb|γίνομαι|1. to elapse meanwhile
-διαγινώσκω|verb|γινώσκω|1. to know thoroughly, i.e. ascertain exactly
-διαγνωρίζω|verb|γνωρίζω|1. to tell abroad
-διάγνωσις|noun|διαγινώσκω|1. (magisterial) examination ("diagnosis")
-διαγογγύζω|verb|γογγύζω|1. to complain throughout a crowd
-διαγρηγορέω|verb|γρηγορεύω|1. to waken thoroughly
-διάγω|verb|ἄγω|1. to pass time or life
-διαδέχομαι|verb|δέχομαι|1. to receive in turn 2. (figuratively) succeed to
-διάδημα|noun|δέω|1. a "diadem" (as bound about the head)
-διαδίδωμαι|verb|δίδωμι|1. to give throughout a crowd, i.e. deal out 2. also to deliver over (as to a successor)
-διάδοχος|noun|διαδέχομαι|1. a successor in office
-διαζώννυμι|verb|ζώννυμι|1. to gird tightly
-διαθήκη|noun|διατίθεμαι|1. (properly) a disposition 2. (specially) a contract (especially a devisory will)
-διαίρεσις|noun|διαιρέω|1. a distinction or (concretely) variety
-διαιρέω|verb|αἱρέομαι|1. to separate, i.e. distribute
-διακαθαρίζω|verb|καθαρίζω|1. to cleanse perfectly 2. (specially) winnow
-διακατελέγχομαι|verb|κατά|1. to prove downright, i.e. confute
-διακονέω|verb|διάκονος|1. to be an attendant, to wait upon (menially or as a host, friend) 2. (figuratively) to serve as a teacher 3. (technically) to act as a Christian steward (deacon)
-διακονία|noun|διάκονος|1. attendance (as a servant, etc.) 2. (figuratively) charitable aid 3. (especially) official service of the Christian teacher 4. (technically) official service of the body of stewards (deacons)
-διάκονος|noun|---|1. an attendant, a servant 2. (genitive case) a waiter (at table or in other menial duties) 3. (specially) a male Christian serving in a specific function and post (i.e. tending the widows and the poor, teaching, pastoring, etc)
-διακόσιοι|noun|ἑκατόν|1. two hundred
-διακούομαι|verb|ἀκούω|1. to hear throughout, i.e. patiently listen (to a prisoner's plea)
-διακρίνω|verb|κρίνω|1. to separate thoroughly 2. (literally and reflexively) to withdraw from 3. (by implication) oppose 4. (figuratively) to discriminate 5. (by implication) decide 6. (reflexively) hesitate
-διάκρισις|noun|διακρίνω|1. judicial estimation
-διακωλύω|verb|κωλύω|1. to hinder altogether, i.e. utterly prohibit
-διαλαλέω|verb|λαλέω|1. to talk throughout a company, i.e. converse or (genitive case) publish
-διαλέγομαι|verb|λέγω|1. to say thoroughly, i.e. discuss (in argument or exhortation)
-διαλείπω|verb|λείπω|1. to leave off in the middle, i.e. intermit
-διάλεκτος|noun|διαλέγομαι|1. a (mode of) discourse, i.e. "dialect"
-διαλλάσσω|verb|ἀλλάσσω|1. to change thoroughly 2. (mentally) to conciliate
-διαλογίζομαι|verb|λογίζομαι|1. to reckon thoroughly 2. (genitive case) to deliberate (by reflection or discussion)
-διαλογισμός|noun|διαλογίζομαι|1. discussion 2. (internal) consideration 3. (external) debate 4. (by implication) purpose
-διαλύω|verb|λύω|1. to dissolve utterly
-διαμαρτύρομαι|verb|μαρτυρέω|1. to attest or protest earnestly 2. (by implication) hortatively
-διαμάχομαι|verb|μάχομαι|1. to fight fiercely (in altercation)
-διαμένω|verb|μένω|1. to stay constantly (in being or relation)
-διαμερίζω|verb|μερίζω|1. to partition thoroughly 2. (literally) -in distribution 3. (figuratively) -in dissension
-διαμερισμός|noun|διαμερίζω|1. disunion (of opinion and conduct)
-διανέμω|verb|νόμος|1. to distribute 2. (of information) to disseminate
-διανεύω|verb|νεύω|1. to nod (or express by signs) across an intervening space
-διανόημα|noun|νοιέω|1. something thought through, i.e. a sentiment
-διάνοια|noun|νοῦς|1. deep thought, contemplation 2. (properly) the mind (or its disposition), the faculty 3. (by implication) its exercise, i.e. purposeful mental activity
-διανοίγω|verb|ἀνοίγω|1. to open thoroughly 2. (literally) as a first-born 3. (figuratively) to expound
-διανυκτερεύω|verb|νύξ|1. to sit up the whole night
-διανύω|verb|---|1. to accomplish thoroughly
-διαπαντός|adverb|πᾶς|1. through all time 2. (adverbially) constantly
-διαπεράω|verb|πέραν|1. to cross entirely
-διαπλέω|verb|πλέω|1. to sail through
-διαπονέω|verb|πόνος|1. to toil through 2. (passively) be worried
-διαπορεύομαι|verb|πορεύομαι|1. to travel through
-διαπορέω|verb|ἀπορέω|1. to be thoroughly nonplussed
-διαπραγματεύομαι|verb|πραγματεύομαι|1. to thoroughly occupy oneself 2. (transitively and by implication) to earn in business
-διαπρίω|verb|πρίζω|1. to saw asunder 2. (figuratively) to exasperate, to "hack off", to irritate completely
-διαρπάζω|verb|ἁρπάζω|1. to seize asunder, i.e. plunder
-διαρῥήσσω|verb|ῥήγνυμι|1. to tear asunder
-διασαφέω|verb|---|1. to clear thoroughly 2. (figuratively) declare
-διασείω|verb|σείω|1. to shake thoroughly 2. (figuratively) to intimidate
-διασκορπίζω|verb|σκορπίζω|1. to dissipate 2. (genitive case) to rout or separate 3. (specially) to winnow 4. (figuratively) to squander
-διασπάω|verb|σπάω|1. to draw apart, i.e. sever or dismember
-διασπείρω|verb|σπείρω|1. to sow throughout 2. (figuratively) distribute in foreign lands
-διασπορά|noun|διασπείρω|1. dispersion 2. (concretely) the Israelite resident in Gentile countries 3. (specially) the Redeemed Israelite living abroad
-διαστέλλομαι|verb|στέλλω|1. to set (oneself) apart 2. (figuratively) to distinguish 3. (by implication) to enjoin
-διάστημα|noun|διΐστημι|1. an interval
-διαστολή|noun|διαστέλλομαι|1. a variation
-διαστρέφω|verb|στρέφω|1. to distort 2. (figuratively) misinterpret 3. (morally) corrupt
-διασώζω|verb|σώζω|1. to save thoroughly 2. (by implication or analogy) to cure, preserve, rescue, etc.
-διαταγή|noun|διατάσσω|1. arrangement, i.e. institution
-διάταγμα|noun|διατάσσω|1. an arrangement 2. (authoritative) edict
-διαταράσσω|verb|ταράσσω|1. to disturb wholly, i.e. agitate (with alarm)
-διατάσσω|verb|τάσσω|1. to arrange thoroughly 2. (specially) institute, prescribe, etc.
-διατελέω|verb|τελέω|1. to accomplish thoroughly 2. (subjectively) to persist
-διατηρέω|verb|τηρέω|1. to watch thoroughly 2. (positively and transitively) to observe strictly 3. (negatively and reflexively) to avoid wholly
-διατί|particle|τίς|1. through what cause ?, i.e. why?
-διατίθεμαι|verb|τίθημι|1. to put apart 2. (figuratively) dispose (by assignment, compact, or bequest)
-διατρίβω|verb|τρίβος|1. to wear through (time), i.e. remain
-διατροφή|noun|τρέφω|1. nourishment
-διαυγάζω|verb|αὐγάζω|1. to glimmer through, i.e. break (as day)
-διαφανής|adjective|φαίνω|1. appearing through, i.e. "diaphanous"
-διαφέρω|verb|φέρω|1. to bear through 2. (literally) transport 3. usually to bear apart 4. (objectively) to toss about 5. (figuratively) report 6. (subjectively) to "differ" 7. (by implication) surpass
-διαφεύγω|verb|φεύγω|1. to flee through, i.e. escape
-διαφημίζω|verb|φήμη|1. to report thoroughly, i.e. divulgate
-διαφθείρω|verb|φθείρω|1. to rot thoroughly 2. (by implication) to ruin 3. (passively) decay utterly 4. (figuratively) pervert
-διαφθορά|noun|διαφθείρω|1. decay
-διάφορος|adjective|διαφέρω|1. varying 2. also surpassing
-διαφυλάσσω|verb|φυλάσσω|1. to guard thoroughly, i.e. protect
-διαχειρίζομαι|verb|χείρ|1. to handle thoroughly 2. to handle violently
-διαχωρίζομαι|verb|χωρίζω|1. to remove (oneself) wholly, i.e. retire
-διδακτικός|adjective|διδακτός|1. instructive ("didactic")
-διδακτός|adjective|διδάσκω|1. (subjectively) instructed 2. (objectively) communicated by teaching
-διδασκαλία|noun|διδάσκαλος|1. instruction (the function or the information)
-διδάσκαλος|noun|διδάσκω|1. a teacher, an instructor 2. (figuratively, with reverence) master
-διδάσκω|verb|---|1. to teach
-διδαχή|noun|διδάσκω|1. instruction (the act or the matter)
-δίδραχμον|noun|δραχμή|1. a double drachma (didrachm)
-Δίδυμος|Name Person|δίς|1. double, i.e. twin 2. Didymus, a Christian
-δίδωμι|verb|δίδωμι|1. to give
-διεγείρω|verb|ἐγείρω|1. to wake fully, i.e. arouse
-διέξοδος|noun|ἔξοδος|1. an outlet through, i.e. probably an open square (from which roads diverge)
-διερμηνευτής|noun|διερμηνεύω|1. an explainer
-διερμηνεύω|verb|ἑρμηνεύω|1. to explain thoroughly 2. (by implication) to translate
-διέρχομαι|verb|ἔρχομαι|1. to traverse
-διερωτάω|verb|ἐρωτάω|1. to question throughout, i.e. ascertain by interrogation
-διετής|adjective|ἔτος|1. of two years (in age)
-διετία|noun|διετής|1. a space of two years (biennium)
-διηγέομαι|verb|ἡγέομαι|1. to relate fully
-διήγεσις|noun|διηγέομαι|1. a recital
-διηνεκές|adjective|φέρω|1. carried through, i.e.  perpetually
-διθάλασσος|adjective|θάλασσα|1. having two seas, i.e. a sound with a double outlet
-διϊκνέομαι|verb|ἱκανός|1. to reach through, i.e. penetrate
-διΐστημι|verb|ἵστημι|1. to stand apart 2. (reflexively) to remove, intervene
-διϊσχυρίζομαι|verb|ἰσχυρός|1. to declare or affirm earnestly, to asseverate
-δικαιοκρισία|noun|κρίσις|1. a just sentence
-δίκαιος|adjective|δίκη|1. equitable (in character or act) 2. (by implication) innocent, holy
-δικαιοσύνη|noun|δίκαιος|1. equity (of character or act) 2. (specially) Christian justification
-δικαιόω|verb|δίκαιος|1. to render (i.e. show or regard as) just or innocent
-δικαίωμα|noun|δικαιόω|1. an equitable deed 2. (by implication) a statute or decision
-δικαίως|adverb|δίκαιος|1. equitably
-δικαίωσις|noun|δικαιόω|1. aquittal (for Christ's sake)
-δικαστής|noun|δίκη|1. a judger
-δίκη|noun|δεικνύω|1. right (as self-evident) 2. justice (the principle, a decision, or its execution)
-δίκτυον|noun|---|1. a seine (for fishing)
-δίλογος|adjective|λόγος|1. equivocal, i.e. telling a different story
-διό|conjunction|ὅς|1. through which thing, i.e. consequently
-διοδεύω|verb|ὁδεύω|1. to travel through
-Διονύσιος|Name Person|---|1. reveller 2. Dionysius, an Athenian
-διόπερ|conjunction|πέρ|1. on which very account
-διοπετής|adjective|πίπτω|1. sky-fallen (i.e. an aerolite)
-διόρθωσις|noun|ὀρθός|1. rectification 2. (specially) the Messianic restauration
-διορύσσω|verb|ὀρύσσω|1. to penetrate burglariously
-Διόσκουροι|Name Person|κοράσιον|1. sons of Jupiter, i.e. the twins Dioscuri
-διότι|conjunction|ὅτι|1. on the very account that, or inasmuch as
-Διοτρεφής|Name Person|τρέφω|1. Jove-nourished 2. Diotrephes, an opponent of Christianity
-διπλούς|adjective|πλείων|1. two-fold
-διπλόω|verb|διπλούς|1. to render two-fold
-δίς|adverb|δύο|1. twice
-διστάζω|verb|δίς|1. (properly) to duplicate 2. (mentally) to waver (in opinion)
-δίστομος|adjective|στόμα|1. double-edged
-δισχίλιοι|noun|χίλιοι|1. two thousand
-διυλίζω|verb|---|1. to strain out
-διχάζω|verb|δίς|1. to make apart 2. to separate 3. (figuratively) to alienate
-διχοστασία|noun|στάσις|1. disunion 2. (figuratively) dissension
-διχοτομέω|verb|δίς|1. to bisect 2. (by extension) to flog severely
-διψάω|verb|δίψος|1. to thirst for
-δίψος|noun|---|1. thirst
-δίψυχος|adjective|ψυχή|1. two-spirited, i.e. vacillating (in opinion or purpose)
-διωγμός|noun|διώκω|1. persecution
-διώκτης|noun|διώκω|1. a persecutor
-διώκω|verb|---|1. to pursue 2. (by implication) to persecute
-δόγμα|noun|δοκέω|1. a law (civil, ceremonial or ecclesiastical)
-δογματίζω|verb|δόγμα|1. to prescribe by statute 2. (reflexively) to submit to, ceremonially rule
-δοκέω|verb|---|1. to think 2. (by implication) to seem (truthfully or uncertainly)
-δοκιμάζω|verb|δόκιμος|1. to test 2. (by implication) to approve
-δοκιμή|noun|δοκέω|1. test 2. (by implication) trustiness
-δοκίμιον|noun|δοκιμή|1. a testing 2. (by implication) trustworthiness
-δόκιμος|adjective|δοκέω|1. (properly) acceptable (current after assayal), i.e. approved
-δοκός|noun|δέχομαι|1. a stick of timber
-δόλιος|adjective|δόλος|1. guileful
-δολιόω|verb|δόλιος|1. to be guileful
-δόλος|noun|---|1. a trick (bait) 2. (figuratively) wile
-δολόω|verb|δόλος|1. to ensnare 2. (figuratively) adulterate
-δόμα|noun|δίδωμι|1. a present
-δόξα|noun|δοκέω|1. glory (as very apparent), in a wide application (literal or figurative, objective or subjective)
-δοξάζω|verb|δόξα|1. to render (or esteem) glorious (in a wide application)
-Δορκάς|Name Person|---|1. gazelle 2. Dorcas, a Christian woman
-δόσις|noun|δίδωμι|1. a giving 2. (by implication, concretely) a gift
-δότης|noun|δίδωμι|1. a giver
-δουλαγωγέω|verb|ἄγω|1. to be a slave-driver 2. to bring into subjection 3. (figuratively) to subdue
-δουλεία|noun|δουλεύω|1. slavery (ceremonially or figuratively)
-δουλεύω|verb|δοῦλος|1. to be a slave to 2. to be enslaved 3. (figuratively) to be subservient to
-δούλη|noun|δοῦλος|1. a female slave (involuntarily or voluntarily)
+δημόσιος|adjective|δῆμος|1. public 2. (feminine singular dative case as adverb) in public
+δηνάριον|noun|---|1. a denarius (or ten asses)
+δήποτε|particle|ποτέ|1. indeed, at any time
+δήπου|adverb|πού|1. indeed doubtless
+διά|preposition|---|1. through
+διαβαίνω|verb|βάσις|1. to cross
+διαβάλλω|verb|βάλλω|1. (figuratively) to slander
+διαβεβαιόομαι|verb|βεβαιόω|1. to confirm thoroughly (by words), i.e. asseverate
+διαβλέπω|verb|βλέπω|1. to look through, i.e. recover full vision
+διάβολος|adjective|διαβάλλω|1. a slanderer 2. (specially) Satan
+διαγγέλλω|verb|ἄγγελος|1. to herald thoroughly
+διαγίνομαι|verb|γίνομαι|1. to elapse meanwhile
+διαγινώσκω|verb|γινώσκω|1. to know thoroughly, i.e. ascertain exactly
+διαγνωρίζω|verb|γνωρίζω|1. to tell abroad
+διάγνωσις|noun|διαγινώσκω|1. (magisterial) examination ("diagnosis")
+διαγογγύζω|verb|γογγύζω|1. to complain throughout a crowd
+διαγρηγορέω|verb|γρηγορεύω|1. to waken thoroughly
+διάγω|verb|ἄγω|1. to pass time or life
+διαδέχομαι|verb|δέχομαι|1. to receive in turn 2. (figuratively) succeed to
+διάδημα|noun|δέω|1. a "diadem" (as bound about the head)
+διαδίδωμι|verb|δίδωμι|1. to give throughout a crowd, i.e. deal out 2. also to deliver over (as to a successor)
+διάδοχος|noun|διαδέχομαι|1. a successor in office
+διαζώννυμι|verb|ζώννυμι|1. to gird tightly
+διαθήκη|noun|διατίθεμαι|1. (properly) a disposition 2. (specially) a contract (especially a devisory will)
+διαίρεσις|noun|διαιρέω|1. a distinction or (concretely) variety
+διαιρέω|verb|αἱρέομαι|1. to separate, i.e. distribute
+διακαθαρίζω|verb|καθαρίζω|1. to cleanse perfectly 2. (specially) winnow
+διακατελέγχομαι|verb|κατά|1. to prove downright, i.e. confute
+διακονέω|verb|διάκονος|1. to be an attendant, to wait upon (menially or as a host, friend) 2. (figuratively) to serve as a teacher 3. (technically) to act as a Christian steward (deacon)
+διακονία|noun|διάκονος|1. attendance (as a servant, etc.) 2. (figuratively) charitable aid 3. (especially) official service of the Christian teacher 4. (technically) official service of the body of stewards (deacons)
+διάκονος|noun|---|1. an attendant, a servant 2. (genitive case) a waiter (at table or in other menial duties) 3. (specially) a male Christian serving in a specific function and post (i.e. tending the widows and the poor, teaching, pastoring, etc)
+διακόσιοι|noun|ἑκατόν|1. two hundred
+διακούω|verb|ἀκούω|1. to hear throughout, i.e. patiently listen (to a prisoner's plea)
+διακρίνω|verb|κρίνω|1. to separate thoroughly 2. (literally and reflexively) to withdraw from 3. (by implication) oppose 4. (figuratively) to discriminate 5. (by implication) decide 6. (reflexively) hesitate
+διάκρισις|noun|διακρίνω|1. judicial estimation
+διακωλύω|verb|κωλύω|1. to hinder altogether, i.e. utterly prohibit
+διαλαλέω|verb|λαλέω|1. to talk throughout a company, i.e. converse or (genitive case) publish
+διαλέγομαι|verb|λέγω|1. to say thoroughly, i.e. discuss (in argument or exhortation)
+διαλείπω|verb|λείπω|1. to leave off in the middle, i.e. intermit
+διάλεκτος|noun|διαλέγομαι|1. a (mode of) discourse, i.e. "dialect"
+διαλλάσσομαι|verb|ἀλλάσσω|1. to change thoroughly 2. (mentally) to conciliate
+διαλογίζομαι|verb|λογίζομαι|1. to reckon thoroughly 2. (genitive case) to deliberate (by reflection or discussion)
+διαλογισμός|noun|διαλογίζομαι|1. discussion 2. (internal) consideration 3. (external) debate 4. (by implication) purpose
+διαλύω|verb|λύω|1. to dissolve utterly
+διαμαρτύρομαι|verb|μαρτυρέω|1. to attest or protest earnestly 2. (by implication) hortatively
+διαμάχομαι|verb|μάχομαι|1. to fight fiercely (in altercation)
+διαμένω|verb|μένω|1. to stay constantly (in being or relation)
+διαμερίζω|verb|μερίζω|1. to partition thoroughly 2. (literally) -in distribution 3. (figuratively) -in dissension
+διαμερισμός|noun|διαμερίζω|1. disunion (of opinion and conduct)
+διανέμω|verb|νόμος|1. to distribute 2. (of information) to disseminate
+διανεύω|verb|νεύω|1. to nod (or express by signs) across an intervening space
+διανόημα|noun|νοιέω|1. something thought through, i.e. a sentiment
+διάνοια|noun|νοῦς|1. deep thought, contemplation 2. (properly) the mind (or its disposition), the faculty 3. (by implication) its exercise, i.e. purposeful mental activity
+διανοίγω|verb|ἀνοίγω|1. to open thoroughly 2. (literally) as a first-born 3. (figuratively) to expound
+διανυκτερεύω|verb|νύξ|1. to sit up the whole night
+διανύω|verb|---|1. to accomplish thoroughly
+διαπαντός|adverb|πᾶς|1. through all time 2. (adverbially) constantly
+διαπεράω|verb|πέραν|1. to cross entirely
+διαπλέω|verb|πλέω|1. to sail through
+διαπονέομαι|verb|πόνος|1. to toil through 2. (passively) be worried
+διαπορεύομαι|verb|πορεύομαι|1. to travel through
+διαπορέω|verb|ἀπορέω|1. to be thoroughly nonplussed
+διαπραγματεύομαι|verb|πραγματεύομαι|1. to thoroughly occupy oneself 2. (transitively and by implication) to earn in business
+διαπρίω|verb|πρίζω|1. to saw asunder 2. (figuratively) to exasperate, to "hack off", to irritate completely
+διαρπάζω|verb|ἁρπάζω|1. to seize asunder, i.e. plunder
+διαρρήσσω|verb|ῥήγνυμι|1. to tear asunder
+διασαφέω|verb|---|1. to clear thoroughly 2. (figuratively) declare
+διασείω|verb|σείω|1. to shake thoroughly 2. (figuratively) to intimidate
+διασκορπίζω|verb|σκορπίζω|1. to dissipate 2. (genitive case) to rout or separate 3. (specially) to winnow 4. (figuratively) to squander
+διασπάω|verb|σπάω|1. to draw apart, i.e. sever or dismember
+διασπείρω|verb|σπείρω|1. to sow throughout 2. (figuratively) distribute in foreign lands
+διασπορά|noun|διασπείρω|1. dispersion 2. (concretely) the Israelite resident in Gentile countries 3. (specially) the Redeemed Israelite living abroad
+διαστέλλομαι|verb|στέλλω|1. to set (oneself) apart 2. (figuratively) to distinguish 3. (by implication) to enjoin
+διάστημα|noun|διΐστημι|1. an interval
+διαστολή|noun|διαστέλλομαι|1. a variation
+διαστρέφω|verb|στρέφω|1. to distort 2. (figuratively) misinterpret 3. (morally) corrupt
+διασώζω|verb|σώζω|1. to save thoroughly 2. (by implication or analogy) to cure, preserve, rescue, etc.
+διαταγή|noun|διατάσσω|1. arrangement, i.e. institution
+διάταγμα|noun|διατάσσω|1. an arrangement 2. (authoritative) edict
+διαταράσσω|verb|ταράσσω|1. to disturb wholly, i.e. agitate (with alarm)
+διατάσσω|verb|τάσσω|1. to arrange thoroughly 2. (specially) institute, prescribe, etc.
+διατελέω|verb|τελέω|1. to accomplish thoroughly 2. (subjectively) to persist
+διατηρέω|verb|τηρέω|1. to watch thoroughly 2. (positively and transitively) to observe strictly 3. (negatively and reflexively) to avoid wholly
+διατί|particle|τίς|1. through what cause ?, i.e. why?
+διατίθεμαι|verb|τίθημι|1. to put apart 2. (figuratively) dispose (by assignment, compact, or bequest)
+διατρίβω|verb|τρίβος|1. to wear through (time), i.e. remain
+διατροφή|noun|τρέφω|1. nourishment
+διαυγάζω|verb|αὐγάζω|1. to glimmer through, i.e. break (as day)
+διαυγής|adjective|φαίνω|1. appearing through, i.e. "diaphanous"
+διαφέρω|verb|φέρω|1. to bear through 2. (literally) transport 3. usually to bear apart 4. (objectively) to toss about 5. (figuratively) report 6. (subjectively) to "differ" 7. (by implication) surpass
+διαφεύγω|verb|φεύγω|1. to flee through, i.e. escape
+διαφημίζω|verb|φήμη|1. to report thoroughly, i.e. divulgate
+διαφθείρω|verb|φθείρω|1. to rot thoroughly 2. (by implication) to ruin 3. (passively) decay utterly 4. (figuratively) pervert
+διαφθορά|noun|διαφθείρω|1. decay
+διάφορος|adjective|διαφέρω|1. varying 2. also surpassing
+διαφυλάσσω|verb|φυλάσσω|1. to guard thoroughly, i.e. protect
+διαχειρίζομαι|verb|χείρ|1. to handle thoroughly 2. to handle violently
+διαχωρίζομαι|verb|χωρίζω|1. to remove (oneself) wholly, i.e. retire
+διδακτικός|adjective|διδακτός|1. instructive ("didactic")
+διδακτός|adjective|διδάσκω|1. (subjectively) instructed 2. (objectively) communicated by teaching
+διδασκαλία|noun|διδάσκαλος|1. instruction (the function or the information)
+διδάσκαλος|noun|διδάσκω|1. a teacher, an instructor 2. (figuratively, with reverence) master
+διδάσκω|verb|---|1. to teach
+διδαχή|noun|διδάσκω|1. instruction (the act or the matter)
+δίδραχμον|noun|δραχμή|1. a double drachma (didrachm)
+Δίδυμος|Name Person|δίς|1. double, i.e. twin 2. Didymus, a Christian
+δίδωμι|verb|δίδωμι|1. to give
+διεγείρω|verb|ἐγείρω|1. to wake fully, i.e. arouse
+διέξοδος|noun|ἔξοδος|1. an outlet through, i.e. probably an open square (from which roads diverge)
+διερμηνευτής|noun|διερμηνεύω|1. an explainer
+διερμηνεύω|verb|ἑρμηνεύω|1. to explain thoroughly 2. (by implication) to translate
+διέρχομαι|verb|ἔρχομαι|1. to traverse
+διερωτάω|verb|ἐρωτάω|1. to question throughout, i.e. ascertain by interrogation
+διετής|adjective|ἔτος|1. of two years (in age)
+διετία|noun|διετής|1. a space of two years (biennium)
+διηγέομαι|verb|ἡγέομαι|1. to relate fully
+διήγησις|noun|διηγέομαι|1. a recital
+διηνεκής|adjective|φέρω|1. carried through, i.e.  perpetually
+διθάλασσος|adjective|θάλασσα|1. having two seas, i.e. a sound with a double outlet
+διϊκνέομαι|verb|ἱκανός|1. to reach through, i.e. penetrate
+διΐστημι|verb|ἵστημι|1. to stand apart 2. (reflexively) to remove, intervene
+διϊσχυρίζομαι|verb|ἰσχυρός|1. to declare or affirm earnestly, to asseverate
+δικαιοκρισία|noun|κρίσις|1. a just sentence
+δίκαιος|adjective|δίκη|1. equitable (in character or act) 2. (by implication) innocent, holy
+δικαιοσύνη|noun|δίκαιος|1. equity (of character or act) 2. (specially) Christian justification
+δικαιόω|verb|δίκαιος|1. to render (i.e. show or regard as) just or innocent
+δικαίωμα|noun|δικαιόω|1. an equitable deed 2. (by implication) a statute or decision
+δικαίως|adverb|δίκαιος|1. equitably
+δικαίωσις|noun|δικαιόω|1. aquittal (for Christ's sake)
+δικαστής|noun|δίκη|1. a judger
+δίκη|noun|δεικνύω|1. right (as self-evident) 2. justice (the principle, a decision, or its execution)
+δίκτυον|noun|---|1. a seine (for fishing)
+δίλογος|adjective|λόγος|1. equivocal, i.e. telling a different story
+διό|conjunction|ὅς|1. through which thing, i.e. consequently
+διοδεύω|verb|ὁδεύω|1. to travel through
+Διονύσιος|Name Person|---|1. reveller 2. Dionysius, an Athenian
+διόπερ|conjunction|πέρ|1. on which very account
+διοπετής|adjective|πίπτω|1. sky-fallen (i.e. an aerolite)
+διόρθωσις|noun|ὀρθός|1. rectification 2. (specially) the Messianic restauration
+διορύσσω|verb|ὀρύσσω|1. to penetrate burglariously
+Διόσκουροι|Name Person|κοράσιον|1. sons of Jupiter, i.e. the twins Dioscuri
+διότι|conjunction|ὅτι|1. on the very account that, or inasmuch as
+Διοτρεφής|Name Person|τρέφω|1. Jove-nourished 2. Diotrephes, an opponent of Christianity
+διπλοῦς|adjective|πλείων|1. two-fold
+διπλόω|verb|διπλούς|1. to render two-fold
+δίς|adverb|δύο|1. twice
+διστάζω|verb|δίς|1. (properly) to duplicate 2. (mentally) to waver (in opinion)
+δίστομος|adjective|στόμα|1. double-edged
+δισχίλιοι|noun|χίλιοι|1. two thousand
+διϋλίζω|verb|---|1. to strain out
+διχάζω|verb|δίς|1. to make apart 2. to separate 3. (figuratively) to alienate
+διχοστασία|noun|στάσις|1. disunion 2. (figuratively) dissension
+διχοτομέω|verb|δίς|1. to bisect 2. (by extension) to flog severely
+διψάω|verb|δίψος|1. to thirst for
+δίψος|noun|---|1. thirst
+δίψυχος|adjective|ψυχή|1. two-spirited, i.e. vacillating (in opinion or purpose)
+διωγμός|noun|διώκω|1. persecution
+διώκτης|noun|διώκω|1. a persecutor
+διώκω|verb|---|1. to pursue 2. (by implication) to persecute
+δόγμα|noun|δοκέω|1. a law (civil, ceremonial or ecclesiastical)
+δογματίζω|verb|δόγμα|1. to prescribe by statute 2. (reflexively) to submit to, ceremonially rule
+δοκέω|verb|---|1. to think 2. (by implication) to seem (truthfully or uncertainly)
+δοκιμάζω|verb|δόκιμος|1. to test 2. (by implication) to approve
+δοκιμή|noun|δοκέω|1. test 2. (by implication) trustiness
+δοκίμιον|noun|δοκιμή|1. a testing 2. (by implication) trustworthiness
+δόκιμος|adjective|δοκέω|1. (properly) acceptable (current after assayal), i.e. approved
+δοκός|noun|δέχομαι|1. a stick of timber
+δόλιος|adjective|δόλος|1. guileful
+δολιόω|verb|δόλιος|1. to be guileful
+δόλος|noun|---|1. a trick (bait) 2. (figuratively) wile
+δολόω|verb|δόλος|1. to ensnare 2. (figuratively) adulterate
+δόμα|noun|δίδωμι|1. a present
+δόξα|noun|δοκέω|1. glory (as very apparent), in a wide application (literal or figurative, objective or subjective)
+δοξάζω|verb|δόξα|1. to render (or esteem) glorious (in a wide application)
+Δορκάς|Name Person|---|1. gazelle 2. Dorcas, a Christian woman
+δόσις|noun|δίδωμι|1. a giving 2. (by implication, concretely) a gift
+δότης|noun|δίδωμι|1. a giver
+δουλαγωγέω|verb|ἄγω|1. to be a slave-driver 2. to bring into subjection 3. (figuratively) to subdue
+δουλεία|noun|δουλεύω|1. slavery (ceremonially or figuratively)
+δουλεύω|verb|δοῦλος|1. to be a slave to 2. to be enslaved 3. (figuratively) to be subservient to
+δούλη|noun|δοῦλος|1. a female slave (involuntarily or voluntarily)
 δοῦλον|noun|δοῦλος|1. subservient
 δοῦλος|noun|δέω|1. (involuntarily) a slave 2. (of necessity) a bond-servant 3. (figuratively) a voluntary, fully devoted servant
-δουλόω|verb|δοῦλος|1. to enslave
-δοχή|noun|δέχομαι|1. a reception, i.e. convivial entertainment
-δράκων|noun|---|1. a fabulous kind of serpent (perhaps as supposed to fascinate)
-δράσσομαι|verb|---|1. to grasp 2. (figuratively) entrap
-δραχμή|noun|δράσσομαι|1. a drachma or (silver) coin (as handled)
-δρέπανον|noun|---|1. a gathering hook (especially for harvesting)
-δρόμος|noun|τρέχω|1. a race 2. (figuratively) career
-Δρούσιλλα|Name Person|---|1. Drusilla, a member of the Herodian family
-δύναμαι|verb|---|1. to be able or possible
-δύναμις|noun|δύναμαι|1. force 2. (specially) miraculous power 3. (usually by implication) a miracle itself
-δυναμόω|verb|δύναμις|1. to enable
-δυνάστης|noun|δύναμαι|1. a ruler or officer
-δυνατέω|verb|δυνατός|1. to be efficient (figuratively)
-δυνατός|adjective|δύναμαι|1. powerful or capable 2. (neuter) possible
-δύνω|verb|---|1. to go "down"
-δύο|noun|---|1. two
-δυσ|particle|---|1. hard, i.e. with difficulty
-δυσβάστακτος|adjective|βαστάζω|1. oppressive
-δυσεντερία|noun|ἐντός|1. a "dysentery"
-δυσερμήνευτος|adjective|ἑρμηνεύω|1. difficult of explanation
-δύσκολος|adjective|δυσ|1. (properly) fastidious about eating (peevish) 2. (genitive case) impracticable
-δυσκόλως|adverb|δύσκολος|1. impracticably
-δυσμή|noun|δύνω|1. the sun-set 2. (by implication) the western region
-δυσνόητος|adjective|νοιέω|1. difficult of perception
-δυσφημία|noun|φήμη|1. defamation
-δώδεκα|noun|δέκα|1. two and ten, i.e. a dozen
-δωδέκατος|adjective|δώδεκα|1. twelfth
-δωδεκάφυλον|noun|φυλή|1. the commonwealth of Israel
+δουλόω|verb|δοῦλος|1. to enslave
+δοχή|noun|δέχομαι|1. a reception, i.e. convivial entertainment
+δράκων|noun|---|1. a fabulous kind of serpent (perhaps as supposed to fascinate)
+δράσσομαι|verb|---|1. to grasp 2. (figuratively) entrap
+δραχμή|noun|δράσσομαι|1. a drachma or (silver) coin (as handled)
+δρέπανον|noun|---|1. a gathering hook (especially for harvesting)
+δρόμος|noun|τρέχω|1. a race 2. (figuratively) career
+Δρούσιλλα|Name Person|---|1. Drusilla, a member of the Herodian family
+δύναμαι|verb|---|1. to be able or possible
+δύναμις|noun|δύναμαι|1. force 2. (specially) miraculous power 3. (usually by implication) a miracle itself
+δυναμόω|verb|δύναμις|1. to enable
+δυνάστης|noun|δύναμαι|1. a ruler or officer
+δυνατέω|verb|δυνατός|1. to be efficient (figuratively)
+δυνατός|adjective|δύναμαι|1. powerful or capable 2. (neuter) possible
+δύνω|verb|---|1. to go "down"
+δύο|noun|---|1. two
+δυσ-|particle|---|1. hard, i.e. with difficulty
+δυσβάστακτος|adjective|βαστάζω|1. oppressive
+δυσεντερία|noun|ἐντός|1. a "dysentery"
+δυσερμήνευτος|adjective|ἑρμηνεύω|1. difficult of explanation
+δύσκολος|adjective|δυσ|1. (properly) fastidious about eating (peevish) 2. (genitive case) impracticable
+δυσκόλως|adverb|δύσκολος|1. impracticably
+δυσμή|noun|δύνω|1. the sun-set 2. (by implication) the western region
+δυσνόητος|adjective|νοιέω|1. difficult of perception
+δυσφημία|noun|φήμη|1. defamation
+δώδεκα|noun|δέκα|1. two and ten, i.e. a dozen
+δωδέκατος|adjective|δώδεκα|1. twelfth
+δωδεκάφυλον|noun|φυλή|1. the commonwealth of Israel
 δῶμα|noun|---|1. (properly) an edifice 2. (specially) a roof
-δωρεά|noun|δῶρον|1. a gratuity
-δωρεάν|adverb|δωρεά|1. gratuitously
-δωρέομαι|verb|δῶρον|1. to bestow gratuitously
-δώρημα|noun|δωρέομαι|1. a bestowment
+δωρεά|noun|δῶρον|1. a gratuity
+δωρεάν|adverb|δωρεά|1. gratuitously
+δωρέομαι|verb|δῶρον|1. to bestow gratuitously
+δώρημα|noun|δωρέομαι|1. a bestowment
 δῶρον|noun|---|1. a present, specially, a sacrifice
 ἔα|injunction|ἐάω|1. (properly) let it be 2. (as interjection) aha!
-ἐάν|conditional|ἄν|1. in case that, provided that, etc.
-ἑαυτού|p/f|αὐτός|1. self (selves)
-ἐάω|verb|---|1. to let be, i.e. permit or leave alone
-ἑβδομήκοντα|noun|δέκα|1. seventy
-ἑβδομηκοντακίς|adverb|ἑβδομήκοντα|1. seventy times
+ἐάν|conditional|ἄν|1. in case that, provided that, etc.
+ἑαυτοῦ|p/f|αὐτός|1. self (selves)
+ἐάω|verb|---|1. to let be, i.e. permit or leave alone
+ἑβδομήκοντα|noun|δέκα|1. seventy
+ἑβδομηκοντάκις|adverb|ἑβδομήκοντα|1. seventy times
 ἕβδομος|adjective|ἑπτά|1. seventh
-Ἐβέρ|Name Person|עֵבֶר|1. Eber, a patriarch
-Ἑβραϊκός|adjective/g.|Ἐβέρ|1. Hebraic or the Jewish language
+Ἕβερ|Name Person|עֵבֶר|1. Eber, a patriarch
+Ἑβραϊκός|adjective/g.|Ἐβέρ|1. Hebraic or the Jewish language
 Ἑβραῖος|adjective/g.|Ἐβέρ|1. a Hebræan (i.e. Hebrew) or Jew
-Ἑβραΐς|Name/g.|Ἐβέρ|1. the Hebraistic (Hebrew) or Jewish (Chaldee) language
-Ἑβραϊστί|adverb/g|Ἑβραΐς|1. Hebraistically or in the Jewish (Chaldee) language
-ἐγγίζω|verb|ἐγγύς|1. to make near 2. (reflexively) approach
-ἐγγράφω|verb|γράφω|1. to "engrave", i.e. inscribe
+Ἑβραΐς|Name/g.|Ἐβέρ|1. the Hebraistic (Hebrew) or Jewish (Chaldee) language
+Ἑβραϊστί|adverb/g|Ἑβραΐς|1. Hebraistically or in the Jewish (Chaldee) language
+ἐγγίζω|verb|ἐγγύς|1. to make near 2. (reflexively) approach
+ἐγγράφω|verb|γράφω|1. to "engrave", i.e. inscribe
 ἔγγυος|adjective|ἔν|1. pledged (as if articulated by a member), i.e. a bondsman
-ἐγγύς|adverb|---|1. near
-ἐγγύτερον|adverb|ἐγγύς|1. nearer
-ἐγείρω|verb|---|1. to waken 2. (literally) rouse from sleep, from sitting or lying, from disease, from death 3. (figuratively) rouse from obscurity, inactivity, ruins, nonexistence
+ἐγγύς|adverb|---|1. near
+ἐγγύτερον|adverb|ἐγγύς|1. nearer
+ἐγείρω|verb|---|1. to waken 2. (literally) rouse from sleep, from sitting or lying, from disease, from death 3. (figuratively) rouse from obscurity, inactivity, ruins, nonexistence
 ἔγερσις|noun|ἐγείρω|1. a resurgence (from death)
-ἐγκάθετος|adjective|καθίημι|1. subinduced, i.e. surreptitiously suborned as a lier-in-wait
-ἐγκαίνια|noun|καινός|1. innovatives 2. (specially) renewal (of religious services after the Antiochian interruption)
-ἐγκαινίζω|verb|ἐγκαίνια|1. to renew, i.e. inaugurate
-ἐγκαλέω|verb|καλέω|1. to call in (as a debt or demand), i.e. bring to account (charge, criminate, etc.)
-ἐγκαταλείπω|verb|καταλείπω|1. to leave behind in some place 2. (in a good sense) let remain over 3. (in a bad sense) to desert
-ἐγκατοικέω|verb|κατοικέω|1. to settle down in a place, i.e. reside
-ἐγκεντρίζω|verb|κέντρον|1. to prick in, i.e. ingraft
+ἐγκάθετος|adjective|καθίημι|1. subinduced, i.e. surreptitiously suborned as a lier-in-wait
+ἐγκαίνια|noun|καινός|1. innovatives 2. (specially) renewal (of religious services after the Antiochian interruption)
+ἐγκαινίζω|verb|ἐγκαίνια|1. to renew, i.e. inaugurate
+ἐγκαλέω|verb|καλέω|1. to call in (as a debt or demand), i.e. bring to account (charge, criminate, etc.)
+ἐγκαταλείπω|verb|καταλείπω|1. to leave behind in some place 2. (in a good sense) let remain over 3. (in a bad sense) to desert
+ἐγκατοικέω|verb|κατοικέω|1. to settle down in a place, i.e. reside
+ἐγκεντρίζω|verb|κέντρον|1. to prick in, i.e. ingraft
 ἔγκλημα|noun|ἐγκαλέω|1. an accusation, i.e. offence alleged
-ἐγκομβόομαι|verb|ἔν|1. to engirdle oneself (for labor) 2. (figuratively) to wear the apron as being a badge of servitude (in token of mutual deference)
-ἐγκοπή|noun|ἐγκόπτω|1. a hindrance
-ἐγκόπτω|verb|κόπτω|1. to cut into 2. (figuratively) impede, detain
-ἐγκράτεια|noun|ἐγκρατής|1. self-control (especially continence)
-ἐγκρατεύομαι|verb|ἐγκρατής|1. to exercise self-restraint (in diet and chastity)
-ἐγκρατής|adjective|κράτος|1. strong in a thing (masterful) 2. (figuratively and reflexively) self-controlled (in appetite, etc.)
-ἐγκρίνω|verb|κρίνω|1. to judge in, i.e. count among
-ἐγκρύπτω|verb|κρύπτω|1. to conceal in, i.e. incorporate with
+ἐγκομβόομαι|verb|ἔν|1. to engirdle oneself (for labor) 2. (figuratively) to wear the apron as being a badge of servitude (in token of mutual deference)
+ἐγκοπή|noun|ἐγκόπτω|1. a hindrance
+ἐγκόπτω|verb|κόπτω|1. to cut into 2. (figuratively) impede, detain
+ἐγκράτεια|noun|ἐγκρατής|1. self-control (especially continence)
+ἐγκρατεύομαι|verb|ἐγκρατής|1. to exercise self-restraint (in diet and chastity)
+ἐγκρατής|adjective|κράτος|1. strong in a thing (masterful) 2. (figuratively and reflexively) self-controlled (in appetite, etc.)
+ἐγκρίνω|verb|κρίνω|1. to judge in, i.e. count among
+ἐγκρύπτω|verb|κρύπτω|1. to conceal in, i.e. incorporate with
 ἔγκυος|noun|κύμα|1. swelling inside, i.e. pregnant
-ἐγχρίω|verb|χρίω|1. to rub in (oil), i.e. besmear
-ἐγώ|p/p.|---|1. (emphatically, of the first person) I
-ἐδαφίζω|verb|ἔδαφος|1. to raze
+ἐγχρίω|verb|χρίω|1. to rub in (oil), i.e. besmear
+ἐγώ|p/p.|---|1. (emphatically, of the first person) I
+ἐδαφίζω|verb|ἔδαφος|1. to raze
 ἔδαφος|noun|ἑδραῖος|1. a basis (bottom), i.e. the soil
 ἑδραῖος|adjective|---|1. sedentary (characterized by sitting much or long) 2. (by implication) immovable, steadfast
-ἑδραίωμα|noun|ἑδραῖος|1. a support 2. (figuratively) basis
-Ἐζεκίας|Name Person|חִזקִיָהוּ|1. Ezekias (i.e. Hezekeiah), an Israelite
-ἐθελοθρησκεία|noun|θρησκεία|1. willful (arbitrary and unwarranted) piety, i.e. pretended, false, or counterfeit observance
-ἐθίζω|verb|ἔθος|1. to accustom 2. (neuter passive participle) customary
-ἐθνάρχης|noun|ἀρχή|1. the governor (not king) of a district
-ἐθνικός|adjective|ἔθνος|1. national ("ethnic") 2. (specially) a Gentile
+ἑδραίωμα|noun|ἑδραῖος|1. a support 2. (figuratively) basis
+Ἑζεκίας|Name Person|חִזקִיָהוּ|1. Ezekias (i.e. Hezekeiah), an Israelite
+ἐθελοθρησκεία|noun|θρησκεία|1. willful (arbitrary and unwarranted) piety, i.e. pretended, false, or counterfeit observance
+ἐθίζω|verb|ἔθος|1. to accustom 2. (neuter passive participle) customary
+ἐθνάρχης|noun|ἀρχή|1. the governor (not king) of a district
+ἐθνικός|adjective|ἔθνος|1. national ("ethnic") 2. (specially) a Gentile
 ἐθνικῶς|adverb|ἐθνικός|1. as a Gentile
 ἔθνος|noun|ἔθω|1. a race (as of the same habit), i.e. a tribe 2. (specially) a foreign (non-Jewish) one, Gentiles 3. (usually, by implication) pagan
 ἔθος|noun|ἔθω|1. a usage (prescribed by habit or law)
-ἔθω|verb|---|1. to be used (by habit or custom)
+εἴωθα|verb|---|1. to be used (by habit or custom)
 εἰ|conditional|---|1. if, whether, that, etc.
 εἶ|verb|εἰμί|1. thou art
 εἴγε|conditional|γέ|1. if indeed, seeing that, unless, (with negative) otherwise
-εἰ δε μή|conjunction|δέ|1. but if not
+εἰ δὲ μήγε|conjunction|δέ|1. but if not
 εἶδος|noun|εἴδω|1. a view, i.e. form
-εἴδω|verb|---|1. (properly) to see 2. (by implication, in the perfect tense only) to know
+οἶδα|verb|---|1. (properly) to see 2. (by implication, in the perfect tense only) to know
 εἰδωλεῖον|noun|εἴδωλον|1. an image-temple, idol's temple
-εἰδωλόθυτον|adjective|θύω|1. an image-sacrifice, i.e. part of an idolatrous offering
-εἰδωλολατρεία|noun|λατρεία|1. image-worship
-εἰδωλολάτρης|noun|λατρεύω|1. an image-servant or image-worshipper
+εἰδωλόθυτος|adjective|θύω|1. an image-sacrifice, i.e. part of an idolatrous offering
+εἰδωλολατρεία|noun|λατρεία|1. image-worship
+εἰδωλολάτρης|noun|λατρεύω|1. an image-servant or image-worshipper
 εἴδωλον|noun|εἶδος|1. an image, idol (i.e. for worship) 2. (by implication) a heathen god 3. (plural) the worship of such
 εἴην|verb|εἰμί|1. might (could, would, or should) be
-εἰ καί |conjunction|καί|1. if also (or even)
-εἰκῆ|adverb|εἴκω|1. idly, i.e. without reason (or effect)
+εἰ|conjunction|καί|1. if also (or even)
+εἰκῇ|adverb|εἴκω|1. idly, i.e. without reason (or effect)
 εἴκοσι|noun|---|1. a score
 εἴκω|verb|---|1. (properly) to be weak, i.e. yield
-εἴκω|verb|---|1. to resemble
-εἰκών|noun|εἴκω|1. a likeness 2. (literally) statue, profile 3. (figuratively) representation, resemblance
-εἰλικρίνεια|noun|εἰλικρινής|1. clearness 2. (by implication) purity (figuratively)
-εἰλικρινής|adjective|κρίνω|1. judged by sunlight 2. (figuratively) tested as genuine
-εἱλίσσω|verb|---|1. to coil or wrap
-εἰ μή|conjunction|μή|1. if not
-εἰ μή τί|conjunction|τίς|1. if not somewhat
-εἰμί|verb|εἰμί|1. I exist
+ἔοικα|verb|---|1. to resemble
+εἰκών|noun|εἴκω|1. a likeness 2. (literally) statue, profile 3. (figuratively) representation, resemblance
+εἰλικρίνεια|noun|εἰλικρινής|1. clearness 2. (by implication) purity (figuratively)
+εἰλικρινής|adjective|κρίνω|1. judged by sunlight 2. (figuratively) tested as genuine
+εἱλίσσω|verb|---|1. to coil or wrap
+εἰ|conjunction|μή|1. if not
+εἰ|conjunction|τίς|1. if not somewhat
+εἰμί|verb|εἰμί|1. I exist
 εἶναι|verb|εἰμί|1. to exist
-εἴ περ|conditional|πέρ|1. if perhaps
-εἴ πως|conditional|πώς|1. if somehow
-εἰρηνεύω|verb|εἰρήνη|1. to be (act) peaceful
-εἰρήνη|noun|---|1. peace 2. (by implication) prosperity
-εἰρηνικός|adjective|εἰρήνη|1. peaceful 2. (by implication) heathful
-εἰρηνοποιέω|verb|εἰρηνοποιός|1. to be a peace-maker 2. (figuratively) to harmonize
-εἰρηνοποιός|adjective|ποιέω|1. pacificatory 2. (subjectively) peaceable
+εἴπερ|conditional|πέρ|1. if perhaps
+εἴ|conditional|πώς|1. if somehow
+εἰρηνεύω|verb|εἰρήνη|1. to be (act) peaceful
+εἰρήνη|noun|---|1. peace 2. (by implication) prosperity
+εἰρηνικός|adjective|εἰρήνη|1. peaceful 2. (by implication) heathful
+εἰρηνοποιέω|verb|εἰρηνοποιός|1. to be a peace-maker 2. (figuratively) to harmonize
+εἰρηνοποιός|adjective|ποιέω|1. pacificatory 2. (subjectively) peaceable
 εἰς|preposition|---|1. to or into (indicating the point reached or entered), of place, time 2. (figuratively) to or into a purpose (result, etc.)
 εἷς|noun|---|1. one
-εἰσάγω|verb|ἄγω|1. to bring in 2. to introduce
-εἰσακούω|verb|ἀκούω|1. to listen to
-εἰσδέχομαι|verb|δέχομαι|1. to take into one's favor
+εἰσάγω|verb|ἄγω|1. to bring in 2. to introduce
+εἰσακούω|verb|ἀκούω|1. to listen to
+εἰσδέχομαι|verb|δέχομαι|1. to take into one's favor
 εἴσειμι|verb|εἰς|1. to enter
-εἰσέρχομαι|verb|ἔρχομαι|1. to enter
-εἰσί|verb|εἰμί|1. they are
-εἷς καθ᾽ εἷς|adverb|κατά|1. individually, one at a time 2. (specifically) one by one 3. (literally) one and one
-εἰσκαλέω|verb|καλέω|1. to invite in
+εἰσέρχομαι|verb|ἔρχομαι|1. to enter
+εἰσί3rd|verb|εἰμί|1. they are
+εἷς|adverb|κατά|1. individually, one at a time 2. (specifically) one by one 3. (literally) one and one
+εἰσκαλέομαι|verb|καλέω|1. to invite in
 εἴσοδος|noun|ὁδός|1. an entrance
-εἰσπηδάω|verb|εἰς|1. to rush in
-εἰσπορεύομαι|verb|πορεύομαι|1. to enter
-εἰστρέχω|verb|τρέχω|1. to hasten inward
-εἰσφέρω|verb|φέρω|1. to carry inward
+εἰσπηδάω|verb|εἰς|1. to rush in
+εἰσπορεύομαι|verb|πορεύομαι|1. to enter
+εἰστρέχω|verb|τρέχω|1. to hasten inward
+εἰσφέρω|verb|φέρω|1. to carry inward
 εἶτα|adverb|---|1. a particle of succession (in time or logical enumeration), then, moreover
 εἴτε|conjunction|τέ|1. if too
-εἰ τίς|conditional|τίς|1. if any
+εἴ|conditional|τίς|1. if any
 ἐκ|preposition|---|1. from (the point whence action or motion proceeds) 2. out (of place, time, or cause)
 ἕκαστος|adjective|---|1. each or every
-ἑκάστοτε|adverb|τότε|1. at every time
-ἑκατόν|noun|---|1. a hundred
-ἑκατονταέτης|adjective|ἔτος|1. centenarian
-ἑκατονταπλασίων|adjective|πλάσσω|1. a hundred times
-ἑκατοντάρχης|noun|ἄρχω|1. the captain of one hundred men
-ἐκβάλλω|verb|βάλλω|1. to eject
+ἑκάστοτε|adverb|τότε|1. at every time
+ἑκατόν|noun|---|1. a hundred
+ἑκατονταέτης|adjective|ἔτος|1. centenarian
+ἑκατονταπλασίων|adjective|πλάσσω|1. a hundred times
+ἑκατοντάρχης|noun|ἄρχω|1. the captain of one hundred men
+ἐκβάλλω|verb|βάλλω|1. to eject
 ἔκβασις|noun|βάσις|1. an exit
-ἐκβολή|noun|ἐκβάλλω|1. ejection 2. (specially) a throwing overboard of the cargo
-ἐκγαμίζω|verb|γαμίσκω|1. to marry off a daughter
-ἐκγαμίσκω|verb|γαμίσκω|1. to marry off a daughter
-ἔκγονον|adjective|γίνομαι|1. a descendant 2. (specially) grandchild
-ἐκδαπανάω|verb|δαπανάω|1. to expend (wholly) 2. (figuratively) exhaust
-ἐκδέχομαι|verb|δέχομαι|1. to accept from some source 2. (by implication) to await
+ἐκβολή|noun|ἐκβάλλω|1. ejection 2. (specially) a throwing overboard of the cargo
+ἐκγαμίζω|verb|γαμίσκω|1. to marry off a daughter
+ἐκγαμίσκω|verb|γαμίσκω|1. to marry off a daughter
+ἔκγονος|adjective|γίνομαι|1. a descendant 2. (specially) grandchild
+ἐκδαπανάω|verb|δαπανάω|1. to expend (wholly) 2. (figuratively) exhaust
+ἐκδέχομαι|verb|δέχομαι|1. to accept from some source 2. (by implication) to await
 ἔκδηλος|adjective|δῆλος|1. wholly evident
-ἐκδημέω|verb|δῆμος|1. to emigrate 2. (figuratively) vacate or quit
-ἐκδίδωμι|verb|δίδωμι|1. to give forth 2. (specially) to lease
-ἐκδιηγέομαι|verb|διά|1. to narrate through wholly
-ἐκδικέω|verb|ἔκδικος|1. to vindicate, retaliate, punish
-ἐκδίκησις|noun|ἐκδικέω|1. vindication, retribution
+ἐκδημέω|verb|δῆμος|1. to emigrate 2. (figuratively) vacate or quit
+ἐκδίδωμι|verb|δίδωμι|1. to give forth 2. (specially) to lease
+ἐκδιηγέομαι|verb|διά|1. to narrate through wholly
+ἐκδικέω|verb|ἔκδικος|1. to vindicate, retaliate, punish
+ἐκδίκησις|noun|ἐκδικέω|1. vindication, retribution
 ἔκδικος|adjective|δίκη|1. carrying justice out, i.e. a punisher
-ἐκδιώκω|verb|διώκω|1. to pursue out, i.e. expel or persecute implacably
+ἐκδιώκω|verb|διώκω|1. to pursue out, i.e. expel or persecute implacably
 ἔκδοτος|adjective|δίδωμι|1. given out or over, i.e. surrendered
-ἐκδοχή|noun|ἐκδέχομαι|1. expectation
-ἐκδύω|verb|δύνω|1. to cause to sink out of 2. (specially as of clothing) to divest
+ἐκδοχή|noun|ἐκδέχομαι|1. expectation
+ἐκδύω|verb|δύνω|1. to cause to sink out of 2. (specially as of clothing) to divest
 ἐκεῖ|adverb|---|1. there 2. (by extension) thither
 ἐκεῖθεν|adverb|ἐκεῖ|1. thence
 ἐκεῖνος|p/d.|ἐκεῖ|1. that one 2. (neuter) that thing
 ἐκεῖσε|adverb|ἐκεῖ|1. thither
-ἐκζητέω|verb|ζητέω|1. to search out 2. (figuratively)investigate, crave, demand, (by Hebraism) worship
-ἐκθαμβέω|verb|ἔκθαμβος|1. to astonish utterly
+ἐκζητέω|verb|ζητέω|1. to search out 2. (figuratively)investigate, crave, demand, (by Hebraism) worship
+ἐκθαμβέομαι|verb|ἔκθαμβος|1. to astonish utterly
 ἔκθαμβος|adjective|θάμβος|1. utterly astounded
 ἔκθετος|adjective|τίθημι|1. put out, i.e. exposed to perish
-ἐκκαθαίρω|verb|καθαίρω|1. to cleanse thoroughly
-ἐκκαίω|verb|καίω|1. to inflame deeply
-ἐκκακέω|verb|κακός|1. to be (bad or) weak 2. (by implication) to fail (in heart)
-ἐκκεντέω|verb|κέντρον|1. to transfix
-ἐκκλάω|verb|κλάω|1. to exscind
-ἐκκλείω|verb|κλείω|1. to shut out
-ἐκκλησία|noun|καλέω|1. (properly) a "calling out" 2. (concretely) a called out assembly of citizens 3. (specifically, of Christ) the community of the Redeemed of Christ whether being on earth or in heaven or both
-ἐκκλίνω|verb|κλίνω|1. (absolutely) to turn aside, deviate 2. (literally or figuratively) to shun 3. (relatively) to decline (from piety)
-ἐκκολυμβάω|verb|κολυμβάω|1. to escape by swimming
-ἐκκομίζω|verb|κομίζω|1. to bear forth (to burial)
-ἐκκόπτω|verb|κόπτω|1. to cut out or cut off 2. (figuratively) to frustrate
-ἐκκρέμαμαι|verb|κρεμάννυμι|1. to hang upon the lips of a speaker, i.e. listen closely
-ἐκλαλέω|verb|λαλέω|1. to divulge
-ἐκλάμπω|verb|λάμπω|1. to be resplendent
-ἐκλανθάνομαι|verb|λανθάνω|1. to be utterly oblivious of
-ἐκλέγομαι|verb|λέγω|1. to select
-ἐκλείπω|verb|λείπω|1. to omit 2. (by implication) to cease (die)
-ἐκλεκτός|adjective|ἐκλέγομαι|1. select 2. (by implication) favorite
-ἐκλογή|noun|ἐκλέγομαι|1. (divine) selection (abstractly or concretely)
-ἐκλύω|verb|λύω|1. to relax
-ἐκμάσσω|verb|μασσάομαι|1. to knead out 2. (by analogy) to wipe dry
-ἐκμυκτερίζω|verb|μυκτηρίζω|1. to sneer outright at
-ἐκνεύω|verb|νεύω|1. (by analogy) to slip off, i.e. quietly withdraw
-ἐκνήφω|verb|νήφω|1. (figuratively) to rouse (oneself) out of stupor
-ἑκούσιον|adjective|ἑκών|1. willingness, voluntariness
-ἑκουσίως|adverb|ἑκών|1. willingly, voluntarily
+ἐκκαθαίρω|verb|καθαίρω|1. to cleanse thoroughly
+ἐκκαίομαι|verb|καίω|1. to inflame deeply
+ἐκκακέω|verb|κακός|1. to be (bad or) weak 2. (by implication) to fail (in heart)
+ἐκκεντέω|verb|κέντρον|1. to transfix
+ἐκκλάω|verb|κλάω|1. to exscind
+ἐκκλείω|verb|κλείω|1. to shut out
+ἐκκλησία|noun|καλέω|1. (properly) a "calling out" 2. (concretely) a called out assembly of citizens 3. (specifically, of Christ) the community of the Redeemed of Christ whether being on earth or in heaven or both
+ἐκκλίνω|verb|κλίνω|1. (absolutely) to turn aside, deviate 2. (literally or figuratively) to shun 3. (relatively) to decline (from piety)
+ἐκκολυμβάω|verb|κολυμβάω|1. to escape by swimming
+ἐκκομίζω|verb|κομίζω|1. to bear forth (to burial)
+ἐκκόπτω|verb|κόπτω|1. to cut out or cut off 2. (figuratively) to frustrate
+ἐκκρεμάννυμι|verb|κρεμάννυμι|1. to hang upon the lips of a speaker, i.e. listen closely
+ἐκλαλέω|verb|λαλέω|1. to divulge
+ἐκλάμπω|verb|λάμπω|1. to be resplendent
+ἐκλανθάνομαι|verb|λανθάνω|1. to be utterly oblivious of
+ἐκλέγομαι|verb|λέγω|1. to select
+ἐκλείπω|verb|λείπω|1. to omit 2. (by implication) to cease (die)
+ἐκλεκτός|adjective|ἐκλέγομαι|1. select 2. (by implication) favorite
+ἐκλογή|noun|ἐκλέγομαι|1. (divine) selection (abstractly or concretely)
+ἐκλύω|verb|λύω|1. to relax
+ἐκμάσσω|verb|μασσάομαι|1. to knead out 2. (by analogy) to wipe dry
+ἐκμυκτηρίζω|verb|μυκτηρίζω|1. to sneer outright at
+ἐκνεύω|verb|νεύω|1. (by analogy) to slip off, i.e. quietly withdraw
+ἐκνήφω|verb|νήφω|1. (figuratively) to rouse (oneself) out of stupor
+ἑκούσιος|adjective|ἑκών|1. willingness, voluntariness
+ἑκουσίως|adverb|ἑκών|1. willingly, voluntarily
 ἔκπαλαι|adverb|πάλαι|1. long ago, for a long while
-ἐκπειράζω|verb|πειράζω|1. to test thoroughly
-ἐκπέμπω|verb|πέμπω|1. to despatch
-ἐκπετάννυμι|verb|πέτομαι|1. to fly out 2. (by analogy) to extend
-ἐκπίπτω|verb|πίπτω|1. to drop away 2. (specially) be driven out of one's course 3. (figuratively) to lose, become inefficient
-ἐκπλέω|verb|πλέω|1. to depart by ship
-ἐκπληρόω|verb|πληρόω|1. to accomplish entirely
-ἐκπλήρωσις|noun|ἐκπληρόω|1. completion
-ἐκπλήσσω|verb|πλήσσω|1. to strike with astonishment
-ἐκπνέω|verb|πνέω|1. to expire
-ἐκπορεύομαι|verb|πορεύομαι|1. to depart, be discharged, proceed, project
-ἐκπορνεύω|verb|πορνεύω|1. to be utterly unchaste
-ἐκπτύω|verb|πτύω|1. to spit out 2. (figuratively) spurn
-ἐκριζόω|verb|ῥιζόω|1. to uproot
+ἐκπειράζω|verb|πειράζω|1. to test thoroughly
+ἐκπέμπω|verb|πέμπω|1. to despatch
+ἐκπετάννυμι|verb|πέτομαι|1. to fly out 2. (by analogy) to extend
+ἐκπίπτω|verb|πίπτω|1. to drop away 2. (specially) be driven out of one's course 3. (figuratively) to lose, become inefficient
+ἐκπλέω|verb|πλέω|1. to depart by ship
+ἐκπληρόω|verb|πληρόω|1. to accomplish entirely
+ἐκπλήρωσις|noun|ἐκπληρόω|1. completion
+ἐκπλήσσω|verb|πλήσσω|1. to strike with astonishment
+ἐκπνέω|verb|πνέω|1. to expire
+ἐκπορεύομαι|verb|πορεύομαι|1. to depart, be discharged, proceed, project
+ἐκπορνεύω|verb|πορνεύω|1. to be utterly unchaste
+ἐκπτύω|verb|πτύω|1. to spit out 2. (figuratively) spurn
+ἐκριζόω|verb|ῥιζόω|1. to uproot
 ἔκστασις|noun|ἐξίστημι|1. a displacement of the mind, i.e. bewilderment, "ecstasy"
-ἐκστρέφω|verb|στρέφω|1. to pervert (figuratively)
-ἐκταράσσω|verb|ταράσσω|1. to disturb wholly
-ἐκτείνω|verb|ἐκ|1. to extend
-ἐκτελέω|verb|τελέω|1. to complete fully
-ἐκτένεια|noun|ἐκτενής|1. intentness
-ἐκτενέστερον|adverb|ἐκτενής|1. more intently
-ἐκτενής|adjective|ἐκτείνω|1. intent
+ἐκστρέφω|verb|στρέφω|1. to pervert (figuratively)
+ἐκταράσσω|verb|ταράσσω|1. to disturb wholly
+ἐκτείνω|verb|ἐκ|1. to extend
+ἐκτελέω|verb|τελέω|1. to complete fully
+ἐκτένεια|noun|ἐκτενής|1. intentness
+ἐκτενέστερον|adverb|ἐκτενής|1. more intently
+ἐκτενής|adjective|ἐκτείνω|1. intent
 ἐκτενῶς|adverb|ἐκτενής|1. intently
-ἐκτίθημι|verb|τίθημι|1. to expose 2. (figuratively) to declare
-ἐκτινάσσω|verb|ἐκ|1. to shake violently
-ἐκτός|adverb|ἐκ|1. the exterior 2. (figuratively, as a preposition) aside from, besides
+ἐκτίθημι|verb|τίθημι|1. to expose 2. (figuratively) to declare
+ἐκτινάσσω|verb|ἐκ|1. to shake violently
+ἐκτός|adverb|ἐκ|1. the exterior 2. (figuratively, as a preposition) aside from, besides
 ἕκτος|adjective|ἕξ|1. sixth
-ἐκτρέπω|verb|τροπή|1. to deflect, i.e. turn away
-ἐκτρέφω|verb|τρέφω|1. to rear up to maturity 2. (genitive case) to cherish or train
+ἐκτρέπω|verb|τροπή|1. to deflect, i.e. turn away
+ἐκτρέφω|verb|τρέφω|1. to rear up to maturity 2. (genitive case) to cherish or train
 ἔκτρωμα|noun|ἐκ|1. a miscarriage (abortion) 2. (by analogy) untimely, premature birth
-ἐκφέρω|verb|φέρω|1. to bear out
-ἐκφεύγω|verb|φεύγω|1. to flee out
-ἐκφοβέω|verb|φοβέω|1. to frighten utterly
+ἐκφέρω|verb|φέρω|1. to bear out
+ἐκφεύγω|verb|φεύγω|1. to flee out
+ἐκφοβέω|verb|φοβέω|1. to frighten utterly
 ἔκφοβος|adjective|φόβος|1. frightened out of one's wits
-ἐκφύω|verb|φύω|1. to sprout up
-ἐκχέω|verb|ἐκ|1. to pour forth 2. (figuratively) to bestow
-ἐκχωρέω|verb|χωρέω|1. to depart
-ἐκψύχω|verb|ψύχω|1. to expire
-ἑκών|adjective|---|1. willing, voluntary
-ἐλαῖα|noun|---|1. an olive (the tree or the fruit)
+ἐκφύω|verb|φύω|1. to sprout up
+ἐκχέω|verb|ἐκ|1. to pour forth 2. (figuratively) to bestow
+ἐκχωρέω|verb|χωρέω|1. to depart
+ἐκψύχω|verb|ψύχω|1. to expire
+ἑκών|adjective|---|1. willing, voluntary
+ἐλαία|noun|---|1. an olive (the tree or the fruit)
 ἔλαιον|noun|ἐλαῖα|1. olive oil
-ἐλαιών|noun|ἐλαῖα|1. an olive-orchard 2. (specially) the Mount of Olives
-Ἐλαμίτης|Name/g.|עֵילָם עוֹלָם|1. an Elamite or Persian
-ελάσσων|adjective|ἐλάχιστος|1. smaller (in size, quantity, age or quality)
-ἐλαττονέω|verb|ελάσσων|1. to diminish, i.e. fall short
-ἐλαττόω|verb|ελάσσων|1. to lessen (in rank or influence)
-ἐλαύνω|verb|---|1. to push (as wind, oars or dæmonical power)
-ἐλαφρία|noun|ἐλαφρός|1. levity (figuratively), i.e. fickleness
-ἐλαφρός|adjective|---|1. light, i.e. easy
-ἐλάχιστος|adjective|μικρός|1. least (in size, amount, dignity, etc.)
-ἐλαχιστότερος|adjective|ἐλάχιστος|1. far less
-Ἐλεάζαρ|Name Person|אֶלעָזָר|1. Eleazar, an Israelite
+Ἐλαιών|noun|ἐλαῖα|1. an olive-orchard 2. (specially) the Mount of Olives
+Ἐλαμίτης|Name/g.|עֵילָם עוֹלָם|1. an Elamite or Persian
+ἐλάσσων|adjective|ἐλάχιστος|1. smaller (in size, quantity, age or quality)
+ἐλαττονέω|verb|ελάσσων|1. to diminish, i.e. fall short
+ἐλαττόω|verb|ελάσσων|1. to lessen (in rank or influence)
+ἐλαύνω|verb|---|1. to push (as wind, oars or dæmonical power)
+ἐλαφρία|noun|ἐλαφρός|1. levity (figuratively), i.e. fickleness
+ἐλαφρός|adjective|---|1. light, i.e. easy
+ἐλάχιστος|adjective|μικρός|1. least (in size, amount, dignity, etc.)
+ἐλαχιστότερος|adjective|ἐλάχιστος|1. far less
+Ἐλεάζαρ|Name Person|אֶלעָזָר|1. Eleazar, an Israelite
 ἔλεγξις|noun|ἐλέγχω|1. refutation, i.e. reproof
 ἔλεγχος|noun|ἐλέγχω|1. proof, conviction
-ἐλέγχω|verb|---|1. to confute, admonish
-ἐλεεινός|adjective|ἔλεος|1. pitiable
-ἐλεέω|verb|ἔλεος|1. to have or show compassion (by word or deed) 2. (specially) by divine grace
-ἐλεημοσύνη|noun|ἔλεος|1. compassionateness 2. (as exercised towards the poor) beneficence 3. (concretely) a benefaction
-ἐλεήμων|adjective|ἐλεέω|1. compassionate (actively)
+ἐλέγχω|verb|---|1. to confute, admonish
+ἐλεεινός|adjective|ἔλεος|1. pitiable
+ἐλεέω|verb|ἔλεος|1. to have or show compassion (by word or deed) 2. (specially) by divine grace
+ἐλεημοσύνη|noun|ἔλεος|1. compassionateness 2. (as exercised towards the poor) beneficence 3. (concretely) a benefaction
+ἐλεήμων|adjective|ἐλεέω|1. compassionate (actively)
 ἔλεος|noun|---|1. compassion
-ἐλευθερία|noun|ἐλεύθερος|1. freedom (legitimate or licentious, chiefly moral or ceremonial)
-ἐλεύθερος|adjective|ἔρχομαι|1. unrestrained (to go at pleasure) 2. (as a citizen) not a slave (whether freeborn or set free (emancipated)) 3. (genitive case) exempt (from obligation or liability)
-ἐλευθερόω|verb|ἐλεύθερος|1. to liberate 2. (figuratively) to exempt (from moral, ceremonial or mortal liability)
+ἐλευθερία|noun|ἐλεύθερος|1. freedom (legitimate or licentious, chiefly moral or ceremonial)
+ἐλεύθερος|adjective|ἔρχομαι|1. unrestrained (to go at pleasure) 2. (as a citizen) not a slave (whether freeborn or set free (emancipated)) 3. (genitive case) exempt (from obligation or liability)
+ἐλευθερόω|verb|ἐλεύθερος|1. to liberate 2. (figuratively) to exempt (from moral, ceremonial or mortal liability)
 ἔλευσις|noun|ἔρχομαι|1. an advent
-ἐλεφάντινος|adjective|---|1. elephantine 2. (by implication) composed of ivory
-Ἐλιακείμ|Name Person|אֶליָקִים|1. Eliakim, an Israelite
-Ἐλιέζερ|Name Person|אֱלִיעֶזֶר|1. Eliezer, an Israelite
-Ἐλιούδ|Name Person|אֵל|1. God of majesty 2. Eliud, an Israelite
-Ἐλισάβετ|Name Person|אֱלִישֶׁבעַ|1. Elisabet, an Israelitess
-Ἐλισσαίος|Name Person|אֱלִישָׁע|1. Elissaeus, an Israelite
-ἑλίσσω|verb|εἱλίσσω|1. to coil or wrap
+ἐλεφάντινος|adjective|---|1. elephantine 2. (by implication) composed of ivory
+Ἐλιακείμ|Name Person|אֶליָקִים|1. Eliakim, an Israelite
+Ἐλιέζερ|Name Person|אֱלִיעֶזֶר|1. Eliezer, an Israelite
+Ἐλιούδ|Name Person|אֵל|1. God of majesty 2. Eliud, an Israelite
+Ἐλισάβετ|Name Person|אֱלִישֶׁבעַ|1. Elisabet, an Israelitess
+Ἐλισσαῖος|Name Person|אֱלִישָׁע|1. Elissaeus, an Israelite
+ἑλίσσω|verb|εἱλίσσω|1. to coil or wrap
 ἕλκος|noun|ἑλκύω|1. an ulcer (as if drawn together)
-ἡλκόω|verb|ἕλκος|1. to cause to ulcerate 2. (passively) be ulcerous
-ἑλκύω|verb|---|1. to drag
-Ἑλλάς|Name Location|---|1. Hellas (or Greece), a country of Europe
+ἑλκόω|verb|ἕλκος|1. to cause to ulcerate 2. (passively) be ulcerous
+ἑλκύω|verb|---|1. to drag
+Ἑλλάς|Name Location|---|1. Hellas (or Greece), a country of Europe
 Ἕλλην|Name/g.|Ἑλλάς|1. a Hellen (Grecian) or inhabitant of Hellas 2. (by extension) a Greek-speaking person 3. (especially) a non-Jew, i.e. a Gentile
-Ἑλληνικός|adjective/g.|Ἕλλην|1. Hellenic, i.e. Grecian (in language)
-Ἑλληνίς|Name/g.|Ἕλλην|1. a Grecian (i.e. non-Jewish) woman
-Ἑλληνιστής|Name/g.|Ἕλλην|1. a Hellenist or Greek-speaking Jew
-Ἑλληνιστί|adverb/g|Ἕλλην|1. Hellenistically, i.e. in the Grecian language
-ἐλλογέω|verb|λόγος|1. to reckon in, i.e. attribute
-Ἐλμωδάμ|Name Person|אַלמוֹדָד|1. Elmodam, an Israelite
-ἐλπίζω|verb|ἐλπίς|1. to expect or confide
-ἐλπίς|noun|---|1. expectation 2. (abstractly or concretely) confidence
-Ἐλύμας|Name Person|---|1. Elymas, a wizard
-ἐλοΐ|Aramaic|אֱלָהּ|1. my God
+Ἑλληνικός|adjective/g.|Ἕλλην|1. Hellenic, i.e. Grecian (in language)
+Ἑλληνίς|Name/g.|Ἕλλην|1. a Grecian (i.e. non-Jewish) woman
+Ἑλληνιστής|Name/g.|Ἕλλην|1. a Hellenist or Greek-speaking Jew
+Ἑλληνιστί|adverb/g|Ἕλλην|1. Hellenistically, i.e. in the Grecian language
+ἐλλογέω|verb|λόγος|1. to reckon in, i.e. attribute
+Ἐλμωδάμ|Name Person|אַלמוֹדָד|1. Elmodam, an Israelite
+ἐλπίζω|verb|ἐλπίς|1. to expect or confide
+ἐλπίς|noun|---|1. expectation 2. (abstractly or concretely) confidence
+Ἐλύμας|Name Person|---|1. Elymas, a wizard
+ἐλωΐ|Aramaic|אֱלָהּ|1. my God
 ἐμαυτοῦ|p/f|αὐτός|1. of myself
-ἐμβαίνω|verb|βάσις|1. to walk on, i.e. embark (aboard a vessel), reach (a pool)
-ἐμβάλλω|verb|βάλλω|1. to throw on 2. (figuratively) subject to (eternal punishment)
-ἐμβάπτω|verb|βάπτω|1. to dip in, i.e. wet (a part of the person, etc.) by contact with a fluid
-ἐμβατεύω|verb|βάσις|1. to intrude on (figuratively)
-ἐμβιβάζω|verb|ἐμβαίνω|1. to place on, i.e. transfer (aboard a vessel)
-ἐμβλέπω|verb|βλέπω|1. to look on 2. (relatively) to observe fixedly 3. (absolutely) to discern clearly
-ἐμβριμάομαι|verb|ἔν|1. to have indignation on 2. (transitively) to blame 3. (intransitively) to sigh with chagrin 4. (specially) to sternly enjoin
-ἐμέ|p/p.|μέ|1. me
-ἐμέω|verb|---|1. to vomit
-ἐμμαίνομαι|verb|μαίνομαι|1. to rave on, i.e. rage at
-Ἐμμανουήλ|Name Person|עִמָּנוּאֵל|1. God with us 2. Emmanuel, a name of Christ
-Ἐμμαούς|Name Location|---|1. Emmaus, a place in Israel
-ἐμμένω|verb|μένω|1. to stay in the same place 2. (figuratively) persevere
-Ἐμμόρ|Name Person|חֲמוֹר|1. Emmor (i.e. Chamor), a Canaanite
-ἐμοί|p/p.|μοί|1. to me
-ἐμός|p/s.|ἐγώ|1. my
+ἐμβαίνω|verb|βάσις|1. to walk on, i.e. embark (aboard a vessel), reach (a pool)
+ἐμβάλλω|verb|βάλλω|1. to throw on 2. (figuratively) subject to (eternal punishment)
+ἐμβάπτω|verb|βάπτω|1. to dip in, i.e. wet (a part of the person, etc.) by contact with a fluid
+ἐμβατεύω|verb|βάσις|1. to intrude on (figuratively)
+ἐμβιβάζω|verb|ἐμβαίνω|1. to place on, i.e. transfer (aboard a vessel)
+ἐμβλέπω|verb|βλέπω|1. to look on 2. (relatively) to observe fixedly 3. (absolutely) to discern clearly
+ἐμβριμάομαι|verb|ἔν|1. to have indignation on 2. (transitively) to blame 3. (intransitively) to sigh with chagrin 4. (specially) to sternly enjoin
+ἐμέ|p/p.|μέ|1. me
+ἐμέω|verb|---|1. to vomit
+ἐμμαίνομαι|verb|μαίνομαι|1. to rave on, i.e. rage at
+Ἐμμανουήλ|Name Person|עִמָּנוּאֵל|1. God with us 2. Emmanuel, a name of Christ
+Ἐμμαούς|Name Location|---|1. Emmaus, a place in Israel
+ἐμμένω|verb|μένω|1. to stay in the same place 2. (figuratively) persevere
+Ἐμμόρ|Name Person|חֲמוֹר|1. Emmor (i.e. Chamor), a Canaanite
+ἐμοί|p/p.|μοί|1. to me
+ἐμός|p/s.|ἐγώ|1. my
 ἐμοῦ|p/p.|μόχθος|1. of me
-ἐμπαιγμός|noun|ἐμπαίζω|1. derision
-ἐμπαίζω|verb|παίζω|1. (properly) to make sport of as a child (teasing, harassing, etc.) 2. (concretely) to mock, deride 3. (by implication) to belittle
-ἐμπαικτής|noun|ἐμπαίζω|1. a mocker, a derider 2. (by implication) a false teacher (as one who mocks and belittles other people and their ideas)
-ἐμπεριπατέω|verb|περιπατέω|1. to perambulate on a place 2. (figuratively) to be occupied among persons
-ἐμπίπλημι|verb|πλεῖστος|1. to fill in (up) 2. (by implication) to satisfy
-ἐμπίπτω|verb|πίπτω|1. to fall on 2. (literally) to be entrapped by 3. (figuratively) be overwhelmed with
-ἐμπλέκω|verb|πλέκω|1. to entwine 2. (figuratively) involve with
-ἐμπλοκή|noun|ἐμπλέκω|1. elaborate braiding of the hair
-ἐμπνέω|verb|πνέω|1. to inhale 2. (figuratively) to be animated by (bent upon)
-ἐμπορεύομαι|verb|πορεύομαι|1. to travel in (a country as a pedlar) 2. (by implication) to trade
-ἐμπορία|noun|ἔμπορος|1. traffic
-ἐμπόριον|noun|ἔμπορος|1. a mart ("emporium")
+ἐμπαιγμός|noun|ἐμπαίζω|1. derision
+ἐμπαίζω|verb|παίζω|1. (properly) to make sport of as a child (teasing, harassing, etc.) 2. (concretely) to mock, deride 3. (by implication) to belittle
+ἐμπαίκτης|noun|ἐμπαίζω|1. a mocker, a derider 2. (by implication) a false teacher (as one who mocks and belittles other people and their ideas)
+ἐμπεριπατέω|verb|περιπατέω|1. to perambulate on a place 2. (figuratively) to be occupied among persons
+ἐμπίπλημι|verb|πλεῖστος|1. to fill in (up) 2. (by implication) to satisfy
+ἐμπίπτω|verb|πίπτω|1. to fall on 2. (literally) to be entrapped by 3. (figuratively) be overwhelmed with
+ἐμπλέκω|verb|πλέκω|1. to entwine 2. (figuratively) involve with
+ἐμπλοκή|noun|ἐμπλέκω|1. elaborate braiding of the hair
+ἐμπνέω|verb|πνέω|1. to inhale 2. (figuratively) to be animated by (bent upon)
+ἐμπορεύομαι|verb|πορεύομαι|1. to travel in (a country as a pedlar) 2. (by implication) to trade
+ἐμπορία|noun|ἔμπορος|1. traffic
+ἐμπόριον|noun|ἔμπορος|1. a mart ("emporium")
 ἔμπορος|noun|πορεύομαι|1. a (wholesale) tradesman
-ἐμπρήθω|verb|ἔν|1. to enkindle, i.e. set on fire
+ἐμπρήθω|verb|ἔν|1. to enkindle, i.e. set on fire
 ἔμπροσθεν|adverb|πρός|1. in front of (in place or time)
-ἐμπτύω|verb|πτύω|1. to spit at or on
-ἐμφανής|adjective|φαίνω|1. apparent in self
-ἐμφανίζω|verb|ἐμφανής|1. to exhibit (in person) or disclose (by words)
+ἐμπτύω|verb|πτύω|1. to spit at or on
+ἐμφανής|adjective|φαίνω|1. apparent in self
+ἐμφανίζω|verb|ἐμφανής|1. to exhibit (in person) or disclose (by words)
 ἔμφοβος|adjective|φόβος|1. in fear, i.e. alarmed
-ἐμφυσάω|verb|ἔν|1. to blow at or on
+ἐμφυσάω|verb|ἔν|1. to blow at or on
 ἔμφυτος|adjective|φύω|1. implanted (figuratively)
-ἔν|preposition|---|1. "in," at, (up-)on, by, etc.
-ἐναγκαλίζομαι|verb|ἀγκάλη|1. to take in one's arms, i.e. embrace
-ἐνάλιος|adjective|ἅλς|1. in the sea, i.e. marine
+ἐν|preposition|---|1. "in," at, (up-)on, by, etc.
+ἐναγκαλίζομαι|verb|ἀγκάλη|1. to take in one's arms, i.e. embrace
+ἐνάλιος|adjective|ἅλς|1. in the sea, i.e. marine
 ἔναντι|adverb|ἀντί|1. in front of 2. (figuratively) in the presence of
-ἐναντίον|adverb|ἐναντίος|1. (adverbially) in the presence (view) of
-ἐναντίος|adjective|ἔναντι|1. opposite 2. (figuratively) antagonistic
-ἐνάρχομαι|verb|ἄρχομαι|1. to commence on
-ἐνδεής|adjective|δέω|1. deficient in
+ἐναντίον|adverb|ἐναντίος|1. (adverbially) in the presence (view) of
+ἐναντίος|adjective|ἔναντι|1. opposite 2. (figuratively) antagonistic
+ἐνάρχομαι|verb|ἄρχομαι|1. to commence on
+ἐνδεής|adjective|δέω|1. deficient in
 ἔνδειγμα|noun|ἐνδείκνυμι|1. an indication (concretely)
-ἐνδείκνυμι|verb|δεικνύω|1. to indicate (by word or act)
+ἐνδείκνυμι|verb|δεικνύω|1. to indicate (by word or act)
 ἔνδειξις|noun|ἐνδείκνυμι|1. indication (abstractly)
 ἕνδεκα|noun|δέκα|1. one and ten, i.e. eleven
-ἑνδέκατος|adjective|ἕνδεκα|1. eleventh
-ἐνδέχεται|verb|δέχομαι|1. (impersonally) it is accepted in, i.e. admitted (possible)
-ἐνδημέω|verb|δῆμος|1. to be in one's own country, i.e. home (figuratively)
-ἐνδιδύσκω|verb|ἐνδύω|1. to invest (with a garment)
+ἑνδέκατος|adjective|ἕνδεκα|1. eleventh
+ἐνδέχομαι|verb|δέχομαι|1. (impersonally) it is accepted in, i.e. admitted (possible)
+ἐνδημέω|verb|δῆμος|1. to be in one's own country, i.e. home (figuratively)
+ἐνδιδύσκω|verb|ἐνδύω|1. to invest (with a garment)
 ἔνδικος|adjective|δίκη|1. in the right, i.e. equitable
-ἐνδόμησις|noun|δῆμος|1. a housing in (residence), i.e. structure
-ἐνδοξάζω|verb|ἔνδοξος|1. to glorify
+ἐνδόμησις|noun|δῆμος|1. a housing in (residence), i.e. structure
+ἐνδοξάζω|verb|ἔνδοξος|1. to glorify
 ἔνδοξος|adjective|δόξα|1. in glory, i.e. splendid, (figuratively) noble
 ἔνδυμα|noun|ἐνδύω|1. apparel (especially the outer robe)
-ἐνδυναμόω|verb|δυναμόω|1. to empower
-ἐνδύνω|verb|δύνω|1. to sink (by implication, wrap on 2. (figuratively) sneak
+ἐνδυναμόω|verb|δυναμόω|1. to empower
+ἐνδύνω|verb|δύνω|1. to sink (by implication, wrap on 2. (figuratively) sneak
 ἔνδυσις|noun|ἐνδύω|1. investment with clothing
-ἐνδύω|verb|δύνω|1. to invest with clothing
-ἐνέδρα|noun|ἑδραῖος|1. an ambuscade 2. (figuratively) murderous purpose
-ἐνεδρεύω|verb|ἐνέδρα|1. to lurk 2. (figuratively) plot assassination
+ἐνδύω|verb|δύνω|1. to invest with clothing
+ἐνέδρα|noun|ἑδραῖος|1. an ambuscade 2. (figuratively) murderous purpose
+ἐνεδρεύω|verb|ἐνέδρα|1. to lurk 2. (figuratively) plot assassination
 ἔνεδρον|noun|ἐνέδρα|1. an ambush 2. (figuratively) murderous design
-ἐνειλέω|verb|εἱλίσσω|1. to enwrap
+ἐνειλέω|verb|εἱλίσσω|1. to enwrap
 ἔνειμι|verb|εἰμί|1. to be within (neuter participle plural)
-ἕνεκα|adverb|---|1. on account of
-ἐνέργεια|noun|ἐνεργής|1. efficiency ("energy")
-ἐνεργέω|verb|ἐνεργής|1. to be active, efficient
-ἐνέργημα|noun|ἐνεργέω|1. an effect
-ἐνεργής|adjective|ἔργον|1. active, operative
-ἐνευλογέω|verb|εὐλογέω|1. to confer a benefit on
-ἐνέχω|verb|ἔχω|1. to hold in or upon, i.e. ensnare 2. (by implication) to keep a grudge
-ἐνθάδε|adverb|ἔν|1. (properly) within 2. (of place) here, hither
-ἐνθυμέομαι|verb|θυμός|1. to be inspirited, i.e. ponder
-ἐνθύμησις|noun|ἐνθυμέομαι|1. deliberation
+ἕνεκεν|adverb|---|1. on account of
+ἐνέργεια|noun|ἐνεργής|1. efficiency ("energy")
+ἐνεργέω|verb|ἐνεργής|1. to be active, efficient
+ἐνέργημα|noun|ἐνεργέω|1. an effect
+ἐνεργής|adjective|ἔργον|1. active, operative
+ἐνευλογέω|verb|εὐλογέω|1. to confer a benefit on
+ἐνέχω|verb|ἔχω|1. to hold in or upon, i.e. ensnare 2. (by implication) to keep a grudge
+ἐνθάδε|adverb|ἔν|1. (properly) within 2. (of place) here, hither
+ἐνθυμέομαι|verb|θυμός|1. to be inspirited, i.e. ponder
+ἐνθύμησις|noun|ἐνθυμέομαι|1. deliberation
 ἔνι|verb|---|1. impersonally, there is in or among
-ἐνιαυτός|noun|---|1. a year
-ἐνίστημι|verb|ἵστημι|1. to place on hand 2. (reflexively) impend, (participle) be instant
-ἐνισχύω|verb|ἰσχύω|1. to invigorate (transitively or reflexively)
-ἔννατος|adjective|ἐννέα|1. ninth
-ἐννέα|noun|---|1. nine
-ἐννενηκονταεννέα|noun|ἐννέα|1. ninety-nine
-ἐννεός|adjective|ἐννεύω|1. dumb (as making signs), i.e. silent from astonishment
-ἐννεύω|verb|νεύω|1. to nod at, i.e. beckon or communicate by gesture
+ἐνιαυτός|noun|---|1. a year
+ἐνίστημι|verb|ἵστημι|1. to place on hand 2. (reflexively) impend, (participle) be instant
+ἐνισχύω|verb|ἰσχύω|1. to invigorate (transitively or reflexively)
+ἔνατος|adjective|ἐννέα|1. ninth
+ἐννέα|noun|---|1. nine
+ἐνενήκοντα|noun|ἐννέα|1. ninety-nine
+ἐνεός|adjective|ἐννεύω|1. dumb (as making signs), i.e. silent from astonishment
+ἐννεύω|verb|νεύω|1. to nod at, i.e. beckon or communicate by gesture
 ἔννοια|noun|νοῦς|1. thoughtfulness, i.e. moral understanding
 ἔννομος|adjective|νόμος|1. (subjectively) legal 2. (objectively) subject to
-ἔννυχον|adverb|νύξ|1. (adverbially) by night
-ἐνοικέω|verb|οἰκέω|1. to inhabit (figuratively)
-ἑνοτής|noun|εἷς|1. oneness 2. (figuratively) unanimity
-ἐνοχλέω|verb|ὀχλέω|1. to crowd in 2. (figuratively) to annoy
+ἔννυχος|adverb|νύξ|1. (adverbially) by night
+ἐνοικέω|verb|οἰκέω|1. to inhabit (figuratively)
+ἑνότης|noun|εἷς|1. oneness 2. (figuratively) unanimity
+ἐνοχλέω|verb|ὀχλέω|1. to crowd in 2. (figuratively) to annoy
 ἔνοχος|adjective|ἐνέχω|1. liable to (a condition, penalty or imputation)
 ἔνταλμα|noun|ἐντέλλομαι|1. an injunction, i.e. religious precept
-ἐνταφιάζω|verb|τάφος|1. to inswathe with cerements for interment
-ἐνταφιασμός|noun|ἐνταφιάζω|1. preparation for interment
-ἐντέλλομαι|verb|τέλος|1. to enjoin
-ἐντεύθεν|adverb|ἔν|1. hence 2. (repeated) on both sides
+ἐνταφιάζω|verb|τάφος|1. to inswathe with cerements for interment
+ἐνταφιασμός|noun|ἐνταφιάζω|1. preparation for interment
+ἐντέλλομαι|verb|τέλος|1. to enjoin
+ἐντεῦθεν|adverb|ἔν|1. hence 2. (repeated) on both sides
 ἔντευξις|noun|ἐντυγχάνω|1. an interview 2. (specially) supplication
 ἔντιμος|adjective|τιμή|1. valued (figuratively)
-ἐντολή|noun|ἐντέλλομαι|1. injunction, i.e. an authoritative prescription
-ἐντόπιος|adjective|τόπος|1. a resident
-ἐντός|adverb|ἔν|1. inside (adverb or noun)
-ἐντρέπω|verb|τροπή|1. to turn about, reverse position 2. (in a good sense) to respect 3. (in a bad sense) to confound
-ἐντρέφω|verb|τρέφω|1. (figuratively) to educate
+ἐντολή|noun|ἐντέλλομαι|1. injunction, i.e. an authoritative prescription
+ἐντόπιος|adjective|τόπος|1. a resident
+ἐντός|adverb|ἔν|1. inside (adverb or noun)
+ἐντρέπω|verb|τροπή|1. to turn about, reverse position 2. (in a good sense) to respect 3. (in a bad sense) to confound
+ἐντρέφω|verb|τρέφω|1. (figuratively) to educate
 ἔντρομος|adjective|τρόμος|1. terrified
-ἐντροπή|noun|ἐντρέπω|1. confusion
-ἐντρυφάω|verb|τρυφάω|1. to revel in
-ἐντυγχάνω|verb|τυγχάνω|1. to chance upon 2. (by implication) confer with 3. (by extension) to entreat (in favor or against)
-ἐντυλίσσω|verb|ἔν|1. to entwine, i.e. wind up in
-ἐντυπόω|verb|τύπος|1. to enstamp, i.e. engrave
-ἐνυβρίζω|verb|ὑβρίζω|1. to insult
-ἐνυπνιάζομαι|verb|ἐνύπνιον|1. to dream
-ἐνύπνιον|noun|ὕπνος|1. something seen in sleep, i.e. a dream (vision in a dream)
-ἐνώπιον|adverb|ὀπτάνομαι|1. in the face of
-Ἐνώς|Name Person|אֱנוֹשׁ|1. Enos (i.e. Enosh), a patriarch
-ἐνωτίζομαι|verb|οὖς|1. to take in one's ear, i.e. to listen
-Ἐνώχ|Name Person|חֲנוֹך|1. Enoch (i.e. Chanok), an antediluvian (pre-flood)
+ἐντροπή|noun|ἐντρέπω|1. confusion
+ἐντρυφάω|verb|τρυφάω|1. to revel in
+ἐντυγχάνω|verb|τυγχάνω|1. to chance upon 2. (by implication) confer with 3. (by extension) to entreat (in favor or against)
+ἐντυλίσσω|verb|ἔν|1. to entwine, i.e. wind up in
+ἐντυπόω|verb|τύπος|1. to enstamp, i.e. engrave
+ἐνυβρίζω|verb|ὑβρίζω|1. to insult
+ἐνυπνιάζομαι|verb|ἐνύπνιον|1. to dream
+ἐνύπνιον|noun|ὕπνος|1. something seen in sleep, i.e. a dream (vision in a dream)
+ἐνώπιον|adverb|ὀπτάνομαι|1. in the face of
+Ἐνώς|Name Person|אֱנוֹשׁ|1. Enos (i.e. Enosh), a patriarch
+ἐνωτίζομαι|verb|οὖς|1. to take in one's ear, i.e. to listen
+Ἐνώχ|Name Person|חֲנוֹך|1. Enoch (i.e. Chanok), an antediluvian (pre-flood)
 ἕξ|noun|---|1. six
-ἐξαγγέλλω|verb|ἄγγελος|1. to publish, i.e. celebrate
-ἐξαγοράζω|verb|ἀγοράζω|1. to buy up, i.e. ransom 2. (figuratively) to rescue from loss (improve opportunity)
-ἐξάγω|verb|ἄγω|1. to lead forth
-ἐξαιρέω|verb|αἱρέομαι|1. (actively) to tear out 2. (middle voice) to select 3. (figuratively) to release
-ἐξαίρω|verb|αἴρω|1. to remove
-ἐξαιτέομαι|verb|αἰτέω|1. to demand (for trial)
-ἐξαίφνης|adverb|αἰφνίδιος|1. of a sudden (unexpectedly)
-ἐξακολουθέω|verb|ἀκολουθέω|1. to follow out 2. (figuratively) to imitate, obey, yield to
-ἑξακόσιοι|noun|ἑκατόν|1. six hundred
-ἐξαλείφω|verb|αλείφω|1. to rub out, i.e. obliterate, erase 2. (figuratively) to pardon sin
-ἐξάλλομαι|verb|ἅλλομαι|1. to spring forth
-ἐξανάστασις|noun|ἐξανίστημι|1. a rising from death
-ἐξανατέλλω|verb|ἀνατέλλω|1. to start up out of the ground, i.e. germinate
-ἐξανίστημι|verb|ἀνίστημι|1. (objectively) to produce 2. (figuratively) beget 3. (subjectively) to arise, or to raise an object
-ἐξαπατάω|verb|ἀπατάω|1. to seduce wholly
-ἐξάπινα|adverb|αἰφνίδιος|1. of a sudden, i.e. unexpectedly
-ἐξαπορέομαι|verb|ἀπορέω|1. to be utterly at a loss, i.e. despond
-ἐξαποστέλλω|verb|ἀποστέλλω|1. to send away forth 2. (on a mission) to dispatch 3. (imperatively, peremptorily) to dismiss
-ἐξαρτίζω|verb|ἄρτιος|1. to finish out (time) 2. (figuratively) to equip fully (a teacher)
-ἐξαστράπτω|verb|ἀστράπτω|1. to lighten forth 2. (figuratively) to be radiant (of very white garments)
-ἐξαύτης|adverb|αὐτός|1. from that hour, i.e. instantly
-ἐξεγείρω|verb|ἐγείρω|1. to rouse fully 2. (figuratively) to resuscitate (from death), release (from infliction)
+ἐξαγγέλλω|verb|ἄγγελος|1. to publish, i.e. celebrate
+ἐξαγοράζω|verb|ἀγοράζω|1. to buy up, i.e. ransom 2. (figuratively) to rescue from loss (improve opportunity)
+ἐξάγω|verb|ἄγω|1. to lead forth
+ἐξαιρέω|verb|αἱρέομαι|1. (actively) to tear out 2. (middle voice) to select 3. (figuratively) to release
+ἐξαίρω|verb|αἴρω|1. to remove
+ἐξαιτέω|verb|αἰτέω|1. to demand (for trial)
+ἐξαίφνης|adverb|αἰφνίδιος|1. of a sudden (unexpectedly)
+ἐξακολουθέω|verb|ἀκολουθέω|1. to follow out 2. (figuratively) to imitate, obey, yield to
+ἑξακόσιοι|noun|ἑκατόν|1. six hundred
+ἐξαλείφω|verb|αλείφω|1. to rub out, i.e. obliterate, erase 2. (figuratively) to pardon sin
+ἐξάλλομαι|verb|ἅλλομαι|1. to spring forth
+ἐξανάστασις|noun|ἐξανίστημι|1. a rising from death
+ἐξανατέλλω|verb|ἀνατέλλω|1. to start up out of the ground, i.e. germinate
+ἐξανίστημι|verb|ἀνίστημι|1. (objectively) to produce 2. (figuratively) beget 3. (subjectively) to arise, or to raise an object
+ἐξαπατάω|verb|ἀπατάω|1. to seduce wholly
+ἐξάπινα|adverb|αἰφνίδιος|1. of a sudden, i.e. unexpectedly
+ἐξαπορέομαι|verb|ἀπορέω|1. to be utterly at a loss, i.e. despond
+ἐξαποστέλλω|verb|ἀποστέλλω|1. to send away forth 2. (on a mission) to dispatch 3. (imperatively, peremptorily) to dismiss
+ἐξαρτίζω|verb|ἄρτιος|1. to finish out (time) 2. (figuratively) to equip fully (a teacher)
+ἐξαστράπτω|verb|ἀστράπτω|1. to lighten forth 2. (figuratively) to be radiant (of very white garments)
+ἐξαυτῆς|adverb|αὐτός|1. from that hour, i.e. instantly
+ἐξεγείρω|verb|ἐγείρω|1. to rouse fully 2. (figuratively) to resuscitate (from death), release (from infliction)
 ἔξειμι|verb|ἐκ|1. to go out, go forth 2. to leave (a place) 3. to escape (to the shore)
-ἐξελέγχω|verb|ἐλέγχω|1. to convict fully 2. (by implication) to punish
-ἐξέλκω|verb|ἑλκύω|1. to drag forth 2. (figuratively) to entice (to sin)
-ἐξέραμα|noun|ἐκ|1. vomit, i.e. food disgorged
-ἐξερευνάω|verb|ἐρευνάω|1. to explore (figuratively)
-ἐξέρχομαι|verb|ἔρχομαι|1. to issue
-ἔξεστι|verb|εἰμί|1. impersonally, it is right (through the figurative idea of being out in public)
-ἐξετάζω|verb|ἐκ|1. to test thoroughly (by questions), i.e. ascertain or interrogate
-ἐξηγέομαι|verb|ἡγέομαι|1. to consider out (aloud), i.e. rehearse, unfold
-ἑξήκοντα|noun|---|1. sixty
+ἐξελέγχω|verb|ἐλέγχω|1. to convict fully 2. (by implication) to punish
+ἐξέλκω|verb|ἑλκύω|1. to drag forth 2. (figuratively) to entice (to sin)
+ἐξέραμα|noun|ἐκ|1. vomit, i.e. food disgorged
+ἐξερευνάω|verb|ἐρευνάω|1. to explore (figuratively)
+ἐξέρχομαι|verb|ἔρχομαι|1. to issue
+ἔξεστιν|verb|εἰμί|1. impersonally, it is right (through the figurative idea of being out in public)
+ἐξετάζω|verb|ἐκ|1. to test thoroughly (by questions), i.e. ascertain or interrogate
+ἐξηγέομαι|verb|ἡγέομαι|1. to consider out (aloud), i.e. rehearse, unfold
+ἑξήκοντα|noun|---|1. sixty
 ἑξῆς|adverb|ἔχω|1. successive
-ἐξηχέομαι|verb|ἠχέω|1. to "echo" forth, i.e. resound (be generally reported)
+ἐξηχέω|verb|ἠχέω|1. to "echo" forth, i.e. resound (be generally reported)
 ἕξις|noun|ἔχω|1. habit 2. (by implication) practice
-ἐξίστημι|verb|ἵστημι|1. to put (stand) out of wits, i.e. astound 2. (reflexively) become astounded, insane
-ἐξισχύω|verb|ἰσχύω|1. to have full strength, i.e. be entirely competent
+ἐξίστημι|verb|ἵστημι|1. to put (stand) out of wits, i.e. astound 2. (reflexively) become astounded, insane
+ἐξισχύω|verb|ἰσχύω|1. to have full strength, i.e. be entirely competent
 ἔξοδος|noun|ὁδός|1. an exit 2. (figuratively) death
-ἐξολοθρεύω|verb|ὀλοθρεύω|1. to extirpate
-ἐξομολογέω|verb|ὁμολογέω|1. to acknowledge or (by implication, of assent) agree fully
-ἐξορκίζω|verb|ὁρκίζω|1. to exact an oath, i.e. conjure
-ἐξορκιστής|noun|ἐξορκίζω|1. one that binds by an oath (or spell) 2. (by implication) an "exorcist" (conjurer)
-ἐξορύσσω|verb|ὀρύσσω|1. to dig out 2. (by extension) to extract (an eye), remove (roofing)
-ἐξουδενόω|verb|οὐδείς|1. to make utterly nothing of, i.e. despise
-ἐξουθενέω|verb|ἐξουδενόω|1. contemptible, despise, least esteemed
-ἐξουσία|noun|ἔξεστι|1. privilege 2. (subjectively) force, capacity, competency, freedom 3. (objectively) mastery (concretely, magistrate, superhuman, potentate, token of control), delegated influence
-ἐξουσιάζω|verb|ἐξουσία|1. to control
-ἐξοχή|noun|ἔχω|1. prominence (figuratively)
-ἐξυπνίζω|verb|ἔξυπνος|1. to waken
+ἐξολοθρεύω|verb|ὀλοθρεύω|1. to extirpate
+ἐξομολογέω|verb|ὁμολογέω|1. to acknowledge or (by implication, of assent) agree fully
+ἐξορκίζω|verb|ὁρκίζω|1. to exact an oath, i.e. conjure
+ἐξορκιστής|noun|ἐξορκίζω|1. one that binds by an oath (or spell) 2. (by implication) an "exorcist" (conjurer)
+ἐξορύσσω|verb|ὀρύσσω|1. to dig out 2. (by extension) to extract (an eye), remove (roofing)
+ἐξουδενόω|verb|οὐδείς|1. to make utterly nothing of, i.e. despise
+ἐξουθενέω|verb|ἐξουδενόω|1. contemptible, despise, least esteemed
+ἐξουσία|noun|ἔξεστι|1. privilege 2. (subjectively) force, capacity, competency, freedom 3. (objectively) mastery (concretely, magistrate, superhuman, potentate, token of control), delegated influence
+ἐξουσιάζω|verb|ἐξουσία|1. to control
+ἐξοχή|noun|ἔχω|1. prominence (figuratively)
+ἐξυπνίζω|verb|ἔξυπνος|1. to waken
 ἔξυπνος|adjective|ὕπνος|1. awake
 ἔξω|adverb|ἐκ|1. out(-side, of doors)
 ἔξωθεν|adverb|ἔξω|1. external(-ly)
-ἐξωθέω|verb|ἐκ|1. to expel 2. (by implication) to propel
-ἐξώτερος|adjective|ἔξω|1. exterior
-ἑορτάζω|verb|ἑορτή|1. to observe a festival
-ἑορτή|noun|---|1. a festival
-ἐπαγγελία|noun|ἐπαγγέλλω|1. an announcement (for information, assent or pledge) 2. (especially) a divine assurance of good
-ἐπαγγέλλω|verb|ἄγγελος|1. to announce upon (reflexively) 2. (by implication) to engage to do something, to assert something respecting oneself
-ἐπάγγελμα|noun|ἐπαγγέλλω|1. a self-committal (by assurance of conferring some good)
-ἐπάγω|verb|ἄγω|1. to superinduce, i.e. inflict (an evil), charge (a crime)
-ἐπαγωνίζομαι|verb|ἀγωνίζομαι|1. to struggle for
-ἐπαθροίζω|verb|ἐπί|1. to accumulate
-Ἐπαίνετος|Name Person|ἐπαινέω|1. praised 2. Epaenetus, a Christian
-ἐπαινέω|verb|αἰνέω|1. to applaud
+ἐξωθέω|verb|ἐκ|1. to expel 2. (by implication) to propel
+ἐξώτερος|adjective|ἔξω|1. exterior
+ἑορτάζω|verb|ἑορτή|1. to observe a festival
+ἑορτή|noun|---|1. a festival
+ἐπαγγελία|noun|ἐπαγγέλλω|1. an announcement (for information, assent or pledge) 2. (especially) a divine assurance of good
+ἐπαγγέλλομαι|verb|ἄγγελος|1. to announce upon (reflexively) 2. (by implication) to engage to do something, to assert something respecting oneself
+ἐπάγγελμα|noun|ἐπαγγέλλω|1. a self-committal (by assurance of conferring some good)
+ἐπάγω|verb|ἄγω|1. to superinduce, i.e. inflict (an evil), charge (a crime)
+ἐπαγωνίζομαι|verb|ἀγωνίζομαι|1. to struggle for
+ἐπαθροίζω|verb|ἐπί|1. to accumulate
+Ἐπαίνετος|Name Person|ἐπαινέω|1. praised 2. Epaenetus, a Christian
+ἐπαινέω|verb|αἰνέω|1. to applaud
 ἔπαινος|noun|αἰνέω|1. laudation 2. (concretely) a commendable thing
-ἐπαίρω|verb|αἴρω|1. to raise up
-ἐπαισχύνομαι|verb|αἰσχύνομαι|1. to feel shame for something
-ἐπαιτέω|verb|αἰτέω|1. to ask for
-ἐπακολουθέω|verb|ἀκολουθέω|1. to accompany
-ἐπακούω|verb|ἀκούω|1. to hearken (favorably) to
-ἐπακροάομαι|verb|ἀκροατής|1. to listen (intently) to
-ἐπάν|conjunction|ἄν|1. whenever, as soon as
-ἐπάναγκες|adverb|ἀναγκή|1. (adverbially) on necessity, i.e. necessarily
-ἐπανάγω|verb|ἀνάγω|1. to lead up on 2. (technically) to put out (to sea) 3. (intransitively) to return
-ἐπαναμιμνήσκω|verb|ἀναμιμνήσκω|1. to remind of
-ἐπαναπαύομαι|verb|ἀναπαύω|1. to settle on 2. (literally) remain 3. (figuratively) rely
-ἐπανέρχομαι|verb|ἀνέρχομαι|1. to come up on, i.e. return
-ἐπανίσταμαι|verb|ἀνίστημι|1. to stand up on 2. (figuratively) to attack
-ἐπανόρθωσις|noun|ἀνορθόω|1. a straightening up again 2. (figuratively) rectification (reformation)
-ἐπάνω|adverb|ἄνω|1. up above, i.e. over or on (of place, amount, rank, etc.)
-ἐπαρκέω|verb|ἀρκέω|1. to avail for, i.e. help
-ἐπαρχία|noun|ἄρχω|1. a special region of government, i.e. a Roman prefecture
+ἐπαίρω|verb|αἴρω|1. to raise up
+ἐπαισχύνομαι|verb|αἰσχύνομαι|1. to feel shame for something
+ἐπαιτέω|verb|αἰτέω|1. to ask for
+ἐπακολουθέω|verb|ἀκολουθέω|1. to accompany
+ἐπακούω|verb|ἀκούω|1. to hearken (favorably) to
+ἐπακροάομαι|verb|ἀκροατής|1. to listen (intently) to
+ἐπάν|conjunction|ἄν|1. whenever, as soon as
+ἐπάναγκες|adverb|ἀναγκή|1. (adverbially) on necessity, i.e. necessarily
+ἐπανάγω|verb|ἀνάγω|1. to lead up on 2. (technically) to put out (to sea) 3. (intransitively) to return
+ἐπαναμιμνήσκω|verb|ἀναμιμνήσκω|1. to remind of
+ἐπαναπαύομαι|verb|ἀναπαύω|1. to settle on 2. (literally) remain 3. (figuratively) rely
+ἐπανέρχομαι|verb|ἀνέρχομαι|1. to come up on, i.e. return
+ἐπανίστημι|verb|ἀνίστημι|1. to stand up on 2. (figuratively) to attack
+ἐπανόρθωσις|noun|ἀνορθόω|1. a straightening up again 2. (figuratively) rectification (reformation)
+ἐπάνω|adverb|ἄνω|1. up above, i.e. over or on (of place, amount, rank, etc.)
+ἐπαρκέω|verb|ἀρκέω|1. to avail for, i.e. help
+ἐπαρχία|noun|ἄρχω|1. a special region of government, i.e. a Roman prefecture
 ἔπαυλις|noun|αὐλή|1. a hut over the head, i.e. a dwelling
-ἐπαύριον|adverb|αὔριον|1. occurring on the succeeding day, i.e. to-morrow
-ἐπαυτοφώρῳ|adverb|αὐτός|1. in theft itself 2. (by analogy) in actual crime
+ἐπαύριον|adverb|αὔριον|1. occurring on the succeeding day, i.e. to-morrow
+αὐτόφωρος|adverb|αὐτός|1. in theft itself 2. (by analogy) in actual crime
 Ἐπαφρᾶς|Name Person|Ἐπαφρόδιτος|1. Epaphras, a Christian
-ἐπαφρίζω|verb|ἀφρίζω|1. to foam upon 2. (figuratively) to exhibit (a vile passion)
-Ἐπαφρόδιτος|Name Person|ἐπί|1. Epaphroditus, a Christian
-ἐπεγείρω|verb|ἐγείρω|1. to rouse upon 2. (figuratively) to excite against
-ἐπεί|conjunction|εἰ|1. thereupon, i.e. since (of time or cause)
-ἐπειδή|conjunction|δή|1. since now 2. (of time) when 3. (of cause) whereas
-ἐπειδήπερ|conjunction|πέρ|1. since indeed (of cause)
-ἐπείδον|verb|εἴδω|1. to regard (favorably or otherwise)
-ἐπείπερ|conjunction|πέρ|1. since indeed (of cause)
-ἐπεισαγωγή|noun|εἰσάγω|1. a superintroduction
+ἐπαφρίζω|verb|ἀφρίζω|1. to foam upon 2. (figuratively) to exhibit (a vile passion)
+Ἐπαφρόδιτος|Name Person|ἐπί|1. Epaphroditus, a Christian
+ἐπεγείρω|verb|ἐγείρω|1. to rouse upon 2. (figuratively) to excite against
+ἐπεί|conjunction|εἰ|1. thereupon, i.e. since (of time or cause)
+ἐπειδή|conjunction|δή|1. since now 2. (of time) when 3. (of cause) whereas
+ἐπειδήπερ|conjunction|πέρ|1. since indeed (of cause)
+ἐπεῖδεν|verb|εἴδω|1. to regard (favorably or otherwise)
+ἐπείπερ|conjunction|πέρ|1. since indeed (of cause)
+ἐπεισαγωγή|noun|εἰσάγω|1. a superintroduction
 ἔπειτα|adverb|εἶτα|1. thereafter
-ἐπέκεινα|adverb|ἐκεῖνος|1. upon those parts of, i.e. on the further side of
-ἐπεκτείνομαι|verb|ἐκτείνω|1. to stretch (oneself) forward upon
-ἐπενδύομαι|verb|ἐνδύω|1. to invest upon oneself
-ἐπενδύτης|noun|ἐπενδύομαι|1. a wrapper, i.e. outer garment
-ἐπέρχομαι|verb|ἔρχομαι|1. to supervene, i.e. arrive, occur, impend, attack, (figuratively) influence
-ἐπερωτάω|verb|ἐρωτάω|1. to ask for, i.e. inquire, seek
-ἐπερώτημα|noun|ἐπερωτάω|1. an inquiry
-ἐπέχω|verb|ἔχω|1. to hold upon 2. (by implication) to retain 3. (by extension) to detain 4. (with implication) to pay attention to
-ἐπηρεάζω|verb|ἐπί|1. to insult, slander
-ἐπί|preposition|---|1. (properly) meaning superimposition (of time, place, order, etc.) 2. (genitive case) as a relation of distribution (over, upon, etc.) 3. (dative case) of rest (at, on, etc.) 4. (accusative case) of direction (towards, upon, etc.)
-ἐπιβαίνω|verb|βάσις|1. to walk upon, i.e. mount, ascend, embark, arrive
-ἐπιβάλλω|verb|βάλλω|1. to throw upon 2. (specially) to reflect 3. (impersonally) to belong to
-ἐπιβαρέω|verb|βαρέω|1. to be heavy upon 2. (financially) to be expensive to 3. (figuratively) to be severe towards
-ἐπιβιβάζω|verb|βάσις|1. to cause to mount (an animal)
-ἐπιβλέπω|verb|βλέπω|1. to gaze at (with favor, pity or partiality)
-ἐπίβλημα|noun|βάλλω|1. a patch
-ἐπιβοάω|verb|βοάω|1. to exclaim against
-ἐπιβουλή|noun|βούλομαι|1. a plan against someone, i.e. a plot
-ἐπιγαμβρεύω|verb|γάμος|1. to form affinity with 2. (specially) in a levirate way
-ἐπίγειος|adjective|γῆ|1. worldly (physically or morally)
-ἐπιγίνομαι|verb|γίνομαι|1. to arrive upon, i.e. spring up (as a wind)
-ἐπιγινώσκω|verb|γινώσκω|1. to know upon some mark, i.e. recognize 2. (by implication) to become fully acquainted with, to acknowledge
-ἐπίγνωσις|noun|ἐπιγινώσκω|1. recognition 2. (by implication) full discernment, acknowledgement
-ἐπιγραφή|noun|ἐπιγράφω|1. an inscription
-ἐπιγράφω|verb|γράφω|1. to inscribe (physically or mentally)
-ἐπιδείκνυμι|verb|δεικνύω|1. to exhibit (physically or mentally)
-ἐπιδέχομαι|verb|δέχομαι|1. to admit (as a guest or (figuratively) teacher)
-ἐπιδημέω|verb|δῆμος|1. to make oneself at home 2. (by extension) to reside (in a foreign country)
-ἐπιδιατάσσομαι|verb|διατάσσω|1. to appoint besides, i.e. supplement (as a codicil)
-ἐπιδίδωμι|verb|δίδωμι|1. to give over (by hand or surrender)
-ἐπιδιορθόω|verb|ὀρθός|1. to straighten further 2. (figuratively) arrange additionally
-ἐπιδύω|verb|δύνω|1. to set fully (as the sun)
-ἐπιείκεια|noun|ἐπιεικής|1. suitableness 2. (by implication) equity, mildness
-ἐπιεικής|adjective|εἴκω|1. appropriate 2. (by implication) mild
-ἐπιζητέω|verb|ζητέω|1. to search (inquire) for 2. (intensively) to demand, to crave
-ἐπιθανάτιος|adjective|θάνατος|1. doomed to death
-ἐπίθεσις|noun|ἐπιτίθημι|1. an imposition (of hands officially)
-ἐπιθυμέω|verb|θυμός|1. to set the heart upon, i.e. long for (rightfully or otherwise)
-ἐπιθυμητής|noun|ἐπιθυμέω|1. a craver
-ἐπιθυμία|noun|ἐπιθυμέω|1. a longing 2. (especially) a lust for what is forbidden
-ἐπικαθίζω|verb|καθίζω|1. to seat upon
-ἐπικαλέομαι|verb|καλέω|1. to entitle 2. (by implication) to invoke (for aid, worship, testimony, decision, etc.)
-ἐπικάλυμα|noun|ἐπικαλύπτω|1. a covering 2. (figuratively) pretext
-ἐπικαλύπτω|verb|καλύπτω|1. to conceal 2. (figuratively) forgive
-ἐπικατάρατος|adjective|καταράομαι|1. accursed, damned 2. (by analogy) doomed
-ἐπίκειμαι|verb|κεῖμαι|1. to rest upon
-Ἐπικούρειος|Name/g.|---|1. an Epicurean or follower of Epicurus
-ἐπικουρία|noun|κοράσιον|1. assistance
-ἐπικρίνω|verb|κρίνω|1. to adjudge, declare judgment
-ἐπιλαμβάνομαι|verb|λαμβάνω|1. to seize (for help, injury, attainment, or any other purpose)
-ἐπιλανθάνομαι|verb|λανθάνω|1. to lose out of mind 2. (by implication) to neglect
-ἐπιλέγομαι|verb|λέγω|1. to surname, select
-ἐπιλείπω|verb|λείπω|1. to leave upon 2. (figuratively) to be insufficient for
-ἐπιλησμονή|noun|ἐπιλανθάνομαι|1. negligence
-ἐπίλοιπος|adjective|λοιποί|1. left over, i.e. remaining
-ἐπίλυσις|noun|ἐπιλύω|1. explanation, i.e. application
-ἐπιλύω|verb|λύω|1. to solve further 2. (figuratively) to explain, decide
-ἐπιμαρτυρέω|verb|μαρτυρέω|1. to attest further, i.e. corroborate
-ἐπιμέλεια|noun|ἐπιμελέομαι|1. carefulness, i.e. kind attention (hospitality)
-ἐπιμελέομαι|verb|μέλω|1. to care for (physically or otherwise)
+ἐπέκεινα|adverb|ἐκεῖνος|1. upon those parts of, i.e. on the further side of
+ἐπεκτείνομαι|verb|ἐκτείνω|1. to stretch (oneself) forward upon
+ἐπενδύομαι|verb|ἐνδύω|1. to invest upon oneself
+ἐπενδύτης|noun|ἐπενδύομαι|1. a wrapper, i.e. outer garment
+ἐπέρχομαι|verb|ἔρχομαι|1. to supervene, i.e. arrive, occur, impend, attack, (figuratively) influence
+ἐπερωτάω|verb|ἐρωτάω|1. to ask for, i.e. inquire, seek
+ἐπερώτημα|noun|ἐπερωτάω|1. an inquiry
+ἐπέχω|verb|ἔχω|1. to hold upon 2. (by implication) to retain 3. (by extension) to detain 4. (with implication) to pay attention to
+ἐπηρεάζω|verb|ἐπί|1. to insult, slander
+ἐπί|preposition|---|1. (properly) meaning superimposition (of time, place, order, etc.) 2. (genitive case) as a relation of distribution (over, upon, etc.) 3. (dative case) of rest (at, on, etc.) 4. (accusative case) of direction (towards, upon, etc.)
+ἐπιβαίνω|verb|βάσις|1. to walk upon, i.e. mount, ascend, embark, arrive
+ἐπιβάλλω|verb|βάλλω|1. to throw upon 2. (specially) to reflect 3. (impersonally) to belong to
+ἐπιβαρέω|verb|βαρέω|1. to be heavy upon 2. (financially) to be expensive to 3. (figuratively) to be severe towards
+ἐπιβιβάζω|verb|βάσις|1. to cause to mount (an animal)
+ἐπιβλέπω|verb|βλέπω|1. to gaze at (with favor, pity or partiality)
+ἐπίβλημα|noun|βάλλω|1. a patch
+ἐπιβοάω|verb|βοάω|1. to exclaim against
+ἐπιβουλή|noun|βούλομαι|1. a plan against someone, i.e. a plot
+ἐπιγαμβρεύω|verb|γάμος|1. to form affinity with 2. (specially) in a levirate way
+ἐπίγειος|adjective|γῆ|1. worldly (physically or morally)
+ἐπιγίνομαι|verb|γίνομαι|1. to arrive upon, i.e. spring up (as a wind)
+ἐπιγινώσκω|verb|γινώσκω|1. to know upon some mark, i.e. recognize 2. (by implication) to become fully acquainted with, to acknowledge
+ἐπίγνωσις|noun|ἐπιγινώσκω|1. recognition 2. (by implication) full discernment, acknowledgement
+ἐπιγραφή|noun|ἐπιγράφω|1. an inscription
+ἐπιγράφω|verb|γράφω|1. to inscribe (physically or mentally)
+ἐπιδείκνυμι|verb|δεικνύω|1. to exhibit (physically or mentally)
+ἐπιδέχομαι|verb|δέχομαι|1. to admit (as a guest or (figuratively) teacher)
+ἐπιδημέω|verb|δῆμος|1. to make oneself at home 2. (by extension) to reside (in a foreign country)
+ἐπιδιατάσσομαι|verb|διατάσσω|1. to appoint besides, i.e. supplement (as a codicil)
+ἐπιδίδωμι|verb|δίδωμι|1. to give over (by hand or surrender)
+ἐπιδιορθόω|verb|ὀρθός|1. to straighten further 2. (figuratively) arrange additionally
+ἐπιδύω|verb|δύνω|1. to set fully (as the sun)
+ἐπιείκεια|noun|ἐπιεικής|1. suitableness 2. (by implication) equity, mildness
+ἐπιεικής|adjective|εἴκω|1. appropriate 2. (by implication) mild
+ἐπιζητέω|verb|ζητέω|1. to search (inquire) for 2. (intensively) to demand, to crave
+ἐπιθανάτιος|adjective|θάνατος|1. doomed to death
+ἐπίθεσις|noun|ἐπιτίθημι|1. an imposition (of hands officially)
+ἐπιθυμέω|verb|θυμός|1. to set the heart upon, i.e. long for (rightfully or otherwise)
+ἐπιθυμητής|noun|ἐπιθυμέω|1. a craver
+ἐπιθυμία|noun|ἐπιθυμέω|1. a longing 2. (especially) a lust for what is forbidden
+ἐπικαθίζω|verb|καθίζω|1. to seat upon
+ἐπικαλέω|verb|καλέω|1. to entitle 2. (by implication) to invoke (for aid, worship, testimony, decision, etc.)
+ἐπικάλυμμα|noun|ἐπικαλύπτω|1. a covering 2. (figuratively) pretext
+ἐπικαλύπτω|verb|καλύπτω|1. to conceal 2. (figuratively) forgive
+ἐπικατάρατος|adjective|καταράομαι|1. accursed, damned 2. (by analogy) doomed
+ἐπίκειμαι|verb|κεῖμαι|1. to rest upon
+Ἐπικούρειος|Name/g.|---|1. an Epicurean or follower of Epicurus
+ἐπικουρία|noun|κοράσιον|1. assistance
+ἐπικρίνω|verb|κρίνω|1. to adjudge, declare judgment
+ἐπιλαμβάνομαι|verb|λαμβάνω|1. to seize (for help, injury, attainment, or any other purpose)
+ἐπιλανθάνομαι|verb|λανθάνω|1. to lose out of mind 2. (by implication) to neglect
+ἐπιλέγω|verb|λέγω|1. to surname, select
+ἐπιλείπω|verb|λείπω|1. to leave upon 2. (figuratively) to be insufficient for
+ἐπιλησμονή|noun|ἐπιλανθάνομαι|1. negligence
+ἐπίλοιπος|adjective|λοιποί|1. left over, i.e. remaining
+ἐπίλυσις|noun|ἐπιλύω|1. explanation, i.e. application
+ἐπιλύω|verb|λύω|1. to solve further 2. (figuratively) to explain, decide
+ἐπιμαρτυρέω|verb|μαρτυρέω|1. to attest further, i.e. corroborate
+ἐπιμέλεια|noun|ἐπιμελέομαι|1. carefulness, i.e. kind attention (hospitality)
+ἐπιμελέομαι|verb|μέλω|1. to care for (physically or otherwise)
 ἐπιμελῶς|adverb|ἐπιμελέομαι|1. carefully
-ἐπιμένω|verb|μένω|1. to stay over, i.e. remain 2. (figuratively) persevere
-ἐπινεύω|verb|νεύω|1. to nod at 2. (by implication) to assent
-ἐπίνοια|noun|νοῦς|1. attention of the mind 2. (by implication) purpose
-ἐπιορκέω|verb|ἐπίορκος|1. to commit perjury
-ἐπίορκος|adjective|ὅρκος|1. on oath 2. (falsely) a forswearer
-ἐπιούσα|verb|ἐπί|1. to ensue, follow immediately, i.e.  the ensuing day or night
-ἐπιούσιος|adjective|ἐπί|1. for subsistence, i.e. needful
-ἐπιπίπτω|verb|πίπτω|1. to embrace (with affection) or seize (with more or less violence)
-ἐπιπλήσσω|verb|πλήσσω|1. to chastise 2. (with words) to upbraid
-ἐπιπνίγω|verb|πνίγω|1. to throttle upon 2. (figuratively) overgrow
-ἐπιποθέω|verb|ἐπί|1. to dote upon, i.e. intensely crave possession (lawfully or wrongfully)
-ἐπιπόθησις|noun|ἐπιποθέω|1. a longing for
-ἐπιπόθητος|adjective|ἐπιποθέω|1. yearned upon, i.e. greatly loved
-ἐπιποθία|noun|ἐπιποθέω|1. intense longing
-ἐπιπορεύομαι|verb|πορεύομαι|1. to journey further, i.e. travel on (reach)
-ἐπιρῥάπτω|verb|ῥαφίς|1. to stitch upon, i.e. fasten with the needle
-ἐπιρῥίπτω|verb|ῥίπτω|1. to throw upon
-ἐπίσημος|adjective|σημαίνω|1. remarkable 2. (figuratively) eminent
-ἐπισιτισμός|noun|σίτος|1. a provisioning 2. (concretely) food
-ἐπισκέπτομαι|verb|σκοπός|1. to inspect 2. (by implication) to select 3. (by extension) to go to see, relieve
-ἐπισκηνόω|verb|σκηνόω|1. to tent upon 2. (figuratively) abide with
-ἐπισκιάζω|verb|σκία|1. to cast a shade upon 2. (by analogy) to envelop in a haze of brilliancy 3. (figuratively) to invest with preternatural influence
-ἐπισκοπέω|verb|σκοπέω|1. to oversee, inspect 2. (by implication) to beware
-ἐπισκοπή|noun|ἐπισκέπτομαι|1. inspection (for relief) 2. (by implication) superintendence 3.
-ἐπίσκοπος|noun|σκοπός|1. an overseer 2. (in genitive case) one of the co-superintendents entrusted with the well-being of a local assembly or of assemblies within a city or location
-ἐπισπάομαι|verb|σπάω|1. to draw over, i.e.  efface the mark of circumcision (by recovering with the foreskin)
-ἐπίσταμαι|verb|ἐφίστημι|1. to put the mind upon, i.e. comprehend, or be acquainted with
-ἐπιστάτης|noun|ἵστημι|1. an appointee over, i.e. commander (teacher)
-ἐπιστέλλω|verb|στέλλω|1. to enjoin (by writing) 2. (genitive case) to communicate by letter (for any purpose)
-ἐπιστήμων|adjective|ἐπίσταμαι|1. intelligent
-ἐπιστηρίζω|verb|στηρίζω|1. to support further, i.e. reestablish
-ἐπιστολή|noun|ἐπιστέλλω|1. a written message
-ἐπιστομίζω|verb|στόμα|1. to put something over the mouth 2. (figuratively) to silence
-ἐπιστρέφω|verb|στρέφω|1. to revert
-ἐπιστροφή|noun|ἐπιστρέφω|1. reversion, i.e. morally, revolution
-ἐπισυνάγω|verb|συνάγω|1. to gather altogether (upon the same place) 2. to gather completely
-ἐπισυναγωγή|noun|ἐπισυνάγω|1. a complete gathering 2. (especially) a Christian meeting (reoccuring for worship)
-ἐπισυντρέχω|verb|συντρέχω|1. to hasten together upon one place (or a particular occasion)
-ἐπισύστασις|noun|συνιστάω|1. a conspiracy, i.e. concourse (riotous or friendly)
-ἐπισφαλής|adjective|ἐπί|1. prone to trip 2. (figuratively) insecure
-ἐπισχύω|verb|ἰσχύω|1. to avail further 2. (figuratively) insist stoutly
-ἐπισωρεύω|verb|σωρεύω|1. to accumulate further 2. (figuratively) seek additionally
-ἐπιταγή|noun|ἐπιτάσσω|1. an injunction or decree 2. (by implication) authoritativeness
-ἐπιτάσσω|verb|τάσσω|1. to arrange upon, i.e. order
-ἐπιτελέω|verb|τελέω|1. to fulfill further (or completely), i.e. execute 2. (by implication) to terminate, undergo
-ἐπιτήδειος|adjective|---|1. serviceable 2. (by implication) requisite
-ἐπιτίθημι|verb|τίθημι|1. to impose (in a friendly or hostile sense)
-ἐπιτιμάω|verb|τιμάω|1. to tax upon, i.e. censure or admonish 2. (by implication) forbid
-ἐπιτιμία|noun|τιμή|1. (properly) esteem, i.e. citizenship 2. used of a penalty
-ἐπιτρέπω|verb|τροπή|1. to turn over (transfer), i.e. allow, permit
-ἐπιτροπή|noun|ἐπιτρέπω|1. permission 2. (by implication) full power
-ἐπίτροπος|noun|τρόπος|1. a commissioner, i.e. domestic manager, guardian
-ἐπιτυγχάνω|verb|τυγχάνω|1. to chance upon 2. (by implication) to attain
-ἐπιφαίνω|verb|φαίνω|1. to shine upon 2. (literally) become visible 3. (figuratively) become known
-ἐπιφάνεια|noun|ἐπιφανής|1. a manifestation 2. (specially) the advent of Christ (past or future)
-ἐπιφανής|adjective|ἐπιφαίνω|1. conspicuous 2. (figuratively) memorable
-ἐπιφαύω|verb|ἐπιφαίνω|1. to illuminate (figuratively)
-ἐπιφέρω|verb|φέρω|1. to bring upon, to inflict 2. (personally or judicially) to bring judgement or vengence
-ἐπιφωνέω|verb|φωνέω|1. to call at something, i.e. exclaim
-ἐπιφώσκω|verb|ἐπιφαύω|1. to begin to grow light
-ἐπιχειρέω|verb|χείρ|1. to put the hand upon, i.e. undertake
-ἐπιχέω|verb|ἐπί|1. to pour upon
-ἐπιχορηγέω|verb|χορηγέω|1. to furnish besides, i.e. fully supply, (figuratively) aid or contribute
-ἐπιχορηγία|noun|ἐπιχορηγέω|1. contribution
-ἐπιχρίω|verb|χρίω|1. to smear over
-ἐποικοδομέω|verb|οἰκοδομέω|1. to build upon 2. (figuratively) to rear up
-ἐποκέλλω|verb|ἐπί|1. to drive upon the shore, i.e. to beach a vessel
-ἐπονομάζω|verb|ὀνομάζω|1. to name further, i.e. denominate
-ἐποπτεύω|verb|ὀπτάνομαι|1. to inspect, i.e. watch
-ἐπόπτης|noun|ὀπτάνομαι|1. a looker-on
+ἐπιμένω|verb|μένω|1. to stay over, i.e. remain 2. (figuratively) persevere
+ἐπινεύω|verb|νεύω|1. to nod at 2. (by implication) to assent
+ἐπίνοια|noun|νοῦς|1. attention of the mind 2. (by implication) purpose
+ἐπιορκέω|verb|ἐπίορκος|1. to commit perjury
+ἐπίορκος|adjective|ὅρκος|1. on oath 2. (falsely) a forswearer
+ἐπιοῦσα|verb|ἐπί|1. to ensue, follow immediately, i.e.  the ensuing day or night
+ἐπιούσιος|adjective|ἐπί|1. for subsistence, i.e. needful
+ἐπιπίπτω|verb|πίπτω|1. to embrace (with affection) or seize (with more or less violence)
+ἐπιπλήσσω|verb|πλήσσω|1. to chastise 2. (with words) to upbraid
+ἐπιπνίγω|verb|πνίγω|1. to throttle upon 2. (figuratively) overgrow
+ἐπιποθέω|verb|ἐπί|1. to dote upon, i.e. intensely crave possession (lawfully or wrongfully)
+ἐπιπόθησις|noun|ἐπιποθέω|1. a longing for
+ἐπιπόθητος|adjective|ἐπιποθέω|1. yearned upon, i.e. greatly loved
+ἐπιποθία|noun|ἐπιποθέω|1. intense longing
+ἐπιπορεύομαι|verb|πορεύομαι|1. to journey further, i.e. travel on (reach)
+ἐπιρράπτω|verb|ῥαφίς|1. to stitch upon, i.e. fasten with the needle
+ἐπιρρίπτω|verb|ῥίπτω|1. to throw upon
+ἐπίσημος|adjective|σημαίνω|1. remarkable 2. (figuratively) eminent
+ἐπισιτισμός|noun|σίτος|1. a provisioning 2. (concretely) food
+ἐπισκέπτομαι|verb|σκοπός|1. to inspect 2. (by implication) to select 3. (by extension) to go to see, relieve
+ἐπισκηνόω|verb|σκηνόω|1. to tent upon 2. (figuratively) abide with
+ἐπισκιάζω|verb|σκία|1. to cast a shade upon 2. (by analogy) to envelop in a haze of brilliancy 3. (figuratively) to invest with preternatural influence
+ἐπισκοπέω|verb|σκοπέω|1. to oversee, inspect 2. (by implication) to beware
+ἐπισκοπή|noun|ἐπισκέπτομαι|1. inspection (for relief) 2. (by implication) superintendence 3.
+ἐπίσκοπος|noun|σκοπός|1. an overseer 2. (in genitive case) one of the co-superintendents entrusted with the well-being of a local assembly or of assemblies within a city or location
+ἐπισπάομαι|verb|σπάω|1. to draw over, i.e.  efface the mark of circumcision (by recovering with the foreskin)
+ἐπίσταμαι|verb|ἐφίστημι|1. to put the mind upon, i.e. comprehend, or be acquainted with
+ἐπιστάτης|noun|ἵστημι|1. an appointee over, i.e. commander (teacher)
+ἐπιστέλλω|verb|στέλλω|1. to enjoin (by writing) 2. (genitive case) to communicate by letter (for any purpose)
+ἐπιστήμων|adjective|ἐπίσταμαι|1. intelligent
+ἐπιστηρίζω|verb|στηρίζω|1. to support further, i.e. reestablish
+ἐπιστολή|noun|ἐπιστέλλω|1. a written message
+ἐπιστομίζω|verb|στόμα|1. to put something over the mouth 2. (figuratively) to silence
+ἐπιστρέφω|verb|στρέφω|1. to revert
+ἐπιστροφή|noun|ἐπιστρέφω|1. reversion, i.e. morally, revolution
+ἐπισυνάγω|verb|συνάγω|1. to gather altogether (upon the same place) 2. to gather completely
+ἐπισυναγωγή|noun|ἐπισυνάγω|1. a complete gathering 2. (especially) a Christian meeting (reoccuring for worship)
+ἐπισυντρέχω|verb|συντρέχω|1. to hasten together upon one place (or a particular occasion)
+ἐπισύστασις|noun|συνιστάω|1. a conspiracy, i.e. concourse (riotous or friendly)
+ἐπισφαλής|adjective|ἐπί|1. prone to trip 2. (figuratively) insecure
+ἐπισχύω|verb|ἰσχύω|1. to avail further 2. (figuratively) insist stoutly
+ἐπισωρεύω|verb|σωρεύω|1. to accumulate further 2. (figuratively) seek additionally
+ἐπιταγή|noun|ἐπιτάσσω|1. an injunction or decree 2. (by implication) authoritativeness
+ἐπιτάσσω|verb|τάσσω|1. to arrange upon, i.e. order
+ἐπιτελέω|verb|τελέω|1. to fulfill further (or completely), i.e. execute 2. (by implication) to terminate, undergo
+ἐπιτήδειος|adjective|---|1. serviceable 2. (by implication) requisite
+ἐπιτίθημι|verb|τίθημι|1. to impose (in a friendly or hostile sense)
+ἐπιτιμάω|verb|τιμάω|1. to tax upon, i.e. censure or admonish 2. (by implication) forbid
+ἐπιτιμία|noun|τιμή|1. (properly) esteem, i.e. citizenship 2. used of a penalty
+ἐπιτρέπω|verb|τροπή|1. to turn over (transfer), i.e. allow, permit
+ἐπιτροπή|noun|ἐπιτρέπω|1. permission 2. (by implication) full power
+ἐπίτροπος|noun|τρόπος|1. a commissioner, i.e. domestic manager, guardian
+ἐπιτυγχάνω|verb|τυγχάνω|1. to chance upon 2. (by implication) to attain
+ἐπιφαίνω|verb|φαίνω|1. to shine upon 2. (literally) become visible 3. (figuratively) become known
+ἐπιφάνεια|noun|ἐπιφανής|1. a manifestation 2. (specially) the advent of Christ (past or future)
+ἐπιφανής|adjective|ἐπιφαίνω|1. conspicuous 2. (figuratively) memorable
+ἐπιφαύω|verb|ἐπιφαίνω|1. to illuminate (figuratively)
+ἐπιφέρω|verb|φέρω|1. to bring upon, to inflict 2. (personally or judicially) to bring judgement or vengence
+ἐπιφωνέω|verb|φωνέω|1. to call at something, i.e. exclaim
+ἐπιφώσκω|verb|ἐπιφαύω|1. to begin to grow light
+ἐπιχειρέω|verb|χείρ|1. to put the hand upon, i.e. undertake
+ἐπιχέω|verb|ἐπί|1. to pour upon
+ἐπιχορηγέω|verb|χορηγέω|1. to furnish besides, i.e. fully supply, (figuratively) aid or contribute
+ἐπιχορηγία|noun|ἐπιχορηγέω|1. contribution
+ἐπιχρίω|verb|χρίω|1. to smear over
+ἐποικοδομέω|verb|οἰκοδομέω|1. to build upon 2. (figuratively) to rear up
+ἐποκέλλω|verb|ἐπί|1. to drive upon the shore, i.e. to beach a vessel
+ἐπονομάζω|verb|ὀνομάζω|1. to name further, i.e. denominate
+ἐποπτεύω|verb|ὀπτάνομαι|1. to inspect, i.e. watch
+ἐπόπτης|noun|ὀπτάνομαι|1. a looker-on
 ἔπος|noun|ἔπω|1. a word
-ἐπουράνιος|adjective|οὐρανός|1. above the sky
-ἑπτά|noun|---|1. seven
-ἑπτακίς|adverb|ἑπτά|1. seven times
-ἑπτακισχίλιοι|adjective|χίλιοι|1. seven times a thousand
+ἐπουράνιος|adjective|οὐρανός|1. above the sky
+ἑπτά|noun|---|1. seven
+ἑπτάκις|adverb|ἑπτά|1. seven times
+ἑπτακισχίλιοι|adjective|χίλιοι|1. seven times a thousand
 ἔπω|verb|---|1. to speak or say (by word or writing)
 Ἔραστος|Name Person|---|1. beloved 2. Erastus, a Christian
-ἐργάζομαι|verb|ἔργον|1. to toil (as a task, occupation, etc.), (by implication) effect, be engaged in or with, etc.
-ἐργασία|noun|ἐργάτης|1. occupation 2. (by implication) profit, pains
-ἐργάτης|noun|ἔργον|1. a toiler 2. (figuratively) a teacher
+ἐργάζομαι|verb|ἔργον|1. to toil (as a task, occupation, etc.), (by implication) effect, be engaged in or with, etc.
+ἐργασία|noun|ἐργάτης|1. occupation 2. (by implication) profit, pains
+ἐργάτης|noun|ἔργον|1. a toiler 2. (figuratively) a teacher
 ἔργον|noun|---|1. toil (as an effort or occupation) 2. (by implication) an act
-ἐρεθίζω|verb|ἔρις|1. to stimulate (especially to anger)
-ἐρείδω|verb|---|1. to prop 2. (reflexively) get fast
-ἐρεύγομαι|verb|---|1. to belch 2. (figuratively) to speak out
-ἐρευνάω|verb|ἐρέω|1. to seek 2. (figuratively) to investigate
-ἐρέω|verb|ῥέω|1. to utter, i.e. speak or say
-ἐρημία|noun|ἔρημος|1. solitude (concretely)
+ἐρεθίζω|verb|ἔρις|1. to stimulate (especially to anger)
+ἐρείδω|verb|---|1. to prop 2. (reflexively) get fast
+ἐρεύγομαι|verb|---|1. to belch 2. (figuratively) to speak out
+ἐρευνάω|verb|ἐρέω|1. to seek 2. (figuratively) to investigate
+ἐρεῶ|verb|ῥέω|1. to utter, i.e. speak or say
+ἐρημία|noun|ἔρημος|1. solitude (concretely)
 ἔρημος|adjective|---|1. lonesome 2. (by implication) waste
-ἐρημόω|verb|ἔρημος|1. to lay waste
-ἐρήμωσις|noun|ἐρημόω|1. despoliation
-ἐρίζω|verb|ἔρις|1. to wrangle
-ἐριθεία|noun|ἐρεθίζω|1. (properly) intrigue 2. (by implication) faction
+ἐρημόω|verb|ἔρημος|1. to lay waste
+ἐρήμωσις|noun|ἐρημόω|1. despoliation
+ἐρίζω|verb|ἔρις|1. to wrangle
+ἐριθεία|noun|ἐρεθίζω|1. (properly) intrigue 2. (by implication) faction
 ἔριον|noun|---|1. wool
 ἔρις|noun|---|1. a quarrel 2. (by implication) wrangling
-ἐρίφιον|noun|ἔριφος|1. a kidling 2. (genitive case) goat (symbolically, wicked person)
+ἐρίφιον|noun|ἔριφος|1. a kidling 2. (genitive case) goat (symbolically, wicked person)
 ἔριφος|noun|ἔριον|1. a kid or (genitive case) goat
-Ἑρμάς|Name Person|Ἑρμής|1. Hermas, a Christian
-ἑρμηνεία|noun|Ἑρμής|1. translation
-ἑρμηνεύω|verb|Ἑρμής|1. to translate
-Ἑρμής|Name Person|ἐρέω|1. Hermes, the name of the messenger of the Greek deities 2. also of a Christian
-Ἑρμογένης|Name Person|γίνομαι|1. born of Hermes 2. Hermogenes, an apostate Christian
-ἑρπετόν|noun|---|1. a reptile 2. (by Hebraism) a small animal
-ἐρυθρός|adjective|---|1. red
+Ἑρμᾶς|Name Person|Ἑρμής|1. Hermas, a Christian
+ἑρμηνεία|noun|Ἑρμής|1. translation
+ἑρμηνεύω|verb|Ἑρμής|1. to translate
+Ἑρμῆς|Name Person|ἐρέω|1. Hermes, the name of the messenger of the Greek deities 2. also of a Christian
+Ἑρμογένης|Name Person|γίνομαι|1. born of Hermes 2. Hermogenes, an apostate Christian
+ἑρπετόν|noun|---|1. a reptile 2. (by Hebraism) a small animal
+ἐρυθρός|adjective|---|1. red
 ἔρχομαι|verb|ἔρχομαι|1. to come or go
-ἐρωτάω|verb|ἐρέω|1. to interrogate 2. (by implication) to request
-ἐσθής|noun|---|1. dress
+ἐρωτάω|verb|ἐρέω|1. to interrogate 2. (by implication) to request
+ἐσθής|noun|---|1. dress
 ἔσθησις|noun|ἐσθής|1. clothing (concretely)
-ἐσθίω|verb|---|1. to eat (usually literal)
-Ἐσλί|Name Person|אֶליְהוֹעֵינַי אֶליוֹעֵינַי|1. Esli, an Israelite
-ἐσμέν|verb|εἰμί|1. we are
+ἐσθίω|verb|---|1. to eat (usually literal)
+Ἐσλί|Name Person|אֶליְהוֹעֵינַי אֶליוֹעֵינַי|1. Esli, an Israelite
+ἐσμέν|verb|εἰμί|1. we are
 ἔσομαι|verb|εἰμί|1. will be
 ἔσοπτρον|noun|ὀπτάνομαι|1. a mirror (for looking into)
-ἑσπέρα|noun|---|1. the eve
-Ἐσρώμ|Name Person|חֶצרוֹן|1. Esrom (i.e. Chetsron), an Israelite
-ἐστέ|verb|εἰμί|1. ye are
-ἐστί|verb|εἰμί|1. he (she or it) is 2. also (with neuter plural) they are
+ἑσπέρα|noun|---|1. the eve
+Ἑσρώμ|Name Person|חֶצרוֹן|1. Esrom (i.e. Chetsron), an Israelite
+ἐστέ|verb|εἰμί|1. ye are
+ἐστί|verb|εἰμί|1. he (she or it) is 2. also (with neuter plural) they are
 ἔστω|verb|εἰμί|1. let them be
 ἔσχατος|adjective|ἔχω|1. farthest, final (of place or time)
-ἐσχάτως|adverb|ἔσχατος|1. finally
+ἐσχάτως|adverb|ἔσχατος|1. finally
 ἔσω|adverb|εἰς|1. inside (as preposition or adjective)
 ἔσωθεν|adverb|ἔσω|1. from inside
-ἐσώτερος|adjective|ἔσω|1. interior
-ἑταίρος|noun|---|1. a comrade
-ἑτερόγλωσσος|adjective|γλῶσσα|1. other- tongued, i.e. a foreigner
-ἑτεροδιδασκαλέω|verb|διδάσκαλος|1. to instruct differently
-ἑτεροζυγέω|verb|ζυγός|1. to yoke up differently 2. (figuratively) to associate discordantly
+ἐσώτερος|adjective|ἔσω|1. interior
+ἑταῖρος|noun|---|1. a comrade
+ἑτερόγλωσσος|adjective|γλῶσσα|1. other- tongued, i.e. a foreigner
+ἑτεροδιδασκαλέω|verb|διδάσκαλος|1. to instruct differently
+ἑτεροζυγέω|verb|ζυγός|1. to yoke up differently 2. (figuratively) to associate discordantly
 ἕτερος|adjective|---|1. (an-, the) other or different
-ἑτέρως|adverb|ἕτερος|1. differently
+ἑτέρως|adverb|ἕτερος|1. differently
 ἔτι|adverb|---|1. "yet," still (of time or degree)
-ἑτοιμάζω|verb|ἑτοίμος|1. to prepare
-ἑτοιμασία|noun|ἑτοιμάζω|1. preparation
-ἑτοίμος|adjective|---|1. adjusted, i.e. ready
-ἑτοίμως|adverb|ἑτοίμος|1. in readiness
+ἑτοιμάζω|verb|ἑτοίμος|1. to prepare
+ἑτοιμασία|noun|ἑτοιμάζω|1. preparation
+ἕτοιμος|adjective|---|1. adjusted, i.e. ready
+ἑτοίμως|adverb|ἑτοίμος|1. in readiness
 ἔτος|noun|---|1. a year
 εὖ|adverb|---|1. (adverbially) well
 Εὔα|Name Person|חַוָּה|1. Eua (or Eva, i.e. Chavvah) 2. Eve, the first woman, and the wife of Adam
-εὐαγγελίζω|verb|ἄγγελος|1. to bring good news 2. "evangelize" 3. (especially) to proclaim the good news of redemption through Jesus (i.e. the gospel)
-εὐαγγέλιον|noun|---|1. (properly) a good message 2. (specially) the good news of redemption through Jesus (i.e. the gospel of Jesus) 3. (also called) the good news     
-εὐαγγελιστής|noun|εὐαγγελίζω|1. a proclaimer of the good news of redemption through Jesus (i.e. proclaimer of the gospel of Jesus)
-εὐαρεστέω|verb|εὐάρεστος|1. to gratify entirely
-εὐάρεστος|adjective|ἀρεστός|1. fully agreeable
-εὐαρέστως|adverb|εὐάρεστος|1. quite agreeably
+εὐαγγελίζω|verb|ἄγγελος|1. to bring good news 2. "evangelize" 3. (especially) to proclaim the good news of redemption through Jesus (i.e. the gospel)
+εὐαγγέλιον|noun|---|1. (properly) a good message 2. (specially) the good news of redemption through Jesus (i.e. the gospel of Jesus) 3. (also called) the good news     
+εὐαγγελιστής|noun|εὐαγγελίζω|1. a proclaimer of the good news of redemption through Jesus (i.e. proclaimer of the gospel of Jesus)
+εὐαρεστέω|verb|εὐάρεστος|1. to gratify entirely
+εὐάρεστος|adjective|ἀρεστός|1. fully agreeable
+εὐαρέστως|adverb|εὐάρεστος|1. quite agreeably
 Εὔβουλος|Name Person|βούλομαι|1. good-willer 2. Eubulus, a Christian
-εὐγένης|adjective|γίνομαι|1. well born 2. (literally) high in rank 3. (figuratively) generous
-εὐδία|noun|Ζεύς|1. a clear sky, i.e. fine weather
-εὐδοκέω|verb|δοκέω|1. to think well of, i.e. approve (an act) 2. (specially) to approve officially (a person or thing)
-εὐδοκία|noun|δοκέω|1. satisfaction 2. (subjectively) delight 3. (objectively) kindness, wish, purpose
-εὐεργεσία|noun|εὐεργέτης|1. beneficence (genitive case or specially)
-εὐεργετέω|verb|εὐεργέτης|1. to be philanthropic
-εὐεργέτης|noun|ἔργον|1. a worker of good 2. (specially) a philanthropist
+εὐγενής|adjective|γίνομαι|1. well born 2. (literally) high in rank 3. (figuratively) generous
+εὐδία|noun|Ζεύς|1. a clear sky, i.e. fine weather
+εὐδοκέω|verb|δοκέω|1. to think well of, i.e. approve (an act) 2. (specially) to approve officially (a person or thing)
+εὐδοκία|noun|δοκέω|1. satisfaction 2. (subjectively) delight 3. (objectively) kindness, wish, purpose
+εὐεργεσία|noun|εὐεργέτης|1. beneficence (genitive case or specially)
+εὐεργετέω|verb|εὐεργέτης|1. to be philanthropic
+εὐεργέτης|noun|ἔργον|1. a worker of good 2. (specially) a philanthropist
 εὔθετος|adjective|τίθημι|1. well placed 2. (figuratively) appropriate
-εὐθέως|adverb|εὐθύς|1. directly, i.e. at once or soon
-εὐθυδρομέω|verb|δρόμος|1. to lay a straight course, i.e. sail direct
-εὐθυμέω|verb|εὔθυμος|1. to cheer up 2. (intransitively) be cheerful 3. (neuter comparative, adverbially) more cheerfully
+εὐθέως|adverb|εὐθύς|1. directly, i.e. at once or soon
+εὐθυδρομέω|verb|δρόμος|1. to lay a straight course, i.e. sail direct
+εὐθυμέω|verb|εὔθυμος|1. to cheer up 2. (intransitively) be cheerful 3. (neuter comparative, adverbially) more cheerfully
 εὔθυμος|adjective|θυμός|1. in fine spirits, i.e. cheerful
-εὐθύνω|verb|εὐθύς|1. to straighten (level) 2. (technically) to steer
-εὐθύς|adjective|τίθημι|1. straight 2. (literally) level 3. (figuratively) true 4. (adverbially of time) at once
-εὐθύτης|noun|---|1. rectitude
-εὐκαιρέω|verb|εὔκαιρος|1. to have good time, i.e. opportunity or leisure
-εὐκαιρία|noun|εὔκαιρος|1. a favorable occasion
+εὐθύνω|verb|εὐθύς|1. to straighten (level) 2. (technically) to steer
+εὐθύς|adjective|τίθημι|1. straight 2. (literally) level 3. (figuratively) true 4. (adverbially of time) at once
+εὐθύτης|noun|---|1. rectitude
+εὐκαιρέω|verb|εὔκαιρος|1. to have good time, i.e. opportunity or leisure
+εὐκαιρία|noun|εὔκαιρος|1. a favorable occasion
 εὔκαιρος|adjective|καιρός|1. well-timed, i.e. opportune
-εὐκαίρως|adverb|εὔκαιρος|1. opportunely, conveniently
-εὐκοπώτερος|adjective|κόπος|1. better for toil, i.e. more facile
-εὐλάβεια|noun|εὐλαβής|1. (properly) caution 2. (religiously) devotion (piety) 3. (by implication, concretely) deep, reverential awe
-εὐλαβέομαι|verb|εὐλαβής|1. to be circumspect 2. (by implication) to be apprehensive 3. (religiously) to reverence
-εὐλαβής|adjective|λαμβάνω|1. (properly) taking hold of well (i.e. a proper grasp) 2. (generally) careful, circumspect 3. (religiously) devout, pious
-εὐλογέω|verb|λόγος|1. to speak well of 2. (religiously) to bless (thank or invoke a benediction upon, prosper)
-εὐλογητός|adjective|εὐλογέω|1. adorable
-εὐλογία|noun|λόγος|1. fine speaking, i.e. elegance of language 2. commendation ("eulogy") 3. (reverentially) adoration 4. (religiously) benediction 5. (by implication) consecration 6. (by extension) benefit or largess
-εὐμετάδοτος|adjective|μεταδίδωμι|1. good at imparting, i.e. liberal
-Εὐνίκη|Name Person|νίκη|1. victorious 2. Eunice, a Jewess
-εὐνοέω|verb|νοῦς|1. to be well- minded, i.e. reconcile
+εὐκαίρως|adverb|εὔκαιρος|1. opportunely, conveniently
+εὐκοπώτερον|adjective|κόπος|1. better for toil, i.e. more facile
+εὐλάβεια|noun|εὐλαβής|1. (properly) caution 2. (religiously) devotion (piety) 3. (by implication, concretely) deep, reverential awe
+εὐλαβέομαι|verb|εὐλαβής|1. to be circumspect 2. (by implication) to be apprehensive 3. (religiously) to reverence
+εὐλαβής|adjective|λαμβάνω|1. (properly) taking hold of well (i.e. a proper grasp) 2. (generally) careful, circumspect 3. (religiously) devout, pious
+εὐλογέω|verb|λόγος|1. to speak well of 2. (religiously) to bless (thank or invoke a benediction upon, prosper)
+εὐλογητός|adjective|εὐλογέω|1. adorable
+εὐλογία|noun|λόγος|1. fine speaking, i.e. elegance of language 2. commendation ("eulogy") 3. (reverentially) adoration 4. (religiously) benediction 5. (by implication) consecration 6. (by extension) benefit or largess
+εὐμετάδοτος|adjective|μεταδίδωμι|1. good at imparting, i.e. liberal
+Εὐνίκη|Name Person|νίκη|1. victorious 2. Eunice, a Jewess
+εὐνοέω|verb|νοῦς|1. to be well- minded, i.e. reconcile
 εὔνοια|noun|νοῦς|1. kindness 2. (euphemistically) marital duty
-εὐνουχίζω|verb|εὐνοῦχος|1. to castrate 2. (by extension) to make one a eunuch (in the service of another) 3. (figuratively,) to live unmarried (thus as a eunuch by abstaining)
+εὐνουχίζω|verb|εὐνοῦχος|1. to castrate 2. (by extension) to make one a eunuch (in the service of another) 3. (figuratively,) to live unmarried (thus as a eunuch by abstaining)
 εὐνοῦχος|noun|ἔχω|1. a castrated person (such being employed in Oriental bed-chambers) 2. (by extension) an impotent or unmarried man 3. (by implication) a chamberlain (state-officer)
-Εὐοδία|Name Person|ὁδός|1. fine travelling 2. Euodia, a Christian woman
-εὐοδόω|verb|ὁδός|1. to help on the road 2. (passively) succeed in reaching 3. (figuratively) to succeed in business affairs
-εὐπειθής|adjective|πείθω|1. good for persuasion 2. (intransitively) complaint
-εὐπερίστατος|adjective|περί|1. well-surrounded 2. (of a competitor) thwarting a runner in every direction 3. (figuratively, genitive case) of sin that besets and harasses
-εὐποιία|noun|ποιέω|1. well-doing, i.e. beneficence
-εὐπορέω|verb|πορεία|1. (intransitively) to be good for passing through 2. (figuratively) have financial means
-εὐπορία|noun|πορεία|1. financial resources
-εὐπρέπεια|noun|πρέπω|1. good suitableness, i.e. gracefulness
-εὐπρόσδεκτος|adjective|προσδέχομαι|1. well-received, i.e. approved, favorable
-εὐπρόσεδρος|adjective|προσεδρεύω|1. sitting well towards 2. (figuratively) assiduous (neuter, diligent service)
-εὐπροσωπέω|verb|πρόσωπον|1. to be of good countenance 2. (figuratively) to make a display
-εὑρίσκω|verb|---|1. to find
-Εὐροκλύδων|Name Person|κλύδων|1. a storm from the East (or southeast) 2. (in modern phrase) a Levanter, an strong east wind in the Mediterranean
-εὐρύχωρος|noun|χώρα|1. spacious
-εὐσέβεια|noun|εὐσεβής|1. well-reverence 2. devout reverence in attitude, conduct, and deed 3. (specially) the gospel plan
-εὐσεβέω|verb|εὐσεβής|1. to be well-reverent 2. to show devout reverence in attitude, conduct, and deed 3. (towards God) to worship 4. (towards parents) to respect (support)
-εὐσεβής|adjective|σέβομαι|1. well-reverent 2. devoutly reverent in attitude, conduct, and deed, i.e. pious, godly
+Εὐοδία|Name Person|ὁδός|1. fine travelling 2. Euodia, a Christian woman
+εὐοδόω|verb|ὁδός|1. to help on the road 2. (passively) succeed in reaching 3. (figuratively) to succeed in business affairs
+εὐπειθής|adjective|πείθω|1. good for persuasion 2. (intransitively) complaint
+εὐπερίστατος|adjective|περί|1. well-surrounded 2. (of a competitor) thwarting a runner in every direction 3. (figuratively, genitive case) of sin that besets and harasses
+εὐποιΐα|noun|ποιέω|1. well-doing, i.e. beneficence
+εὐπορέω|verb|πορεία|1. (intransitively) to be good for passing through 2. (figuratively) have financial means
+εὐπορία|noun|πορεία|1. financial resources
+εὐπρέπεια|noun|πρέπω|1. good suitableness, i.e. gracefulness
+εὐπρόσδεκτος|adjective|προσδέχομαι|1. well-received, i.e. approved, favorable
+εὐπρόσεδρος|adjective|προσεδρεύω|1. sitting well towards 2. (figuratively) assiduous (neuter, diligent service)
+εὐπροσωπέω|verb|πρόσωπον|1. to be of good countenance 2. (figuratively) to make a display
+εὑρίσκω|verb|---|1. to find
+Εὐροκλύδων|Name Person|κλύδων|1. a storm from the East (or southeast) 2. (in modern phrase) a Levanter, an strong east wind in the Mediterranean
+εὐρύχωρος|noun|χώρα|1. spacious
+εὐσέβεια|noun|εὐσεβής|1. well-reverence 2. devout reverence in attitude, conduct, and deed 3. (specially) the gospel plan
+εὐσεβέω|verb|εὐσεβής|1. to be well-reverent 2. to show devout reverence in attitude, conduct, and deed 3. (towards God) to worship 4. (towards parents) to respect (support)
+εὐσεβής|adjective|σέβομαι|1. well-reverent 2. devoutly reverent in attitude, conduct, and deed, i.e. pious, godly
 εὐσεβῶς|adverb|εὐσεβής|1. reverently devout (in attitude, conduct, and deed) 2. piously, godly
 εὔσημος|adjective|σημαίνω|1. well indicated 2. (figuratively) significant
 εὔσπλαγχνος|adjective|σπλάγχνον|1. well compassioned, i.e. sympathetic
-εὐσχημόνως|adverb|εὐσχήμων|1. decorously
-εὐσχημοσύνη|noun|εὐσχήμων|1. decorousness
-εὐσχήμων|adjective|σχῆμα|1. well-formed 2. (figuratively) decorous, noble (in rank)
-εὐτόνως|adverb|εὖ|1. in a well-strung manner, vigorously 2. (figuratively, good) cogently 3. (figuratively, bad) fiercely
-εὐτραπελία|noun|τροπή|1. witticism 2. (in a vulgar sense) ribaldry
+εὐσχημόνως|adverb|εὐσχήμων|1. decorously
+εὐσχημοσύνη|noun|εὐσχήμων|1. decorousness
+εὐσχήμων|adjective|σχῆμα|1. well-formed 2. (figuratively) decorous, noble (in rank)
+εὐτόνως|adverb|εὖ|1. in a well-strung manner, vigorously 2. (figuratively, good) cogently 3. (figuratively, bad) fiercely
+εὐτραπελία|noun|τροπή|1. witticism 2. (in a vulgar sense) ribaldry
 Εὔτυχος|Name Person|τυγχάνω|1. well- fated, i.e. fortunate 2. Eutychus, a young man
-εὐφημία|noun|εὔφημος|1. good language ("euphemy"), i.e. praise (repute)
+εὐφημία|noun|εὔφημος|1. good language ("euphemy"), i.e. praise (repute)
 εὔφημος|adjective|φήμη|1. well spoken of, i.e. reputable
-εὐφορέω|verb|φορέω|1. to bear well, i.e. be fertile
-εὐφραίνω|verb|φρήν|1. to put (middle voice or passively, be) in a good frame of mind, i.e. rejoice
-Εὐφράτης|Name Location|---|1. Euphrates, a river of Asia
-εὐφροσύνη|noun|φρήν|1. joyfulness
-εὐχαριστέω|verb|εὐχάριστος|1. to be grateful 2. (actively) to express gratitude (towards) 3. (specially) to say grace at a meal
-εὐχαριστία|noun|εὐχάριστος|1. gratitude 2. (actively) grateful language (to God, as an act of worship)
-εὐχάριστος|adjective|χαρίζομαι|1. well favored 2. (by implication) grateful
-εὐχή|noun|εὔχομαι|1. (properly) a wish, expressed as a petition to God, or in votive obligation
+εὐφορέω|verb|φορέω|1. to bear well, i.e. be fertile
+εὐφραίνω|verb|φρήν|1. to put (middle voice or passively, be) in a good frame of mind, i.e. rejoice
+Εὐφράτης|Name Location|---|1. Euphrates, a river of Asia
+εὐφροσύνη|noun|φρήν|1. joyfulness
+εὐχαριστέω|verb|εὐχάριστος|1. to be grateful 2. (actively) to express gratitude (towards) 3. (specially) to say grace at a meal
+εὐχαριστία|noun|εὐχάριστος|1. gratitude 2. (actively) grateful language (to God, as an act of worship)
+εὐχάριστος|adjective|χαρίζομαι|1. well favored 2. (by implication) grateful
+εὐχή|noun|εὔχομαι|1. (properly) a wish, expressed as a petition to God, or in votive obligation
 εὔχομαι|verb|---|1. to wish 2. (by implication) to pray to God
 εὔχρηστος|adjective|χρηστός|1. easily used, i.e. useful
-εὐψυχέω|verb|ψυχή|1. to be in good spirits, i.e. feel encouraged
-εὐωδία|noun|ὄζω|1. good-scentedness, i.e. fragrance
-εὐώνυμος|adjective|ὄνομα|1. (properly) well-named (good-omened), i.e. the left (which was the lucky side among the pagan Greeks) 2. (neuter as adverbial) at the left hand
-ἐφάλλομαι|verb|ἅλλομαι|1. to spring upon
-ἐφάπαξ|adverb|ἅπαξ|1. upon one occasion (only)
-Ἐφεσίνος|Name/g.|Ἔφεσος|1. Ephesine, or situated at Ephesus
-Ἐφέσιος|adjective/g.|Ἔφεσος|1. an Ephesian or inhabitant of Ephesus
+εὐψυχέω|verb|ψυχή|1. to be in good spirits, i.e. feel encouraged
+εὐωδία|noun|ὄζω|1. good-scentedness, i.e. fragrance
+εὐώνυμος|adjective|ὄνομα|1. (properly) well-named (good-omened), i.e. the left (which was the lucky side among the pagan Greeks) 2. (neuter as adverbial) at the left hand
+ἐφάλλομαι|verb|ἅλλομαι|1. to spring upon
+ἐφάπαξ|adverb|ἅπαξ|1. upon one occasion (only)
+Ἐφεσῖνος|Name/g.|Ἔφεσος|1. Ephesine, or situated at Ephesus
+Ἐφέσιος|adjective/g.|Ἔφεσος|1. an Ephesian or inhabitant of Ephesus
 Ἔφεσος|Name Location|---|1. Ephesus, a city of Asia Minor
-ἐφευρέτης|noun|εὑρίσκω|1. a discoverer, i.e. contriver
-ἐφημερία|noun|ἐφήμερος|1. diurnality 2. (specially) the quotidian rotation or class of the Jewish priests' service at the Temple, as distributed by families
-ἐφήμερος|adjective|ἡμέρα|1. for a day ("ephemeral"), i.e. diurnal
-ἐφικνέομαι|verb|ἥκω|1. to arrive upon, i.e. extend to
-ἐφίστημι|verb|ἵστημι|1. to stand upon, i.e. be present (in various applications, friendly or otherwise, usually literal)
-Ἐφραΐμ|Name Location|אֶפרַיִם|1. Ephraim, a place in Israel
-ἐφφαθά|Aramaic|פְּתחַ|1. be opened!
+ἐφευρετής|noun|εὑρίσκω|1. a discoverer, i.e. contriver
+ἐφημερία|noun|ἐφήμερος|1. diurnality 2. (specially) the quotidian rotation or class of the Jewish priests' service at the Temple, as distributed by families
+ἐφήμερος|adjective|ἡμέρα|1. for a day ("ephemeral"), i.e. diurnal
+ἐφικνέομαι|verb|ἥκω|1. to arrive upon, i.e. extend to
+ἐφίστημι|verb|ἵστημι|1. to stand upon, i.e. be present (in various applications, friendly or otherwise, usually literal)
+Ἐφραΐμ|Name Location|אֶפרַיִם|1. Ephraim, a place in Israel
+ἐφφαθά|Aramaic|פְּתחַ|1. be opened!
 ἔχθρα|noun|ἐχθρός|1. hostility 2. (by implication) a reason for opposition
-ἐχθρός|adjective|---|1. hateful 2. (passively) odious 3. (actively) hostile 4. (usually as a noun) an enemy (especially Satan)
+ἐχθρός|adjective|---|1. hateful 2. (passively) odious 3. (actively) hostile 4. (usually as a noun) an enemy (especially Satan)
 ἔχιδνα|noun|---|1. a viper or other poisonous snake 2. (figuratively) a treacherous person
 ἔχω|verb|---|1. to hold (such as possession, ability, contiuity, relation, or condition)
 ἕως|conjunction|---|1. a conjunction, preposition and adverb of continuance, until (of time and place)
-Ζαβουλών|Name Location|זְבוּלוּן |1. Zabulon (i.e. Zebulon), a region of Israel
+Ζαβουλών|Name Location|זְבוּלוּן |1. Zabulon (i.e. Zebulon), a region of Israel
 Ζακχαῖος|Name Person|---|1. Zacchaeus, an Israelite
-Ζαρά|Name Person|זֶרחַ|1. Zara, (i.e. Zerach), an Israelite
-Ζαχαρίας|Name Person|זְכַריָהוּ|1. Zacharias (i.e. Zechariah), the name of two Israelites
-ζάω|verb|---|1. to live
+Ζαρά|Name Person|זֶרחַ|1. Zara, (i.e. Zerach), an Israelite
+Ζαχαρίας|Name Person|זְכַריָהוּ|1. Zacharias (i.e. Zechariah), the name of two Israelites
+ζάω|verb|---|1. to live
 Ζεβεδαῖος|Name Person|---|1. Zebedaeus, an Israelite
-ζεστός|adjective|ζέω|1. boiled 2. (by implication) calid 3. (figuratively) fervent
+ζεστός|adjective|ζέω|1. boiled 2. (by implication) calid 3. (figuratively) fervent
 ζεῦγος|noun|---|1. a couple 2. a team (of oxen yoked together) 3. a brace (of birds tied together)
-ζευκτηρία|noun|---|1. a fastening (tiller-rope)
-Ζεύς|Name Person|---|1. Zeus or Dis (among the Latins, Jupiter or Jove), the supreme deity of the Greeks
-ζέω|verb|---|1. to be hot 2. (of liquids) to boil 3. (of solids) to glow 4. (figuratively) to be fervent (earnest)
+ζευκτηρία|noun|---|1. a fastening (tiller-rope)
+Ζεύς|Name Person|---|1. Zeus or Dis (among the Latins, Jupiter or Jove), the supreme deity of the Greeks
+ζέω|verb|---|1. to be hot 2. (of liquids) to boil 3. (of solids) to glow 4. (figuratively) to be fervent (earnest)
 ζῆλος|noun|ζέω|1. (properly) heat 2. (figuratively) "zeal" 3. (favorably) ardor 4. (unfavorably, of a husband) jealousy (also used of God) 5. (of an enemy) malice      
-ζηλόω|verb|ζῆλος|1. to have warmth of feeling for or against
-ζηλωτής|noun|ζηλόω|1. a "zealot"
-Ζηλωτής|Name/g.|Ζηλωτής|1. a Zealot 2. (specially) partisan for Jewish political independence
-ζημία|noun|---|1. detriment
-ζημιόω|verb|ζημία|1. to injure 2. (reflexively or passively) to experience detriment
+ζηλόω|verb|ζῆλος|1. to have warmth of feeling for or against
+ζηλωτής|noun|ζηλόω|1. a "zealot"
+Ζηλωτής|Name/g.|Ζηλωτής|1. a Zealot 2. (specially) partisan for Jewish political independence
+ζημία|noun|---|1. detriment
+ζημιόω|verb|ζημία|1. to injure 2. (reflexively or passively) to experience detriment
 Ζηνᾶς|Name Person|δῶρον|1. Jove-given 2. Zenas, a Christian
-ζητέω|verb|---|1. to seek 2. (specially, by Hebraism) to worship (God) 3. (in a bad sense) to plot (against life)
-ζήτημα|noun|ζητέω|1. a search (properly concretely) 2. (in words) a debate
-ζήτησις|noun|ζητέω|1. a searching (properly, the act), i.e. a dispute or its theme
-ζιζάνιον|noun|---|1. darnel, a poisonous ryegrass weed (a false grain) 2. (specially) darnel, a weed that greatly resembles wheat until ripe.  Close examination will often fail to discern the difference until its black grain appears.  It is most toxic just before harvest.  Its poison causes lethargy, deep sleep, and even death 3. (figuratively) wicked people sown by Satan amidst the Saints of God, that until harvest, have a resemblence of godliness (but you shall know them by their fruit)
-Ζοροβάβελ|Name Person|זְרוּבָּבֶל|1. Zorobabel (i.e. Zerubbabel), an Israelite
-ζόφος|noun|---|1. gloom (as shrouding like a cloud) 2. clouding gloom
-ζυγός|noun|---|1. a coupling 2. (figuratively) servitude (a law or obligation) 3. (literally) the beam of the balance (as connecting the scales)
-ζύμη|noun|ζέω|1. a fermenting agent (as if boiling up) 2. (specially) leaven 3. (figuratively, good or bad) a thorough, utterly complete change agent affecting itself and others 4. (negatively) moral or mental corruption, depravity 5. (positively) purity, integrity, a perfect condition
-ζυμόω|verb|ζύμη|1. to cause to leaven or ferment 2. (figuratively, good or bad) to cause to change utterly, completely
-ζωγρέω|verb|ζάω|1. to take alive (make a prisoner of war) 2. (figuratively) to capture or ensnare
-ζωή|noun|ζάω|1. life-above 2. epithet of Jesus (John 14
-ζώνη|noun|---|1. a belt 2. (by implication) a pocket
-ζώννυμι|verb|ζώνη|1. to bind about (especially with a belt)
-ζωογονέω|verb|γίνομαι|1. to birth (or make) alive 2. (by analogy) to rescue from death 3. (passively) be saved from death
-ζῶον|noun|ζάω|1. a live thing, i.e. an animal
-ζωοποιέω|verb|ποιέω|1. to (re-)vitalize
+ζητέω|verb|---|1. to seek 2. (specially, by Hebraism) to worship (God) 3. (in a bad sense) to plot (against life)
+ζήτημα|noun|ζητέω|1. a search (properly concretely) 2. (in words) a debate
+ζήτησις|noun|ζητέω|1. a searching (properly, the act), i.e. a dispute or its theme
+ζιζάνιον|noun|---|1. darnel, a poisonous ryegrass weed (a false grain) 2. (specially) darnel, a weed that greatly resembles wheat until ripe.  Close examination will often fail to discern the difference until its black grain appears.  It is most toxic just before harvest.  Its poison causes lethargy, deep sleep, and even death 3. (figuratively) wicked people sown by Satan amidst the Saints of God, that until harvest, have a resemblence of godliness (but you shall know them by their fruit)
+Ζοροβάβελ|Name Person|זְרוּבָּבֶל|1. Zorobabel (i.e. Zerubbabel), an Israelite
+ζόφος|noun|---|1. gloom (as shrouding like a cloud) 2. clouding gloom
+ζυγός|noun|---|1. a coupling 2. (figuratively) servitude (a law or obligation) 3. (literally) the beam of the balance (as connecting the scales)
+ζύμη|noun|ζέω|1. a fermenting agent (as if boiling up) 2. (specially) leaven 3. (figuratively, good or bad) a thorough, utterly complete change agent affecting itself and others 4. (negatively) moral or mental corruption, depravity 5. (positively) purity, integrity, a perfect condition
+ζυμόω|verb|ζύμη|1. to cause to leaven or ferment 2. (figuratively, good or bad) to cause to change utterly, completely
+ζωγρέω|verb|ζάω|1. to take alive (make a prisoner of war) 2. (figuratively) to capture or ensnare
+ζωή|noun|ζάω|1. life-above 2. epithet of Jesus (John 14
+ζώνη|noun|---|1. a belt 2. (by implication) a pocket
+ζώννυμι|verb|ζώνη|1. to bind about (especially with a belt)
+ζωογονέω|verb|γίνομαι|1. to birth (or make) alive 2. (by analogy) to rescue from death 3. (passively) be saved from death
+ζῷον|noun|ζάω|1. a live thing, i.e. an animal
+ζῳοποιέω|verb|ποιέω|1. to (re-)vitalize
 ἤ|verb|---|1. (disjunctive) or 2. (comparative) than.
 ἦ|particle|ἤ|1. assuredly
-ἡγεμονεύω|verb|ἡγεμών|1. to act as ruler
-ἡγεμονία|noun|ἡγεμών|1. government 2. (in time) official term
-ἡγεμών|noun|ἡγέομαι|1. a leader of a province, i.e. chief person 2. (figuratively) a chief place of a region, a capital
-ἡγέομαι|verb|ἄγω|1. to lead, i.e. command (with official authority) 2. (figuratively) to deem, i.e. consider
-ἡδέως|adverb|ἡδονή|1. sweetly 2. (figuratively) with pleasure
+ἡγεμονεύω|verb|ἡγεμών|1. to act as ruler
+ἡγεμονία|noun|ἡγεμών|1. government 2. (in time) official term
+ἡγεμών|noun|ἡγέομαι|1. a leader of a province, i.e. chief person 2. (figuratively) a chief place of a region, a capital
+ἡγέομαι|verb|ἄγω|1. to lead, i.e. command (with official authority) 2. (figuratively) to deem, i.e. consider
+ἡδέως|adverb|ἡδονή|1. sweetly 2. (figuratively) with pleasure
 ἤδη|adverb|ἦ|1. even now
 ἥδιστα|adverb|ἡδέως|1. with great pleasure
-ἡδονή|noun|---|1. sensual delight 2. (by implication) desire
-ἡδύοσμον|noun|ὀσμή|1. a sweet-scented plant, i.e. mint
-ἤθος|noun|ἔθος|1. usage 2. (plural) moral habits
+ἡδονή|noun|---|1. sensual delight 2. (by implication) desire
+ἡδύοσμον|noun|ὀσμή|1. a sweet-scented plant, i.e. mint
+ἦθος|noun|ἔθος|1. usage 2. (plural) moral habits
 ἥκω|verb|---|1. to arrive, i.e. be present
-ἠλί|Hebrew|אֵל|1. my God
-Ἡλί|Name Person|עֵלִי|1. Heli (i.e. Eli), an Israelite
-Ἡλίας|Name Person|אֵלִיָה אֵלִיָהוּ|1. Helias (i.e. Elijah), an Israelite
-ἡλικία|noun|---|1. maturity (in years or size)
-ἡλίκος|adjective|---|1. as big as 2. (interjectively) how much
+Ἠλί|Hebrew|אֵל|1. my God
+Ἡλί|Name Person|עֵלִי|1. Heli (i.e. Eli), an Israelite
+Ἠλίας|Name Person|אֵלִיָה אֵלִיָהוּ|1. Helias (i.e. Elijah), an Israelite
+ἡλικία|noun|---|1. maturity (in years or size)
+ἡλίκος|adjective|---|1. as big as 2. (interjectively) how much
 ἥλιος|noun|---|1. the sun 2. (by implication) light
-ἥλος|noun|---|1. a nail, i.e. spike
+ἧλος|noun|---|1. a nail, i.e. spike
 ἡμᾶς|p/p.|ἐγώ|1. us
 ἡμεῖς|p/p.|ἐγώ|1. we
-ἡμέρα|noun|---|1. day 2. (literally) the time space between dawn and dark, or the whole 24 hours 3. (figuratively) a period
-ἡμέτερος|p/s.|ἡμεῖς|1. our
+ἡμέρα|noun|---|1. day 2. (literally) the time space between dawn and dark, or the whole 24 hours 3. (figuratively) a period
+ἡμέτερος|p/s.|ἡμεῖς|1. our
 ἤμην|verb|θριαμβεύω|1. I was
-ἡμιθανής|adjective|θνήσκω|1. half dead, i.e. entirely exhausted
+ἡμιθανής|adjective|θνήσκω|1. half dead, i.e. entirely exhausted
 ἡμῖν|p/p.|ἐγώ|1. to (or for, with, by) us
-ἥμισυ|adjective|---|1. (as noun) half
-ἡμιώριον|noun|ὥρα|1. a half-hour
+ἥμισυς|adjective|---|1. (as noun) half
+ἡμιώριον|noun|ὥρα|1. a half-hour
 ἡμῶν|p/p.|ἐγώ|1. of (or from) us
 ἦν|verb|εἰμί|1. I (thou, etc.) was (wast or were)
-ἡνίκα|adverb|---|1. at which time
+ἡνίκα|adverb|---|1. at which time
 ἤπερ|particle|πέρ|1. than at all (or than perhaps, than indeed)
 ἤπιος|adjective|ἔπος|1. (properly) affable, i.e. mild or kind
 Ἤρ|Name Person|עֵר|1. Er, an Israelite
 ἤρεμος|adjective|ἔρημος|1. tranquil
-Ἡρώδης|Name Person|εἶδος|1. heroic 2. Herod, the name of four Jewish kings
-Ἡρωδιανοί|Name/g.|Ἡρώδης|1. Herodians, i.e. partisans of Herod
-Ἡρωδιάς|Name Person|Ἡρώδης|1. Herodias, a woman of the Heodian family
-Ἡρωδίων|Name Person|Ἡρώδης|1. Herodion, a Christian
-Ἡσαίας|Name Person|יְשַׁעיָהוּ|1. Hesaias (i.e. Jeshajah), an Israelite
+Ἡρῴδης|Name Person|εἶδος|1. heroic 2. Herod, the name of four Jewish kings
+Ἡρῳδιανοί|Name/g.|Ἡρώδης|1. Herodians, i.e. partisans of Herod
+Ἡρῳδιάς|Name Person|Ἡρώδης|1. Herodias, a woman of the Heodian family
+Ἡρῳδίων|Name Person|Ἡρώδης|1. Herodion, a Christian
+Ἠσαΐας|Name Person|יְשַׁעיָהוּ|1. Hesaias (i.e. Jeshajah), an Israelite
 Ἠσαῦ|Name Person|עֵשָׂו|1. Esau, an Edomite
-ἡσυχάζω|verb|ἔχω|1. to keep still (intransitively), i.e. refrain from labor, meddlesomeness or speech
-ἡσυχία|noun|ἡσύχιος|1. (as noun) stillness, i.e. desistance from bustle or language
-ἡσύχιος|adjective|ἔχω|1. (properly) keeping one's seat (sedentary) 2. (by implication) still (undisturbed, undisturbing)
+ἡσυχάζω|verb|ἔχω|1. to keep still (intransitively), i.e. refrain from labor, meddlesomeness or speech
+ἡσυχία|noun|ἡσύχιος|1. (as noun) stillness, i.e. desistance from bustle or language
+ἡσύχιος|adjective|ἔχω|1. (properly) keeping one's seat (sedentary) 2. (by implication) still (undisturbed, undisturbing)
 ἤτοι|conjunction|τοί|1. either indeed
-ἡττάω|verb|κακός|1. to make worse, i.e. vanquish 2. (by implication) to rate lower
+ἡττάομαι|verb|κακός|1. to make worse, i.e. vanquish 2. (by implication) to rate lower
 ἥττημα|noun|ἡττάω|1. a deterioration 2. (objectively) failure or (subjectively) loss
-ἥττον|adjective|κακός|1. worse (as noun) 2. (by implication) less (as adverb)
+ἧττων|adjective|κακός|1. worse (as noun) 2. (by implication) less (as adverb)
 ἤτω|verb|εἰμί|1. let him (or it) be
-ἠχέω|verb|ἦχος|1. to make a loud noise, i.e. reverberate
+ἠχέω|verb|ἦχος|1. to make a loud noise, i.e. reverberate
 ἦχος|noun|---|1. a loud or confused noise ("echo"), i.e. roar 2. (figuratively) a rumor
 Θαδδαῖος|Name Person|---|1. Thaddaeus, one of the Apostles
-θάλασσα|noun|ἅλς|1. the sea
-θάλπω|verb|---|1. to brood 2. (figuratively) to foster
-Θάμαρ|Name Person|תָּמָר|1. Thamar (i.e. Tamar), an Israelitess
-θαμβέω|verb|θάμβος|1. to stupefy (with surprise), i.e. astound
-θάμβος|noun|---|1. overwhelming amazement (by surprise), i.e. astonishment
-θανάσιμος|adjective|θάνατος|1. deadly, lethal 2. (by implication) poisonous
-θανατήφορος|adjective|φέρω|1. death-bearing, i.e. fatal
-θάνατος|noun|θνήσκω|1. death
-θανατόω|verb|θάνατος|1. to put to death, to kill
-θάπτω|verb|---|1. to celebrate funeral rites, i.e. inter
-Θάρα|Name Person|תֶּרחַ|1. Thara (i.e. Terach), the father of Abraham
-θαρῥέω|verb|θαρσέω|1. to exercise courage
-θαρσέω|verb|θάρσος|1. to have courage
-θάρσος|noun|---|1. boldness (subjectively)
+θάλασσα|noun|ἅλς|1. the sea
+θάλπω|verb|---|1. to brood 2. (figuratively) to foster
+Θάμαρ|Name Person|תָּמָר|1. Thamar (i.e. Tamar), an Israelitess
+θαμβέω|verb|θάμβος|1. to stupefy (with surprise), i.e. astound
+θάμβος|noun|---|1. overwhelming amazement (by surprise), i.e. astonishment
+θανάσιμος|adjective|θάνατος|1. deadly, lethal 2. (by implication) poisonous
+θανατηφόρος|adjective|φέρω|1. death-bearing, i.e. fatal
+θάνατος|noun|θνήσκω|1. death
+θανατόω|verb|θάνατος|1. to put to death, to kill
+θάπτω|verb|---|1. to celebrate funeral rites, i.e. inter
+Θάρα|Name Person|תֶּרחַ|1. Thara (i.e. Terach), the father of Abraham
+θαρρέω|verb|θαρσέω|1. to exercise courage
+θαρσέω|verb|θάρσος|1. to have courage
+θάρσος|noun|---|1. boldness (subjectively)
 θαῦμα|noun|θεάομαι|1. wonder (properly concrete, but by implication, abstract)
-θαυμάζω|verb|θαῦμα|1. to wonder 2. (by implication) to admire
-θαυμάσιος|adjective|θαῦμα|1. wondrous 2. (neuter as noun) a miracle
-θαυμαστός|adjective|θαυμάζω|1. wondered at 2. (by implication) wonderful
-θεά|noun|θεός|1. a female deity
-θεάομαι|verb|---|1. to look closely at 2. (by implication) to perceive 3. (by extension) to visit
-θεατρίζω|verb|θέατρον|1. to expose as a spectacle
-θέατρον|noun|θεάομαι|1. a place for public show ("theatre"), i.e. general audience-room 2. (by implication) a show itself (figuratively)
+θαυμάζω|verb|θαῦμα|1. to wonder 2. (by implication) to admire
+θαυμάσιος|adjective|θαῦμα|1. wondrous 2. (neuter as noun) a miracle
+θαυμαστός|adjective|θαυμάζω|1. wondered at 2. (by implication) wonderful
+θεά|noun|θεός|1. a female deity
+θεάομαι|verb|---|1. to look closely at 2. (by implication) to perceive 3. (by extension) to visit
+θεατρίζω|verb|θέατρον|1. to expose as a spectacle
+θέατρον|noun|θεάομαι|1. a place for public show ("theatre"), i.e. general audience-room 2. (by implication) a show itself (figuratively)
 θεῖον|noun|θεῖος|1. sulphur
 θεῖος|adjective|θεός|1. godlike (neuter as noun, divinity)
-θειότης|noun|θεῖος|1. divinity (abstractly)
-θειώδης|adjective|εἶδος|1. sulphur-like, i.e. sulphurous
-θέλημα|noun|θέλω|1. a determination (properly, the thing) 2. (actively) choice 3. (specially) purpose, decree 4. (abstractly) volition 5. (passively) inclination       
-θέλησις|noun|θέλω|1. determination (properly, the act), i.e. option
-θέλω|verb|θέλω|1. to determine, i.e. choose or prefer 2. (by implication) to wish, i.e. be inclined to 3. (sometimes adverbially) gladly 4. (impersonally for the future tense) to be about to 5. (by Hebraism) to delight in
-θεμέλιος|noun|τίθημι|1. something put down, i.e. a substructure (of a building, etc.)
-θεμελιόω|verb|θεμέλιος|1. to lay a basis for 2. (literally) to erect 3. (figuratively) to consolidate
-θεοδίδακτος|adjective|διδάσκω|1. divinely instructed
-θεομαχέω|verb|θεόμαχος|1. to resist deity
-θεόμαχος|adjective|μάχομαι|1. an opponent of deity
-θεόπνευστος|adjective|πνέω|1. divinely breathed in
-θεός|noun|---|1. a deity 2. (figuratively) a magistrate 3. (by Hebraism) very
-θεοσέβεια|noun|θεοσεβής|1. reverence of God
-θεοσεβής|adjective|σέβομαι|1. reverent of God
-θεοστυγής|adjective|στυγνητός|1. hateful to God, i.e. impious
-θεότης|noun|θεός|1. divinity (abstractly)
-Θεόφιλος|Name Person|φίλος|1. friend of God 2. Theophilus, a Christian
-θεραπεία|noun|θεραπεύω|1. attendance (specially, medical, i.e. cure) 2. (figuratively and collectively) domestics
-θεραπεύω|verb|θέρος|1. to wait upon menially 2. (figuratively) to adore (God) 3. (specially) to relieve (of disease)
-θεράπων|noun|θέρος|1. a menial attendant (as if cherishing)
-θερίζω|verb|θέρος|1. to harvest
-θερισμός|noun|θερίζω|1. reaping, i.e. the crop
-θεριστής|noun|θερίζω|1. a harvester
-θερμαίνω|verb|θέρμη|1. to heat (oneself)
-θέρμη|noun|θέρος|1. warmth
-θέρος|noun|---|1. (properly) heat, i.e. summer
-Θεσσαλονικεύς|Name/g.|Θεσσαλονίκη|1. a Thessalonican, i.e. inhabitant of Thessalonice
-Θεσσαλονίκη|Name Location|νίκη|1. Thessalonice, a place in Asia Minor
+θειότης|noun|θεῖος|1. divinity (abstractly)
+θειώδης|adjective|εἶδος|1. sulphur-like, i.e. sulphurous
+θέλημα|noun|θέλω|1. a determination (properly, the thing) 2. (actively) choice 3. (specially) purpose, decree 4. (abstractly) volition 5. (passively) inclination       
+θέλησις|noun|θέλω|1. determination (properly, the act), i.e. option
+θέλω|verb|θέλω|1. to determine, i.e. choose or prefer 2. (by implication) to wish, i.e. be inclined to 3. (sometimes adverbially) gladly 4. (impersonally for the future tense) to be about to 5. (by Hebraism) to delight in
+θεμέλιος|noun|τίθημι|1. something put down, i.e. a substructure (of a building, etc.)
+θεμελιόω|verb|θεμέλιος|1. to lay a basis for 2. (literally) to erect 3. (figuratively) to consolidate
+θεοδίδακτος|adjective|διδάσκω|1. divinely instructed
+θεομαχέω|verb|θεόμαχος|1. to resist deity
+θεομάχος|adjective|μάχομαι|1. an opponent of deity
+θεόπνευστος|adjective|πνέω|1. divinely breathed in
+θεός|noun|---|1. a deity 2. (figuratively) a magistrate 3. (by Hebraism) very
+θεοσέβεια|noun|θεοσεβής|1. reverence of God
+θεοσεβής|adjective|σέβομαι|1. reverent of God
+θεοστυγής|adjective|στυγνητός|1. hateful to God, i.e. impious
+θεότης|noun|θεός|1. divinity (abstractly)
+Θεόφιλος|Name Person|φίλος|1. friend of God 2. Theophilus, a Christian
+θεραπεία|noun|θεραπεύω|1. attendance (specially, medical, i.e. cure) 2. (figuratively and collectively) domestics
+θεραπεύω|verb|θέρος|1. to wait upon menially 2. (figuratively) to adore (God) 3. (specially) to relieve (of disease)
+θεράπων|noun|θέρος|1. a menial attendant (as if cherishing)
+θερίζω|verb|θέρος|1. to harvest
+θερισμός|noun|θερίζω|1. reaping, i.e. the crop
+θεριστής|noun|θερίζω|1. a harvester
+θερμαίνω|verb|θέρμη|1. to heat (oneself)
+θέρμη|noun|θέρος|1. warmth
+θέρος|noun|---|1. (properly) heat, i.e. summer
+Θεσσαλονικεύς|Name/g.|Θεσσαλονίκη|1. a Thessalonican, i.e. inhabitant of Thessalonice
+Θεσσαλονίκη|Name Location|νίκη|1. Thessalonice, a place in Asia Minor
 Θευδᾶς|Name Person|---|1. Theudas, an Israelite
-θεωρέω|verb|ὁράω|1. to be a spectator of, i.e. discern
-θεωρία|noun|ὁράω|1. spectatorship 2. (concretely) a spectacle
-θήκη|noun|τίθημι|1. a receptacle, i.e. scabbard
-θηλάζω|verb|---|1. to suckle, (by implication) to suck
-θήλυς|adjective|---|1. female
-θήρα|noun|---|1. hunting 2. (figuratively) destruction
-θηρεύω|verb|θήρα|1. to hunt (an animal) 2. (figuratively) to carp at
-θηριομαχέω|verb|μάχομαι|1. to be a beast-fighter (in the gladiatorial show) 2. (figuratively) to encounter (furious men)
-θηρίον|noun|---|1. a dangerous animal
-θησαυρίζω|verb|θησαυρός|1. to amass or reserve
-θησαυρός|noun|τίθημι|1. a deposit, i.e. wealth
-θιγγάνω|verb|---|1. to manipulate, i.e. have to do with 2. (by implication) to injure
-θλίβω|verb|---|1. to crowd
-θλίψις|noun|θλίβω|1. pressure
-θνήσκω|verb|---|1. to die
-θνητός|adjective|θνήσκω|1. liable to die
-θορυβέω|verb|θόρυβος|1. to be in tumult, i.e. disturb, clamor
-θόρυβος|noun|θροέω|1. a disturbance
-θραύω|verb|---|1. to crush
-θρέμμα|noun|τρέφω|1. stock (as raised on a farm)
-θρηνέω|verb|θρῆνος|1. to bewail
+θεωρέω|verb|ὁράω|1. to be a spectator of, i.e. discern
+θεωρία|noun|ὁράω|1. spectatorship 2. (concretely) a spectacle
+θήκη|noun|τίθημι|1. a receptacle, i.e. scabbard
+θηλάζω|verb|---|1. to suckle, (by implication) to suck
+θῆλυς|adjective|---|1. female
+θήρα|noun|---|1. hunting 2. (figuratively) destruction
+θηρεύω|verb|θήρα|1. to hunt (an animal) 2. (figuratively) to carp at
+θηριομαχέω|verb|μάχομαι|1. to be a beast-fighter (in the gladiatorial show) 2. (figuratively) to encounter (furious men)
+θηρίον|noun|---|1. a dangerous animal
+θησαυρίζω|verb|θησαυρός|1. to amass or reserve
+θησαυρός|noun|τίθημι|1. a deposit, i.e. wealth
+θιγγάνω|verb|---|1. to manipulate, i.e. have to do with 2. (by implication) to injure
+θλίβω|verb|---|1. to crowd
+θλῖψις|noun|θλίβω|1. pressure
+θνῄσκω|verb|---|1. to die
+θνητός|adjective|θνήσκω|1. liable to die
+θορυβέω|verb|θόρυβος|1. to be in tumult, i.e. disturb, clamor
+θόρυβος|noun|θροέω|1. a disturbance
+θραύω|verb|---|1. to crush
+θρέμμα|noun|τρέφω|1. stock (as raised on a farm)
+θρηνέω|verb|θρῆνος|1. to bewail
 θρῆνος|noun|θροέω|1. wailing
-θρησκεία|noun|θρῆσκος|1. ceremonial observance
+θρησκεία|noun|θρῆσκος|1. ceremonial observance
 θρῆσκος|adjective|θροέω|1. ceremonious in worship (as demonstrative) 2. religious
-θριαμβεύω|verb|ἅπτομαι|1. to make an acclamatory procession 2. (figuratively) to conquer or (by Hebraism) to give victory
-θρίξ|noun|---|1. hair
-θροέω|verb|---|1. to clamor 2. (by implication) to frighten
-θρόμβος|noun|τρέφω|1. a clot
-θρόνος|noun|---|1. a stately seat, "throne" 2. (by implication) power 3. (concretely) a potentate, sovereign, or ruler
-Θυάτειρα|Name Location|---|1. Thyatira, a place in Asia Minor
-θυγάτηρ|noun|---|1. a female child 2. (by Hebraism) descendant (or inhabitant)
-θυγάτριον|noun|θυγάτηρ|1. a daughterling
-θύελλα|noun|θύω|1. (in the sense of blowing) a storm
-θύϊνος|adjective|θύω|1. made of citron-wood
-θυμίαμα|noun|θυμιάω|1. an aroma 2. (religiously) a fragrant powder burnt within a service 3. (by implication) the burning itself
-θυμιαστήριον|noun|θυμιάω|1. a place of fumigation, i.e. the alter of incense (in the Temple)
-θυμιάω|verb|θύω|1. to burn incense 2. (religiously) to offer aromatic fumes
-θυμομαχέω|verb|μάχομαι|1. to be in a furious fight 2. (figuratively) to be exasperated
-θυμός|noun|θύω|1. passion (as if breathing hard)
-θυμόω|verb|θυμός|1. to put in a passion, i.e. enrage
-θύρα|noun|---|1. a portal or entrance (the opening or the closure)
-θυρεός|noun|θύρα|1. a large shield (as door-shaped)
-θυρίς|noun|θύρα|1. an aperture, i.e. window
-θυρωρός|noun|θύρα|1. a gate- warden
-θυσία|noun|θύω|1. sacrifice (the act or the victim)
-θυσιαστήριον|noun|θυσία|1. a place of sacrifice, i.e. an altar
-θύω|verb|---|1. (properly) to rush (breathe hard, blow, smoke) 2. (by implication) to sacrifice 3. (implication, genitive case) to sacrifice by fire 4. (by extension) to give up to destruction (for any purpose)
+θριαμβεύω|verb|ἅπτομαι|1. to make an acclamatory procession 2. (figuratively) to conquer or (by Hebraism) to give victory
+θρίξ|noun|---|1. hair
+θροέω|verb|---|1. to clamor 2. (by implication) to frighten
+θρόμβος|noun|τρέφω|1. a clot
+θρόνος|noun|---|1. a stately seat, "throne" 2. (by implication) power 3. (concretely) a potentate, sovereign, or ruler
+Θυάτειρα|Name Location|---|1. Thyatira, a place in Asia Minor
+θυγάτηρ|noun|---|1. a female child 2. (by Hebraism) descendant (or inhabitant)
+θυγάτριον|noun|θυγάτηρ|1. a daughterling
+θύελλα|noun|θύω|1. (in the sense of blowing) a storm
+θύϊνος|adjective|θύω|1. made of citron-wood
+θυμίαμα|noun|θυμιάω|1. an aroma 2. (religiously) a fragrant powder burnt within a service 3. (by implication) the burning itself
+θυμιατήριον|noun|θυμιάω|1. a place of fumigation, i.e. the alter of incense (in the Temple)
+θυμιάω|verb|θύω|1. to burn incense 2. (religiously) to offer aromatic fumes
+θυμομαχέω|verb|μάχομαι|1. to be in a furious fight 2. (figuratively) to be exasperated
+θυμός|noun|θύω|1. passion (as if breathing hard)
+θυμόω|verb|θυμός|1. to put in a passion, i.e. enrage
+θύρα|noun|---|1. a portal or entrance (the opening or the closure)
+θυρεός|noun|θύρα|1. a large shield (as door-shaped)
+θυρίς|noun|θύρα|1. an aperture, i.e. window
+θυρωρός|noun|θύρα|1. a gate- warden
+θυσία|noun|θύω|1. sacrifice (the act or the victim)
+θυσιαστήριον|noun|θυσία|1. a place of sacrifice, i.e. an altar
+θύω|verb|---|1. (properly) to rush (breathe hard, blow, smoke) 2. (by implication) to sacrifice 3. (implication, genitive case) to sacrifice by fire 4. (by extension) to give up to destruction (for any purpose)
 Θωμᾶς|Name Person|---|1. the twin 2. Thomas, a Christian
-θώραξ|noun|---|1. the chest ("thorax") 2. (by implication) a corslet
-Ἰάειρος|Name Person|יָאִיר|1. Jairus (i.e. Jair), an Israelite
-Ἰακώβ|Name Person|יַעֲקוֹב|1. Jacob (i.e. Ja'akob), the ancestor and father of the Israelites
-Ἰάκωβος|Name Person|Ἰακώβ|1. Jacobus, the name of three Israelites
+θώραξ|noun|---|1. the chest ("thorax") 2. (by implication) a corslet
+Ἰάειρος|Name Person|יָאִיר|1. Jairus (i.e. Jair), an Israelite
+Ἰακώβ|Name Person|יַעֲקוֹב|1. Jacob (i.e. Ja'akob), the ancestor and father of the Israelites
+Ἰάκωβος|Name Person|Ἰακώβ|1. Jacobus, the name of three Israelites
 ἴαμα|noun|ἰάομαι|1. a cure (the effect)
 Ἰαμβρῆς|Name Person|---|1. Jambres, an Egyptian
-Ἰαννά|Name Person|---|1. Janna, an Israelite
+Ἰαννά|Name Person|---|1. Janna, an Israelite
 Ἰαννῆς|Name Person|---|1. Jannes, an Egyptian
-ἰάομαι|verb|---|1. to cure
-Ἰάρεδ|Name Person|יֶרֶד|1. Jared (i.e. Jered), an antediluvian (pre-flood)
+ἰάομαι|verb|---|1. to cure
+Ἰαρέδ|Name Person|יֶרֶד|1. Jared (i.e. Jered), an antediluvian (pre-flood)
 ἴασις|noun|ἰάομαι|1. curing (the act)
 ἴασπις|noun|---|1. "jasper", a gem
-Ἰάσων|Name Person|ἰάομαι|1. about to cure 2. Jason, a Christian
-ἰατρός|noun|ἰάομαι|1. a physician
+Ἰάσων|Name Person|ἰάομαι|1. about to cure 2. Jason, a Christian
+ἰατρός|noun|ἰάομαι|1. a physician
 ἴδε|injunction|εἴδω|1. (used as an interjection to denote surprise) lo!
-ἰδέα|noun|εἴδω|1. a sight (comparative figuratively "idea"), i.e. aspect
+ἰδέα|noun|εἴδω|1. a sight (comparative figuratively "idea"), i.e. aspect
 ἴδιος|adjective|---|1. pertaining to self, i.e. one's own 2. (by implication) private or separate
-ἰδιώτης|noun|ἴδιος|1. a private person 2. (by implication) an ignoramus
-ἰδού|verb|εἴδω|1. (used as imperative) lo!
-Ἰδουμαία|Name Location|אֱדוֹם אֱדוֹם|1. Idumaea (i.e. Edom), a region East (and South) of Israel
-ἱδρώς|noun|---|1. perspiration
-Ἰεζαβήλ|Name Person|אִיזֶבֶל|1. Jezabel (i.e. Jezebel), a Tyrian woman 2. (symbolically) used as a synonym of a shrew, hellcat, or harpy (i.e. a malicious, scolding, quarrelsome, predatory woman 3. (concretely, by association) a false teacher (female)
-Ἱεράπολις|Name Location|πόλις|1. holy city 2. Hierapolis, a place in Asia Minor
-ἱερατεία|noun|ἱερατεύω|1. priestliness, i.e. the sacerdotal function
-ἱεράτευμα|noun|ἱερατεύω|1. the priestly fraternity, i.e. sacerdotal order (figuratively)
-ἱερατεύω|verb|ἱερεύς|1. to be a priest, i.e. perform his functions
-Ἱερεμίας|Name Person|יִרמְיָהוּ|1. Hieremias (i.e. Jermijah), an Israelite
-ἱερεύς|noun|ἱερός|1. a priest
-Ἱεριχώ|Name Location|יְרִיחוֹ |1. Jericho, a place in Israel
-ἱερόν|noun|ἱερός|1. a sacred place 2. (specially) the entire precincts of the Temple (at Jerusalem or elsewhere)
-ἱεροπρεπής|adjective|πρέπω|1. reverent
-ἱερός|adjective|---|1. sacred
-Ἱεροσόλυμα|Name Location|יְרוּשָׁלַיִם|1. Hierosolyma (i.e. Jerushalaim}, the capitol of Israel
-Ἱεροσολυμίτης|Name/g.|Ἱεροσόλυμα|1. a Hierosolymite, i.e. inhabitant of Hierosolyma
-ἱεροσυλέω|verb|ἱερόσυλος|1. to be a temple-robber (figuratively)
-ἱερόσυλος|adjective|συλάω|1. a temple-despoiler
-ἱερουργέω|verb|ἔργον|1. to be a temple-worker, i.e. officiate as a priest (figuratively)
-Ἱερουσαλήμ|Name Location|יְרוּשָׁלַיִם|1. Hierusalem (i.e. Jerushalem), the capitol of Israel
-ἱερωσύνη|noun|ἱερός|1. sacredness 2. (by implication) the priestly office
-Ἰεσσαί|Name Person|יִשַׁי אִישַׁי|1. Jessae (i.e. Jishai), an Israelite
-Ἰεφθάε|Name Person|יִפתָּח|1. Jephthae (i.e. Jiphtach), an Israelite
-Ἰεχονίας|Name Person|יְכָניָה יְכָניָהוּ יְכוֹנְיָה|1. Jechonias (i.e. Jekonjah), an Israelite
+ἰδιώτης|noun|ἴδιος|1. a private person 2. (by implication) an ignoramus
+ἰδού|verb|εἴδω|1. (used as imperative) lo!
+Ἰδουμαία|Name Location|אֱדוֹם אֱדוֹם|1. Idumaea (i.e. Edom), a region East (and South) of Israel
+ἱδρώς|noun|---|1. perspiration
+Ἰεζάβελ|Name Person|אִיזֶבֶל|1. Jezabel (i.e. Jezebel), a Tyrian woman 2. (symbolically) used as a synonym of a shrew, hellcat, or harpy (i.e. a malicious, scolding, quarrelsome, predatory woman 3. (concretely, by association) a false teacher (female)
+Ἱεράπολις|Name Location|πόλις|1. holy city 2. Hierapolis, a place in Asia Minor
+ἱερατεία|noun|ἱερατεύω|1. priestliness, i.e. the sacerdotal function
+ἱεράτευμα|noun|ἱερατεύω|1. the priestly fraternity, i.e. sacerdotal order (figuratively)
+ἱερατεύω|verb|ἱερεύς|1. to be a priest, i.e. perform his functions
+Ἰερεμίας|Name Person|יִרמְיָהוּ|1. Hieremias (i.e. Jermijah), an Israelite
+ἱερεύς|noun|ἱερός|1. a priest
+Ἰεριχώ|Name Location|יְרִיחוֹ |1. Jericho, a place in Israel
+ἱερόν|noun|ἱερός|1. a sacred place 2. (specially) the entire precincts of the Temple (at Jerusalem or elsewhere)
+ἱεροπρεπής|adjective|πρέπω|1. reverent
+ἱερός|adjective|---|1. sacred
+Ἱεροσόλυμα|Name Location|יְרוּשָׁלַיִם|1. Hierosolyma (i.e. Jerushalaim), the capitol of Israel
+Ἱεροσολυμίτης|Name/g.|Ἱεροσόλυμα|1. a Hierosolymite, i.e. inhabitant of Hierosolyma
+ἱεροσυλέω|verb|ἱερόσυλος|1. to be a temple-robber (figuratively)
+ἱερόσυλος|adjective|συλάω|1. a temple-despoiler
+ἱερουργέω|verb|ἔργον|1. to be a temple-worker, i.e. officiate as a priest (figuratively)
+Ἱερουσαλήμ|Name Location|יְרוּשָׁלַיִם|1. Hierusalem (i.e. Jerushalem), the capitol of Israel
+ἱερωσύνη|noun|ἱερός|1. sacredness 2. (by implication) the priestly office
+Ἰεσσαί|Name Person|יִשַׁי אִישַׁי|1. Jessae (i.e. Jishai), an Israelite
+Ἰεφθάε|Name Person|יִפתָּח|1. Jephthae (i.e. Jiphtach), an Israelite
+Ἰεχονίας|Name Person|יְכָניָה יְכָניָהוּ יְכוֹנְיָה|1. Jechonias (i.e. Jekonjah), an Israelite
 Ἰησοῦς|Name Person|יְהוֹשׁוּעַ|1. Jesus (i.e. Jehoshua), the name of our Lord and two (three) other Israelites
-ἱκανός|adjective|---|1. competent (as if coming in season), i.e. ample (in amount) or fit (in character)
-ἱκανότης|noun|ἱκανός|1. ability
-ἱκανόω|verb|ἱκανός|1. to enable, i.e. qualify
-ἱκετηρία|noun|ἱκανός|1. intreaty
-ἱκμάς|noun|---|1. dampness
-Ἰκόνιον|Name Location|εἰκών|1. image-like 2. Iconium, a place in Asia Minor
-ἱλαρός|adjective|αἱρέομαι|1. cheerful or merry, i.e. prompt or willing
-ἱλαρότης|noun|ἱλαρός|1. alacrity
-ἱλάσκομαι|verb|αἱρέομαι|1. to conciliate 2. (transitively) to atone for (sin) 3. (intransitively) be propitious
-ἱλασμός|noun|---|1. atonement 2. (concretely) an expiator
-ἱλαστήριον|noun|ἱλάσκομαι|1. an expiatory (place or thing) 2. (concretely) an atoning victim 3. (specially) the lid of the Ark (in the Temple)
+ἱκανός|adjective|---|1. competent (as if coming in season), i.e. ample (in amount) or fit (in character)
+ἱκανότης|noun|ἱκανός|1. ability
+ἱκανόω|verb|ἱκανός|1. to enable, i.e. qualify
+ἱκετηρία|noun|ἱκανός|1. intreaty
+ἰκμάς|noun|---|1. dampness
+Ἰκόνιον|Name Location|εἰκών|1. image-like 2. Iconium, a place in Asia Minor
+ἱλαρός|adjective|αἱρέομαι|1. cheerful or merry, i.e. prompt or willing
+ἱλαρότης|noun|ἱλαρός|1. alacrity
+ἱλάσκομαι|verb|αἱρέομαι|1. to conciliate 2. (transitively) to atone for (sin) 3. (intransitively) be propitious
+ἱλασμός|noun|---|1. atonement 2. (concretely) an expiator
+ἱλαστήριον|noun|ἱλάσκομαι|1. an expiatory (place or thing) 2. (concretely) an atoning victim 3. (specially) the lid of the Ark (in the Temple)
 ἵλεως|adjective|αἱρέομαι|1. cheerful (as attractive), i.e. propitious 2. (adverbially, by Hebraism) God be gracious! 3. (in averting some calamity) far be it
-Ἰλλυρικόν|Name Location|---|1. (the) Illyrican (shore) 2. (as a name itself) Illyricum, a region of Europe
-ἱμάς|noun|ἅμα|1. a strap 2. (specially) the tie (of a sandal) or the lash (of a scourge)
-ἱματίζω|verb|ἱμάτιον|1. to dress
-ἱμάτιον|noun|---|1. a dress (inner or outer)
-ἱματισμός|noun|ἱματίζω|1. clothing
-ἱμείρομαι|verb|---|1. to long for
+Ἰλλυρικόν|Name Location|---|1. (the) Illyrican (shore) 2. (as a name itself) Illyricum, a region of Europe
+ἱμάς|noun|ἅμα|1. a strap 2. (specially) the tie (of a sandal) or the lash (of a scourge)
+ἱματίζω|verb|ἱμάτιον|1. to dress
+ἱμάτιον|noun|---|1. a dress (inner or outer)
+ἱματισμός|noun|ἱματίζω|1. clothing
+ὁμείρομαι|verb|---|1. to long for
 ἵνα|conjunction|ἑαυτού|1. in order that (denoting the purpose or the result)
-ἱνατί|adverb|τίς|1. for what reason?, i.e. why?
-Ἰόππη|Name Location|יָפוֹ יָפוֹא|1. Joppe (i.e. Japho), a place in Israel
-Ἰορδάνης|Name Location|יַרדֵּן|1. the Jordanes (i.e. Jarden), a river of Israel
-ἰός|noun|---|1. rust (as if emitted by metals) 2. venom (as emitted by serpents)
-Ἰουδά|Name Location|יְהוּדָה|1. Judah (i.e. Jehudah or Juttah), a part of (or place in) Israel
-Ἰουδαία|Name Location|γῆ|1. the Judaean land (i.e. Judaea), a region of Israel
-Ἰουδαίζω|verb/g|Ἰουδαῖος|1. to become a Judaean, i.e. "Judaize"
-Ἰουδαϊκός|adjective/g.|Ἰουδαῖος|1. Judaic, i.e. resembling a Judaean
-Ἰουδαϊκώς|adverb/g|Ἰουδαϊκός|1. Judaically or in a manner resembling a Judaean
+ἱνατί|adverb|τίς|1. for what reason?, i.e. why?
+Ἰόππη|Name Location|יָפוֹ יָפוֹא|1. Joppe (i.e. Japho), a place in Israel
+Ἰορδάνης|Name Location|יַרדֵּן|1. the Jordanes (i.e. Jarden), a river of Israel
+ἰός|noun|---|1. rust (as if emitted by metals) 2. venom (as emitted by serpents)
+Ἰούδα|Name Location|יְהוּדָה|1. Judah (i.e. Jehudah or Juttah), a part of (or place in) Israel
+Ἰουδαία|Name Location|γῆ|1. the Judaean land (i.e. Judaea), a region of Israel
+Ἰουδαΐζω|verb/g|Ἰουδαῖος|1. to become a Judaean, i.e. "Judaize"
+Ἰουδαϊκός|adjective/g.|Ἰουδαῖος|1. Judaic, i.e. resembling a Judaean
+Ἰουδαϊκῶς|adverb/g|Ἰουδαϊκός|1. Judaically or in a manner resembling a Judaean
 Ἰουδαῖος|adjective/g.|Ἰουδάς|1. Judaean, i.e. belonging to Jehudah
-Ἰουδαϊσμός|Name/g.|Ἰουδαίζω|1. "Judaism", i.e. the Jewish faith and usages
-Ἰουδάς|Name Person|יְהוּדָה|1. Judas (i.e. Jehudah), the name of ten Israelites 2. also of the posterity of one of them and its region
-Ἰουλία|Name Person|Ἰούλιος|1. Julia, a Christian woman
-Ἰούλιος|Name Person|---|1. Julius, a centurion
-Ἰουνίας|Name Person|---|1. Junias, a Christian
+Ἰουδαϊσμός|Name/g.|Ἰουδαίζω|1. "Judaism", i.e. the Jewish faith and usages
+Ἰούδας|Name Person|יְהוּדָה|1. Judas (i.e. Jehudah), the name of ten Israelites 2. also of the posterity of one of them and its region
+Ἰουλία|Name Person|Ἰούλιος|1. Julia, a Christian woman
+Ἰούλιος|Name Person|---|1. Julius, a centurion
+Ἰουνιᾶς|Name Person|---|1. Junias, a Christian
 Ἰοῦστος|Name Person|---|1. Justus, the name of three Christian
-ἱππεύς|noun|ἵππος|1. an equestrian, i.e. member of a cavalry corps
-ἱππικόν|adjective|ἵππος|1. the cavalry force
+ἱππεύς|noun|ἵππος|1. an equestrian, i.e. member of a cavalry corps
+ἱππικόν|adjective|ἵππος|1. the cavalry force
 ἵππος|noun|---|1. a horse
 ἶρις|noun|ἐρέω|1. a rainbow ("iris")
-Ἰσαάκ|Name Person|יִצחָק|1. Isaac (i.e. Jitschak), the son of Abraham
-ἰσάγγελος|adjective|ἄγγελος|1. like an angel, i.e. angelic
-Ἰσαχάρ|Name Person|יִשָּׂשׂכָּר|1. Isachar (i.e. Jissaskar), a son of Jacob 2. (figuratively) his descendant)
+Ἰσαάκ|Name Person|יִצחָק|1. Isaac (i.e. Jitschak), the son of Abraham
+ἰσάγγελος|adjective|ἄγγελος|1. like an angel, i.e. angelic
+Ἰσαχάρ|Name Person|יִשָּׂשׂכָּר|1. Isachar (i.e. Jissaskar), a son of Jacob 2. (figuratively) his descendant)
 ἴσημι|verb|ἐπικάλυμα|1. to know
 ἴσθι|verb|εἰμί|1. be thou
-Ἰσκαριώτης|Name/g.|אִישׁ|1. inhabitant of Kerioth 2. Iscariotes (i.e. Keriothite), an epithet of Judas the traitor
+Ἰσκαριώτης|Name/g.|אִישׁ|1. inhabitant of Kerioth 2. Iscariotes (i.e. Keriothite), an epithet of Judas the traitor
 ἴσος|adjective|εἴδω|1. similar (in amount and kind)
-ἰσότης|noun|---|1. likeness (in condition or proportion) 2. (by implication) equity
-ἰσότιμος|adjective|τιμή|1. of equal value or honor
-ἰσόψυχος|adjective|ψυχή|1. of similar spirit
-Ἰσραήλ|Name Person|יִשׂרָאֵל|1. Israel (i.e. Jisrael), the adopted name of Jacob, including his descendants
-Ἰσραηλίτης|Name Person|Ἰσραήλ|1. an "Israelite", i.e. descendant of Israel
+ἰσότης|noun|---|1. likeness (in condition or proportion) 2. (by implication) equity
+ἰσότιμος|adjective|τιμή|1. of equal value or honor
+ἰσόψυχος|adjective|ψυχή|1. of similar spirit
+Ἰσραήλ|Name Person|יִשׂרָאֵל|1. Israel (i.e. Jisrael), the adopted name of Jacob, including his descendants
+Ἰσραηλίτης|Name Person|Ἰσραήλ|1. an "Israelite", i.e. descendant of Israel
 ἵστημι|verb|---|1. to stand
-ἱστορέω|verb|εἴδω|1. to be knowing (learned) 2. (by implication) to visit for information (interview)
-ἰσχυρός|adjective|ἰσχύς|1. forcible
-ἰσχύς|noun|---|1. strength, forcefulness
-ἰσχύω|verb|ἰσχύς|1. to have (or exercise) strength, force
+ἱστορέω|verb|εἴδω|1. to be knowing (learned) 2. (by implication) to visit for information (interview)
+ἰσχυρός|adjective|ἰσχύς|1. forcible
+ἰσχύς|noun|---|1. strength, forcefulness
+ἰσχύω|verb|ἰσχύς|1. to have (or exercise) strength, force
 ἴσως|adverb|ἴσος|1. likely, i.e. perhaps
-Ἰταλία|Name Location|---|1. Italia, a region of Europe
-Ἰταλικός|adjective/g.|Ἰταλία|1. Italic, i.e. belonging to Italia
-Ἰτουραία|adjective/l|יְטוּר|1. Ituraea (i.e. Jetur), a region of Israel
-ἰχθύδιον|noun|ἰχθύς|1. a petty fish
-ἰχθύς|noun|---|1. a fish
+Ἰταλία|Name Location|---|1. Italia, a region of Europe
+Ἰταλικός|adjective/g.|Ἰταλία|1. Italic, i.e. belonging to Italia
+Ἰτουραῖος|adjective/l|יְטוּר|1. Ituraea (i.e. Jetur), a region of Israel
+ἰχθύδιον|noun|ἰχθύς|1. a petty fish
+ἰχθύς|noun|---|1. a fish
 ἴχνος|noun|---|1. (figuratively) a track
-Ἰωάθαμ|Name Person|יוֹתָם|1. Joatham (i.e. Jotham), an Israelite
-Ἰωάννα|Name Person|Ἰωάννης|1. Joanna, a Christian
-Ἰωαννᾶς|Name Person|Ἰωάννης|1. Joannas, an Israelite
-Ἰωάννης|Name Person|יוֹחָנָן|1. Joannes (i.e. Jochanan), the name of four Israelites
-Ἰώβ|Name Person|אִיוֹב|1. Job (i.e. Ijob), a patriarch
-Ἰωήλ|Name Person|יוֹאֵל|1. Joel, an Israelite
-Ἰωνάν|Name Person|Ἰωνᾶς|1. Jonan, an Israelite
+Ἰωάθαμ|Name Person|יוֹתָם|1. Joatham (i.e. Jotham), an Israelite
+Ἰωάννα|Name Person|Ἰωάννης|1. Joanna, a Christian
+Ἰωανάν|Name Person|Ἰωάννης|1. Joannas, an Israelite
+Ἰωάννης|Name Person|יוֹחָנָן|1. Joannes (i.e. Jochanan), the name of four Israelites
+Ἰώβ|Name Person|אִיוֹב|1. Job (i.e. Ijob), a patriarch
+Ἰωήλ|Name Person|יוֹאֵל|1. Joel, an Israelite
+Ἰωνάν|Name Person|Ἰωνᾶς|1. Jonan, an Israelite
 Ἰωνᾶς|Name Person|יוֹנָה|1. Jonas (i.e. Jonah), the name of two Israelites
-Ἰωράμ|Name Person|יוֹרָם|1. Joram, an Israelite
-Ἰωρείμ|Name Person|Ἰωράμ|1. Jorim, an Israelite
-Ἰωσαφάτ|Name Person|יְהוֹשָׁפָט|1. Josaphat (i.e. Jehoshaphat), an Israelite
-Ἰωσή|Name Person|Ἰωσῆς|1. Jose, an Israelite
+Ἰωράμ|Name Person|יוֹרָם|1. Joram, an Israelite
+Ἰωρείμ|Name Person|Ἰωράμ|1. Jorim, an Israelite
+Ἰωσαφάτ|Name Person|יְהוֹשָׁפָט|1. Josaphat (i.e. Jehoshaphat), an Israelite
+Ἰωσῆ|Name Person|Ἰωσῆς|1. Jose, an Israelite
 Ἰωσῆς|Name Person|Ἰωσήφ|1. Joses, the name of two Israelites
-Ἰωσήφ|Name Person|יוֹסֵף|1. Joseph, the name of seven Israelites
-Ἰωσίας|Name Person|יוֹאשִׁיָהוּ|1. Josias (i.e. Joshiah), an Israelite
+Ἰωσήφ|Name Person|יוֹסֵף|1. Joseph, the name of seven Israelites
+Ἰωσίας|Name Person|יוֹאשִׁיָהוּ|1. Josias (i.e. Joshiah), an Israelite
 ἰῶτα|noun|---|1. "iota", the name of the eighth letter of the Greek alphabet, put (figuratively) for a very small part of anything
-καγώ|p/p.|ἐγώ|1. and (or also, even, etc.) I, (to) me
-καθά|adverb|ὅς|1. according to which things, i.e. just as
-καθαίρεσις|noun|καθαιρέω|1. demolition 2. (figuratively) extinction
-καθαιρέω|verb|αἱρέομαι|1. to lower 2. (or with violence) demolish
-καθαίρω|verb|καθαρός|1. to cleanse 2. (specially) to prune 3. (figuratively) to atone
-καθάπερ|adverb|πέρ|1. exactly as
-καθάπτω|verb|ἅπτομαι|1. to seize upon
-καθαρίζω|verb|καθαρός|1. to cleanse
-καθαρισμός|noun|καθαρίζω|1. a washing off 2. (ceremonially) ablution, (morally) expiation
-καθαρός|adjective|---|1. clean
-καθαρότης|noun|καθαρός|1. cleanness (ceremonially)
-καθέδρα|noun|ἑδραῖος|1. a bench
-καθέζομαι|verb|ἑδραῖος|1. to sit down
+κἀγώ|p/p.|ἐγώ|1. and (or also, even, etc.) I, (to) me
+καθά|adverb|ὅς|1. according to which things, i.e. just as
+καθαίρεσις|noun|καθαιρέω|1. demolition 2. (figuratively) extinction
+καθαιρέω|verb|αἱρέομαι|1. to lower 2. (or with violence) demolish
+καθαίρω|verb|καθαρός|1. to cleanse 2. (specially) to prune 3. (figuratively) to atone
+καθάπερ|adverb|πέρ|1. exactly as
+καθάπτω|verb|ἅπτομαι|1. to seize upon
+καθαρίζω|verb|καθαρός|1. to cleanse
+καθαρισμός|noun|καθαρίζω|1. a washing off 2. (ceremonially) ablution, (morally) expiation
+καθαρός|adjective|---|1. clean
+καθαρότης|noun|καθαρός|1. cleanness (ceremonially)
+καθέδρα|noun|ἑδραῖος|1. a bench
+καθέζομαι|verb|ἑδραῖος|1. to sit down
 καθεξῆς|adverb|ἑξῆς|1. thereafter, i.e. consecutively 2. (as a noun, by ellipsis of noun) a subsequent person or time
-καθεύδω|verb|κατά|1. to lie down to rest 2. (by implication) to fall asleep
-καθηγητής|noun|ἡγέομαι|1. a leader or guide, as one who instructs in the way one should go 2. (figuratively) an instructor or rabbi 3. one who starts, establishes, or institutes
-καθήκω|verb|ἥκω|1. to reach to 2. (neuter of present active participle, figuratively as adjective) becoming
-κάθημαι|verb|κάθημαι|1. to sit down 2. (figuratively) to remain, reside
-καθημερινός|adjective|ἡμέρα|1. quotidian
-καθίζω|verb|καθέζομαι|1. to seat down, i.e. set 2. (figuratively) appoint 3. (intransitively) to sit (down) 4. (figuratively) to settle (hover, dwell)
-καθίημι|verb|κατά|1. and hiemi "to send" 2. to lower
-καθίστημι|verb|ἵστημι|1. to place down (permanently) 2. (figuratively) to designate, constitute, convoy
-καθό|adverb|ὅς|1. according to which thing, i.e. precisely as, in proportion as
-καθόλου|adverb|ὅλος|1. on the whole, i.e. entirely
-καθοπλίζω|verb|ὁπλίζω|1. to equip fully with armor
-καθοράω|verb|ὁράω|1. to behold fully 2. (figuratively) distinctly apprehend
-καθότι|adverb|ὅς|1. according to which certain thing, i.e. as far (or inasmuch) as
-καθώς|adverb|ὡς|1. just (or inasmuch) as, that
-καί|conjunction|---|1. and, also, even, so then, too, etc.
-Καϊάφας|Name Person|---|1. the dell 2. Caiaphas (i.e. Cajepha), an Israelite
-καίγε|conjunction|γέ|1. and at least (or even, indeed)
-Κάϊν|Name Person|קַיִן|1. Cain, (i.e. Cajin), the son of Adam
-Καϊνάν|Name Person|קֵינָן|1. Cainan (i.e. Kenan), the name of two patriarchs
-καινός|adjective|---|1. new (especially in freshness)
-καινότης|noun|καινός|1. renewal (figuratively)
-καίπερ|conjunction|πέρ|1. and indeed, i.e. nevertheless or notwithstanding
-καιρός|noun|---|1. a set or proper time or season 2. an occasion
-Καίσαρ|Name Person|---|1. Caesar, a title of the Roman emperor
-Καισάρεια|Name Location|Καίσαρ|1. Caesaria, the name of two places in Israel
-καίτοι|conjunction|τοί|1. and yet, i.e. nevertheless
-καίτοιγε|conjunction|γέ|1. and yet indeed, i.e. although really
-καίω|verb|---|1. to set on fire, i.e. kindle or (by implication) consume
+καθεύδω|verb|κατά|1. to lie down to rest 2. (by implication) to fall asleep
+καθηγητής|noun|ἡγέομαι|1. a leader or guide, as one who instructs in the way one should go 2. (figuratively) an instructor or rabbi 3. one who starts, establishes, or institutes
+καθήκω|verb|ἥκω|1. to reach to 2. (neuter of present active participle, figuratively as adjective) becoming
+κάθημαι|verb|κάθημαι|1. to sit down 2. (figuratively) to remain, reside
+καθημερινός|adjective|ἡμέρα|1. quotidian
+καθίζω|verb|καθέζομαι|1. to seat down, i.e. set 2. (figuratively) appoint 3. (intransitively) to sit (down) 4. (figuratively) to settle (hover, dwell)
+καθίημι|verb|κατά|1. and hiemi "to send" 2. to lower
+καθίστημι|verb|ἵστημι|1. to place down (permanently) 2. (figuratively) to designate, constitute, convoy
+καθό|adverb|ὅς|1. according to which thing, i.e. precisely as, in proportion as
+καθόλου|adverb|ὅλος|1. on the whole, i.e. entirely
+καθοπλίζω|verb|ὁπλίζω|1. to equip fully with armor
+καθοράω|verb|ὁράω|1. to behold fully 2. (figuratively) distinctly apprehend
+καθότι|adverb|ὅς|1. according to which certain thing, i.e. as far (or inasmuch) as
+καθώς|adverb|ὡς|1. just (or inasmuch) as, that
+καί|conjunction|---|1. and, also, even, so then, too, etc.
+Καϊάφας|Name Person|---|1. the dell 2. Caiaphas (i.e. Cajepha), an Israelite
+καίγε|conjunction|γέ|1. and at least (or even, indeed)
+Κάϊν|Name Person|קַיִן|1. Cain, (i.e. Cajin), the son of Adam
+Καϊνάν|Name Person|קֵינָן|1. Cainan (i.e. Kenan), the name of two patriarchs
+καινός|adjective|---|1. new (especially in freshness)
+καινότης|noun|καινός|1. renewal (figuratively)
+καίπερ|conjunction|πέρ|1. and indeed, i.e. nevertheless or notwithstanding
+καιρός|noun|---|1. a set or proper time or season 2. an occasion
+Καῖσαρ|Name Person|---|1. Caesar, a title of the Roman emperor
+Καισάρεια|Name Location|Καίσαρ|1. Caesaria, the name of two places in Israel
+καίτοι|conjunction|τοί|1. and yet, i.e. nevertheless
+καίτοιγε|conjunction|γέ|1. and yet indeed, i.e. although really
+καίω|verb|---|1. to set on fire, i.e. kindle or (by implication) consume
 κἀκεῖ|adverb|ἐκεῖ|1. likewise in that place
 κἀκεῖθεν|adverb|ἐκεῖθεν|1. likewise from that place (or time)
 κἀκεῖνος|p/d.|ἐκεῖνος|1. likewise that (or those)
-κακία|noun|κακός|1. badness 2. (subjectively) depravity 3. (actively) malignity 4. (passively) trouble
-κακοήθεια|noun|ἤθος|1. bad character 2. (specially) mischievousness
-κακολογέω|verb|λόγος|1. to revile
-κακοπάθεια|noun|πάθος|1. hardship
-κακοπαθέω|verb|πάθος|1. to undergo hardship
-κακοποιέω|verb|κακοποιός|1. to be a bad-doer 2. (objectively) to injure 3. (genitive) to sin
-κακοποιός|adjective|ποιέω|1. a bad-doer 2. (specially), a criminal
-κακός|adjective|---|1. worthless 2. (subjectively) depraved 3. (objectively) injurious
+κακία|noun|κακός|1. badness 2. (subjectively) depravity 3. (actively) malignity 4. (passively) trouble
+κακοήθεια|noun|ἤθος|1. bad character 2. (specially) mischievousness
+κακολογέω|verb|λόγος|1. to revile
+κακοπάθεια|noun|πάθος|1. hardship
+κακοπαθέω|verb|πάθος|1. to undergo hardship
+κακοποιέω|verb|κακοποιός|1. to be a bad-doer 2. (objectively) to injure 3. (genitive) to sin
+κακοποιός|adjective|ποιέω|1. a bad-doer 2. (specially), a criminal
+κακός|adjective|---|1. worthless 2. (subjectively) depraved 3. (objectively) injurious
 κακοῦργος|adjective|ἔργον|1. a wrong-doer, i.e. criminal
-κακουχέω|verb|ἔχω|1. to maltreat
-κακόω|verb|κακός|1. to injure 2. (figuratively) to exasperate
+κακουχέω|verb|ἔχω|1. to maltreat
+κακόω|verb|κακός|1. to injure 2. (figuratively) to exasperate
 κακῶς|adverb|κακός|1. badly 2. (figuratively, physically) sickly 3. (figuratively, morally) wrongly 4. (by extension) greatly, i.e. greatly (badly) in need
-κάκωσις|noun|κακόω|1. maltreatment
-καλάμη|noun|κάλαμος|1. a stalk of grain 2. (collectively) stubble
-κάλαμος|noun|---|1. a reed (the plant or its stem, or that of a similar plant) 2. (by implication) a pen
-καλέω|verb|---|1. to "call" (aloud)
-καλλιέλαιος|noun|ἐλαῖα|1. a cultivated olive tree, i.e. a domesticated or improved one
-καλλίον|adverb|καλός|1. (adverbially) better than many
-καλοδιδάσκαλος|adjective|διδάσκαλος|1. a teacher of the right
-Καλοί Λιμένες|adjective/l|λιμήν|1. Good Harbors, i.e. Fairhaven, a bay of Crete
-καλοποιέω|verb|ποιέω|1. to do well, i.e. live virtuously
-καλός|adjective|---|1. (properly) beautiful 2. (chiefly, figuratively) good 3. (literally) valuable 4. (morally) virtuous
-κάλυμα|noun|καλύπτω|1. a cover, i.e. veil
-καλύπτω|verb|---|1. to cover up
+κάκωσις|noun|κακόω|1. maltreatment
+καλάμη|noun|κάλαμος|1. a stalk of grain 2. (collectively) stubble
+κάλαμος|noun|---|1. a reed (the plant or its stem, or that of a similar plant) 2. (by implication) a pen
+καλέω|verb|---|1. to "call" (aloud)
+καλλιέλαιος|noun|ἐλαῖα|1. a cultivated olive tree, i.e. a domesticated or improved one
+κάλλιον|adverb|καλός|1. (adverbially) better than many
+καλοδιδάσκαλος|adjective|διδάσκαλος|1. a teacher of the right
+Καλοὶ|adjective/l|λιμήν|1. Good Harbors, i.e. Fairhaven, a bay of Crete
+καλοποιέω|verb|ποιέω|1. to do well, i.e. live virtuously
+καλός|adjective|---|1. (properly) beautiful 2. (chiefly, figuratively) good 3. (literally) valuable 4. (morally) virtuous
+κάλυμμα|noun|καλύπτω|1. a cover, i.e. veil
+καλύπτω|verb|---|1. to cover up
 καλῶς|adverb|καλός|1. well (usually morally)
-κάμηλος|noun|גָּמָל|1. a "camel"
-κάμινος|noun|καίω|1. a furnace
-καμμύω|verb|μυστήριον|1. to shut down, i.e. close the eyes
-κάμνω|verb|---|1. (properly) to toil 2. (by implication) to tire 3. (figuratively) faint, sicken
-κάμπτω|verb|---|1. to bend 2. (by extension) to bow
+κάμηλος|noun|גָּמָל|1. a "camel"
+κάμινος|noun|καίω|1. a furnace
+καμμύω|verb|μυστήριον|1. to shut down, i.e. close the eyes
+κάμνω|verb|---|1. (properly) to toil 2. (by implication) to tire 3. (figuratively) faint, sicken
+κάμπτω|verb|---|1. to bend 2. (by extension) to bow
 κἄν|conditional|ἐάν|1. and (or even) if
 Κανᾶ|Name Location|---|1. Cana, a place in Israel
-Κανανίτης|Name/g.|---|1. zealous 2. Cananites, an epithet
-Κανδάκη|Name Person|---|1. Candace, an Egyptian queen
-κανών|noun|---|1. a rule ("canon") 2. (figuratively) a standard (of faith and practice) 3. (by implication) a boundary 4. (figuratively) a sphere (of activity)
-Καπερναούμ|Name Location|כָּפָר|1. Capernaum (i.e. Caphanachum), a place in Israel
-καπηλεύω|verb|---|1. to retail 2. (by implication) to adulterate (figuratively)
-καπνός|noun|---|1. smoke
-Καππαδοκία|Name Location|---|1. Cappadocia, a region of Asia Minor
-καρδία|noun|---|1. the heart 2. (figuratively) the thoughts or feelings (mind) 3. (by analogy) the middle
-καρδιογνώστης|noun|γινώσκω|1. a heart-knower
-καρπός|noun|ἁρπάζω|1. fruit (as plucked)
-Κάρπος|Name Person|καρπός|1. Carpus, probably a Christian
-καρποφορέω|verb|καρποφόρος|1. to be fertile
-καρποφόρος|adjective|φέρω|1. fruitbearing (figuratively)
-καρτερέω|verb|κράτος|1. to be strong 2. (figuratively) to endure
-κάρφος|noun|---|1. a dry twig or straw
-κατά|preposition|---|1. (prepositionally) down (in place or time)
-καταβαίνω|verb|βάσις|1. to descend
-καταβάλλω|verb|βάλλω|1. to throw down
-καταβαρέω|verb|βαρέω|1. to impose upon
-κατάβασις|noun|καταβαίνω|1. a declivity
-καταβιβάζω|verb|βάσις|1. to cause to go down, i.e. precipitate
-καταβολή|noun|καταβάλλω|1. a deposition, i.e. founding 2. (figuratively) conception
-καταβραβεύω|verb|βραβεύω|1. to award the price against 2. (figuratively) to defraud (of salvation)
-καταγγελεύς|noun|καταγγέλλω|1. a proclaimer
-καταγγέλλω|verb|ἄγγελος|1. to proclaim, promulgate
-καταγελάω|verb|---|1. to laugh down, i.e. deride
-καταγινώσκω|verb|γινώσκω|1. to note against, i.e. find fault with
-κατάγνυμι|verb|ῥήγνυμι|1. to rend in pieces, i.e. crack apart
-κατάγω|verb|ἄγω|1. to lead down 2. (specially) to moor a vessel
-καταγωνίζομαι|verb|ἀγωνίζομαι|1. to struggle against 2. (by implication) to overcome
-καταδέω|verb|δέω|1. to tie down, i.e. bandage (a wound)
-κατάδηλος|adjective|δῆλος|1. manifest
-καταδικάζω|verb|δίκη|1. to adjudge against, i.e. pronounce guilty
-καταδιώκω|verb|διώκω|1. to hunt down, i.e. search for
-καταδουλόω|verb|δουλόω|1. to enslave utterly
-καταδυναστεύω|verb|δυνάστης|1. to exercise dominion against, i.e. oppress
-καταισχύνω|verb|αἰσχύνομαι|1. to shame down, i.e. disgrace or (by implication) put to the blush
-κατακαίω|verb|καίω|1. to burn down (to the ground), i.e. consume wholly
-κατακαλύπτω|verb|καλύπτω|1. to cover wholly, i.e. veil
-κατακαυχάομαι|verb|καυχάομαι|1. to exult against (i.e. over)
-κατάκειμαι|verb|κεῖμαι|1. to lie down 2. (by implication) be sick 3. (specially) to recline at a meal
-κατακλάω|verb|κλάω|1. to break down, i.e. divide
-κατακλείω|verb|κλείω|1. to shut down (in a dungeon), i.e. incarcerate
-κατακληροδοτέω|verb|κλῆρος|1. to be a giver of lots to each 2. (by implication) to apportion an estate
-κατακλίνω|verb|κλίνω|1. to recline down 2. (specially) to take a place at table
-κατακλύζω|verb|κλύδων|1. to dash (wash) down 2. (by implication) to deluge
-κατακλυσμός|noun|κατακλύζω|1. an inundation
-κατακολουθέω|verb|ἀκολουθέω|1. to accompany closely
-κατακόπτω|verb|κόπτω|1. to chop down, i.e. mangle
-κατακρημνίζω|verb|κρημνός|1. to precipitate down
-κατάκριμα|noun|κατακρίνω|1. an adverse sentence (the verdict)
-κατακρίνω|verb|κρίνω|1. to judge against, i.e. sentence
-κατάκρισις|noun|κατακρίνω|1. sentencing adversely (the act)
-κατακυριεύω|verb|κυριεύω|1. to lord against, i.e. control, subjugate
-καταλαλέω|verb|κατάλαλος|1. to be a traducer, i.e. to slander
-καταλαλία|noun|κατάλαλος|1. defamation
-κατάλαλος|adjective|λαλέω|1. talkative against, i.e. a slanderer
-καταλαμβάνω|verb|λαμβάνω|1. to take eagerly, i.e. seize, possess, etc.
-καταλέγω|verb|λέγω|1. to lay down 2. (figuratively) to enrol
-κατάλειμμα|noun|καταλείπω|1. a remainder 2. (by implication) a few
-καταλείπω|verb|λείπω|1. to leave down, i.e. behind 2. (by implication) to abandon, have remaining
-καταλιθάζω|verb|λιθάζω|1. to stone down, i.e. to death
-καταλλαγή|noun|καταλλάσσω|1. an exchange 2. (figuratively) an adjustment, reconciliation 3. (specially) restoration to the divine favor
-καταλλάσσω|verb|ἀλλάσσω|1. to change mutually 2. (figuratively) to reconcile
-κατάλοιπος|adjective|λοιποί|1. left down (behind), i.e remaining (plural the rest)
-κατάλυμα|noun|καταλύω|1. (properly) a dissolution (breaking up of a journey) 2. (by implication) a lodging-place
-καταλύω|verb|λύω|1. to loosen down (disintegrate) 2. (by implication) to demolish 3. (specially) to halt for the night
-καταμανθάνω|verb|μανθάνω|1. to learn thoroughly 2. (by implication) to note carefully
-καταμαρτυρέω|verb|μαρτυρέω|1. to testify against
-καταμένω|verb|μένω|1. to stay fully, i.e. reside
-καταμόνας|adverb|μόνος|1. according to sole places 2. (adverbially) separately
-κατανάθεμα|noun|ἀνάθεμα|1. a curse
-καταναθεματίζω|verb|ἀναθεματίζω|1. to curse
-καταναλίσκω|verb|ἀναλίσκω|1. to consume utterly
-καταναρκάω|verb|κατά|1. to grow utterly torpid 2. (by implication) slothful 3. (figuratively) expensive
-κατανεύω|verb|νεύω|1. to nod down (towards) 2. (by analogy) to make signs to
-κατανοέω|verb|νοιέω|1. to observe fully
-καταντάω|verb|ἀντί|1. to meet against, i.e. arrive at
-κατάνυξις|noun|κατανύσσω|1. a prickling (sensation, as of the limbs asleep) 2. (by implication) stupor (lethargy)
-κατανύσσω|verb|νύσσω|1. to pierce thoroughly 2. (figuratively) to agitate violently ("sting to the quick")
-καταξιόω|verb|ἀξιόω|1. to deem entirely deserving
-καταπατέω|verb|πατέω|1. to trample down 2. (figuratively) to reject with disdain
-κατάπαυσις|noun|καταπαύω|1. reposing down 2. (by Hebraism) abode
-καταπαύω|verb|παύω|1. to settle down 2. (literally) to colonize 3. (figuratively) to (cause to) desist
-καταπέτασμα|noun|πέτομαι|1. something spread thoroughly 2. (specially) the door screen (to the Most Holy Place) in the Jewish Temple
-καταπίνω|verb|πίνω|1. to drink down, i.e. gulp entire
-καταπίπτω|verb|πίπτω|1. to fall down
-καταπλέω|verb|πλέω|1. to sail down upon a place, i.e. to land at
-καταπονέω|verb|πόνος|1. to labor down, i.e. wear with toil 2. (figuratively) harass
-καταποντίζω|verb|Πόντος|1. to plunge down, i.e. submerge
-κατάρα|noun|ἀρά|1. a cursing (the act of) 2. a curse
-καταράομαι|verb|κατάρα|1. to curse, to damn 2. (by analogy) to doom
-καταργέω|verb|ἀργέω|1. to be (render) entirely idle (useless)
-καταριθμέω|verb|ἀριθμέω|1. to reckon among
-καταρτίζω|verb|ἄρτιος|1. to complete thoroughly, i.e. repair or adjust
-κατάρτισις|noun|καταρτίζω|1. thorough equipment (subjectively)
-καταρτισμός|noun|καταρτίζω|1. complete furnishing (objectively)
-κατασείω|verb|σείω|1. to sway downward, i.e. make a signal
-κατασκάπτω|verb|σκάπτω|1. to undermine 2. (by implication) destroy
-κατασκευάζω|verb|σκεῦος|1. to prepare thoroughly 2. (by implication) to construct, create
-κατασκηνόω|verb|σκηνόω|1. to camp down, i.e. haunt 2. (figuratively) to remain
-κατασκήνωσις|noun|κατασκηνόω|1. an encamping 2. (figuratively) a perch
-κατασκιάζω|verb|σκία|1. to overshade, i.e. cover
-κατασκοπέω|verb|κατάσκοπος|1. to be a sentinel, i.e. to inspect insidiously
-κατάσκοπος|noun|σκοπός|1. a reconnoiterer
-κατασοφίζομαι|verb|σοφίζω|1. to be crafty against, i.e. circumvent
-καταστέλλω|verb|στέλλω|1. to put down, i.e. quell
-κατάστημα|noun|καθίστημι|1. (properly) a position or condition 2. (subjectively) demeanor
-καταστολή|noun|καταστέλλω|1. a deposit 2. (specially) costume
-καταστρέφω|verb|στρέφω|1. to turn upside down, i.e. upset
-καταστρηνιάω|verb|στρηνιάω|1. to become voluptuous against 2. to live luxuriously and pleasurably in opposition to (modesty, godliness, Christ)
-καταστροφή|noun|καταστρέφω|1. an overturn ("catastrophe"), i.e. demolition 2. (figuratively) apostasy
-καταστρώννυμι|verb|στρώννυμι|1. to strew down 2. (by implication) to prostrate (slay)
-κατασύρω|verb|σύρω|1. to drag down, i.e. arrest judicially
-κατασφάττω|verb|σφάζω|1. to kill down, i.e. slaughter
-κατασφραγίζω|verb|σφραγίζω|1. to seal closely
-κατάσχεσις|noun|κατέχω|1. a holding down, i.e. occupancy
-κατατίθημι|verb|τίθημι|1. to place down, i.e. deposit
-κατατομή|noun|κατά|1. a cutting down (off) 2. (ironically) mutilation
-κατατοξεύω|verb|τόξον|1. to shoot down with an arrow or other missile
-κατατρέχω|verb|τρέχω|1. to run down, i.e. hasten from a tower
-καταφέρω|verb|φέρω|1. to bear down 2. (figuratively) overcome (with drowsiness) 3. (specially) to cast a vote
-καταφεύγω|verb|φεύγω|1. to flee down (away)
-καταφθείρω|verb|φθείρω|1. to spoil entirely 2. (literally) to destroy 3. (figuratively) to deprave
-καταφιλέω|verb|φιλέω|1. to kiss earnestly
-καταφρονέω|verb|φρονέω|1. to think against, i.e. disesteem
-καταφροντής|noun|καταφρονέω|1. a contemner
-καταχέω|verb|κατά|1. to pour down (out)
-καταχθόνιος|adjective|κατά|1. subterranean, i.e. infernal (belonging to the world of departed spirits)
-καταχράομαι|verb|χράομαι|1. to overuse, i.e. misuse
-καταψύχω|verb|ψύχω|1. to cool down (off), i.e. refresh
-κατείδωλος|adjective|εἴδωλον|1. utterly idolatrous
-κατέναντι|adverb|ἔναντι|1. directly opposite
-κατενώπιον|preposition|ἐνώπιον|1. directly in front of
-κατεξουσιάζω|verb|ἐξουσιάζω|1. to have (wield) full privilege over
-κατεργάζομαι|verb|ἐργάζομαι|1. to work fully, i.e. accomplish 2. (by implication) to finish, fashion
+Κανανίτης|Name/g.|---|1. zealous 2. Cananites, an epithet
+Κανδάκη|Name Person|---|1. Candace, an Egyptian queen
+κανών|noun|---|1. a rule ("canon") 2. (figuratively) a standard (of faith and practice) 3. (by implication) a boundary 4. (figuratively) a sphere (of activity)
+Καπερναούμ|Name Location|כָּפָר|1. Capernaum (i.e. Caphanachum), a place in Israel
+καπηλεύω|verb|---|1. to retail 2. (by implication) to adulterate (figuratively)
+καπνός|noun|---|1. smoke
+Καππαδοκία|Name Location|---|1. Cappadocia, a region of Asia Minor
+καρδία|noun|---|1. the heart 2. (figuratively) the thoughts or feelings (mind) 3. (by analogy) the middle
+καρδιογνώστης|noun|γινώσκω|1. a heart-knower
+καρπός|noun|ἁρπάζω|1. fruit (as plucked)
+Κάρπος|Name Person|καρπός|1. Carpus, probably a Christian
+καρποφορέω|verb|καρποφόρος|1. to be fertile
+καρποφόρος|adjective|φέρω|1. fruitbearing (figuratively)
+καρτερέω|verb|κράτος|1. to be strong 2. (figuratively) to endure
+κάρφος|noun|---|1. a dry twig or straw
+κατά|preposition|---|1. (prepositionally) down (in place or time)
+καταβαίνω|verb|βάσις|1. to descend
+καταβάλλω|verb|βάλλω|1. to throw down
+καταβαρέω|verb|βαρέω|1. to impose upon
+κατάβασις|noun|καταβαίνω|1. a declivity
+καταβιβάζω|verb|βάσις|1. to cause to go down, i.e. precipitate
+καταβολή|noun|καταβάλλω|1. a deposition, i.e. founding 2. (figuratively) conception
+καταβραβεύω|verb|βραβεύω|1. to award the price against 2. (figuratively) to defraud (of salvation)
+καταγγελεύς|noun|καταγγέλλω|1. a proclaimer
+καταγγέλλω|verb|ἄγγελος|1. to proclaim, promulgate
+καταγελάω|verb|---|1. to laugh down, i.e. deride
+καταγινώσκω|verb|γινώσκω|1. to note against, i.e. find fault with
+κατάγνυμι|verb|ῥήγνυμι|1. to rend in pieces, i.e. crack apart
+κατάγω|verb|ἄγω|1. to lead down 2. (specially) to moor a vessel
+καταγωνίζομαι|verb|ἀγωνίζομαι|1. to struggle against 2. (by implication) to overcome
+καταδέω|verb|δέω|1. to tie down, i.e. bandage (a wound)
+κατάδηλος|adjective|δῆλος|1. manifest
+καταδικάζω|verb|δίκη|1. to adjudge against, i.e. pronounce guilty
+καταδιώκω|verb|διώκω|1. to hunt down, i.e. search for
+καταδουλόω|verb|δουλόω|1. to enslave utterly
+καταδυναστεύω|verb|δυνάστης|1. to exercise dominion against, i.e. oppress
+καταισχύνω|verb|αἰσχύνομαι|1. to shame down, i.e. disgrace or (by implication) put to the blush
+κατακαίω|verb|καίω|1. to burn down (to the ground), i.e. consume wholly
+κατακαλύπτω|verb|καλύπτω|1. to cover wholly, i.e. veil
+κατακαυχάομαι|verb|καυχάομαι|1. to exult against (i.e. over)
+κατάκειμαι|verb|κεῖμαι|1. to lie down 2. (by implication) be sick 3. (specially) to recline at a meal
+κατακλάω|verb|κλάω|1. to break down, i.e. divide
+κατακλείω|verb|κλείω|1. to shut down (in a dungeon), i.e. incarcerate
+κατακληρονομέω|verb|κλῆρος|1. to be a giver of lots to each 2. (by implication) to apportion an estate
+κατακλίνω|verb|κλίνω|1. to recline down 2. (specially) to take a place at table
+κατακλύζω|verb|κλύδων|1. to dash (wash) down 2. (by implication) to deluge
+κατακλυσμός|noun|κατακλύζω|1. an inundation
+κατακολουθέω|verb|ἀκολουθέω|1. to accompany closely
+κατακόπτω|verb|κόπτω|1. to chop down, i.e. mangle
+κατακρημνίζω|verb|κρημνός|1. to precipitate down
+κατάκριμα|noun|κατακρίνω|1. an adverse sentence (the verdict)
+κατακρίνω|verb|κρίνω|1. to judge against, i.e. sentence
+κατάκρισις|noun|κατακρίνω|1. sentencing adversely (the act)
+κατακυριεύω|verb|κυριεύω|1. to lord against, i.e. control, subjugate
+καταλαλέω|verb|κατάλαλος|1. to be a traducer, i.e. to slander
+καταλαλιά|noun|κατάλαλος|1. defamation
+κατάλαλος|adjective|λαλέω|1. talkative against, i.e. a slanderer
+καταλαμβάνω|verb|λαμβάνω|1. to take eagerly, i.e. seize, possess, etc.
+καταλέγω|verb|λέγω|1. to lay down 2. (figuratively) to enrol
+κατάλειμμα|noun|καταλείπω|1. a remainder 2. (by implication) a few
+καταλείπω|verb|λείπω|1. to leave down, i.e. behind 2. (by implication) to abandon, have remaining
+καταλιθάζω|verb|λιθάζω|1. to stone down, i.e. to death
+καταλλαγή|noun|καταλλάσσω|1. an exchange 2. (figuratively) an adjustment, reconciliation 3. (specially) restoration to the divine favor
+καταλλάσσω|verb|ἀλλάσσω|1. to change mutually 2. (figuratively) to reconcile
+κατάλοιπος|adjective|λοιποί|1. left down (behind), i.e remaining (plural the rest)
+κατάλυμα|noun|καταλύω|1. (properly) a dissolution (breaking up of a journey) 2. (by implication) a lodging-place
+καταλύω|verb|λύω|1. to loosen down (disintegrate) 2. (by implication) to demolish 3. (specially) to halt for the night
+καταμανθάνω|verb|μανθάνω|1. to learn thoroughly 2. (by implication) to note carefully
+καταμαρτυρέω|verb|μαρτυρέω|1. to testify against
+καταμένω|verb|μένω|1. to stay fully, i.e. reside
+καταμόνας|adverb|μόνος|1. according to sole places 2. (adverbially) separately
+κατάθεμα|noun|ἀνάθεμα|1. a curse
+καταθεματίζω|verb|ἀναθεματίζω|1. to curse
+καταναλίσκω|verb|ἀναλίσκω|1. to consume utterly
+καταναρκάω|verb|κατά|1. to grow utterly torpid 2. (by implication) slothful 3. (figuratively) expensive
+κατανεύω|verb|νεύω|1. to nod down (towards) 2. (by analogy) to make signs to
+κατανοέω|verb|νοιέω|1. to observe fully
+καταντάω|verb|ἀντί|1. to meet against, i.e. arrive at
+κατάνυξις|noun|κατανύσσω|1. a prickling (sensation, as of the limbs asleep) 2. (by implication) stupor (lethargy)
+κατανύσσομαι|verb|νύσσω|1. to pierce thoroughly 2. (figuratively) to agitate violently ("sting to the quick")
+καταξιόω|verb|ἀξιόω|1. to deem entirely deserving
+καταπατέω|verb|πατέω|1. to trample down 2. (figuratively) to reject with disdain
+κατάπαυσις|noun|καταπαύω|1. reposing down 2. (by Hebraism) abode
+καταπαύω|verb|παύω|1. to settle down 2. (literally) to colonize 3. (figuratively) to (cause to) desist
+καταπέτασμα|noun|πέτομαι|1. something spread thoroughly 2. (specially) the door screen (to the Most Holy Place) in the Jewish Temple
+καταπίνω|verb|πίνω|1. to drink down, i.e. gulp entire
+καταπίπτω|verb|πίπτω|1. to fall down
+καταπλέω|verb|πλέω|1. to sail down upon a place, i.e. to land at
+καταπονέω|verb|πόνος|1. to labor down, i.e. wear with toil 2. (figuratively) harass
+καταποντίζω|verb|Πόντος|1. to plunge down, i.e. submerge
+κατάρα|noun|ἀρά|1. a cursing (the act of) 2. a curse
+καταράομαι|verb|κατάρα|1. to curse, to damn 2. (by analogy) to doom
+καταργέω|verb|ἀργέω|1. to be (render) entirely idle (useless)
+καταριθμέω|verb|ἀριθμέω|1. to reckon among
+καταρτίζω|verb|ἄρτιος|1. to complete thoroughly, i.e. repair or adjust
+κατάρτισις|noun|καταρτίζω|1. thorough equipment (subjectively)
+καταρτισμός|noun|καταρτίζω|1. complete furnishing (objectively)
+κατασείω|verb|σείω|1. to sway downward, i.e. make a signal
+κατασκάπτω|verb|σκάπτω|1. to undermine 2. (by implication) destroy
+κατασκευάζω|verb|σκεῦος|1. to prepare thoroughly 2. (by implication) to construct, create
+κατασκηνόω|verb|σκηνόω|1. to camp down, i.e. haunt 2. (figuratively) to remain
+κατασκήνωσις|noun|κατασκηνόω|1. an encamping 2. (figuratively) a perch
+κατασκιάζω|verb|σκία|1. to overshade, i.e. cover
+κατασκοπέω|verb|κατάσκοπος|1. to be a sentinel, i.e. to inspect insidiously
+κατάσκοπος|noun|σκοπός|1. a reconnoiterer
+κατασοφίζομαι|verb|σοφίζω|1. to be crafty against, i.e. circumvent
+καταστέλλω|verb|στέλλω|1. to put down, i.e. quell
+κατάστημα|noun|καθίστημι|1. (properly) a position or condition 2. (subjectively) demeanor
+καταστολή|noun|καταστέλλω|1. a deposit 2. (specially) costume
+καταστρέφω|verb|στρέφω|1. to turn upside down, i.e. upset
+καταστρηνιάω|verb|στρηνιάω|1. to become voluptuous against 2. to live luxuriously and pleasurably in opposition to (modesty, godliness, Christ)
+καταστροφή|noun|καταστρέφω|1. an overturn ("catastrophe"), i.e. demolition 2. (figuratively) apostasy
+καταστρώννυμι|verb|στρώννυμι|1. to strew down 2. (by implication) to prostrate (slay)
+κατασύρω|verb|σύρω|1. to drag down, i.e. arrest judicially
+κατασφάζω|verb|σφάζω|1. to kill down, i.e. slaughter
+κατασφραγίζω|verb|σφραγίζω|1. to seal closely
+κατάσχεσις|noun|κατέχω|1. a holding down, i.e. occupancy
+κατατίθημι|verb|τίθημι|1. to place down, i.e. deposit
+κατατομή|noun|κατά|1. a cutting down (off) 2. (ironically) mutilation
+κατατοξεύω|verb|τόξον|1. to shoot down with an arrow or other missile
+κατατρέχω|verb|τρέχω|1. to run down, i.e. hasten from a tower
+καταφέρω|verb|φέρω|1. to bear down 2. (figuratively) overcome (with drowsiness) 3. (specially) to cast a vote
+καταφεύγω|verb|φεύγω|1. to flee down (away)
+καταφθείρω|verb|φθείρω|1. to spoil entirely 2. (literally) to destroy 3. (figuratively) to deprave
+καταφιλέω|verb|φιλέω|1. to kiss earnestly
+καταφρονέω|verb|φρονέω|1. to think against, i.e. disesteem
+καταφρονητής|noun|καταφρονέω|1. a contemner
+καταχέω|verb|κατά|1. to pour down (out)
+καταχθόνιος|adjective|κατά|1. subterranean, i.e. infernal (belonging to the world of departed spirits)
+καταχράομαι|verb|χράομαι|1. to overuse, i.e. misuse
+καταψύχω|verb|ψύχω|1. to cool down (off), i.e. refresh
+κατείδωλος|adjective|εἴδωλον|1. utterly idolatrous
+κατέναντι|adverb|ἔναντι|1. directly opposite
+κατενώπιον|preposition|ἐνώπιον|1. directly in front of
+κατεξουσιάζω|verb|ἐξουσιάζω|1. to have (wield) full privilege over
+κατεργάζομαι|verb|ἐργάζομαι|1. to work fully, i.e. accomplish 2. (by implication) to finish, fashion
 not used|||
-κατέρχομαι|verb|ἔρχομαι|1. to come (or go) down
-κατεσθίω|verb|ἐσθίω|1. to eat down, i.e. devour
-κατευθύνω|verb|εὐθύνω|1. to straighten fully 2. (figuratively) direct
-κατεφίστημι|verb|ἐφίστημι|1. to stand over against, i.e. rush upon (assault)
-κατέχω|verb|ἔχω|1. to hold down (hold fast), in various applications
-κατηγορέω|verb|κατήγορος|1. to be a plaintiff, i.e. to charge with some offence
-κατηγορία|noun|κατήγορος|1. a complaint ("category"), i.e. criminal charge
-κατήγορος|noun|ἀγορά|1. against one in the assembly, i.e. a complainant at law 2. (specially) Satan
-κατήφεια|noun|φαίνω|1. demureness 2. (by implication) sadness
-κατηχέω|verb|ἦχος|1. to sound down into the ears 2. (by implication) to indoctrinate ("catechize") or (genitive case) to apprise of
-κατιόω|verb|ἰός|1. to rust down, i.e. corrode
-κατισχύω|verb|ἰσχύω|1. to overpower
-κατοικέω|verb|οἰκέω|1. to house permanently, i.e. reside
-κατοίκησις|noun|κατοικέω|1. residence 2. (properly) the act 3. (by implication, concretely) the mansion
-κατοικητήριον|noun|κατοικέω|1. a dwelling-place
-κατοικία|noun|---|1. residence 2. (properly) the condition 3. (by implication) the abode itself
-κατοπτρίζομαι|verb|ὀπτάνομαι|1. to mirror oneself, i.e. to see reflected (figuratively)
-κατόρθωμα|noun|ὀρθός|1. something made fully upright 2. (figuratively) rectification (specially, good public administration)
-κάτω|adverb|κατά|1. downwards
-κατώτερος|adjective|κάτω|1. inferior (locally, of Hades)
+κατέρχομαι|verb|ἔρχομαι|1. to come (or go) down
+κατεσθίω|verb|ἐσθίω|1. to eat down, i.e. devour
+κατευθύνω|verb|εὐθύνω|1. to straighten fully 2. (figuratively) direct
+κατεφίστημι|verb|ἐφίστημι|1. to stand over against, i.e. rush upon (assault)
+κατέχω|verb|ἔχω|1. to hold down (hold fast), in various applications
+κατηγορέω|verb|κατήγορος|1. to be a plaintiff, i.e. to charge with some offence
+κατηγορία|noun|κατήγορος|1. a complaint ("category"), i.e. criminal charge
+κατήγορος|noun|ἀγορά|1. against one in the assembly, i.e. a complainant at law 2. (specially) Satan
+κατήφεια|noun|φαίνω|1. demureness 2. (by implication) sadness
+κατηχέω|verb|ἦχος|1. to sound down into the ears 2. (by implication) to indoctrinate ("catechize") or (genitive case) to apprise of
+κατιόω|verb|ἰός|1. to rust down, i.e. corrode
+κατισχύω|verb|ἰσχύω|1. to overpower
+κατοικέω|verb|οἰκέω|1. to house permanently, i.e. reside
+κατοίκησις|noun|κατοικέω|1. residence 2. (properly) the act 3. (by implication, concretely) the mansion
+κατοικητήριον|noun|κατοικέω|1. a dwelling-place
+κατοικία|noun|---|1. residence 2. (properly) the condition 3. (by implication) the abode itself
+κατοπτρίζομαι|verb|ὀπτάνομαι|1. to mirror oneself, i.e. to see reflected (figuratively)
+κατόρθωμα|noun|ὀρθός|1. something made fully upright 2. (figuratively) rectification (specially, good public administration)
+κάτω|adverb|κατά|1. downwards
+κατώτερος|adjective|κάτω|1. inferior (locally, of Hades)
 καῦμα|noun|καίω|1. (properly) a burn (concretely), but used (abstractly) of a glow
-καυματίζω|verb|καῦμα|1. to burn
+καυματίζω|verb|καῦμα|1. to burn
 καῦσις|noun|καίω|1. burning (the act)
-καυσόω|verb|καῦσις|1. to set on fire
-καύσων|noun|καυσόω|1. a glare
-καυτηριάζω|verb|καίω|1. to brand ("cauterize") 2. (by implication) to render unsensitive (figuratively)
-καυχάομαι|verb|εὔχομαι|1. to vaunt
-καύχημα|noun|καυχάομαι|1. a boast (properly, the object 2. (by implication) the act) in a good or a bad sense
-καύχησις|noun|καυχάομαι|1. boasting (properly, the act 2. (by implication) the object), in a good or a bad sense
-Κεγχρεαί|Name Location|---|1. Cenchreae, a port of Corinth
-Κεδρών|Name Person|קִדרוֹן|1. Cedron (i.e. Kidron), a brook near Jerusalem
+καυσόω|verb|καῦσις|1. to set on fire
+καύσων|noun|καυσόω|1. a glare
+καυτηριάζω|verb|καίω|1. to brand ("cauterize") 2. (by implication) to render unsensitive (figuratively)
+καυχάομαι|verb|εὔχομαι|1. to vaunt
+καύχημα|noun|καυχάομαι|1. a boast (properly, the object 2. (by implication) the act) in a good or a bad sense
+καύχησις|noun|καυχάομαι|1. boasting (properly, the act 2. (by implication) the object), in a good or a bad sense
+Κεγχρεαί|Name Location|---|1. Cenchreae, a port of Corinth
+Κεδρών|Name Person|קִדרוֹן|1. Cedron (i.e. Kidron), a brook near Jerusalem
 κεῖμαι|verb|---|1. to lie outstretched
-κειρία|noun|---|1. a swathe, i.e. winding-sheet
-κείρω|verb|---|1. to shear
-κέλευμα|noun|κελεύω|1. a cry of incitement
-κελεύω|verb|---|1. "hail", to incite by word, i.e. order
-κενοδοξία|noun|κενόδοξος|1. empty glorying, i.e. self-conceit
-κενόδοξος|adjective|δόξα|1. vainly glorifying, i.e. self-conceited
-κενός|adjective|---|1. empty
-κενοφωνία|noun|φωνή|1. empty sounding, i.e. fruitless discussion
-κενόω|verb|κενός|1. to make empty 2. (figuratively) to abase, neutralize, falsify
-κέντρον|noun|---|1. a sting (poisonous) 2. (actively) a goad 3. (by implication) a divine impulse
-κεντυρίων|noun|---|1. a centurion, i.e. captain of one hundred soldiers
+κειρία|noun|---|1. a swathe, i.e. winding-sheet
+κείρω|verb|---|1. to shear
+κέλευσμα|noun|κελεύω|1. a cry of incitement
+κελεύω|verb|---|1. "hail", to incite by word, i.e. order
+κενοδοξία|noun|κενόδοξος|1. empty glorying, i.e. self-conceit
+κενόδοξας|adjective|δόξα|1. vainly glorifying, i.e. self-conceited
+κενός|adjective|---|1. empty
+κενοφωνία|noun|φωνή|1. empty sounding, i.e. fruitless discussion
+κενόω|verb|κενός|1. to make empty 2. (figuratively) to abase, neutralize, falsify
+κέντρον|noun|---|1. a sting (poisonous) 2. (actively) a goad 3. (by implication) a divine impulse
+κεντυρίων|noun|---|1. a centurion, i.e. captain of one hundred soldiers
 κενῶς|adverb|κενός|1. vainly, i.e. to no purpose
-κεραία|noun|κέρας|1. something horn-like 2. (specially) the apex of a Hebrew letter 3. (figuratively) the least particle, i.e. accent or punctuation mark
-κεραμεύς|noun|κέραμος|1. a potter
-κεραμικός|adjective|κέραμος|1. made of clay, i.e. earthen
-κεράμιον|noun|κέραμος|1. an earthenware vessel, i.e. jar
-κέραμος|noun|κεράννυμι|1. earthenware, i.e. a tile (by analogy, a thin roof or awning)
-κεράννυμι|verb|---|1. to mingle 2. (by implication) to pour out (for drinking)
-κέρας|noun|---|1. a horn
-κεράτιον|noun|κέρας|1. something horned 2. (specially) the pod of the carob-tree
-κερδαίνω|verb|κέρδος|1. to gain
-κέρδος|noun|---|1. gain (financial or genitive case)
-κέρμα|noun|κείρω|1. a clipping (bit) 2. (specially) a coin
-κερματιστής|noun|κέρμα|1. a handler of coins, i.e. money-broker
-κεφάλαιον|noun|κεφαλή|1. a principal thing, i.e. main point 2. (specially) an amount (of money)
-κεφαλαιόω|verb|κεφαλή|1. (specially) to strike on the head
-κεφαλή|noun|---|1. the head (as the part most readily taken hold of)
-κεφαλίς|noun|κεφαλή|1. (properly) a knob 2. (by implication) a roll (by extension from the end of a stick on which the manuscript was rolled)
+κεραία|noun|κέρας|1. something horn-like 2. (specially) the apex of a Hebrew letter 3. (figuratively) the least particle, i.e. accent or punctuation mark
+κεραμεύς|noun|κέραμος|1. a potter
+κεραμικός|adjective|κέραμος|1. made of clay, i.e. earthen
+κεράμιον|noun|κέραμος|1. an earthenware vessel, i.e. jar
+κέραμος|noun|κεράννυμι|1. earthenware, i.e. a tile (by analogy, a thin roof or awning)
+κεράννυμι|verb|---|1. to mingle 2. (by implication) to pour out (for drinking)
+κέρας|noun|---|1. a horn
+κεράτιον|noun|κέρας|1. something horned 2. (specially) the pod of the carob-tree
+κερδαίνω|verb|κέρδος|1. to gain
+κέρδος|noun|---|1. gain (financial or genitive case)
+κέρμα|noun|κείρω|1. a clipping (bit) 2. (specially) a coin
+κερματιστής|noun|κέρμα|1. a handler of coins, i.e. money-broker
+κεφάλαιον|noun|κεφαλή|1. a principal thing, i.e. main point 2. (specially) an amount (of money)
+κεφαλαιόω|verb|κεφαλή|1. (specially) to strike on the head
+κεφαλή|noun|---|1. the head (as the part most readily taken hold of)
+κεφαλίς|noun|κεφαλή|1. (properly) a knob 2. (by implication) a roll (by extension from the end of a stick on which the manuscript was rolled)
 κῆνσος|noun|---|1. (properly) an enrollment ("census") 2. (by implication) a tax
 κῆπος|noun|---|1. a garden
-κηπουρός|noun|κῆπος|1. a garden-keeper, i.e. gardener
-κηρίον|noun|---|1. a cell for honey 2. (collectively) the comb
-κήρυγμα|noun|κηρύσσω|1. a proclamation (especially of the gospel) 2. (by implication) the gospel itself
-κήρυξ|noun|κηρύσσω|1. a herald, i.e. of divine truth (especially of the gospel)
-κηρύσσω|verb|---|1. to herald (as a public crier), especially divine truth (the gospel)
-κήτος|noun|χάσμα|1. a huge fish (as gaping for prey)
+κηπουρός|noun|κῆπος|1. a garden-keeper, i.e. gardener
+κηρίον|noun|---|1. a cell for honey 2. (collectively) the comb
+κήρυγμα|noun|κηρύσσω|1. a proclamation (especially of the gospel) 2. (by implication) the gospel itself
+κῆρυξ|noun|κηρύσσω|1. a herald, i.e. of divine truth (especially of the gospel)
+κηρύσσω|verb|---|1. to herald (as a public crier), especially divine truth (the gospel)
+κῆτος|noun|χάσμα|1. a huge fish (as gaping for prey)
 Κηφᾶς|Name Person|---|1. the Rock 2. Cephas (i.e. Kepha), a surname of Peter
-κιβωτός|noun|---|1. a box, i.e. the sacred ark and that of Noah
-κιθάρα|noun|---|1. a lyre
-κιθαρίζω|verb|κιθάρα|1. to play on a lyre
-κιθαρῳδός|noun|ᾠδή|1. a lyre-singer(-player), i.e. harpist
-Κιλικία|Name Location|---|1. Cilicia, a region of Asia Minor
-κινάμωμον|noun|---|1. cinnamon
-κινδυνεύω|verb|κίνδυνος|1. to undergo peril
-κίνδυνος|noun|---|1. danger
-κινέω|verb|---|1. to stir (transitively)
-κίνησις|noun|κινέω|1. a stirring
-Κίς|Name Person|קִישׁ|1. Cis (i.e. Kish), an Israelite
-κλάδος|noun|κλάω|1. a twig or bough (as if broken off)
-κλαίω|verb|---|1. to sob, i.e. wail aloud
-κλάσις|noun|κλάω|1. fracture (the act)
-κλάσμα|noun|κλάω|1. a piece (bit)
-Κλαύδη|Name Location|---|1. Claude, an island near Crete
-Κλαυδία|Name Person|Κλαύδιος|1. Claudia, a Christian woman
-Κλαύδιος|Name Person|---|1. Claudius, the name of two Romans
-κλαυθμός|noun|κλαίω|1. lamentation
-κλάω|verb|---|1. to break (specially, of bread)
-κλείς|noun|κλείω|1. a key (as shutting a lock)
-κλείω|verb|---|1. to close
-κλέμμα|noun|κλέπτω|1. stealing (properly, the thing stolen, but used of the act)
-Κλεόπας|Name Person|πατήρ|1. Cleopas, a Christian
-κλέος|noun|καλέω|1. renown (as if being called)
-κλέπτης|noun|κλέπτω|1. a stealer, a thief
-κλέπτω|verb|---|1. to filch
+κιβωτός|noun|---|1. a box, i.e. the sacred ark and that of Noah
+κιθάρα|noun|---|1. a lyre
+κιθαρίζω|verb|κιθάρα|1. to play on a lyre
+κιθαρῳδός|noun|ᾠδή|1. a lyre-singer(-player), i.e. harpist
+Κιλικία|Name Location|---|1. Cilicia, a region of Asia Minor
+κινάμωμον|noun|---|1. cinnamon
+κινδυνεύω|verb|κίνδυνος|1. to undergo peril
+κίνδυνος|noun|---|1. danger
+κινέω|verb|---|1. to stir (transitively)
+κίνησις|noun|κινέω|1. a stirring
+Κίς|Name Person|קִישׁ|1. Cis (i.e. Kish), an Israelite
+κλάδος|noun|κλάω|1. a twig or bough (as if broken off)
+κλαίω|verb|---|1. to sob, i.e. wail aloud
+κλάσις|noun|κλάω|1. fracture (the act)
+κλάσμα|noun|κλάω|1. a piece (bit)
+Κλαῦδη|Name Location|---|1. Claude, an island near Crete
+Κλαυδία|Name Person|Κλαύδιος|1. Claudia, a Christian woman
+Κλαύδιος|Name Person|---|1. Claudius, the name of two Romans
+κλαυθμός|noun|κλαίω|1. lamentation
+κλάω|verb|---|1. to break (specially, of bread)
+κλεῖς|noun|κλείω|1. a key (as shutting a lock)
+κλείω|verb|---|1. to close
+κλέμμα|noun|κλέπτω|1. stealing (properly, the thing stolen, but used of the act)
+Κλεοπᾶς|Name Person|πατήρ|1. Cleopas, a Christian
+κλέος|noun|καλέω|1. renown (as if being called)
+κλέπτης|noun|κλέπτω|1. a stealer, a thief
+κλέπτω|verb|---|1. to filch
 κλῆμα|noun|κλάω|1. a limb or shoot (as if broken off)
-Κλήμης|Name Person|---|1. merciful 2. Clemes (i.e. Clemens), a Christian
-κληρονομέω|verb|κληρονόμος|1. to be an heir to
-κληρονομία|noun|κληρονόμος|1. heirship 2. (concretely) a patrimony 3. (genitive case) a possession
-κληρονόμος|noun|νόμος|1. a sharer by lot, i.e. inheritor 2. (by implication) a possessor
+Κλήμης|Name Person|---|1. merciful 2. Clemes (i.e. Clemens), a Christian
+κληρονομέω|verb|κληρονόμος|1. to be an heir to
+κληρονομία|noun|κληρονόμος|1. heirship 2. (concretely) a patrimony 3. (genitive case) a possession
+κληρονόμος|noun|νόμος|1. a sharer by lot, i.e. inheritor 2. (by implication) a possessor
 κλῆρος|noun|κλάω|1. a die (for drawing chances) 2. (by implication) a portion (as if so secured) 3. (by extension) an acquisition (especially a patrimony, figuratively)
-κληρόω|verb|κλῆρος|1. to allot 2. (figuratively) to assign (a privilege)
+κληρόω|verb|κλῆρος|1. to allot 2. (figuratively) to assign (a privilege)
 κλῆσις|noun|καλέω|1. a calling 2. (specially) a divine calling 3. (figuratively) an invitation 4. (by extension) a name
-κλητός|adjective|καλέω|1. called 2. (specially) divinely called, appointed 3. (figuratively) invited 4. (specially) a saint (i.e. the called of Christ)
-κλίβανος|noun|---|1. an earthen pot used for baking in
-κλίμα|noun|κλίνω|1. a slope 2. (specially) a "clime" or tract of country
-κλίνη|noun|κλίνω|1. a couch (for sleep, sickness, sitting or eating)
-κλινίδιον|noun|κλίνη|1. a pallet or little couch
-κλίνω|verb|---|1. to slant or slope, i.e. incline or decline
-κλισία|noun|κλίνω|1. (properly) reclination 2. (concretely and specially), a party at a meal
-κλοπή|noun|κλέπτω|1. stealing
-κλύδων|noun|---|1. a surge of the sea
-κλυδωνίζομαι|verb|κλύδων|1. to surge 2. (figuratively) to fluctuate
+κλητός|adjective|καλέω|1. called 2. (specially) divinely called, appointed 3. (figuratively) invited 4. (specially) a saint (i.e. the called of Christ)
+κλίβανος|noun|---|1. an earthen pot used for baking in
+κλίμα|noun|κλίνω|1. a slope 2. (specially) a "clime" or tract of country
+κλίνη|noun|κλίνω|1. a couch (for sleep, sickness, sitting or eating)
+κλινίδιον|noun|κλίνη|1. a pallet or little couch
+κλίνω|verb|---|1. to slant or slope, i.e. incline or decline
+κλισία|noun|κλίνω|1. (properly) reclination 2. (concretely and specially), a party at a meal
+κλοπή|noun|κλέπτω|1. stealing
+κλύδων|noun|---|1. a surge of the sea
+κλυδωνίζομαι|verb|κλύδων|1. to surge 2. (figuratively) to fluctuate
 Κλωπᾶς|Name Person|אַחאָב אֶחָב|1. Clopas, an Israelite
-κνήθω|verb|---|1. to scratch 2. (by implication) to tickle
-Κνίδος|Name Location|---|1. Cnidus, a place in Asia Minor
-κοδράντης|noun|---|1. a quadrans, i.e. a fourth part of the coin called an as
-κοιλία|noun|---|1. a cavity 2. (especially) the abdomen 3. (by implication) the matrix 4. (figuratively) the heart
-κοιμάω|verb|κεῖμαι|1. to put to sleep 2. (passively or reflexively) to slumber 3. (figuratively) to decease
-κοίμησις|noun|κοιμάω|1. sleeping 2. (by implication) repose
-κοινός|adjective|σύν|1. common 2. (literally) shared by all or several 3. (ceremonially) profane
-κοινόω|verb|κοινός|1. to make (or consider) profane (ceremonially)
-κοινωνέω|verb|κοινωνός|1. to share with others (objectively or subjectively)
-κοινωνία|noun|κοινωνός|1. partnership 2. (literally) participation 3. (social) intercourse 4. (financial) benefaction
-κοινωνικός|adjective|κοινωνός|1. communicative 2. (financially) liberal
-κοινωνός|noun|κοινός|1. a sharer, i.e. associate
-κοίτη|noun|κεῖμαι|1. a couch 2. (by extension) cohabitation 3. (figuratively) marriage bed, sexual intercourse 4. (by implication) the male sperm, conception
-κοιτών|noun|κοίτη|1. a bedroom
-κόκκινος|adjective|κόκκος|1. crimson-colored
-κόκκος|noun|---|1. a kernel of seed
-κολάζω|verb|---|1. (properly) to curtail 2. (figuratively) to chastise (or reserve for infliction)
-κολακεία|noun|---|1. flattery
-κόλασις|noun|κολάζω|1. penal infliction
-κολαφίζω|verb|κολάζω|1. to rap with the fist
-κολλάω|verb|---|1. to glue 2. (passively or reflexively) to stick (figuratively)
-κολλούριον|noun|---|1. (properly) a poultice (as made of or in the form of crackers) 2. (by analogy) a plaster
-κολλυβιστής|noun|---|1. a coin-dealer
-κολοβόω|verb|κολάζω|1. to dock 2. (figuratively) abridge
-Κολοσσαί|Name Location|---|1. Colossae, a place in Asia Minor
-Κολοσσαεύς|Name/g.|Κολοσσαί|1. a Colossaean, i.e. inhabitant of Colossae
-κόλπος|noun|---|1. the bosom 2. (by analogy) a bay
-κολυμβάω|verb|---|1. to plunge into water
-κολυμβήθρα|noun|---|1. a diving-place, i.e. pond for bathing (or swimming)
-κολωνία|noun|---|1. a Roman "colony" for veterans
-κομάω|verb|κόμη|1. to wear tresses of hair
-κόμη|noun|---|1. the hair of the head (locks)
-κομίζω|verb|---|1. (properly) to provide for 2. (by implication) to carry off (from harm) 3. (genitive case) to obtain
-κομψότερον|adverb|κομίζω|1. (figuratively) convalescent, getting better
-κονιάω|verb|---|1. to whitewash
-κονιορτός|noun|κονιάω|1. pulverulence (as blown about)
-κοπάζω|verb|κόπος|1. to tire 2. (figuratively) to relax
-κοπετός|noun|κόπτω|1. mourning (properly, by beating the breast)
-κοπή|noun|κόπτω|1. cutting, i.e. carnage
-κοπιάω|verb|κόπος|1. to feel fatigue 2. (by implication) to work hard
-κόπος|noun|κόπτω|1. a cut 2. (by analogy) toil (as reducing the strength) 3. (by implication) pains
-κοπρία|noun|---|1. manure
-κόπτω|verb|---|1. to "chop" 2. (specially) to beat the breast in grief
-κόραξ|noun|κορέννυμι|1. a crow (from its voracity)
-κοράσιον|noun|---|1. a (little) girl
-κορβάν|noun|קָרבָּן קוּרבָּן|1. a votive offering and the offering 2. a consecrated present (to the Temple fund) 3. (by extension, the latter term) the Treas     sury i     itself, i.e. the room where the contribution boxes stood
-Κορέ|Name Person|קוֹרחַ|1. Core (i.e. Korach), an Israelite
-κορέννυμι|verb|---|1. to cram, i.e. glut or sate
-Κορίνθιος|adjective/g.|Κόρινθος|1. a Corinthian, i.e. inhabitant of Corinth
-Κόρινθος|Name Location|---|1. Corinthus, a city of Greece
-Κορνήλιος|Name Person|---|1. Cornelius, a Roman
-κόρος|noun|כּוֹר|1. a cor, i.e. a specific measure
-κοσμέω|verb|κόσμος|1. to put in proper order, i.e. decorate 2. (specially) to snuff (a wick)
-κοσμικός|adjective|κόσμος|1. worldy ("cosmic") 2. (literally) mundane 3. (figuratively) corrupt
-κόσμιος|adjective|κόσμος|1. orderly, i.e. decorous
-κοσμοκράτωρ|noun|κρατέω|1. a world-ruler, an epithet of Satan
-κόσμος|noun|κομίζω|1. orderly arrangement, i.e. decoration 2. (by implication) the world including its inhabitants
-Κούαρτος|Name Person|---|1. Quartus, a Christian
+κνήθω|verb|---|1. to scratch 2. (by implication) to tickle
+Κνίδος|Name Location|---|1. Cnidus, a place in Asia Minor
+κοδράντης|noun|---|1. a quadrans, i.e. a fourth part of the coin called an as
+κοιλία|noun|---|1. a cavity 2. (especially) the abdomen 3. (by implication) the matrix 4. (figuratively) the heart
+κοιμάομαι|verb|κεῖμαι|1. to put to sleep 2. (passively or reflexively) to slumber 3. (figuratively) to decease
+κοίμησις|noun|κοιμάω|1. sleeping 2. (by implication) repose
+κοινός|adjective|σύν|1. common 2. (literally) shared by all or several 3. (ceremonially) profane
+κοινόω|verb|κοινός|1. to make (or consider) profane (ceremonially)
+κοινωνέω|verb|κοινωνός|1. to share with others (objectively or subjectively)
+κοινωνία|noun|κοινωνός|1. partnership 2. (literally) participation 3. (social) intercourse 4. (financial) benefaction
+κοινωνικός|adjective|κοινωνός|1. communicative 2. (financially) liberal
+κοινωνός|noun|κοινός|1. a sharer, i.e. associate
+κοίτη|noun|κεῖμαι|1. a couch 2. (by extension) cohabitation 3. (figuratively) marriage bed, sexual intercourse 4. (by implication) the male sperm, conception
+κοιτών|noun|κοίτη|1. a bedroom
+κόκκινος|adjective|κόκκος|1. crimson-colored
+κόκκος|noun|---|1. a kernel of seed
+κολάζω|verb|---|1. (properly) to curtail 2. (figuratively) to chastise (or reserve for infliction)
+κολακεία|noun|---|1. flattery
+κόλασις|noun|κολάζω|1. penal infliction
+κολαφίζω|verb|κολάζω|1. to rap with the fist
+κολλάω|verb|---|1. to glue 2. (passively or reflexively) to stick (figuratively)
+κολλούριον|noun|---|1. (properly) a poultice (as made of or in the form of crackers) 2. (by analogy) a plaster
+κολλυβιστής|noun|---|1. a coin-dealer
+κολοβόω|verb|κολάζω|1. to dock 2. (figuratively) abridge
+Κολοσσαί|Name Location|---|1. Colossae, a place in Asia Minor
+Κολοσσαεύς|Name/g.|Κολοσσαί|1. a Colossaean, i.e. inhabitant of Colossae
+κόλπος|noun|---|1. the bosom 2. (by analogy) a bay
+κολυμβάω|verb|---|1. to plunge into water
+κολυμβήθρα|noun|---|1. a diving-place, i.e. pond for bathing (or swimming)
+κολωνία|noun|---|1. a Roman "colony" for veterans
+κομάω|verb|κόμη|1. to wear tresses of hair
+κόμη|noun|---|1. the hair of the head (locks)
+κομίζω|verb|---|1. (properly) to provide for 2. (by implication) to carry off (from harm) 3. (genitive case) to obtain
+κομψότερον|adverb|κομίζω|1. (figuratively) convalescent, getting better
+κονιάω|verb|---|1. to whitewash
+κονιορτός|noun|κονιάω|1. pulverulence (as blown about)
+κοπάζω|verb|κόπος|1. to tire 2. (figuratively) to relax
+κοπετός|noun|κόπτω|1. mourning (properly, by beating the breast)
+κοπή|noun|κόπτω|1. cutting, i.e. carnage
+κοπιάω|verb|κόπος|1. to feel fatigue 2. (by implication) to work hard
+κόπος|noun|κόπτω|1. a cut 2. (by analogy) toil (as reducing the strength) 3. (by implication) pains
+κοπρία|noun|---|1. manure
+κόπτω|verb|---|1. to "chop" 2. (specially) to beat the breast in grief
+κόραξ|noun|κορέννυμι|1. a crow (from its voracity)
+κοράσιον|noun|---|1. a (little) girl
+κορβᾶν|noun|קָרבָּן קוּרבָּן|1. a votive offering and the offering 2. a consecrated present (to the Temple fund) 3. (by extension, the latter term) the Treas     sury i     i     itself, i.e. the room where the contribution boxes stood
+Κορέ|Name Person|קוֹרחַ|1. Core (i.e. Korach), an Israelite
+κορέννυμι|verb|---|1. to cram, i.e. glut or sate
+Κορίνθιος|adjective/g.|Κόρινθος|1. a Corinthian, i.e. inhabitant of Corinth
+Κόρινθος|Name Location|---|1. Corinthus, a city of Greece
+Κορνήλιος|Name Person|---|1. Cornelius, a Roman
+κόρος|noun|כּוֹר|1. a cor, i.e. a specific measure
+κοσμέω|verb|κόσμος|1. to put in proper order, i.e. decorate 2. (specially) to snuff (a wick)
+κοσμικός|adjective|κόσμος|1. worldy ("cosmic") 2. (literally) mundane 3. (figuratively) corrupt
+κόσμιος|adjective|κόσμος|1. orderly, i.e. decorous
+κοσμοκράτωρ|noun|κρατέω|1. a world-ruler, an epithet of Satan
+κόσμος|noun|κομίζω|1. orderly arrangement, i.e. decoration 2. (by implication) the world including its inhabitants
+Κούαρτος|Name Person|---|1. Quartus, a Christian
 κοῦμι|Aramaic|קוּם|1. cumi (i.e. rise!)
-κουστωδία|noun|---|1. "custody", i.e. a Roman sentry
-κουφίζω|verb|---|1. to unload
-κόφινος|noun|---|1. a (small) basket
-κράββατος|noun|---|1. a mattress
-κράζω|verb|---|1. (properly) to "croak" (as a raven) 2. (generally) to scream 3. (genitive case) to call aloud (shriek, exclaim, intreat)
-κραιπάλη|noun|αἱρέομαι|1. (properly) a headache (as a seizure of pain) from drunkenness 2. (by implication) a debauch (by analogy, a glut)
-κρανίον|noun|κέρας|1. a skull ("cranium")
-κράσπεδον|noun|---|1. a margin 2. (specially), a fringe or tassel
-κραταιός|adjective|κράτος|1. powerful
-κραταιόω|verb|κραταιός|1. to empower 2. (passively) increase in vigor
-κρατέω|verb|κράτος|1. to use strength, i.e. seize or retain
-κράτιστος|adjective|κράτος|1. strongest 2. (in dignity) very honorable
-κράτος|noun|---|1. vigor ("great")
-κραυγάζω|verb|κραυγή|1. to clamor
-κραυγή|noun|κράζω|1. an outcry (in notification, tumult or grief)
-κρέας|noun|---|1. (butcher's) meat
-κρεῖσσον|adjective|κρείττων|1. (as noun) better, i.e. greater advantage
-κρείττων|adjective|κράτος|1. stronger 2. (figuratively) better, i.e. nobler
-κρεμάννυμι|verb|---|1. to hang
-κρημνός|noun|κρεμάννυμι|1. overhanging, i.e. a precipice
-Κρής|Name/g.|Κρήτη|1. a Cretan, i.e. inhabitant of Crete
-Κρήσκης|Name Person|---|1. growing 2. Cresces (i.e. Crescens), a Christian
-Κρήτη|Name Location|---|1. Crete, an island in the Mediterranean
-κριθή|noun|---|1. barley
-κρίθινος|adjective|κριθή|1. consisting of barley
-κρίμα|noun|κρίνω|1. a decision (the function or the effect, for or against ("crime"))
-κρίνον|noun|---|1. a lily
-κρίνω|verb|---|1. (properly) to distinguish, i.e. decide (mentally or judicially) 2. (by implication) to try, condemn, punish
-κρίσις|noun|---|1. decision (subjectively or objectively, for or against) 2. (by extension) a tribunal 3. (by implication) justice (especially, divine law)
-Κρίσπος|Name Person|---|1. "crisp" 2. Crispus, a Corinthian
-κριτήριον|noun|κριτής|1. a rule of judging ("criterion") 2. (by implication) a tribunal
-κριτής|noun|κρίνω|1. a judge (genitive case or specially)
-κριτικός|adjective|κριτής|1. decisive ("critical"), i.e. discriminative
-κρούω|verb|---|1. to rap
-κρυπτή|noun|κρυπτός|1. a hidden place, i.e. cellar ("crypt")
-κρυπτός|adjective|κρύπτω|1. concealed, i.e. private
-κρύπτω|verb|---|1. to conceal (properly, by covering)
-κρυσταλλίζω|verb|κρύσταλλος|1. to make (i.e. intransitively, resemble) ice ("crystallize")
-κρύσταλλος|noun|---|1. ice 2. (by analogy) rock "crystal"
-κρυφῆ|adverb|κρύπτω|1. privately
-κτάομαι|verb|---|1. to get, i.e. acquire (by any means, to own)
+κουστωδία|noun|---|1. "custody", i.e. a Roman sentry
+κουφίζω|verb|---|1. to unload
+κόφινος|noun|---|1. a (small) basket
+κράβαττος|noun|---|1. a mattress
+κράζω|verb|---|1. (properly) to "croak" (as a raven) 2. (generally) to scream 3. (genitive case) to call aloud (shriek, exclaim, intreat)
+κραιπάλη|noun|αἱρέομαι|1. (properly) a headache (as a seizure of pain) from drunkenness 2. (by implication) a debauch (by analogy, a glut)
+κρανίον|noun|κέρας|1. a skull ("cranium")
+κράσπεδον|noun|---|1. a margin 2. (specially), a fringe or tassel
+κραταιός|adjective|κράτος|1. powerful
+κραταιόω|verb|κραταιός|1. to empower 2. (passively) increase in vigor
+κρατέω|verb|κράτος|1. to use strength, i.e. seize or retain
+κράτιστος|adjective|κράτος|1. strongest 2. (in dignity) very honorable
+κράτος|noun|---|1. vigor ("great")
+κραυγάζω|verb|κραυγή|1. to clamor
+κραυγή|noun|κράζω|1. an outcry (in notification, tumult or grief)
+κρέας|noun|---|1. (butcher's) meat
+κρείσσων|adjective|κρείττων|1. (as noun) better, i.e. greater advantage
+κρείττων|adjective|κράτος|1. stronger 2. (figuratively) better, i.e. nobler
+κρεμάννυμι|verb|---|1. to hang
+κρημνός|noun|κρεμάννυμι|1. overhanging, i.e. a precipice
+Κρής|Name/g.|Κρήτη|1. a Cretan, i.e. inhabitant of Crete
+Κρήσκης|Name Person|---|1. growing 2. Cresces (i.e. Crescens), a Christian
+Κρήτη|Name Location|---|1. Crete, an island in the Mediterranean
+κριθή|noun|---|1. barley
+κρίθινος|adjective|κριθή|1. consisting of barley
+κρίμα|noun|κρίνω|1. a decision (the function or the effect, for or against ("crime"))
+κρίνον|noun|---|1. a lily
+κρίνω|verb|---|1. (properly) to distinguish, i.e. decide (mentally or judicially) 2. (by implication) to try, condemn, punish
+κρίσις|noun|---|1. decision (subjectively or objectively, for or against) 2. (by extension) a tribunal 3. (by implication) justice (especially, divine law)
+Κρίσπος|Name Person|---|1. "crisp" 2. Crispus, a Corinthian
+κριτήριον|noun|κριτής|1. a rule of judging ("criterion") 2. (by implication) a tribunal
+κριτής|noun|κρίνω|1. a judge (genitive case or specially)
+κριτικός|adjective|κριτής|1. decisive ("critical"), i.e. discriminative
+κρούω|verb|---|1. to rap
+κρύπτη|noun|κρυπτός|1. a hidden place, i.e. cellar ("crypt")
+κρυπτός|adjective|κρύπτω|1. concealed, i.e. private
+κρύπτω|verb|---|1. to conceal (properly, by covering)
+κρυσταλλίζω|verb|κρύσταλλος|1. to make (i.e. intransitively, resemble) ice ("crystallize")
+κρύσταλλος|noun|---|1. ice 2. (by analogy) rock "crystal"
+κρυφῇ|adverb|κρύπτω|1. privately
+κτάομαι|verb|---|1. to get, i.e. acquire (by any means, to own)
 κτῆμα|noun|κτάομαι|1. an acquirement, i.e. estate
 κτῆνος|noun|κτάομαι|1. property 2. (specially) a domestic animal
-κτήτωρ|noun|κτάομαι|1. an owner
-κτίζω|verb|---|1. to fabricate, i.e. found (form originally)
-κτίσις|noun|κτίζω|1. original formation 2. (properly) the act 3. (by implication) the thing
-κτίσμα|noun|κτίζω|1. an original formation (concretely), i.e. product (created thing)
-κτιστής|noun|κτίζω|1. a founder, i.e. God (as author of all things)
-κυβεία|noun|---|1. gambling 2. (figuratively) artifice or fraud
-κυβέρνησις|noun|---|1. pilotage 2. (figuratively) directorship (in the assembly)
-κυβερνήτης|noun|---|1. helmsman 2. (by implication) captain
-κυκλόθεν|adverb|---|1. from the circle, i.e. all around
-κυκλόω|verb|---|1. to encircle, i.e. surround
-κύκλῳ|noun|---|1. i.e. in a circle 2. (adverbially) all around
-κύλισμα|noun|κυλιόω|1. a wallow (the effect of rolling), i.e. filth
-κυλιόω|verb|κύμα|1. to roll about
-κυλλός|adjective|κύμα|1. rocking about, i.e. crippled (maimed, in feet or hands)
-κύμα|noun|---|1. a billow (as bursting or toppling)
-κύμβαλον|noun|κύμα|1. a "cymbal" (as hollow)
-κύμινον|noun|---|1. dill or fennel ("cummin")
-κυνάριον|noun|κύων|1. a puppy
-Κύπριος|Name/g.|Κύπρος|1. a Cyprian (Cypriot), i.e. inhabitant of Cyprus
-Κύπρος|Name Location|---|1. Cyprus, an island in the Mediterranean
-κύπτω|verb|κύμα|1. to bend forward
+κτήτωρ|noun|κτάομαι|1. an owner
+κτίζω|verb|---|1. to fabricate, i.e. found (form originally)
+κτίσις|noun|κτίζω|1. original formation 2. (properly) the act 3. (by implication) the thing
+κτίσμα|noun|κτίζω|1. an original formation (concretely), i.e. product (created thing)
+κτίστης|noun|κτίζω|1. a founder, i.e. God (as author of all things)
+κυβεία|noun|---|1. gambling 2. (figuratively) artifice or fraud
+κυβέρνησις|noun|---|1. pilotage 2. (figuratively) directorship (in the assembly)
+κυβερνήτης|noun|---|1. helmsman 2. (by implication) captain
+κυκλόθεν|adverb|---|1. from the circle, i.e. all around
+κυκλόω|verb|---|1. to encircle, i.e. surround
+κύκλος|noun|---|1. i.e. in a circle 2. (adverbially) all around
+κύλισμα|noun|κυλιόω|1. a wallow (the effect of rolling), i.e. filth
+κυλίω|verb|κύμα|1. to roll about
+κυλλός|adjective|κύμα|1. rocking about, i.e. crippled (maimed, in feet or hands)
+κῦμα|noun|---|1. a billow (as bursting or toppling)
+κύμβαλον|noun|κύμα|1. a "cymbal" (as hollow)
+κύμινον|noun|---|1. dill or fennel ("cummin")
+κυνάριον|noun|κύων|1. a puppy
+Κύπριος|Name/g.|Κύπρος|1. a Cyprian (Cypriot), i.e. inhabitant of Cyprus
+Κύπρος|Name Location|---|1. Cyprus, an island in the Mediterranean
+κύπτω|verb|κύμα|1. to bend forward
 Κυρηναῖος|Name/g.|Κυρήνη|1. i.e. Cyrenaian, i.e. inhabitant of Cyrene
-Κυρήνη|Name Location|---|1. Cyrene, a region of Africa
-Κυρήνιος|Name Person|---|1. Cyrenius (i.e. Quirinus), a Roman
-Κυρία|Name Person|κύριος|1. Cyria, a Christian woman
-κυριακός|adjective|κύριος|1. belonging to the Lord (Yahweh or Jesus)
-κυριεύω|verb|κύριος|1. to rule
-κύριος|noun|---|1. supreme in authority 2. (as noun) controller 3. (by implication) Master (as a respectful title)
-κυριότης|noun|κύριος|1. mastery 2. (concretely and collectively) rulers
-κυρόω|verb|---|1. to make authoritative, i.e. ratify
-κύων|noun|---|1. a dog ("hound")
+Κυρήνη|Name Location|---|1. Cyrene, a region of Africa
+Κυρήνιος|Name Person|---|1. Cyrenius (i.e. Quirinus), a Roman
+κυρία|Name Person|κύριος|1. Cyria, a Christian woman
+κυριακός|adjective|κύριος|1. belonging to the Lord (Yahweh or Jesus)
+κυριεύω|verb|κύριος|1. to rule
+κύριος|noun|---|1. supreme in authority 2. (as noun) controller 3. (by implication) Master (as a respectful title)
+κυριότης|noun|κύριος|1. mastery 2. (concretely and collectively) rulers
+κυρόω|verb|---|1. to make authoritative, i.e. ratify
+κύων|noun|---|1. a dog ("hound")
 κῶλον|noun|κολάζω|1. a limb of the body (as if lopped)
-κωλύω|verb|κολάζω|1. to hinder or forbid, i.e. prevent (by act or word)
-κώμη|noun|κεῖμαι|1. a hamlet (as if laid down)
-κωμόπολις|noun|πόλις|1. an unwalled city
+κωλύω|verb|κολάζω|1. to hinder or forbid, i.e. prevent (by act or word)
+κώμη|noun|κεῖμαι|1. a hamlet (as if laid down)
+κωμόπολις|noun|πόλις|1. an unwalled city
 κῶμος|noun|κεῖμαι|1. a carousal (as if letting loose)
-κώνωψ|noun|ὀπτάνομαι|1. a mosquito (from its stinging proboscis)
+κώνωψ|noun|ὀπτάνομαι|1. a mosquito (from its stinging proboscis)
 Κῶς|Name Location|---|1. Cos, an island in the Mediterranean
-Κωσάμ|Name Person|---|1. Cosam (i.e. Kosam) an Israelite
-κωφός|adjective|κόπτω|1. blunted 2. (figuratively) of hearing (deaf) or speech (dumb)
-λαγχάνω|verb|---|1. to lot, i.e. determine (by implication, receive) especially by lot
-Λάζαρος|Name Person|אֶלעָזָר|1. Lazarus (i.e. Elazar), the name of two Israelites (one imaginary)
-λάθρα|adverb|λανθάνω|1. privately
+Κωσάμ|Name Person|---|1. Cosam (i.e. Kosam) an Israelite
+κωφός|adjective|κόπτω|1. blunted 2. (figuratively) of hearing (deaf) or speech (dumb)
+λαγχάνω|verb|---|1. to lot, i.e. determine (by implication, receive) especially by lot
+Λάζαρος|Name Person|אֶלעָזָר|1. Lazarus (i.e. Elazar), the name of two Israelites (one imaginary)
+λάθρᾳ|adverb|λανθάνω|1. privately
 λαῖλαψ|noun|---|1. a whirlwind (squall)
-λακτίζω|verb|---|1. to recalcitrate
-λαλέω|verb|λαλέω|1. to talk, i.e. utter words
-λαλιά|noun|λαλέω|1. talk
-λαμά|Hebrew|מָה מַה מָ מַ מֶה|1. lama (i.e. why)
-λαμβάνω|verb|λαμβάνω|1. (actively) to take 2. (passively) to receive 3. (objectively) to get hold of (with the hand)
-Λάμεχ|Name Person|לֶמֶך|1. Lamech (i.e. Lemek), a patriarch
-λαμπάς|noun|λάμπω|1. a "lamp" or flambeau
-λαμπρός|adjective|λάμπω|1. radiant 2. (by analogy) clear and bright 3. (figuratively) magnificent or luxurious (in appearance)
-λαμπρότης|noun|λαμπρός|1. brilliancy
+λακτίζω|verb|---|1. to recalcitrate
+λαλέω|verb|λαλέω|1. to talk, i.e. utter words
+λαλιά|noun|λαλέω|1. talk
+λιμά|Hebrew|מָה מַה מָ מַ מֶה|1. lama (i.e. why)
+λαμβάνω|verb|λαμβάνω|1. (actively) to take 2. (passively) to receive 3. (objectively) to get hold of (with the hand)
+Λάμεχ|Name Person|לֶמֶך|1. Lamech (i.e. Lemek), a patriarch
+λαμπάς|noun|λάμπω|1. a "lamp" or flambeau
+λαμπρός|adjective|λάμπω|1. radiant 2. (by analogy) clear and bright 3. (figuratively) magnificent or luxurious (in appearance)
+λαμπρότης|noun|λαμπρός|1. brilliancy
 λαμπρῶς|adverb|λαμπρός|1. brilliantly 2. (figuratively) luxuriously
-λάμπω|verb|---|1. to shine, i.e. radiate brilliancy
-λανθάνω|verb|---|1. to lie hid 2. (adverbially, often) unwittingly
-λαξευτός|adjective|ξηρός|1. rock-quarried
-λαός|noun|---|1. a people
-Λαοδίκεια|Name Location|δίκη|1. Laodicia, a place in Asia Minor
-Λαοδικεύς|Name/g.|Λαοδίκεια|1. a Laodicean, i.e. inhabitant of Laodicia
-λάρυγξ|noun|---|1. the throat ("larynx")
-Λασαία|Name Location|---|1. Lasaea, a place in Crete
-λάσχω|verb|---|1. to crack open (from a fall)
-λατομέω|verb|τομώτερος|1. to quarry
-λατρεία|noun|λατρεύω|1. ministration of God, i.e. worship
-λατρεύω|verb|---|1. to minister (to God), i.e. render religious homage
-λάχανον|noun|---|1. a vegetable
+λάμπω|verb|---|1. to shine, i.e. radiate brilliancy
+λανθάνω|verb|---|1. to lie hid 2. (adverbially, often) unwittingly
+λαξευτός|adjective|ξηρός|1. rock-quarried
+λαός|noun|---|1. a people
+Λαοδικεία|Name Location|δίκη|1. Laodicia, a place in Asia Minor
+Λαοδικεύς|Name/g.|Λαοδίκεια|1. a Laodicean, i.e. inhabitant of Laodicia
+λάρυγξ|noun|---|1. the throat ("larynx")
+Λασαία|Name Location|---|1. Lasaea, a place in Crete
+λάσκω|verb|---|1. to crack open (from a fall)
+λατομέω|verb|τομώτερος|1. to quarry
+λατρεία|noun|λατρεύω|1. ministration of God, i.e. worship
+λατρεύω|verb|---|1. to minister (to God), i.e. render religious homage
+λάχανον|noun|---|1. a vegetable
 Λεββαῖος|Name Person|---|1. Lebbaeus, a Christian
-λεγεών|noun|---|1. a "legion", i.e. Roman regiment (figuratively)
-λέγω|verb|λέγω|1. (properly) to "lay" forth 2. (figuratively) to relate 3. (by implication) to mean
+λεγεών|noun|---|1. a "legion", i.e. Roman regiment (figuratively)
+λέγω|verb|λέγω|1. (properly) to "lay" forth 2. (figuratively) to relate 3. (by implication) to mean
 λεῖμμα|noun|λείπω|1. a remainder
 λεῖος|adjective|---|1. smooth, i.e. "level"
-λείπω|verb|---|1. to leave 2. (intransitively or passively) to fail or be absent
-λειτουργέω|verb|λειτουργός|1. to be a public servant 2. (by analogy) to perform religious or charitable functions (revering God while serving man)
-λειτουργία|noun|λειτουργέω|1. public function (as priest ("liturgy") or almsgiver)
-λειτουργικός|adjective|λειτουργός|1. functional publicly ("liturgic") 2. i.e. beneficient
-λειτουργός|noun|ἔργον|1. a public servant, i.e. a functionary in the Temple or Gospel 2. (genitive case) a worshipper (of God) or benefactor (of man)
-λέντιον|noun|---|1. a "linen" cloth, i.e. apron
-λεπίς|noun|---|1. a flake
-λέπρα|noun|---|1. scaliness, i.e. "leprosy"
-λεπρός|adjective|---|1. scaly, i.e. leprous (a leper)
-λεπτόν|noun|λεπίς|1. something scaled (light), i.e. a small coin
-Λευΐ|Name Person|לֵוִי|1. Levi, the name of three Israelites
-Λευΐς|Name Person|Λευΐ|1. Lewis (i.e. Levi), a Christian
-Λευΐτης|Name/g.|Λευΐ|1. a Levite, i.e. descendant of Levi
-Λευϊτικός|adjective/g.|Λευΐτης|1. Levitic, i.e. relating to the Levites
-λευκαίνω|verb|λευκός|1. to whiten
-λευκός|adjective|---|1. white
-λεών|noun|---|1. a "lion"
-λήθη|noun|λανθάνω|1. forgetfulness
-ληνός|noun|---|1. a trough, i.e. wine-vat
+λείπω|verb|---|1. to leave 2. (intransitively or passively) to fail or be absent
+λειτουργέω|verb|λειτουργός|1. to be a public servant 2. (by analogy) to perform religious or charitable functions (revering God while serving man)
+λειτουργία|noun|λειτουργέω|1. public function (as priest ("liturgy") or almsgiver)
+λειτουργικός|adjective|λειτουργός|1. functional publicly ("liturgic") 2. i.e. beneficient
+λειτουργός|noun|ἔργον|1. a public servant, i.e. a functionary in the Temple or Gospel 2. (genitive case) a worshipper (of God) or benefactor (of man)
+λέντιον|noun|---|1. a "linen" cloth, i.e. apron
+λεπίς|noun|---|1. a flake
+λέπρα|noun|---|1. scaliness, i.e. "leprosy"
+λεπρός|adjective|---|1. scaly, i.e. leprous (a leper)
+λεπτόν|noun|λεπίς|1. something scaled (light), i.e. a small coin
+Λευΐ|Name Person|לֵוִי|1. Levi, the name of three Israelites
+Λευΐς|Name Person|Λευΐ|1. Lewis (i.e. Levi), a Christian
+Λευΐτης|Name/g.|Λευΐ|1. a Levite, i.e. descendant of Levi
+Λευϊτικός|adjective/g.|Λευΐτης|1. Levitic, i.e. relating to the Levites
+λευκαίνω|verb|λευκός|1. to whiten
+λευκός|adjective|---|1. white
+λέων|noun|---|1. a "lion"
+λήθη|noun|λανθάνω|1. forgetfulness
+ληνός|noun|---|1. a trough, i.e. wine-vat
 λῆρος|noun|---|1. foolish or idle talk, trivial chatter 2. an outlandish story 3. twaddle, prattle, or gossip
-λῃστής|noun|---|1. a robber, bandit, armed thief 2. one who steals by use or threat of violence or by use of fear 3. (i.e.) the moneychangers in the temple robbed the people using the fear of God's disapproval
-λήψις|noun|λαμβάνω|1. receipt (the act)
-λίαν|adverb|---|1. much (adverbially)
-λίβανος|noun|לְבוֹנָה לֶבוֹנָה|1. the incense-tree (frankincence) 2. (by implication) frankincense itself
-λιβανωτός|adjective|λίβανος|1. frankincense 2. (by extension) a censer for burning it
-Λιβερτίνος|Name/g.|---|1. a Roman freedman
-Λιβύη|Name Location|λίψ|1. Libye, a region of Africa
-λιθάζω|verb|λίθος|1. to stone to death 2. to lapidate
-λίθινος|adjective|λίθος|1. stony, i.e. made of stone
-λιθοβολέω|verb|βάλλω|1. to throw stones, i.e. lapidate
-λίθος|noun|---|1. a stone
-λιθόστρωτος|adjective|στρώννυμι|1. stone-strewed, i.e. a tessellated mosaic on which the Roman tribunal was placed
-λικμάω|verb|---|1. to winnow 2. (by analogy), to triturate
-λιμήν|noun|---|1. a harbor
-λίμνη|noun|λιμήν|1. a pond (large or small)
-λιμός|noun|λείπω|1. a scarcity of food
-λίνον|noun|---|1. flax 2. (by implication) "linen"
+λῃστής|noun|---|1. a robber, bandit, armed thief 2. one who steals by use or threat of violence or by use of fear 3. (i.e.) the moneychangers in the temple robbed the people using the fear of God's disapproval
+λῆψις|noun|λαμβάνω|1. receipt (the act)
+λίαν|adverb|---|1. much (adverbially)
+λίβανος|noun|לְבוֹנָה לֶבוֹנָה|1. the incense-tree (frankincence) 2. (by implication) frankincense itself
+λιβανωτός|adjective|λίβανος|1. frankincense 2. (by extension) a censer for burning it
+Λιβερτῖνος|Name/g.|---|1. a Roman freedman
+Λιβύη|Name Location|λίψ|1. Libye, a region of Africa
+λιθάζω|verb|λίθος|1. to stone to death 2. to lapidate
+λίθινος|adjective|λίθος|1. stony, i.e. made of stone
+λιθοβολέω|verb|βάλλω|1. to throw stones, i.e. lapidate
+λίθος|noun|---|1. a stone
+λιθόστρωτον|adjective|στρώννυμι|1. stone-strewed, i.e. a tessellated mosaic on which the Roman tribunal was placed
+λικμάω|verb|---|1. to winnow 2. (by analogy), to triturate
+λιμήν|noun|---|1. a harbor
+λίμνη|noun|λιμήν|1. a pond (large or small)
+λιμός|noun|λείπω|1. a scarcity of food
+λίνον|noun|---|1. flax 2. (by implication) "linen"
 Λῖνος|Name Person|λίνον|1. Linus, a Christian
-λιπαρός|adjective|---|1. fat 2. (figuratively) luxurious
-λίτρα|noun|---|1. a pound in weight
-λίψ|noun|---|1. the south(- west) wind (as bringing rain) 2. (by extension) the south quarter
-λογία|noun|λόγος|1. a contribution
-λογίζομαι|verb|λόγος|1. to take an inventory, i.e. estimate
-λογικός|adjective|λόγος|1. rational ("logical")
-λόγιον|noun|λόγιος|1. an utterance (of God)
-λόγιος|adjective|λόγος|1. fluent, i.e. an orator
-λογισμός|noun|λογίζομαι|1. computation 2. (figuratively) reasoning (conscience, conceit)
-λογομαχέω|verb|μάχομαι|1. to be disputatious (on trifles)
-λογομαχία|noun|μάχομαι|1. disputation about trifles ("logomachy")
-λόγος|noun|λέγω|1. something said (including the thought) 2. (by implication) a topic (subject of discourse), also reasoning (the mental faculty) or motive 3. (by extension) a computation 4. (specially, with the article in John) the Divine Expression (i.e. Christ)
-λόγχη|noun|---|1. a "lance"
-λοιδορέω|verb|λοίδορος|1. to reproach, i.e. vilify
-λοιδορία|noun|λοίδορος|1. slander or vituperation
-λοίδορος|adjective|---|1. abusive, i.e. a blackguard
-λοίμος|noun|---|1. a plague 2. (literally) the disease 3. (figuratively) a pest
-λοιποί|adjective|λείπω|1. remaining ones
-λοιπόν|adjective|λοιποί|1. something remaining (adverbially)
+λιπαρός|adjective|---|1. fat 2. (figuratively) luxurious
+λίτρα|noun|---|1. a pound in weight
+λίψ|noun|---|1. the south(- west) wind (as bringing rain) 2. (by extension) the south quarter
+λογία|noun|λόγος|1. a contribution
+λογίζομαι|verb|λόγος|1. to take an inventory, i.e. estimate
+λογικός|adjective|λόγος|1. rational ("logical")
+λόγιον|noun|λόγιος|1. an utterance (of God)
+λόγιος|adjective|λόγος|1. fluent, i.e. an orator
+λογισμός|noun|λογίζομαι|1. computation 2. (figuratively) reasoning (conscience, conceit)
+λογομαχέω|verb|μάχομαι|1. to be disputatious (on trifles)
+λογομαχία|noun|μάχομαι|1. disputation about trifles ("logomachy")
+λόγος|noun|λέγω|1. something said (including the thought) 2. (by implication) a topic (subject of discourse), also reasoning (the mental faculty) or motive 3. (by extension) a computation 4. (specially, with the article in John) the Divine Expression (i.e. Christ)
+λόγχη|noun|---|1. a "lance"
+λοιδορέω|verb|λοίδορος|1. to reproach, i.e. vilify
+λοιδορία|noun|λοίδορος|1. slander or vituperation
+λοίδορος|adjective|---|1. abusive, i.e. a blackguard
+λοιμός|noun|---|1. a plague 2. (literally) the disease 3. (figuratively) a pest
+λοιπός|adjective|λείπω|1. remaining ones
+λοιπόν|adjective|λοιποί|1. something remaining (adverbially)
 λοιποῦ|adjective|λοιποί|1. remaining time
 Λουκᾶς|Name Person|---|1. Lucas, a Christian
-Λούκιος|Name Person|---|1. illuminative 2. Lucius, a Christian
-λουτρόν|noun|λούω|1. a bath 2. (figuratively), baptism
-λούω|verb|---|1. to bathe
-Λύδδα|Name Location|לוֹד|1. Lydda (i.e. Lod), a place in Israel
-Λυδία|Name Person|---|1. Lydia, a Christian woman
-Λυκαονία|Name Location|λύκος|1. Lycaonia, a region of Asia Minor
-Λυκαονιστί|adverb/g|Λυκαονία|1. Lycaonistically, i.e. in the language of the Lycaonians
-Λυκία|Name Location|λύκος|1. Lycia, a province of Asia Minor
-λύκος|noun|---|1. a wolf
-λυμαίνομαι|verb|λύω|1. (properly) to soil 2. (figuratively) insult (maltreat)
-λυπέω|verb|λύπη|1. to distress 2. (reflexively or passively) to be sad
-λύπη|noun|---|1. sadness
-Λυσανίας|Name Person|λύσις|1. grief-dispelling 2. Lysanias, a governor of Abilene
-Λυσίας|Name Person|---|1. Lysias, a Roman
-λύσις|noun|λύω|1. a loosening 2. (relationally) a break up
-λυσιτελεῖ|verb|τέλος|1. impersonally, it answers the purpose, i.e. is advantageous
-Λύστρα|Name Location|---|1. Lystra, a place in Asia Minor
-λύτρον|noun|λύω|1. something to loosen with, i.e. a redemption price 2. (figuratively) atonement
-λυτρόω|verb|λύτρον|1. to ransom
-λύτρωσις|noun|λυτρόω|1. a ransoming (figuratively)
-λυτρωτής|noun|λυτρόω|1. a redeemer (figuratively)
-λυχνία|noun|λύχνος|1. a lamp-stand
-λύχνος|noun|λευκός|1. a portable lamp or other illuminator
-λύω|verb|---|1. to "loosen" 2. (by usage) to break, destroy, or dissolve 3. (maritally) to divorce
-Λωΐς|Name Person|---|1. Lois, a Christian woman
-Λώτ|Name Person|לוֹט|1. Lot, a patriarch
-Μαάθ|Name Person|---|1. Maath, an Israelite
-Μαγδαλά|Name Location|---|1. the tower 2. Magdala (i.e. Migdala), a place in Israel
-Μαγδαληνή|Name Person|Μαγδαλά|1. a female Magdalene, i.e. inhabitant of Magdala
-μαγεία|noun|μαγεύω|1. "magic"
-μαγεύω|verb|μάγος|1. to practice magic
-μάγος|noun|---|1. a Magian, i.e. Oriental scientist 2. (by implication) a magician
-Μαγώγ|Name Person|מָגוֹג|1. Magog, a foreign nation 2. (figuratively) an Antichristian party
-Μαδιάν|Name Location|מִדיָן|1. Madian (i.e. Midian), a region of Arabia
-μαθητεύω|verb|μαθητής|1. (intransitively) to become a pupil 2. (transitively) to disciple, i.e. enrol as scholar
-μαθητής|noun|μανθάνω|1. a learner, i.e. pupil
-μαθήτρια|noun|μαθητής|1. a female pupil
-Μαθουσάλα|Name Person|מְתוּשֶׁלחַ|1. Mathusala (i.e. Methushelach), an antediluvian (pre-flood)
-Μαϊνάν|Name Person|---|1. Mainan, an Israelite
-μαίνομαι|verb|---|1. to rave as a "maniac"
-μακαρίζω|verb|μακάριος|1. to beatify, i.e. pronounce (or esteem) fortunate
-μακάριος|adjective|---|1. supremely blest 2. (by extension) fortunate, well off
-μακαρισμός|noun|μακαρίζω|1. beatification, i.e. attribution of good fortune
-Μακεδονία|Name Location|Μακεδών|1. Macedonia, a region of Greece
-Μακεδών|Name/g.|---|1. a Macedon (Macedonian), i.e. inhabitant of Macedonia
-μάκελλον|noun|---|1. a butcher's stall, meat market or provision-shop
-μακράν|adverb|μακρός|1. at a distance
-μακρόθεν|adverb|μακρός|1. from a distance or afar
-μακροθυμέω|verb|θυμός|1. to be long-spirited 2. (objectively) forbearing or (subjectively) patient
-μακροθυμία|noun|θυμός|1. longanimity 2. (objectively) forbearance or (subjectively) fortitude
-μακροθυμώς|adverb|θυμός|1. with long (enduring) temper, i.e. leniently
-μακρός|adjective|μῆκος|1. long (in place (distant) or time (neuter plural))
-μακροχρόνιος|adjective|χρόνος|1. long-timed, i.e. long-lived
-μαλακία|noun|μαλακός|1. softness, i.e. enervation (debility)
-μαλακός|adjective|---|1. soft, i.e. fine (clothing) 2. (figuratively) a catamite
-Μαλελεήλ|Name Person|מַהֲלַלאֵל|1. Maleleel (i.e. Mahalalel), an antediluvian (pre-flood)
-μάλιστα|adverb|---|1. (adverbially) most (in the greatest degree) or particularly
+Λούκιος|Name Person|---|1. illuminative 2. Lucius, a Christian
+λουτρόν|noun|λούω|1. a bath 2. (figuratively), baptism
+λούω|verb|---|1. to bathe
+Λύδδα|Name Location|לוֹד|1. Lydda (i.e. Lod), a place in Israel
+Λυδία|Name Person|---|1. Lydia, a Christian woman
+Λυκαονία|Name Location|λύκος|1. Lycaonia, a region of Asia Minor
+Λυκαονιστί|adverb/g|Λυκαονία|1. Lycaonistically, i.e. in the language of the Lycaonians
+Λυκία|Name Location|λύκος|1. Lycia, a province of Asia Minor
+λύκος|noun|---|1. a wolf
+λυμαίνομαι|verb|λύω|1. (properly) to soil 2. (figuratively) insult (maltreat)
+λυπέω|verb|λύπη|1. to distress 2. (reflexively or passively) to be sad
+λύπη|noun|---|1. sadness
+Λυσανίας|Name Person|λύσις|1. grief-dispelling 2. Lysanias, a governor of Abilene
+Λυσίας|Name Person|---|1. Lysias, a Roman
+λύσις|noun|λύω|1. a loosening 2. (relationally) a break up
+λυσιτελέω|verb|τέλος|1. impersonally, it answers the purpose, i.e. is advantageous
+Λύστρα|Name Location|---|1. Lystra, a place in Asia Minor
+λύτρον|noun|λύω|1. something to loosen with, i.e. a redemption price 2. (figuratively) atonement
+λυτρόω|verb|λύτρον|1. to ransom
+λύτρωσις|noun|λυτρόω|1. a ransoming (figuratively)
+λυτρωτής|noun|λυτρόω|1. a redeemer (figuratively)
+λυχνία|noun|λύχνος|1. a lamp-stand
+λύχνος|noun|λευκός|1. a portable lamp or other illuminator
+λύω|verb|---|1. to "loosen" 2. (by usage) to break, destroy, or dissolve 3. (maritally) to divorce
+Λωΐς|Name Person|---|1. Lois, a Christian woman
+Λώτ|Name Person|לוֹט|1. Lot, a patriarch
+Μαάθ|Name Person|---|1. Maath, an Israelite
+Μαγδαλά|Name Location|---|1. the tower 2. Magdala (i.e. Migdala), a place in Israel
+Μαγδαληνή|Name Person|Μαγδαλά|1. a female Magdalene, i.e. inhabitant of Magdala
+μαγεία|noun|μαγεύω|1. "magic"
+μαγεύω|verb|μάγος|1. to practice magic
+μάγος|noun|---|1. a Magian, i.e. Oriental scientist 2. (by implication) a magician
+Μαγώγ|Name Person|מָגוֹג|1. Magog, a foreign nation 2. (figuratively) an Antichristian party
+Μαδιάμ|Name Location|מִדיָן|1. Madian (i.e. Midian), a region of Arabia
+μαθητεύω|verb|μαθητής|1. (intransitively) to become a pupil 2. (transitively) to disciple, i.e. enrol as scholar
+μαθητής|noun|μανθάνω|1. a learner, i.e. pupil
+μαθήτρια|noun|μαθητής|1. a female pupil
+Μαθουσάλα|Name Person|מְתוּשֶׁלחַ|1. Mathusala (i.e. Methushelach), an antediluvian (pre-flood)
+Μαϊνάν|Name Person|---|1. Mainan, an Israelite
+μαίνομαι|verb|---|1. to rave as a "maniac"
+μακαρίζω|verb|μακάριος|1. to beatify, i.e. pronounce (or esteem) fortunate
+μακάριος|adjective|---|1. supremely blest 2. (by extension) fortunate, well off
+μακαρισμός|noun|μακαρίζω|1. beatification, i.e. attribution of good fortune
+Μακεδονία|Name Location|Μακεδών|1. Macedonia, a region of Greece
+Μακεδών|Name/g.|---|1. a Macedon (Macedonian), i.e. inhabitant of Macedonia
+μάκελλον|noun|---|1. a butcher's stall, meat market or provision-shop
+μακράν|adverb|μακρός|1. at a distance
+μακρόθεν|adverb|μακρός|1. from a distance or afar
+μακροθυμέω|verb|θυμός|1. to be long-spirited 2. (objectively) forbearing or (subjectively) patient
+μακροθυμία|noun|θυμός|1. longanimity 2. (objectively) forbearance or (subjectively) fortitude
+μακροθύμως|adverb|θυμός|1. with long (enduring) temper, i.e. leniently
+μακρός|adjective|μῆκος|1. long (in place (distant) or time (neuter plural))
+μακροχρόνιος|adjective|χρόνος|1. long-timed, i.e. long-lived
+μαλακία|noun|μαλακός|1. softness, i.e. enervation (debility)
+μαλακός|adjective|---|1. soft, i.e. fine (clothing) 2. (figuratively) a catamite
+Μαλελεήλ|Name Person|מַהֲלַלאֵל|1. Maleleel (i.e. Mahalalel), an antediluvian (pre-flood)
+μάλιστα|adverb|---|1. (adverbially) most (in the greatest degree) or particularly
 μᾶλλον|adverb|μάλιστα|1. (adverbially) more (in a greater degree)) or rather
-Μάλχος|Name Person|מֶלֶך|1. Malchus, an Israelite
-μάμμη|noun|---|1. a grandmother
-μαμμωνᾶς|Aramaic|---|1. mammonas, i.e. avarice (deified)
-Μαναήν|Name Person|---|1. Manaen, a Christian
+Μάλχος|Name Person|מֶלֶך|1. Malchus, an Israelite
+μάμμη|noun|---|1. a grandmother
+μαμωνᾶς|Aramaic|---|1. mammonas, i.e. avarice (deified)
+Μαναήν|Name Person|---|1. Manaen, a Christian
 Μανασσῆς|Name Person|מְנַשֶּׁה|1. Mannasses (i.e. Menashsheh), an Israelite
-μανθάνω|verb|---|1. to learn (in any way)
-μανία|noun|μαίνομαι|1. craziness
-μάννα|Hebrew|מָן|1. manna (i.e. man), an edible gum
-μαντεύομαι|verb|μαίνομαι|1. to divine, i.e. utter spells (under pretense of foretelling
-μαραίνω|verb|---|1. to extinguish (as fire) 2. (figuratively and passively) to pass away
-μαράν ἀθά|Aramaic|---|1. maranatha, i.e. an exclamation of the approaching divine judgment
-μαργαρίτης|noun|---|1. a pearl
-Μάρθα|Name Person|---|1. Martha, a Christian woman
-Μαρία|Name Person|מִריָם|1. Maria or Mariam (i.e. Mirjam), the name of six Christian females
-Μάρκος|Name Person|---|1. Marcus, a Christian
-μάρμαρος|noun|---|1. marble (as sparkling white)
-μαρτυρέω|verb|μάρτυς|1. to be a witness, i.e. testify
-μαρτυρία|noun|μάρτυς|1. evidence given (judicially or genitive case)
-μαρτύριον|noun|μάρτυς|1. something evidential 2. (genitive case) evidence given or (specially), the Decalogue (in the sacred Tabernacle)
-μαρτύρομαι|verb|μάρτυς|1. to be adduced as a witness 2. (figuratively) to obtest (in affirmation or exhortation)
-μάρτυς|noun|---|1. a witness 2. (literally) judicially 3. (by analogy) a "martyr"
-μασσάομαι|verb|---|1. to chew
-μαστιγόω|verb|μάστιξ|1. to flog
-μαστίζω|verb|μαστός|1. to whip
-μάστιξ|noun|μασσάομαι|1. a whip 2. (literally) the Roman flagellum for criminals 3. (figuratively) a disease
-μαστός|noun|μασσάομαι|1. a (properly, female) breast (as if kneaded up)
-ματαιολογία|noun|ματαιολόγος|1. random talk, i.e. babble
-ματαιολόγος|adjective|λέγω|1. an idle (i.e. senseless or mischievous) talker, i.e. a wrangler
-μάταιος|adjective|μάτην|1. empty 2. (literally) profitless 3. (specially) an idol
-ματαιότης|noun|μάταιος|1. inutility 2. (figuratively) transientness 3. (morally) depravity
-ματαιόω|verb|μάταιος|1. to render (passively, become) foolish 2. (morally) wicked 3. (specially) idolatrous
-μάτην|adverb|μασσάομαι|1. folly 2. (adverbially) to no purpose, futilely
+μανθάνω|verb|---|1. to learn (in any way)
+μανία|noun|μαίνομαι|1. craziness
+μάννα|Hebrew|מָן|1. manna (i.e. man), an edible gum
+μαντεύομαι|verb|μαίνομαι|1. to divine, i.e. utter spells (under pretense of foretelling
+μαραίνω|verb|---|1. to extinguish (as fire) 2. (figuratively and passively) to pass away
+μαρὰν ἀθά|Aramaic|---|1. maranatha, i.e. an exclamation of the approaching divine judgment
+μαργαρίτης|noun|---|1. a pearl
+Μάρθα|Name Person|---|1. Martha, a Christian woman
+Μαρία|Name Person|מִריָם|1. Maria or Mariam (i.e. Mirjam), the name of six Christian females
+Μάρκος|Name Person|---|1. Marcus, a Christian
+μάρμαρος|noun|---|1. marble (as sparkling white)
+μαρτυρέω|verb|μάρτυς|1. to be a witness, i.e. testify
+μαρτυρία|noun|μάρτυς|1. evidence given (judicially or genitive case)
+μαρτύριον|noun|μάρτυς|1. something evidential 2. (genitive case) evidence given or (specially), the Decalogue (in the sacred Tabernacle)
+μαρτύρομαι|verb|μάρτυς|1. to be adduced as a witness 2. (figuratively) to obtest (in affirmation or exhortation)
+μάρτυς|noun|---|1. a witness 2. (literally) judicially 3. (by analogy) a "martyr"
+μασσάομαι|verb|---|1. to chew
+μαστιγόω|verb|μάστιξ|1. to flog
+μαστίζω|verb|μαστός|1. to whip
+μάστιξ|noun|μασσάομαι|1. a whip 2. (literally) the Roman flagellum for criminals 3. (figuratively) a disease
+μαστός|noun|μασσάομαι|1. a (properly, female) breast (as if kneaded up)
+ματαιολογία|noun|ματαιολόγος|1. random talk, i.e. babble
+ματαιολόγος|adjective|λέγω|1. an idle (i.e. senseless or mischievous) talker, i.e. a wrangler
+μάταιος|adjective|μάτην|1. empty 2. (literally) profitless 3. (specially) an idol
+ματαιότης|noun|μάταιος|1. inutility 2. (figuratively) transientness 3. (morally) depravity
+ματαιόω|verb|μάταιος|1. to render (passively, become) foolish 2. (morally) wicked 3. (specially) idolatrous
+μάτην|adverb|μασσάομαι|1. folly 2. (adverbially) to no purpose, futilely
 Ματθαῖος|Name Person|μάχομαι|1. Matthaeus (i.e. Matthitjah), an Israelite and a Christian
-Ματθάν|Name Person|מַתּתָּן|1. Matthan (i.e. Mattan), an Israelite
-Ματθάτ|Name Person|Ματταθίας|1. Matthat (i.e. Mattithjah), the name of two Israelites
-Ματθίας|Name Person|Ματταθίας|1. Matthias (i.e. Mattithjah), an Israelite
-Ματταθά|Name Person|Ματταθίας|1. Mattatha (i.e. Mattithjah), an Israelite
-Ματταθίας|Name Person|מַתּתִּתיָה מַתּתִּתיָהוּ|1. Mattathias (i.e. Mattithjah), an Israelite and a Christian
-μάχαιρα|noun|μάχη|1. a knife, i.e. dirk 2. (figuratively) war, judicial punishment
-μάχη|noun|μάχομαι|1. a battle 2. (figuratively) controversy
-μάχομαι|verb|---|1. to war 2. (figuratively) to quarrel, dispute
-μέ|p/p.|---|1. me
-μεγαλαυχέω|verb|μέγας|1. to talk big, i.e. be grandiloquent (arrogant, egotistic)
+Ματθάν|Name Person|מַתּתָּן|1. Matthan (i.e. Mattan), an Israelite
+Ματθάτ|Name Person|Ματταθίας|1. Matthat (i.e. Mattithjah), the name of two Israelites
+Ματθίας|Name Person|Ματταθίας|1. Matthias (i.e. Mattithjah), an Israelite
+Ματταθά|Name Person|Ματταθίας|1. Mattatha (i.e. Mattithjah), an Israelite
+Ματταθίας|Name Person|מַתּתִּתיָה מַתּתִּתיָהוּ|1. Mattathias (i.e. Mattithjah), an Israelite and a Christian
+μάχαιρα|noun|μάχη|1. a knife, i.e. dirk 2. (figuratively) war, judicial punishment
+μάχη|noun|μάχομαι|1. a battle 2. (figuratively) controversy
+μάχομαι|verb|---|1. to war 2. (figuratively) to quarrel, dispute
+μέ|p/p.|---|1. me
+μεγαλαυχέω|verb|μέγας|1. to talk big, i.e. be grandiloquent (arrogant, egotistic)
 μεγαλεῖος|adjective|μέγας|1. magnificent 2. (neuter, plural as noun) a conspicuous favor 3. (subjectively) perfection
-μεγαλειότης|noun|μεγαλεῖος|1. superbness, i.e. glory or splendor
-μεγαλοπρεπής|adjective|πρέπω|1. befitting greatness or magnificence (majestic)
-μεγαλύνω|verb|μέγας|1. to make (or declare) great, i.e. increase or (figuratively) extol
-μεγάλως|adverb|μέγας|1. much
-μεγαλωσύνη|noun|μέγας|1. greatness 2. (figuratively) divinity (often God himself)
-μέγας|adjective|---|1. big
-μέγεθος|noun|μέγας|1. magnitude (figuratively)
-μεγιστᾶνες|noun|μέγιστος|1. grandees
-μέγιστος|adjective|μέγας|1. greatest or very great
-μεθερμηνεύω|verb|ἑρμηνεύω|1. to explain over, i.e. translate
-μέθη|noun|---|1. an intoxicant 2. (by implication) intoxication
-μεθίστημι|verb|ἵστημι|1. to transfer, i.e. carry away, depose or (figuratively) exchange, seduce
-μεθοδεία|noun|ὁδεύω|1. travelling over, i.e. travesty (trickery)
-μεθόριος|noun|ὅριον|1. bounded alongside, i.e. contiguous (neuter plural as noun, frontier)
-μεθύσκω|verb|μεθύω|1. to intoxicate
-μέθυσος|noun|μεθύω|1. tipsy 2. (as noun) a sot
-μεθύω|verb|μέθη|1. to drink to intoxication, i.e. get drunk
+μεγαλειότης|noun|μεγαλεῖος|1. superbness, i.e. glory or splendor
+μεγαλοπρεπής|adjective|πρέπω|1. befitting greatness or magnificence (majestic)
+μεγαλύνω|verb|μέγας|1. to make (or declare) great, i.e. increase or (figuratively) extol
+μεγάλως|adverb|μέγας|1. much
+μεγαλωσύνη|noun|μέγας|1. greatness 2. (figuratively) divinity (often God himself)
+μέγας|adjective|---|1. big
+μέγεθος|noun|μέγας|1. magnitude (figuratively)
+μεγιστάν|noun|μέγιστος|1. grandees
+μέγιστος|adjective|μέγας|1. greatest or very great
+μεθερμηνεύω|verb|ἑρμηνεύω|1. to explain over, i.e. translate
+μέθη|noun|---|1. an intoxicant 2. (by implication) intoxication
+μεθίστημι|verb|ἵστημι|1. to transfer, i.e. carry away, depose or (figuratively) exchange, seduce
+μεθοδεία|noun|ὁδεύω|1. travelling over, i.e. travesty (trickery)
+μεθόριον|noun|ὅριον|1. bounded alongside, i.e. contiguous (neuter plural as noun, frontier)
+μεθύσκω|verb|μεθύω|1. to intoxicate
+μέθυσος|noun|μεθύω|1. tipsy 2. (as noun) a sot
+μεθύω|verb|μέθη|1. to drink to intoxication, i.e. get drunk
 μεῖζον|adverb|μείζων|1. (adverbially) in greater degree
-μειζότερος|adjective|μείζων|1. still larger (figuratively)
-μείζων|adjective|μέγας|1. larger (specially, in age)
-μέλαν|adjective|μέλας|1. ink
-μέλας|adjective|---|1. black
+μειζότερος|adjective|μείζων|1. still larger (figuratively)
+μείζων|adjective|μέγας|1. larger (specially, in age)
+μέλαν|adjective|μέλας|1. ink
+μέλας|adjective|---|1. black
 Μελεᾶς|Name Person|---|1. Meleas, an Israelite
-μελετάω|verb|μέλω|1. to take care of 2. (by implication) revolve in the mind
-μέλι|noun|---|1. honey
-μελίσσιος|adjective|μέλι|1. relating to honey, i.e. bee (comb)
-Μελίτη|Name Location|---|1. Melita, an island in the Mediterranean
-μέλλω|verb|μέλω|1. to intend, i.e. be about to be, do, or suffer something (of persons or things, especially events, in the sense of purpose, duty, necessity, probability, possibility, or hesitation)
-μέλος|noun|---|1. a limb or part of the body
-Μελχί|Name Person|מֶלֶך|1. Melchi (i.e. Malki), the name of two Israelites
-Μελχισεδέκ|Name Person|מַלכִּי ־ צֶּדֶק|1. Melchisedek (i.e. Malkitsedek), a patriarch
-μέλω|verb|---|1. to be of interest to, i.e. to concern (only third person singular present indicative used impersonally, it matters)
-μεμβράνα|noun|---|1. a (written) sheep-skin
-μέμφομαι|verb|---|1. to blame
-μεμψίμοιρος|adjective|μέμφομαι|1. blaming fate, i.e. querulous (discontented)
+μελετάω|verb|μέλω|1. to take care of 2. (by implication) revolve in the mind
+μέλι|noun|---|1. honey
+μελίσσιος|adjective|μέλι|1. relating to honey, i.e. bee (comb)
+Μελίτη|Name Location|---|1. Melita, an island in the Mediterranean
+μέλλω|verb|μέλω|1. to intend, i.e. be about to be, do, or suffer something (of persons or things, especially events, in the sense of purpose, duty, necessity, probability, possibility, or hesitation)
+μέλος|noun|---|1. a limb or part of the body
+Μελχί|Name Person|מֶלֶך|1. Melchi (i.e. Malki), the name of two Israelites
+Μελχισεδέκ|Name Person|מַלכִּי ־ צֶּדֶק|1. Melchisedek (i.e. Malkitsedek), a patriarch
+μέλει|verb|---|1. to be of interest to, i.e. to concern (only third person singular present indicative used impersonally, it matters)
+μεμβράνα|noun|---|1. a (written) sheep-skin
+μέμφομαι|verb|---|1. to blame
+μεμψίμοιρος|adjective|μέμφομαι|1. blaming fate, i.e. querulous (discontented)
 not used|||
 not used|||
 not used|||
@@ -12272,2328 +12272,2328 @@ not used|||
 not used|||
 not used|||
 not used|||
-μέν|particle|---|1. (properly) indicative of affirmation or concession (in fact)
+μέν|particle|---|1. (properly) indicative of affirmation or concession (in fact)
 μενοῦνγε|particle|οὖν|1. so then at least
-μέντοι|conjunction|τοί|1. indeed though, i.e. however
-μένω|verb|---|1. to remain 2. (in a place) to abide, to stay 3. (of expectancy) to await 4. (in a state) to continue 5. (in a task) to endure 6. (of a relationship) to exist permanently in, inseparably united (inhere, adhere)
-μερίζω|verb|μέρος|1. to part 2. (literally) to apportion, bestow, share 3. (figuratively) to disunite, differ
-μέριμνα|noun|μερίζω|1. solicitude
-μεριμνάω|verb|μέριμνα|1. to be anxious about
-μερίς|noun|μέρος|1. a portion, i.e. province, share or (abstractly) participation
-μερισμός|noun|μερίζω|1. a separation or distribution
-μεριστής|noun|μερίζω|1. an apportioner (administrator)
-μέρος|noun|---|1. a division or share
-μεσημβρία|noun|ἡμέρα|1. midday 2. (by implication) the south
-μεσιτεύω|verb|μεσίτης|1. to interpose (as arbiter), i.e (by implication) to ratify (as surety)
-μεσίτης|noun|μέσος|1. a go-between 2. (simply) a spokesman 3. (by implication) a reconciler (intercessor)
-μεσονύκτιον|noun|νύξ|1. midnight (especially as a watch)
-Μεσοποταμία|Name Location|ποταμός|1. Mesopotamia (as lying between the Euphrates and the Tigris), a region of Asia
-μέσος|adjective|μετά|1. middle (as an adjective or (neuter) noun)
-μεσότοιχον|noun|τοῖχος|1. a partition (figuratively)
-μεσουράνημα|noun|οὐρανός|1. mid-sky
-μεσόω|verb|μέσος|1. to form the middle 2. (in point of time), to be half-way over
-Μεσσίας|Name Person|מָשִׁיחַ|1. the Messias (i.e. Mashiach), or Christ
-μεστός|adjective|---|1. replete
-μεστόω|verb|μεστός|1. to replenish 2. (by implication) to intoxicate
-μετά|preposition|---|1. (properly) denoting accompaniment 2. "amid" (local or causal)
-μεταβαίνω|verb|βάσις|1. to change place
-μεταβάλλω|verb|βάλλω|1. to throw over 2. (middle voice figuratively) to turn about in opinion
-μετάγω|verb|ἁρμόζω|1. to lead over, i.e. transfer (direct)
-μεταδίδωμι|verb|δίδωμι|1. to give over, i.e. share
-μετάθεσις|noun|μετατίθημι|1. transposition, i.e. transferral (to heaven), disestablishment (of a law)
-μεταίρω|verb|αἴρω|1. to betake oneself, i.e. remove (locally)
-μετακαλέω|verb|καλέω|1. to call elsewhere, i.e. summon
-μετακινέω|verb|κινέω|1. to stir to a place elsewhere, i.e. remove (figuratively)
-μεταλαμβάνω|verb|λαμβάνω|1. to participate 2. (genitive case) to accept (and use)
-μετάληψις|noun|μεταλαμβάνω|1. participation
-μεταλλάσσω|verb|ἀλλάσσω|1. to exchange
-μεταμέλλομαι|verb|μέλω|1. to care afterwards, i.e. regret
-μεταμορφόω|verb|μορφόω|1. to transform ("metamorphose")
-μετανοέω|verb|νοιέω|1. to think differently or afterwards, i.e. reconsider (morally, feel compunction)
-μετάνοια|noun|μετανοέω|1. (subjectively) compunction (for guilt, including reformation) 2. (by implication) reversal (of (another's) decision)
-μεταξύ|adverb|σύν|1. betwixt (of place or person) 2. (of time) as adjective, intervening 3. (by implication) adjoining
-μεταπέμπω|verb|πέμπω|1. to send from elsewhere 2. (middle voice) to summon or invite
-μεταστρέφω|verb|στρέφω|1. to turn across, i.e. transmute or (figuratively) corrupt
-μετασχηματίζω|verb|σχῆμα|1. to transfigure or disguise 2. (figuratively) to apply (by accommodation)
-μετατίθημι|verb|τίθημι|1. to transfer 2. (literally) to transport 3. (by implication) to exchange 4. (reflexively) to change sides 5. (figuratively) to pervert
-μετέπειτα|adverb|ἔπειτα|1. thereafter
-μετέχω|verb|ἔχω|1. to share or participate 2. (by implication) belong to, eat (or drink)
-μετεωρίζω|verb|αἴρω|1. to raise in mid-air 2. (figuratively) suspend (passively, fluctuate or be anxious)
-μετοικεσία|noun|οἶκος|1. a change of abode 2. (specially), expatriation
-μετοικίζω|verb|οἶκος|1. to transfer as a settler or captive, i.e colonize or exile
-μετοχή|noun|μετέχω|1. participation, i.e. intercourse
-μέτοχος|adjective|μετέχω|1. participant 2. (as noun) a sharer 3. (by implication) an associate
-μετρέω|verb|μέτρον|1. to measure (i.e. ascertain in size by a fixed standard) 2. (by implication) to measure out (i.e. allot by rule)
-μετρητής|noun|μετρέω|1. a measurer 2. (specially), a certain standard measure of capacity for liquids
-μετριοπαθέω|verb|πάθος|1. to be moderate in passion, i.e. gentle (to treat indulgently)
-μετρίως|adverb|μέτρον|1. moderately, i.e. slightly
-μέτρον|noun|---|1. a measure ("metre") 2. (by implication) a limited portion (degree)
-μέτωπον|noun|μετά|1. the forehead (as opposite the countenance)
-μέχρι|adverb|μῆκος|1. as far as, i.e. up to a certain point
-μή|particle|---|1. (adverb) not 2. (conjunction) lest 3. (interrogative) whether
-ἐάν μή|conditional|ἐάν|1. if not, i.e. unless
-ἵνα μή|preposition|ἵνα|1. in order (or so) that not
-οὐ μή|adverb|μή|1. a double negative strengthening the denial, "not at all"
+μέντοι|conjunction|τοί|1. indeed though, i.e. however
+μένω|verb|---|1. to remain 2. (in a place) to abide, to stay 3. (of expectancy) to await 4. (in a state) to continue 5. (in a task) to endure 6. (of a relationship) to exist permanently in, inseparably united (inhere, adhere)
+μερίζω|verb|μέρος|1. to part 2. (literally) to apportion, bestow, share 3. (figuratively) to disunite, differ
+μέριμνα|noun|μερίζω|1. solicitude
+μεριμνάω|verb|μέριμνα|1. to be anxious about
+μερίς|noun|μέρος|1. a portion, i.e. province, share or (abstractly) participation
+μερισμός|noun|μερίζω|1. a separation or distribution
+μεριστής|noun|μερίζω|1. an apportioner (administrator)
+μέρος|noun|---|1. a division or share
+μεσημβρία|noun|ἡμέρα|1. midday 2. (by implication) the south
+μεσιτεύω|verb|μεσίτης|1. to interpose (as arbiter), i.e (by implication) to ratify (as surety)
+μεσίτης|noun|μέσος|1. a go-between 2. (simply) a spokesman 3. (by implication) a reconciler (intercessor)
+μεσονύκτιον|noun|νύξ|1. midnight (especially as a watch)
+Μεσοποταμία|Name Location|ποταμός|1. Mesopotamia (as lying between the Euphrates and the Tigris), a region of Asia
+μέσος|adjective|μετά|1. middle (as an adjective or (neuter) noun)
+μεσότοιχον|noun|τοῖχος|1. a partition (figuratively)
+μεσουράνημα|noun|οὐρανός|1. mid-sky
+μεσόω|verb|μέσος|1. to form the middle 2. (in point of time), to be half-way over
+Μεσσίας|Name Person|מָשִׁיחַ|1. the Messias (i.e. Mashiach), or Christ
+μεστός|adjective|---|1. replete
+μεστόω|verb|μεστός|1. to replenish 2. (by implication) to intoxicate
+μετά|preposition|---|1. (properly) denoting accompaniment 2. "amid" (local or causal)
+μεταβαίνω|verb|βάσις|1. to change place
+μεταβάλλω|verb|βάλλω|1. to throw over 2. (middle voice figuratively) to turn about in opinion
+μετάγω|verb|ἁρμόζω|1. to lead over, i.e. transfer (direct)
+μεταδίδωμι|verb|δίδωμι|1. to give over, i.e. share
+μετάθεσις|noun|μετατίθημι|1. transposition, i.e. transferral (to heaven), disestablishment (of a law)
+μεταίρω|verb|αἴρω|1. to betake oneself, i.e. remove (locally)
+μετακαλέω|verb|καλέω|1. to call elsewhere, i.e. summon
+μετακινέω|verb|κινέω|1. to stir to a place elsewhere, i.e. remove (figuratively)
+μεταλαμβάνω|verb|λαμβάνω|1. to participate 2. (genitive case) to accept (and use)
+μετάληψις|noun|μεταλαμβάνω|1. participation
+μεταλλάσσω|verb|ἀλλάσσω|1. to exchange
+μεταμέλομαι|verb|μέλω|1. to care afterwards, i.e. regret
+μεταμορφόω|verb|μορφόω|1. to transform ("metamorphose")
+μετανοέω|verb|νοιέω|1. to think differently or afterwards, i.e. reconsider (morally, feel compunction)
+μετάνοια|noun|μετανοέω|1. (subjectively) compunction (for guilt, including reformation) 2. (by implication) reversal (of (another's) decision)
+μεταξύ|adverb|σύν|1. betwixt (of place or person) 2. (of time) as adjective, intervening 3. (by implication) adjoining
+μεταπέμπω|verb|πέμπω|1. to send from elsewhere 2. (middle voice) to summon or invite
+μεταστρέφω|verb|στρέφω|1. to turn across, i.e. transmute or (figuratively) corrupt
+μετασχηματίζω|verb|σχῆμα|1. to transfigure or disguise 2. (figuratively) to apply (by accommodation)
+μετατίθημι|verb|τίθημι|1. to transfer 2. (literally) to transport 3. (by implication) to exchange 4. (reflexively) to change sides 5. (figuratively) to pervert
+μετέπειτα|adverb|ἔπειτα|1. thereafter
+μετέχω|verb|ἔχω|1. to share or participate 2. (by implication) belong to, eat (or drink)
+μετεωρίζομαι|verb|αἴρω|1. to raise in mid-air 2. (figuratively) suspend (passively, fluctuate or be anxious)
+μετοικεσία|noun|οἶκος|1. a change of abode 2. (specially), expatriation
+μετοικίζω|verb|οἶκος|1. to transfer as a settler or captive, i.e colonize or exile
+μετοχή|noun|μετέχω|1. participation, i.e. intercourse
+μέτοχος|adjective|μετέχω|1. participant 2. (as noun) a sharer 3. (by implication) an associate
+μετρέω|verb|μέτρον|1. to measure (i.e. ascertain in size by a fixed standard) 2. (by implication) to measure out (i.e. allot by rule)
+μετρητής|noun|μετρέω|1. a measurer 2. (specially), a certain standard measure of capacity for liquids
+μετριοπαθέω|verb|πάθος|1. to be moderate in passion, i.e. gentle (to treat indulgently)
+μετρίως|adverb|μέτρον|1. moderately, i.e. slightly
+μέτρον|noun|---|1. a measure ("metre") 2. (by implication) a limited portion (degree)
+μέτωπον|noun|μετά|1. the forehead (as opposite the countenance)
+μέχρι|adverb|μῆκος|1. as far as, i.e. up to a certain point
+μή|particle|---|1. (adverb) not 2. (conjunction) lest 3. (interrogative) whether
+ἐὰν|conditional|ἐάν|1. if not, i.e. unless
+ἵνα|preposition|ἵνα|1. in order (or so) that not
+οὐ|adverb|μή|1. a double negative strengthening the denial, "not at all"
 μηδαμῶς|adverb|μή|1. not even one
-μηδέ|conjunction|δέ|1. but not, not even 2. (in a continued negation) nor
-μηδείς|adjective|εἷς|1. not even one (man, woman, thing)
-μηδέποτε|adverb|ποτέ|1. not even ever
-μηδέπω|adverb|πῶ|1. not even yet
+μηδέ|conjunction|δέ|1. but not, not even 2. (in a continued negation) nor
+μηδείς|adjective|εἷς|1. not even one (man, woman, thing)
+μηδέποτε|adverb|ποτέ|1. not even ever
+μηδέπω|adverb|πῶ|1. not even yet
 Μῆδος|Name/g.|---|1. a Median, or inhabitant of Media
-μηκέτι|adverb|ἔτι|1. no further
+μηκέτι|adverb|ἔτι|1. no further
 μῆκος|noun|---|1. length
-μηκύνω|verb|μῆκος|1. to lengthen 2. (middle voice) to enlarge
-μηλωτή|noun|---|1. a sheep-skin
-μήν|particle|ἦ|1. assuredly
-μήν|noun|---|1. a month
-μηνύω|verb|μνάομαι|1. to disclose (through the idea of mental effort and thus calling to mind), i.e. report, declare, intimate
-μή οὐκ|adverb|οὐ|1. as interrogative and negative, is it not that?
-μήποτε|adverb|ποτέ|1. not ever 2. also if (or lest) ever (or perhaps)
-μήπω|adverb|πῶ|1. not yet
-μήπως|conjunction|πώς|1. lest somehow
-μηρός|noun|---|1. a thigh
-μήτε|conjunction|τέ|1. not too 2. (in continued negation) neither or nor 3. also, not even
-μήτηρ|noun|---|1. a "mother"
-μήτι|particle|τίς|1. whether at all
-μήτιγε|adverb|γέ|1. not at all then, i.e. not to say (the rather still)
-μήτις|particle|τίς|1. whether any
-μήτρα|noun|μήτηρ|1. the matrix
+μηκύνω|verb|μῆκος|1. to lengthen 2. (middle voice) to enlarge
+μηλωτή|noun|---|1. a sheep-skin
+μήν|particle|ἦ|1. assuredly
+μήν|noun|---|1. a month
+μηνύω|verb|μνάομαι|1. to disclose (through the idea of mental effort and thus calling to mind), i.e. report, declare, intimate
+μὴ|adverb|οὐ|1. as interrogative and negative, is it not that?
+μήποτε|adverb|ποτέ|1. not ever 2. also if (or lest) ever (or perhaps)
+μήπω|adverb|πῶ|1. not yet
+μήπως|conjunction|πώς|1. lest somehow
+μηρός|noun|---|1. a thigh
+μήτε|conjunction|τέ|1. not too 2. (in continued negation) neither or nor 3. also, not even
+μήτηρ|noun|---|1. a "mother"
+μήτι|particle|τίς|1. whether at all
+μήτιγε|adverb|γέ|1. not at all then, i.e. not to say (the rather still)
+μήτις|particle|τίς|1. whether any
+μήτρα|noun|μήτηρ|1. the matrix
 μητραλῴας|noun|ἅλων|1. a matricide, mother murderer 2. (literally) mother-thresher
-μητρόπολις|noun|πόλις|1. a mother city, i.e. "metropolis"
-μία|noun|εἷς|1. one or first
-μιαίνω|verb|---|1. to sully or taint, i.e. contaminate (ceremonially or morally)
-μίασμα|noun|μιαίνω|1. (morally) foulness (properly, the effect)
-μιασμός|noun|μιαίνω|1. (morally) contamination (properly, the act)
-μίγμα|noun|μίγνυμι|1. a compound
-μίγνυμι|verb|---|1. to mix
-μικρόν|adjective|μικρός|1. a small space of time or degree
-μικρός|adjective|---|1. small (in size, quantity, number or (figuratively) dignity)
-Μίλητος|Name Location|---|1. Miletus, a city of Asia Minor
-μίλιον|noun|---|1. a thousand paces, i.e. a "mile"
-μιμέομαι|verb|---|1. to imitate
-μιμητής|noun|μιμέομαι|1. an imitator
-μιμνήσκω|verb|μνάομαι|1. to remind 2. (middle voice) to recall to mind, remember
-μισέω|verb|---|1. to hate 2. (especially) to persecute 3. (by extension) to love less
-μισθαποδοσία|noun|μισθαποδότης|1. requital (good or bad)
-μισθαποδότης|noun|ἀποδίδωμι|1. a renumerator
-μίσθιος|adjective|μισθός|1. a wage-earner
-μισθός|noun|---|1. payment for service (good or bad)
-μισθόω|verb|μισθός|1. to let out for wages 2. (middle voice) to hire
-μίσθωμα|noun|μισθόω|1. a rented building
-μισθωτός|noun|μισθόω|1. a wage-worker (good or bad)
-Μιτυλήνη|Name Location|---|1. Mitylene (or Mytilene), a town on the island of Lesbos
-Μιχαήλ|Name Person|מִיכָּאֵל|1. Michael, an archangel
+μητρόπολις|noun|πόλις|1. a mother city, i.e. "metropolis"
+μία|noun|εἷς|1. one or first
+μιαίνω|verb|---|1. to sully or taint, i.e. contaminate (ceremonially or morally)
+μίασμα|noun|μιαίνω|1. (morally) foulness (properly, the effect)
+μιασμός|noun|μιαίνω|1. (morally) contamination (properly, the act)
+μίγμα|noun|μίγνυμι|1. a compound
+μίγνυμι|verb|---|1. to mix
+μικρόν|adjective|μικρός|1. a small space of time or degree
+μικρός|adjective|---|1. small (in size, quantity, number or (figuratively) dignity)
+Μίλητος|Name Location|---|1. Miletus, a city of Asia Minor
+μίλιον|noun|---|1. a thousand paces, i.e. a "mile"
+μιμέομαι|verb|---|1. to imitate
+μιμητής|noun|μιμέομαι|1. an imitator
+μιμνήσκομαι|verb|μνάομαι|1. to remind 2. (middle voice) to recall to mind, remember
+μισέω|verb|---|1. to hate 2. (especially) to persecute 3. (by extension) to love less
+μισθαποδοσία|noun|μισθαποδότης|1. requital (good or bad)
+μισθαποδότης|noun|ἀποδίδωμι|1. a renumerator
+μίσθιος|adjective|μισθός|1. a wage-earner
+μισθός|noun|---|1. payment for service (good or bad)
+μισθόω|verb|μισθός|1. to let out for wages 2. (middle voice) to hire
+μίσθωμα|noun|μισθόω|1. a rented building
+μισθωτός|noun|μισθόω|1. a wage-worker (good or bad)
+Μιτυλήνη|Name Location|---|1. Mitylene (or Mytilene), a town on the island of Lesbos
+Μιχαήλ|Name Person|מִיכָּאֵל|1. Michael, an archangel
 μνᾶ|noun|---|1. a mna (i.e. mina), a certain weight
-μνάομαι|verb|μασσάομαι|1. to bear in mind, i.e. recollect 2. (by implication) to reward or punish
-Μνάσων|Name Person|---|1. Mnason, a Christian
-μνεία|noun|μιμνήσκω|1. recollection 2. (by implication) recital
+μνάομαι|verb|μασσάομαι|1. to bear in mind, i.e. recollect 2. (by implication) to reward or punish
+Μνάσων|Name Person|---|1. Mnason, a Christian
+μνεία|noun|μιμνήσκω|1. recollection 2. (by implication) recital
 μνῆμα|noun|μνάομαι|1. a memorial, i.e. sepulchral monument (burial-place)
 μνημεῖον|noun|μνήμη|1. a remembrance, i.e. cenotaph (place of interment)
-μνήμη|noun|μιμνήσκω|1. memory
-μνημονεύω|verb|μνήμη|1. to exercise memory, i.e. recollect 2. (by implication) to punish 3. also to rehearse
-μνημόσυνον|noun|μνημονεύω|1. a reminder (memorandum), i.e. record
-μνηστεύω|verb|μνάομαι|1. to give a souvenir (engagement present), i.e. betroth
-μογιλάλος|adjective|λαλέω|1. hardly talking, i.e. dumb (tongue-tied)
-μόγις|adverb|---|1. with difficulty
-μόδιος|noun|---|1. a modius, i.e. certain measure for things dry (the quantity or the utensil)
-μοί|p/p.|---|1. to me
-μοιχαλίς|noun|μοιχός|1. an adulteress
-μοιχάω|verb|μοιχός|1. (middle voice) to commit adultery
-μοιχεία|noun|μοιχεύω|1. adultery
-μοιχεύω|verb|μοιχός|1. to commit adultery
-μοιχός|noun|---|1. a (male) adulterer 2. (figuratively) apostate
-μόλις|adverb|μόγις|1. with difficulty
-Μολόχ|Name Person|מוֹלֶך|1. Moloch (i.e. Molek), an idol
-μολύνω|verb|μέλας|1. to soil (figuratively)
-μολυσμός|noun|μολύνω|1. a stain 2. (figuratively) immorality
-μομφή|noun|μέμφομαι|1. blame 2. (by implication), a fault
-μονή|adjective|μένω|1. a staying, i.e. residence (the act or the place)
-μονογενής|adjective|γίνομαι|1. only-born, i.e. sole
-μόνον|adverb|μόνος|1. merely
-μόνος|adjective|μένω|1. remaining, i.e. sole or single 2. (by implication) mere
-μονόφθαλμος|adjective|ὀφθαλμός|1. one-eyed
-μονόω|verb|μόνος|1. to isolate, i.e. bereave
-μορφή|noun|μέρος|1. shape 2. (figuratively) nature
-μορφόω|verb|μέρος|1. to fashion (figuratively)
-μόρφωσις|noun|μορφόω|1. formation 2. (by implication), appearance (semblance or (concretely) formula)
-μοσχοποιέω|verb|ποιέω|1. to fabricate the image of a bullock
-μόσχος|adjective|---|1. a young bullock
-μόχθος|noun|μόγις|1. toil 2. (by implication) sadness
+μνήμη|noun|μιμνήσκω|1. memory
+μνημονεύω|verb|μνήμη|1. to exercise memory, i.e. recollect 2. (by implication) to punish 3. also to rehearse
+μνημόσυνον|noun|μνημονεύω|1. a reminder (memorandum), i.e. record
+μνηστεύω|verb|μνάομαι|1. to give a souvenir (engagement present), i.e. betroth
+μογγιλάλος|adjective|λαλέω|1. hardly talking, i.e. dumb (tongue-tied)
+μόγις|adverb|---|1. with difficulty
+μόδιος|noun|---|1. a modius, i.e. certain measure for things dry (the quantity or the utensil)
+μοί|p/p.|---|1. to me
+μοιχαλίς|noun|μοιχός|1. an adulteress
+μοιχάομαι|verb|μοιχός|1. (middle voice) to commit adultery
+μοιχεία|noun|μοιχεύω|1. adultery
+μοιχεύω|verb|μοιχός|1. to commit adultery
+μοιχός|noun|---|1. a (male) adulterer 2. (figuratively) apostate
+μόλις|adverb|μόγις|1. with difficulty
+Μολόχ|Name Person|מוֹלֶך|1. Moloch (i.e. Molek), an idol
+μολύνω|verb|μέλας|1. to soil (figuratively)
+μολυσμός|noun|μολύνω|1. a stain 2. (figuratively) immorality
+μομφή|noun|μέμφομαι|1. blame 2. (by implication), a fault
+μονή|adjective|μένω|1. a staying, i.e. residence (the act or the place)
+μονογενής|adjective|γίνομαι|1. only-born, i.e. sole
+μόνον|adverb|μόνος|1. merely
+μόνος|adjective|μένω|1. remaining, i.e. sole or single 2. (by implication) mere
+μονόφθαλμος|adjective|ὀφθαλμός|1. one-eyed
+μονόω|verb|μόνος|1. to isolate, i.e. bereave
+μορφή|noun|μέρος|1. shape 2. (figuratively) nature
+μορφόω|verb|μέρος|1. to fashion (figuratively)
+μόρφωσις|noun|μορφόω|1. formation 2. (by implication), appearance (semblance or (concretely) formula)
+μοσχοποιέω|verb|ποιέω|1. to fabricate the image of a bullock
+μόσχος|adjective|---|1. a young bullock
+μόχθος|noun|μόγις|1. toil 2. (by implication) sadness
 μοῦ|p/p.|ἐμοῦ|1. of me
-μουσικός|adjective|---|1. "musical" 2. (as noun) a minstrel
-μυελός|noun|---|1. the marrow
-μυέω|verb|μυστήριον|1. to initiate 2. (by implication) to teach
-μύθος|noun|μυστήριον|1. a tale, i.e. fiction ("myth")
-μυκάομαι|verb|---|1. to bellow (roar)
-μυκτηρίζω|verb|μυκάομαι|1. to make mouths at, i.e. ridicule
-μυλικός|adjective|μύλος|1. belonging to a mill
-μύλος|noun|μόλις|1. a "mill" 2. (by implication), a grinder (millstone)
-μύλων|noun|μύλος|1. a mill-house
-Μύρα|Name Location|---|1. Myra, a place in Asia Minor
-μυρίας|noun|μύριοι|1. a ten-thousand 2. (by extension) a "myriad" or indefinite number
-μυρίζω|verb|μύρον|1. to apply (perfumed) ointment to
-μύριοι|adjective|---|1. ten thousand 2. (by extension) innumerably many
-μύρον|noun|---|1. "myrrh" 2. (by implication) perfumed oil
-Μυσία|Name Location|---|1. Mysia, a region of Asia Minor
-μυστήριον|noun|---|1. a secret or "mystery"
-μυωπάζω|verb|ὀπτάνομαι|1. to shut the eyes, i.e. blink (see indistinctly)
-μώλωψ|noun|---|1. a mole ("black eye") or blow-mark
-μωμάομαι|verb|μῶμος|1. to carp at, i.e. censure (discredit)
+μουσικός|adjective|---|1. "musical" 2. (as noun) a minstrel
+μυελός|noun|---|1. the marrow
+μυέω|verb|μυστήριον|1. to initiate 2. (by implication) to teach
+μῦθος|noun|μυστήριον|1. a tale, i.e. fiction ("myth")
+μυκάομαι|verb|---|1. to bellow (roar)
+μυκτηρίζω|verb|μυκάομαι|1. to make mouths at, i.e. ridicule
+μυλικός|adjective|μύλος|1. belonging to a mill
+μύλος|noun|μόλις|1. a "mill" 2. (by implication), a grinder (millstone)
+μυλών|noun|μύλος|1. a mill-house
+Μύρα|Name Location|---|1. Myra, a place in Asia Minor
+μυριάς|noun|μύριοι|1. a ten-thousand 2. (by extension) a "myriad" or indefinite number
+μυρίζω|verb|μύρον|1. to apply (perfumed) ointment to
+μυρίοι|adjective|---|1. ten thousand 2. (by extension) innumerably many
+μύρον|noun|---|1. "myrrh" 2. (by implication) perfumed oil
+Μυσία|Name Location|---|1. Mysia, a region of Asia Minor
+μυστήριον|noun|---|1. a secret or "mystery"
+μυωπάζω|verb|ὀπτάνομαι|1. to shut the eyes, i.e. blink (see indistinctly)
+μώλωψ|noun|---|1. a mole ("black eye") or blow-mark
+μωμάομαι|verb|μῶμος|1. to carp at, i.e. censure (discredit)
 μῶμος|noun|μέμφομαι|1. a flaw or blot 2. (figuratively) disgraceful person
-μωραίνω|verb|μωρός|1. to become insipid 2. (figuratively) to make dull 3. (passively) act as a simpleton
-μωρία|noun|μωρός|1. silliness, i.e. absurdity
-μωρολογία|noun|λέγω|1. silly talk, i.e. buffoonery
-μωρός|adjective|μυστήριον|1. dull or stupid (as if shut up), i.e. heedless 2. (morally) blockhead 3. (apparently) absurd
-Μωσεύς|Name Person|מוֹשֶׁה|1. Moseus, Moses, or Mouses (i.e. Mosheh) 2. the Hebrew lawgiver
-Ναασσών|Name Person|נַחשׁוֹן|1. Naasson (i.e. Nachshon), an Israelite
-Ναγγαί|Name Person|---|1. Nangae (i.e. perhaps Nogach), an Israelite
-Ναζαρέθ|Name Location|---|1. Nazareth or Nazaret, a place in Israel
-Ναζαρηνός|Name/g.|Ναζαρέθ|1. a Nazarene, i.e. inhabitant of Nazareth
+μωραίνω|verb|μωρός|1. to become insipid 2. (figuratively) to make dull 3. (passively) act as a simpleton
+μωρία|noun|μωρός|1. silliness, i.e. absurdity
+μωρολογία|noun|λέγω|1. silly talk, i.e. buffoonery
+μωρός|adjective|μυστήριον|1. dull or stupid (as if shut up), i.e. heedless 2. (morally) blockhead 3. (apparently) absurd
+Μωσῆς|Name Person|מוֹשֶׁה|1. Moseus, Moses, or Mouses (i.e. Mosheh) 2. the Hebrew lawgiver
+Ναασσών|Name Person|נַחשׁוֹן|1. Naasson (i.e. Nachshon), an Israelite
+Ναγγαί|Name Person|---|1. Nangae (i.e. perhaps Nogach), an Israelite
+Ναζαρέτ|Name Location|---|1. Nazareth or Nazaret, a place in Israel
+Ναζαρηνός|Name/g.|Ναζαρέθ|1. a Nazarene, i.e. inhabitant of Nazareth
 Ναζωραῖος|Name/g.|Ναζαρέθ|1. a Nazoraean, i.e. inhabitant of Nazareth 2. (by extension) a Christian
-Ναθάν|Name Person|נָתָן|1. Nathan, an Israelite
-Ναθαναήλ|Name Person|נְתַנאֵל|1. Nathanail (i.e. Nathanel), an Israelite and Christian
-ναί|particle|---|1. yes
-Ναΐν|Name Location|---|1. Nain, a place in Israel
-ναός|noun|---|1. (properly) a dwelling place 2. (concretely) a temple,
-Ναούμ|Name Person|נַחוּם|1. Naum (i.e. Nachum), an Israelite
-νάρδος|noun|---|1. "nard" 2. spikenard, an aromatic plant which roots are used to make perfume
-Νάρκισσος|Name Person|---|1. a flower of the same name 2. Narcissus, a Roman
-ναυαγέω|verb|ἄγω|1. to be shipwrecked (stranded, "navigate")
-ναύκληρος|noun|κλῆρος|1. a captain
+Ναθάν|Name Person|נָתָן|1. Nathan, an Israelite
+Ναθαναήλ|Name Person|נְתַנאֵל|1. Nathanail (i.e. Nathanel), an Israelite and Christian
+ναί|particle|---|1. yes
+Ναΐν|Name Location|---|1. Nain, a place in Israel
+ναός|noun|---|1. (properly) a dwelling place 2. (concretely) a temple,
+Ναούμ|Name Person|נַחוּם|1. Naum (i.e. Nachum), an Israelite
+νάρδος|noun|---|1. "nard" 2. spikenard, an aromatic plant which roots are used to make perfume
+Νάρκισσος|Name Person|---|1. a flower of the same name 2. Narcissus, a Roman
+ναυαγέω|verb|ἄγω|1. to be shipwrecked (stranded, "navigate")
+ναύκληρος|noun|κλῆρος|1. a captain
 ναῦς|noun|---|1. a boat (of any size)
-ναύτης|noun|ναῦς|1. a boatman, i.e. seaman
-Ναχώρ|Name Person|נָחוֹר|1. Nachor, the grandfather of Abraham
-νεανίας|noun|νέος|1. a youth (up to about forty years)
-νεανίσκος|noun|νέος|1. a youth (under forty)
-Νεάπολις|Name Location|πόλις|1. new town 2. Neapolis, a place in Macedonia
-Νεεμάν|Name Person|נַעֲמָן|1. Neeman (i.e. Naaman), a Syrian
-νεκρός|adjective|---|1. dead
-νεκρόω|verb|νεκρός|1. to deaden 2. (figuratively) to subdue
-νέκρωσις|noun|νεκρόω|1. decease 2. (figuratively) impotency
-νέος|adjective|---|1. "new" 2. (of persons) youthful 3. (of things) fresh 4. (figuratively) regenerate
-νεοσσός|noun|νέος|1. a youngling (nestling)
-νεότης|noun|νέος|1. newness, i.e. youthfulness
-νεόφυτος|adjective|φύω|1. newly planted 2. (figuratively) a young convert ("neophyte")
-Νέρων|Name Person|---|1. Neron (i.e. Nero), a Roman emperor
-νεύω|verb|---|1. to "nod" 2. (by analogy), signal
-νεφέλη|noun|νέφος|1. (properly) cloudiness 2. (concretely) a cloud
-Νεφθαλείμ|Name/g.|נַפתָּלִי|1. Nephthaleim (i.e. Naphthali), a tribe in Israel
-νέφος|noun|---|1. a cloud 2. (figuratively) a large, dense crowd, a great number of people
-νεφρός|noun|---|1. a kidney (plural) 2. (figuratively) the inmost mind
-νεωκόρος|adjective|ναός|1. a temple servant or custodian 2. (by implication) a votary
-νεωτέρικος|adjective|νέος|1. appertaining to younger persons, i.e. juvenile
-νή|particle|ναί|1. as sure as
-νήθω|verb|---|1. to spin
-νηπιάζω|verb|νήπιος|1. to act as a babe 2. (figuratively) innocently
-νήπιος|adjective|ἔπος|1. not speaking, i.e. an infant (minor) 2. (figuratively) a simple-minded person, an immature Christian
-Νηρεύς|Name Person|ναῦς|1. Nereus, a Christian
-Νηρί|Name Person|נֵרִיָה נֵרִיָהוּ|1. Neri (i.e. Nerijah), an Israelite
-νησίον|noun|νῆσος|1. an islet
+ναύτης|noun|ναῦς|1. a boatman, i.e. seaman
+Ναχώρ|Name Person|נָחוֹר|1. Nachor, the grandfather of Abraham
+νεανίας|noun|νέος|1. a youth (up to about forty years)
+νεανίσκος|noun|νέος|1. a youth (under forty)
+Νεάπολις|Name Location|πόλις|1. new town 2. Neapolis, a place in Macedonia
+Νεεμάν|Name Person|נַעֲמָן|1. Neeman (i.e. Naaman), a Syrian
+νεκρός|adjective|---|1. dead
+νεκρόω|verb|νεκρός|1. to deaden 2. (figuratively) to subdue
+νέκρωσις|noun|νεκρόω|1. decease 2. (figuratively) impotency
+νέος|adjective|---|1. "new" 2. (of persons) youthful 3. (of things) fresh 4. (figuratively) regenerate
+νεοσσός|noun|νέος|1. a youngling (nestling)
+νεότης|noun|νέος|1. newness, i.e. youthfulness
+νεόφυτος|adjective|φύω|1. newly planted 2. (figuratively) a young convert ("neophyte")
+Νέρων|Name Person|---|1. Neron (i.e. Nero), a Roman emperor
+νεύω|verb|---|1. to "nod" 2. (by analogy), signal
+νεφέλη|noun|νέφος|1. (properly) cloudiness 2. (concretely) a cloud
+Νεφθαλείμ|Name/g.|נַפתָּלִי|1. Nephthaleim (i.e. Naphthali), a tribe in Israel
+νέφος|noun|---|1. a cloud 2. (figuratively) a large, dense crowd, a great number of people
+νεφρός|noun|---|1. a kidney (plural) 2. (figuratively) the inmost mind
+νεωκόρος|adjective|ναός|1. a temple servant or custodian 2. (by implication) a votary
+νεωτερικός|adjective|νέος|1. appertaining to younger persons, i.e. juvenile
+νή|particle|ναί|1. as sure as
+νήθω|verb|---|1. to spin
+νηπιάζω|verb|νήπιος|1. to act as a babe 2. (figuratively) innocently
+νήπιος|adjective|ἔπος|1. not speaking, i.e. an infant (minor) 2. (figuratively) a simple-minded person, an immature Christian
+Νηρεύς|Name Person|ναῦς|1. Nereus, a Christian
+Νηρί|Name Person|נֵרִיָה נֵרִיָהוּ|1. Neri (i.e. Nerijah), an Israelite
+νησίον|noun|νῆσος|1. an islet
 νῆσος|noun|ναῦς|1. an island
-νηστεία|noun|νηστεύω|1. abstinence (from lack of food, or voluntary and religious) 2. (specially) the fast of the Day of Atonement
-νηστεύω|verb|νήστις|1. to abstain from food (religiously)
-νήστις|adjective|ἐσθίω|1. not eating, i.e. abstinent from food (religiously)
-νηφάλεος|adjective|νήφω|1. sober 2. (figuratively) circumspect
-νήφω|verb|---|1. to be sober (to abstain from wine) 2. (figuratively) to be sensible, discreet (i.e. sober minded)
-Νίγερ|Name Person|---|1. black 2. Niger, a Christian
-Νικάνωρ|Name Person|νικάω|1. victorious 2. Nicanor, a Christian
-νικάω|verb|νίκη|1. to subdue
-νίκη|noun|---|1. conquest (abstractly) 2. (figuratively) the means of success
-Νικόδημος|Name Person|δῆμος|1. victorious among his people 2. Nicodemus, an Israelite
-Νικολαΐτης|Name/g.|Νικόλαος|1. a Nicolaite, i.e. adherent of Nicolaus
-Νικόλαος|Name Person|Λαοδικεύς|1. victorious over the people 2. Nicolaus, a heretic
-Νικόπολις|Name Location|πόλις|1. victorious city 2. Nicopolis, a place in Macedonia
-νίκος|noun|νίκη|1. a conquest (concretely) 2. (by implication) triumph
-Νινευΐ|Name Location|נִינְוֵה|1. Ninevi (i.e. Nineveh), the capital of Assyria
-Νινευΐτης|Name/g.|Νινευΐ|1. a Ninevite, i.e. inhabitant of Nineveh
-νιπτήρ|noun|νίπτω|1. a ewer
-νίπτω|verb|---|1. to cleanse 2. (ceremonially) to wash with water
-νοιέω|verb|νοῦς|1. to exercise the mind (observe) 2. (figuratively) to comprehend, heed
-νόημα|noun|νοιέω|1. a perception, i.e. purpose 2. (by implication) the intellect, disposition, itself
-νόθος|adjective|---|1. a false or illegitimate son
-νομή|noun|---|1. pasture 2. (the act) feeding 3. (figuratively) spreading of a gangrene 4. (the food) pasturage
-νομίζω|verb|νόμος|1. (properly) to do by law 2. (commonly) to accustom, to make a habit or practice 3. (passively) to be usual, to be a habit 4. (by extension) to deem or regard
-νομικός|adjective|νόμος|1. according (or pertaining) to law, i.e. legal (ceremonially) 2. (as noun) an expert in the (Mosaic) law
-νομίμως|adverb|νόμος|1. legitimately (specially, agreeably to the rules of the lists)
-νόμισμα|noun|νομίζω|1. what is reckoned as of value (after the Latin numisma), i.e. current coin
-νομοδιδάσκαλος|noun|διδάσκαλος|1. a teacher of the (Jewish) law, i.e. a Rabbi
-νομοθεσία|noun|νομοθέτης|1. legislation (specially, the institution of the Mosaic code)
-νομοθετέω|verb|νομοθέτης|1. to legislate 2. (passively) to have (the Mosaic) enactments injoined, be sanctioned (by them)
-νομοθέτης|noun|τίθημι|1. a legislator
-νόμος|noun|---|1. law (through the idea of prescriptive usage) 2. (genitive case) regulation 3. (specially) of Moses (including the volume), also of the Gospel 4. (figuratively) a principle
-νοσέω|verb|νόσος|1. to be sick 2. (by implication, of a diseased appetite) to hanker after 3. (figuratively) to harp upon
-νόσημα|noun|νοσέω|1. an ailment
-νόσος|noun|---|1. a malady 2. (figuratively, rarely)  of moral disability
-νοσσιά|noun|νεοσσός|1. a brood (of chickens)
-νοσσίον|noun|νεοσσός|1. a birdling
-νοσφίζομαι|verb|---|1. to sequestrate for oneself, i.e. embezzle
-νότος|noun|---|1. the south(-west) wind 2. (by extension) the southern quarter itself
-νουθεσία|noun|τίθημι|1. calling attention to 2. (by implication) mild rebuke or warning
-νουθετέω|verb|τίθημι|1. to put in mind 2. (by implication) to caution or reprove gently
-νουμηνία|noun|μήν|1. the festival of new moon
+νηστεία|noun|νηστεύω|1. abstinence (from lack of food, or voluntary and religious) 2. (specially) the fast of the Day of Atonement
+νηστεύω|verb|νήστις|1. to abstain from food (religiously)
+νῆστις|adjective|ἐσθίω|1. not eating, i.e. abstinent from food (religiously)
+νηφαλέος|adjective|νήφω|1. sober 2. (figuratively) circumspect
+νήφω|verb|---|1. to be sober (to abstain from wine) 2. (figuratively) to be sensible, discreet (i.e. sober minded)
+Νίγερ|Name Person|---|1. black 2. Niger, a Christian
+Νικάνωρ|Name Person|νικάω|1. victorious 2. Nicanor, a Christian
+νικάω|verb|νίκη|1. to subdue
+νίκη|noun|---|1. conquest (abstractly) 2. (figuratively) the means of success
+Νικόδημος|Name Person|δῆμος|1. victorious among his people 2. Nicodemus, an Israelite
+Νικολαΐτης|Name/g.|Νικόλαος|1. a Nicolaite, i.e. adherent of Nicolaus
+Νικόλαος|Name Person|Λαοδικεύς|1. victorious over the people 2. Nicolaus, a heretic
+Νικόπολις|Name Location|πόλις|1. victorious city 2. Nicopolis, a place in Macedonia
+νῖκος|noun|νίκη|1. a conquest (concretely) 2. (by implication) triumph
+Νινευΐ|Name Location|נִינְוֵה|1. Ninevi (i.e. Nineveh), the capital of Assyria
+Νινευίτης|Name/g.|Νινευΐ|1. a Ninevite, i.e. inhabitant of Nineveh
+νιπτήρ|noun|νίπτω|1. a ewer
+νίπτω|verb|---|1. to cleanse 2. (ceremonially) to wash with water
+νοέω|verb|νοῦς|1. to exercise the mind (observe) 2. (figuratively) to comprehend, heed
+νόημα|noun|νοιέω|1. a perception, i.e. purpose 2. (by implication) the intellect, disposition, itself
+νόθος|adjective|---|1. a false or illegitimate son
+νομή|noun|---|1. pasture 2. (the act) feeding 3. (figuratively) spreading of a gangrene 4. (the food) pasturage
+νομίζω|verb|νόμος|1. (properly) to do by law 2. (commonly) to accustom, to make a habit or practice 3. (passively) to be usual, to be a habit 4. (by extension) to deem or regard
+νομικός|adjective|νόμος|1. according (or pertaining) to law, i.e. legal (ceremonially) 2. (as noun) an expert in the (Mosaic) law
+νομίμως|adverb|νόμος|1. legitimately (specially, agreeably to the rules of the lists)
+νόμισμα|noun|νομίζω|1. what is reckoned as of value (after the Latin numisma), i.e. current coin
+νομοδιδάσκαλος|noun|διδάσκαλος|1. a teacher of the (Jewish) law, i.e. a Rabbi
+νομοθεσία|noun|νομοθέτης|1. legislation (specially, the institution of the Mosaic code)
+νομοθετέω|verb|νομοθέτης|1. to legislate 2. (passively) to have (the Mosaic) enactments injoined, be sanctioned (by them)
+νομοθέτης|noun|τίθημι|1. a legislator
+νόμος|noun|---|1. law (through the idea of prescriptive usage) 2. (genitive case) regulation 3. (specially) of Moses (including the volume), also of the Gospel 4. (figuratively) a principle
+νοσέω|verb|νόσος|1. to be sick 2. (by implication, of a diseased appetite) to hanker after 3. (figuratively) to harp upon
+νόσημα|noun|νοσέω|1. an ailment
+νόσος|noun|---|1. a malady 2. (figuratively, rarely)  of moral disability
+νοσσιά|noun|νεοσσός|1. a brood (of chickens)
+νοσσίον|noun|νεοσσός|1. a birdling
+νοσφίζω|verb|---|1. to sequestrate for oneself, i.e. embezzle
+νότος|noun|---|1. the south(-west) wind 2. (by extension) the southern quarter itself
+νουθεσία|noun|τίθημι|1. calling attention to 2. (by implication) mild rebuke or warning
+νουθετέω|verb|τίθημι|1. to put in mind 2. (by implication) to caution or reprove gently
+νουμηνία|noun|μήν|1. the festival of new moon
 νουνεχῶς|adverb|ἔχω|1. in a mind-having way, i.e. prudently
 νοῦς|noun|γινώσκω|1. the intellect, i.e. the mind 2. (by implication) meaning
 Νυμφᾶς|Name Person|δῶρον|1. nymph-given (i.e. -born) 2. Nymphas, a Christian
-νύμφη|noun|---|1. a young married woman (as veiled), including a betrothed girl 2. (by implication) a son's wife
-νυμφίος|noun|νύμφη|1. a bride-groom
-νυμφών|noun|νύμφη|1. the bridal room
+νύμφη|noun|---|1. a young married woman (as veiled), including a betrothed girl 2. (by implication) a son's wife
+νυμφίος|noun|νύμφη|1. a bride-groom
+νυμφών|noun|νύμφη|1. the bridal room
 νῦν|adverb|---|1. "now"
 τανῦν|adverb|νῦν|1. the things now 2. (adverbially) at present
-νυνί|adverb|νῦν|1. just now
-νύξ|noun|---|1. night
-νύσσω|verb|---|1. to prick ("nudge")
-νυστάζω|verb|νεύω|1. to nod 2. (by implication) to fall asleep 3. (figuratively) to delay
-νυχθήμερον|noun|ἡμέρα|1. a day-and-night, i.e. full day of twenty-four hours
+νυνί|adverb|νῦν|1. just now
+νύξ|noun|---|1. night
+νύσσω|verb|---|1. to prick ("nudge")
+νυστάζω|verb|νεύω|1. to nod 2. (by implication) to fall asleep 3. (figuratively) to delay
+νυχθήμερον|noun|ἡμέρα|1. a day-and-night, i.e. full day of twenty-four hours
 Νῶε|Name Person|נוֹחַ|1. Noe, (i.e. Noach), a patriarch
-νωθρός|adjective|νόθος|1. sluggish 2. (literally) lazy 3. (figuratively) stupid
+νωθρός|adjective|νόθος|1. sluggish 2. (literally) lazy 3. (figuratively) stupid
 νῶτος|noun|---|1. the back
-ξενία|noun|ξένος|1. hospitality 2. (by implication) a place of lodging
-ξενίζω|verb|ξένος|1. to be a host 2. (passively) to be a guest 3. (by implication) be (make, appear) strange
-ξενοδοχέω|verb|δέχομαι|1. (properly) to receive strangers 2. (generally) to be hospitable
-ξένος|adjective|---|1. foreign 2. (literally) alien 3. (figuratively) novel 4. (by implication, actively) a host 5. (by implication, passively) a guest
-ξέστης|noun|---|1. a vessel (for cooking) holding a sixth of a modius (about a pint and a half or a liter) 2. (specially) a measuring cup for liquids or solids 3. (by analogy) a pitcher
-ξηραίνω|verb|ξηρός|1. to make dry 2. (bodily) to wither 3. (by implication) to waste away 4. (of harvest) fully ripe, mature
-ξηρός|adjective|ξέστης|1. arid, extremely dry 2. (by implication) dry land, earth (as opposed to water) 3. (bodily) withered
-ξύλινος|adjective|ξύλον|1. wooden
-ξύλον|noun|ξέστης|1. wood (as fuel or material) 2. (by extension) a tree 3. (by implication) a stick, staff or tree or other wooden article or substance
-ξυράω|verb|ξύλον|1. to shave or "shear" the hair
+ξενία|noun|ξένος|1. hospitality 2. (by implication) a place of lodging
+ξενίζω|verb|ξένος|1. to be a host 2. (passively) to be a guest 3. (by implication) be (make, appear) strange
+ξενοδοχέω|verb|δέχομαι|1. (properly) to receive strangers 2. (generally) to be hospitable
+ξένος|adjective|---|1. foreign 2. (literally) alien 3. (figuratively) novel 4. (by implication, actively) a host 5. (by implication, passively) a guest
+ξέστης|noun|---|1. a vessel (for cooking) holding a sixth of a modius (about a pint and a half or a liter) 2. (specially) a measuring cup for liquids or solids 3. (by analogy) a pitcher
+ξηραίνω|verb|ξηρός|1. to make dry 2. (bodily) to wither 3. (by implication) to waste away 4. (of harvest) fully ripe, mature
+ξηρός|adjective|ξέστης|1. arid, extremely dry 2. (by implication) dry land, earth (as opposed to water) 3. (bodily) withered
+ξύλινος|adjective|ξύλον|1. wooden
+ξύλον|noun|ξέστης|1. wood (as fuel or material) 2. (by extension) a tree 3. (by implication) a stick, staff or tree or other wooden article or substance
+ξυράω|verb|ξύλον|1. to shave or "shear" the hair
 ὁ|article|---|1. the
-ὀγδοήκοντα|noun|ὄγδοος|1. ten times eight
+ὀγδοήκοντα|noun|ὄγδοος|1. ten times eight
 ὄγδοος|adjective|ὀκτώ|1. the eighth
 ὄγκος|noun|---|1. a mass (as bending or bulging by its load) 2. (figuratively) a burden (hindrance)
 ὅδε|p/d.|δέ|1. the same, i.e. this or that one (plural these or those)
-ὁδεύω|verb|ὁδός|1. to travel
-ὁδηγέω|verb|ὁδηγός|1. to show the way 2. (figuratively) teach
-ὁδηγός|noun|ἡγέομαι|1. a conductor 2. (figuratively) teacher
-ὁδοιπορέω|verb|πορεύομαι|1. to be a wayfarer, i.e. travel
-ὁδοιπορία|noun|πορεύομαι|1. travel
-ὁδός|noun|---|1. a road 2. (by implication) a progress (the route, act or distance) 3. (figuratively) a mode or means
-ὀδούς|noun|ἐσθίω|1. a "tooth"
-ὀδυνάω|verb|ὀδύνη|1. to grieve
-ὀδύνη|noun|δύνω|1. grief (as dejecting)
-ὀδυρμός|noun|δύνω|1. moaning, i.e. lamentation
-ὅ ἐστί|p/r.|εἰμί|1. which is
-Ὀζίας|Name Person|עוּזִּיָה עוּזִּיָהוּ|1. Ozias (i.e. Uzzijah), an Israelite
+ὁδεύω|verb|ὁδός|1. to travel
+ὁδηγέω|verb|ὁδηγός|1. to show the way 2. (figuratively) teach
+ὁδηγός|noun|ἡγέομαι|1. a conductor 2. (figuratively) teacher
+ὁδοιπορέω|verb|πορεύομαι|1. to be a wayfarer, i.e. travel
+ὁδοιπορία|noun|πορεύομαι|1. travel
+ὁδός|noun|---|1. a road 2. (by implication) a progress (the route, act or distance) 3. (figuratively) a mode or means
+ὀδούς|noun|ἐσθίω|1. a "tooth"
+ὀδυνάω|verb|ὀδύνη|1. to grieve
+ὀδύνη|noun|δύνω|1. grief (as dejecting)
+ὀδυρμός|noun|δύνω|1. moaning, i.e. lamentation
+ὅ|p/r.|εἰμί|1. which is
+Ὀζίας|Name Person|עוּזִּיָה עוּזִּיָהוּ|1. Ozias (i.e. Uzzijah), an Israelite
 ὄζω|verb|---|1. to scent (usually an ill "odor")
 ὅθεν|adverb|ὅς|1. from which place or source or cause (adverb or conjunction)
-ὀθόνη|noun|---|1. a linen cloth 2. (especially) a sail
-ὀθόνιον|noun|ὀθόνη|1. a linen bandage
+ὀθόνη|noun|---|1. a linen cloth 2. (especially) a sail
+ὀθόνιον|noun|ὀθόνη|1. a linen bandage
 οἰκεῖος|adjective|οἶκος|1. domestic 2. (as noun), a relative, adherent
-οἰκέτης|noun|οἰκέω|1. a house servant or slave, i.e. menial domestic 2. a houseman or housemaid
-οἰκέω|verb|οἶκος|1. to occupy a house, i.e. reside 2. (figuratively) inhabit, remain, inhere 3. (by implication) to cohabit
+οἰκέτης|noun|οἰκέω|1. a house servant or slave, i.e. menial domestic 2. a houseman or housemaid
+οἰκέω|verb|οἶκος|1. to occupy a house, i.e. reside 2. (figuratively) inhabit, remain, inhere 3. (by implication) to cohabit
 οἴκημα|noun|οἰκέω|1. a tenement 2. (specially), a jail
-οἰκητήριον|noun|οἰκέω|1. a residence
-οἰκία|noun|οἶκος|1. (properly, abstractly) a residence 2. (usually, concretely) an abode 3. (by implication) a family (especially domestics)
-οἰκιακός|noun|οἰκία|1. familiar 2. (as noun) relatives
-οἰκοδεσποτέω|verb|οἰκοδεσπότης|1. to be the head of (i.e. rule) a family
-οἰκοδεσπότης|noun|δεσπότης|1. the head of a family
-οἰκοδομέω|verb|δῶμα|1. to be a house-builder, i.e. construct 2. (figuratively) confirm
-οἰκοδομή|noun|δῶμα|1. architecture 2. (concretely) a structure 3. (figuratively) confirmation
-οἰκοδομία|noun|δῶμα|1. confirmation
-οἰκονομέω|verb|οἰκονόμος|1. to manage (a house, i.e. an estate)
-οἰκονομία|noun|οἰκονόμος|1. administration (of a household or estate) 2. (specially) a (religious) "economy"
-οἰκονόμος|noun|νόμος|1. a house-distributor (i.e. manager), or overseer, i.e. an employee in that capacity 2. (by extension) a fiscal agent (treasurer) 3. (figuratively) a preacher (of the Gospel)
+οἰκητήριον|noun|οἰκέω|1. a residence
+οἰκία|noun|οἶκος|1. (properly, abstractly) a residence 2. (usually, concretely) an abode 3. (by implication) a family (especially domestics)
+οἰκειακός|noun|οἰκία|1. familiar 2. (as noun) relatives
+οἰκοδεσποτέω|verb|οἰκοδεσπότης|1. to be the head of (i.e. rule) a family
+οἰκοδεσπότης|noun|δεσπότης|1. the head of a family
+οἰκοδομέω|verb|δῶμα|1. to be a house-builder, i.e. construct 2. (figuratively) confirm
+οἰκοδομή|noun|δῶμα|1. architecture 2. (concretely) a structure 3. (figuratively) confirmation
+οἰκοδομία|noun|δῶμα|1. confirmation
+οἰκονομέω|verb|οἰκονόμος|1. to manage (a house, i.e. an estate)
+οἰκονομία|noun|οἰκονόμος|1. administration (of a household or estate) 2. (specially) a (religious) "economy"
+οἰκονόμος|noun|νόμος|1. a house-distributor (i.e. manager), or overseer, i.e. an employee in that capacity 2. (by extension) a fiscal agent (treasurer) 3. (figuratively) a preacher (of the Gospel)
 οἶκος|noun|---|1. a dwelling (more or less extensive) 2. (by implication) a family (more or less related)
-οἰκουμένη|noun|οἰκέω|1. land, i.e. the (earthly part of the) globe 2. (specially) the Roman empire
-οἰκουρός|adjective|οἶκος|1. a stayer at home, i.e. domestically inclined (a "good housekeeper")
-οἰκτείρω|verb|---|1. to exercise pity
-οἰκτιρμός|noun|οἰκτείρω|1. pity
-οἰκτίρμων|adjective|οἰκτείρω|1. compassionate
-οἰνοπότης|noun|πίνω|1. a tippler
+οἰκουμένη|noun|οἰκέω|1. land, i.e. the (earthly part of the) globe 2. (specially) the Roman empire
+οὐκουρός|adjective|οἶκος|1. a stayer at home, i.e. domestically inclined (a "good housekeeper")
+οἰκτείρω|verb|---|1. to exercise pity
+οἰκτιρμός|noun|οἰκτείρω|1. pity
+οἰκτίρμων|adjective|οἰκτείρω|1. compassionate
+οἰνοπότης|noun|πίνω|1. a tippler
 οἶνος|noun|יַיִן|1. wine
-οἰνοφλυγία|noun|φλύαρος|1. an overflow (or surplus) of wine, i.e. vinolency (drunkenness)
-οἴομαι|verb|οἷος|1. to make like (oneself), i.e. imagine (be of the opinion)
-οἷος|p/k|---|1. such or what sort of 2. (with negative) not so
-ὀκνέω|verb|---|1. to be slow 2. (figuratively) loath
-ὀκνηρός|adjective|ὀκνέω|1. tardy, i.e. indolent 2. (figuratively) irksome
-ὀκταήμερος|adjective|ἡμέρα|1. an eight-day old person or act
-ὀκτώ|noun|---|1. eight
+οἰνοφλυγία|noun|φλύαρος|1. an overflow (or surplus) of wine, i.e. vinolency (drunkenness)
+οἴμαι|verb|οἷος|1. to make like (oneself), i.e. imagine (be of the opinion)
+οἵος|p/k|---|1. such or what sort of 2. (with negative) not so
+ὀκνέω|verb|---|1. to be slow 2. (figuratively) loath
+ὀκνηρός|adjective|ὀκνέω|1. tardy, i.e. indolent 2. (figuratively) irksome
+ὀκταήμερος|adjective|ἡμέρα|1. an eight-day old person or act
+ὀκτώ|noun|---|1. eight
 ὄλεθρος|noun|---|1. ruin, i.e. death, punishment
-ὀλιγόπιστος|adjective|πίστις|1. incredulous, i.e. lacking confidence (in Christ)
-ὀλίγος|adjective|---|1. puny, tiny (in extent, degree, number, duration or value) 2. (of time) 3. brief, momentary i.e. a moment or short time 4. (of number) few 5. (of quantity) little 6. (especially neuter, adverbially) somewhat
-ὀλιγόψυχος|adjective|ὀλίγος|1. little-spirited, i.e. faint-hearted
-ὀλιγωρέω|verb|ὀλίγος|1. to have little regard for, i.e. to disesteem
-ὀλοθρευτής|noun|ὀλοθρεύω|1. a ruiner 2. (specially), a venomous serpent
-ὀλοθρεύω|verb|ὀλοθρεύω|1. to spoil, i.e. slay
-ὁλοκαύτωμα|noun|καίω|1. a wholly-consumed sacrifice ("holocaust")
-ὁλοκληρία|noun|ὁλόκληρος|1. integrity, i.e. physical wholeness
-ὁλόκληρος|adjective|κλῆρος|1. complete in every part, i.e. perfectly sound (in body)
-ὀλολύζω|verb|---|1. to "howl" or "halloo", i.e. shriek
+ὀλιγόπιστος|adjective|πίστις|1. incredulous, i.e. lacking confidence (in Christ)
+ὀλίγος|adjective|---|1. puny, tiny (in extent, degree, number, duration or value) 2. (of time) 3. brief, momentary i.e. a moment or short time 4. (of number) few 5. (of quantity) little 6. (especially neuter, adverbially) somewhat
+ὀλιγόψυχος|adjective|ὀλίγος|1. little-spirited, i.e. faint-hearted
+ὀλιγωρέω|verb|ὀλίγος|1. to have little regard for, i.e. to disesteem
+ὀλοθρευτής|noun|ὀλοθρεύω|1. a ruiner 2. (specially), a venomous serpent
+ὀλοθρεύω|verb|ὀλοθρεύω|1. to spoil, i.e. slay
+ὁλοκαύτωμα|noun|καίω|1. a wholly-consumed sacrifice ("holocaust")
+ὁλοκληρία|noun|ὁλόκληρος|1. integrity, i.e. physical wholeness
+ὁλόκληρος|adjective|κλῆρος|1. complete in every part, i.e. perfectly sound (in body)
+ὀλολύζω|verb|---|1. to "howl" or "halloo", i.e. shriek
 ὅλος|adjective|---|1. "whole" or "all", i.e. complete (in extent, amount, time or degree), especially (neuter) as noun or adverb
-ὁλοτελής|adjective|τέλος|1. complete to the end, i.e. absolutely perfect
+ὁλοτελής|adjective|τέλος|1. complete to the end, i.e. absolutely perfect
 Ὀλυμπᾶς|Name Person|---|1. Olympas, a Christian
 ὄλυνθος|noun|---|1. an unripe (because out of season) fig
 ὅλως|adverb|ὅλος|1. completely, i.e. altogether 2. (by analogy), everywhere 3. (negatively) not by any means
 ὄμβρος|noun|---|1. a thunder storm
-ὁμιλέω|verb|ὅμιλος|1. to be in company with 2. (by implication) to converse
-ὁμιλία|noun|ὅμιλος|1. companionship ("homily") 2. (by implication) intercourse
+ὁμιλέω|verb|ὅμιλος|1. to be in company with 2. (by implication) to converse
+ὁμιλία|noun|ὅμιλος|1. companionship ("homily") 2. (by implication) intercourse
 ὅμιλος|noun|αἱρέομαι|1. association together, i.e. a multitude
 ὄμμα|noun|ὀπτάνομαι|1. a sight 2. (by implication) the eye
-ὀμνύω|verb|---|1. to swear, i.e. take (or declare on) oath
-ὁμοθυμαδόν|adverb|θυμός|1. unanimously
-ὁμοιάζω|verb|ὅμοιος|1. to resemble
-ὁμοιοπαθής|adjective|πάσχω|1. similarly affected
+ὀμνύω|verb|---|1. to swear, i.e. take (or declare on) oath
+ὁμοθυμαδόν|adverb|θυμός|1. unanimously
+ὁμοιάζω|verb|ὅμοιος|1. to resemble
+ὁμοιοπαθής|adjective|πάσχω|1. similarly affected
 ὅμοιος|adjective|ὁμοῦ|1. similar (in appearance or character)
-ὁμοιότης|noun|ὅμοιος|1. resemblance
-ὁμοιόω|verb|ὅμοιος|1. to assimilate, i.e. compare 2. (passively) to become similar
-ὁμοίωμα|noun|ὁμοιόω|1. a form 2. (abstractly) resemblance
-ὁμοίως|adverb|ὅμοιος|1. similarly
-ὁμοίωσις|noun|ὁμοιόω|1. assimilation, i.e. resemblance
-ὁμολογέω|verb|λόγος|1. to assent, i.e. covenant, acknowledge
-ὁμολογία|noun|λόγος|1. acknowledgment
-ὁμολογουμένως|adverb|ὁμολογέω|1. confessedly
-ὁμότεχνος|adjective|τέχνη|1. a fellow-artificer
+ὁμοιότης|noun|ὅμοιος|1. resemblance
+ὁμοιόω|verb|ὅμοιος|1. to assimilate, i.e. compare 2. (passively) to become similar
+ὁμοίωμα|noun|ὁμοιόω|1. a form 2. (abstractly) resemblance
+ὁμοίως|adverb|ὅμοιος|1. similarly
+ὁμοίωσις|noun|ὁμοιόω|1. assimilation, i.e. resemblance
+ὁμολογέω|verb|λόγος|1. to assent, i.e. covenant, acknowledge
+ὁμολογία|noun|λόγος|1. acknowledgment
+ὁμολογουμένως|adverb|ὁμολογέω|1. confessedly
+ὁμότεχνος|adjective|τέχνη|1. a fellow-artificer
 ὁμοῦ|adverb|---|1. at the same place or time
-ὁμόφρων|adjective|ὁμοῦ|1. like-minded, i.e. harmonious
+ὁμόφρων|adjective|ὁμοῦ|1. like-minded, i.e. harmonious
 ὅμως|conjunction|ὁμοῦ|1. at the same time 2. (conjunctionally) notwithstanding, yet still
 ὄναρ|noun|---|1. a dream
-ὀνάριον|noun|ὄνος|1. a little ass
-ὀνειδίζω|verb|ὄνειδος|1. to defame, i.e. rail at, chide, taunt, deride
-ὀνειδισμός|noun|ὀνειδίζω|1. reproach, derision
+ὀνάριον|noun|ὄνος|1. a little ass
+ὀνειδίζω|verb|ὄνειδος|1. to defame, i.e. rail at, chide, taunt, deride
+ὀνειδισμός|noun|ὀνειδίζω|1. reproach, derision
 ὄνειδος|noun|---|1. notoriety, i.e. a taunt (disgrace)
-Ὀνήσιμος|Name Person|ὀνίνημι|1. profitable 2. Onesimus, a Christian
-Ὀνησίφορος|Name Person|φόρος|1. profit-bearer 2. Onesiphorus, a Christian
-ὀνικός|adjective|ὄνος|1. belonging to a donkey, i.e. large (so as to be turned by a donkey)
-ὀνίνημι|verb|---|1. to gratify 2. (middle voice) to derive pleasure or advantage from
+Ὀνήσιμος|Name Person|ὀνίνημι|1. profitable 2. Onesimus, a Christian
+Ὀνησίφορος|Name Person|φόρος|1. profit-bearer 2. Onesiphorus, a Christian
+ὀνικός|adjective|ὄνος|1. belonging to a donkey, i.e. large (so as to be turned by a donkey)
+ὀνίνημι|verb|---|1. to gratify 2. (middle voice) to derive pleasure or advantage from
 ὄνομα|noun|γινώσκω|1. a "name" (authority, character)
-ὀνομάζω|verb|ὄνομα|1. to name, i.e. assign an appellation 2. (by extension) to utter, mention, profess
+ὀνομάζω|verb|ὄνομα|1. to name, i.e. assign an appellation 2. (by extension) to utter, mention, profess
 ὄνος|noun|---|1. a donkey
 ὄντως|adverb|ὤν|1. really
 ὄξος|noun|ὀξύς|1. vinegar, i.e. sour wine
-ὀξύς|adjective|---|1. keen 2. (by analogy) rapid
-ὀπή|noun|ὀπτάνομαι|1. a hole (as if for light), i.e. cavern 2. (by analogy) a spring (of water)
+ὀξύς|adjective|---|1. keen 2. (by analogy) rapid
+ὀπή|noun|ὀπτάνομαι|1. a hole (as if for light), i.e. cavern 2. (by analogy) a spring (of water)
 ὄπισθεν|adverb|ὀπτάνομαι|1. from the rear (as a secure aspect), i.e. at the back (adverb and preposition of place or time)
-ὀπίσω|adverb|ὀπτάνομαι|1. to the back, i.e. aback
-ὁπλίζω|verb|ὅπλον|1. to equip (with weapons (middle voice and figuratively))
+ὀπίσω|adverb|ὀπτάνομαι|1. to the back, i.e. aback
+ὁπλίζω|verb|ὅπλον|1. to equip (with weapons (middle voice and figuratively))
 ὅπλον|noun|---|1. an implement or utensil or tool 2. (especially) offensive tool for war
 ὁποῖος|adjective|ποῖος|1. of what kind that, i.e. how (as) great (excellent)
-ὁπότε|adverb|ποτέ|1. what(-ever) then 2. (of time) as soon as
+ὁπότε|adverb|ποτέ|1. what(-ever) then 2. (of time) as soon as
 ὅπου|adverb|πού|1. what(-ever) where, i.e. at whichever spot
-ὀπτάνομαι|verb|---|1. to gaze (i.e. with wide-open eyes)
-ὀπτασία|noun|---|1. visuality 2. (concretely) an apparition
-ὀπτός|adjective|---|1. cooked, i.e. roasted
-ὀπώρα|noun|ὥρα|1. (properly) even-tide of the (summer) season (dog-days) 2. (by implication) ripe fruit
+ὀπτάνομαι|verb|---|1. to gaze (i.e. with wide-open eyes)
+ὀπτασία|noun|---|1. visuality 2. (concretely) an apparition
+ὀπτός|adjective|---|1. cooked, i.e. roasted
+ὀπώρα|noun|ὥρα|1. (properly) even-tide of the (summer) season (dog-days) 2. (by implication) ripe fruit
 ὅπως|adverb|πῶς|1. what(-ever) how, i.e. in the manner that (as adverb or conjunction of coincidence, intentional or actual)
 ὅραμα|noun|ὁράω|1. something gazed at, i.e. a spectacle (especially supernatural)
 ὅρασις|noun|ὁράω|1. the act of gazing 2. (externally) an aspect 3. (internally) an inspired appearance
-ὁρατός|adjective|ὁράω|1. gazed at 2. (by implication) capable of being seen
-ὁράω|verb|---|1. (properly) to stare at 2. (by implication) to discern clearly (physically or mentally) 3. (by extension) to attend to 4. (by Hebraism) to experience 5. (passively) to appear
-ὀργή|noun|ὀρέγομαι|1. (properly) desire (as a reaching forth or excitement of the mind) 2. (by analogy) violent passion (ire or (justifiable) abhorrence) 3. (by implication) punishment
-ὀργίζω|verb|ὀργή|1. to provoke or enrage 2. (passively) become exasperated
-ὀργίλος|adjective|ὀργή|1. irascible
-ὀργυιά|noun|ὀρέγομαι|1. a stretch of the arms, i.e. a fathom
-ὀρέγομαι|verb|---|1. to stretch oneself, i.e. reach out after (long for)
-ὀρεινός|adjective|ὄρος|1. mountainous, i.e.  the Highlands (of Judaea)
+ὁρατός|adjective|ὁράω|1. gazed at 2. (by implication) capable of being seen
+ὁράω|verb|---|1. (properly) to stare at 2. (by implication) to discern clearly (physically or mentally) 3. (by extension) to attend to 4. (by Hebraism) to experience 5. (passively) to appear
+ὀργή|noun|ὀρέγομαι|1. (properly) desire (as a reaching forth or excitement of the mind) 2. (by analogy) violent passion (ire or (justifiable) abhorrence) 3. (by implication) punishment
+ὀργίζω|verb|ὀργή|1. to provoke or enrage 2. (passively) become exasperated
+ὀργίλος|adjective|ὀργή|1. irascible
+ὀργυιά|noun|ὀρέγομαι|1. a stretch of the arms, i.e. a fathom
+ὀρέγω|verb|---|1. to stretch oneself, i.e. reach out after (long for)
+ὀρεινός|adjective|ὄρος|1. mountainous, i.e.  the Highlands (of Judaea)
 ὄρεξις|noun|ὀρέγομαι|1. excitement of the mind, i.e. longing after
-ὀρθοποδέω|verb|πούς|1. to be straight-footed 2. (figuratively) to go directly forward
-ὀρθός|adjective|ὄρος|1. upright (as rising) 2. (perpendicularly) erect 3. (figuratively) honest 4. (horizontally) level or direct
-ὀρθοτομέω|verb|τομώτερος|1. to make a straight cut 2. (figuratively) to dissect (expound) correctly (the divine message)
-ὀρθρίζω|verb|ὄρθρος|1. to use the dawn 2. (by implication) to repair betimes
-ὀρθρινός|adjective|ὄρθρος|1. relating to the dawn, i.e. of early morning (as an epithet of Venus, especially brilliant in the early day)
+ὀρθοποδέω|verb|πούς|1. to be straight-footed 2. (figuratively) to go directly forward
+ὀρθός|adjective|ὄρος|1. upright (as rising) 2. (perpendicularly) erect 3. (figuratively) honest 4. (horizontally) level or direct
+ὀρθοτομέω|verb|τομώτερος|1. to make a straight cut 2. (figuratively) to dissect (expound) correctly (the divine message)
+ὀρθρίζω|verb|ὄρθρος|1. to use the dawn 2. (by implication) to repair betimes
+ὀρθρινός|adjective|ὄρθρος|1. relating to the dawn, i.e. of early morning (as an epithet of Venus, especially brilliant in the early day)
 ὄρθριος|adjective|ὄρθρος|1. in the dawn, i.e. up at day-break
 ὄρθρος|noun|---|1. dawn (as sun-rise, rising of light) 2. (by extension) early morning
 ὀρθῶς|adverb|ὀρθός|1. in an upright manner 2. (figuratively) correctly (also morally)
-ὁρίζω|verb|ὅριον|1. to mark out or bound ("horizon") 2. (figuratively) to appoint, decree, specify
+ὁρίζω|verb|ὅριον|1. to mark out or bound ("horizon") 2. (figuratively) to appoint, decree, specify
 ὅριον|noun|---|1. a boundary-line 2. (by implication) a frontier (region)
-ὁρκίζω|verb|ὅρκος|1. to put on oath, i.e. make swear 2. (by analogy) to solemnly enjoin
+ὁρκίζω|verb|ὅρκος|1. to put on oath, i.e. make swear 2. (by analogy) to solemnly enjoin
 ὅρκος|noun|---|1. a limit 2. (sacred) restraint 3. (specially) an oath
-ὁρκωμοσία|noun|ὀμνύω|1. asseveration on oath
-ὁρμάω|verb|ὁρμή|1. to start, spur or urge on 2. (reflexively) to dash or plunge
-ὁρμή|noun|---|1. a violent impulse, i.e. onset
+ὁρκωμοσία|noun|ὀμνύω|1. asseveration on oath
+ὁρμάω|verb|ὁρμή|1. to start, spur or urge on 2. (reflexively) to dash or plunge
+ὁρμή|noun|---|1. a violent impulse, i.e. onset
 ὅρμημα|noun|ὁρμή|1. an attack 2. (abstractly) precipitancy
 ὄρνεον|noun|ὄρνις|1. a birdling
 ὄρνις|noun|ὄρος|1. a bird (as rising in the air) 2. (specially), a hen (or female domestic fowl)
-ὁροθεσία|noun|τίθημι|1. a limit-placing 2. (concretely) boundary-line
+ὁροθεσία|noun|τίθημι|1. a limit-placing 2. (concretely) boundary-line
 ὄρος|noun|---|1. a mountain (as lifting itself above the plain)
-ὀρύσσω|verb|---|1. to "burrow" in the ground, i.e. dig
-ὀρφανός|adjective|---|1. bereaved ("orphan"), i.e. parentless
-ὠρχέομαι|verb|---|1. to dance (from the ranklike or regular motion)
+ὀρύσσω|verb|---|1. to "burrow" in the ground, i.e. dig
+ὀρφανός|adjective|---|1. bereaved ("orphan"), i.e. parentless
+ὀρχέομαι|verb|---|1. to dance (from the ranklike or regular motion)
 ὅς|p/r.|ὁ|1. the relatively (sometimes demonstrative) pronoun, who, which, what, that
-ὁσάκις|adverb|ὅς|1. as often as
+ὁσάκις|adverb|ὅς|1. as often as
 ὅσιος|adjective|---|1. (properly) right (by intrinsic or divine character) 2. (specifically) holy (pious, sacred, sure)
-ὁσιότης|noun|ὅσιος|1. piety
-ὁσίως|adverb|ὅσιος|1. piously
-ὀσμή|noun|ὄζω|1. fragrance
+ὁσιότης|noun|ὅσιος|1. piety
+ὁσίως|adverb|ὅσιος|1. piously
+ὀσμή|noun|ὄζω|1. fragrance
 ὅσος|p/k|ὅς|1. as (much, great, long, etc.) as
 ὅσπερ|p/r.|πέρ|1. who especially
-ὀστέον|noun|---|1. a bone
+ὀστέον|noun|---|1. a bone
 ὅστις|p/r.|τίς|1. which some, i.e. any that 2. (definite) which same
-ὀστράκινος|adjective|---|1. earthen-ware, i.e. clayey 2. (by implication) frail
+ὀστράκινος|adjective|---|1. earthen-ware, i.e. clayey 2. (by implication) frail
 ὄσφρησις|noun|ὄζω|1. smell (the sense)
-ὀσφύς|noun|---|1. the loin (externally), i.e. the hip 2. (internally, by extension) procreative power
+ὀσφύς|noun|---|1. the loin (externally), i.e. the hip 2. (internally, by extension) procreative power
 ὅταν|conjunction|ἄν|1. whenever (implying hypothesis or more or less uncertainty) 2. (causatively, conjunctionally) inasmuch as
 ὅτε|adverb|τέ|1. at which (thing) too, i.e. when
 ὅτι|conjunction|ὅ τις|1. (demonstrative) that (sometimes redundant) 2. (causative) because
 ὅτου|p/r.|ὅστις|1. during which same time, i.e. whilst
 οὐ|particle|---|1. no or not
 οὗ|adverb|ὅς|1. at which place, i.e. where
-οὐά|injunction|---|1. "ah"
-οὐαί|injunction|---|1. "woe"
+οὐά|injunction|---|1. "ah"
+οὐαί|injunction|---|1. "woe"
 οὐδαμῶς|adverb|οὐδείς|1. by no means
-οὐδέ|adverb|δέ|1. not however, i.e. neither, nor, not even
-οὐδείς|adjective|εἷς|1. not even one (man, woman or thing), i.e. none, nobody, nothing
-οὐδέποτε|adverb|ποτέ|1. not even at any time, i.e. never at all
-οὐδέπω|adverb|πῶ|1. not even yet
-οὐκέτι|adverb|ἔτι|1. not yet, no longer
+οὐδέ|adverb|δέ|1. not however, i.e. neither, nor, not even
+οὐδείς|adjective|εἷς|1. not even one (man, woman or thing), i.e. none, nobody, nothing
+οὐδέποτε|adverb|ποτέ|1. not even at any time, i.e. never at all
+οὐδέπω|adverb|πῶ|1. not even yet
+οὐκέτι|adverb|ἔτι|1. not yet, no longer
 οὐκοῦν|adverb|οὖν|1. is it not therefore that 2. (affirmatively) hence or so
 οὖν|conjunction|---|1. (adverbially) certainly 2. (conjunctionally) accordingly
 οὔπω|adverb|πῶ|1. not yet
-οὐρά|noun|---|1. a tail
-οὐράνιος|adjective|οὐρανός|1. celestial, i.e. belonging to or coming from the sky
-οὐρανόθεν|adverb|οὐρανός|1. from the sky
-οὐρανός|noun|---|1. the sky 2. (by extension) heaven (as the abode of God) 3. (by implication) happiness, power, eternity 4. (specially) the Gospel (Christianity)      
-Οὐρβανός|Name Person|---|1. Urbanus (of the city, "urbane"), a Christian
-Οὐρίας|Name Person|אוּרִיָה אוּרִיָהוּ|1. Urias (i.e. Urijah), a Hittite
+οὐρά|noun|---|1. a tail
+οὐράνιος|adjective|οὐρανός|1. celestial, i.e. belonging to or coming from the sky
+οὐρανόθεν|adverb|οὐρανός|1. from the sky
+οὐρανός|noun|---|1. the sky 2. (by extension) heaven (as the abode of God) 3. (by implication) happiness, power, eternity 4. (specially) the Gospel (Christianity)      
+Οὐρβανός|Name Person|---|1. Urbanus (of the city, "urbane"), a Christian
+Οὐρίας|Name Person|אוּרִיָה אוּרִיָהוּ|1. Urias (i.e. Urijah), a Hittite
 οὖς|noun|---|1. the ear (physically or mentally)
-οὐσία|noun|ὤν|1. substance, i.e. property (possessions)
+οὐσία|noun|ὤν|1. substance, i.e. property (possessions)
 οὔτε|conjunction|τέ|1. not too, i.e. neither or nor 2. (by analogy) not even
 οὗτος|p/d.|ὁ|1. the he (she or it), i.e. this or that (often with article repeated)
-οὕτω|adverb|οὗτος|1. in this way (referring to what precedes or follows)
-οὐχί|particle|οὐ|1. not indeed
-ὀφειλέτης|noun|ὀφείλω|1. an ower, i.e. person indebted 2. (figuratively) a delinquent 3. (morally) a transgressor (against God)
-ὀφειλή|noun|ὀφείλω|1. indebtedness 2. (concretely) a sum owed 3. (figuratively) obligation 4. (marital) duty
-ὀφείλημα|noun|ὀφείλω|1. something owed 2. (figuratively) a due 3. (morally) a fault
-ὀφείλω|verb|ὄφελος|1. to owe (finacially) 2. (figuratively) to be under obligation, indebted (ought, must, should) 3. (morally) to fail in duty
+οὕτως|adverb|οὗτος|1. in this way (referring to what precedes or follows)
+οὐχί|particle|οὐ|1. not indeed
+ὀφειλέτης|noun|ὀφείλω|1. an ower, i.e. person indebted 2. (figuratively) a delinquent 3. (morally) a transgressor (against God)
+ὀφειλή|noun|ὀφείλω|1. indebtedness 2. (concretely) a sum owed 3. (figuratively) obligation 4. (marital) duty
+ὀφείλημα|noun|ὀφείλω|1. something owed 2. (figuratively) a due 3. (morally) a fault
+ὀφείλω|verb|ὄφελος|1. to owe (finacially) 2. (figuratively) to be under obligation, indebted (ought, must, should) 3. (morally) to fail in duty
 ὄφελον|injunction|ὀφείλω|1. I ought (wish) 2. (interjection) oh that!
 ὄφελος|noun|---|1. gain
-ὀφθαλμοδουλεία|noun|δουλεία|1. sight-labor, i.e. that needs watching (remissness)
-ὀφθαλμός|noun|ὀπτάνομαι|1. the eye 2. (by implication) vision 3. (figuratively) envy (from the jealous side-glance)
+ὀφθαλμοδουλεία|noun|δουλεία|1. sight-labor, i.e. that needs watching (remissness)
+ὀφθαλμός|noun|ὀπτάνομαι|1. the eye 2. (by implication) vision 3. (figuratively) envy (from the jealous side-glance)
 ὄφις|noun|ὀπτάνομαι|1. a snake 2. (figuratively, of sly cunning) an artfully malicious person 3. (especially) Satan
-ὀφρύς|noun|ὀπτάνομαι|1. the eye-"brow" or forehead 2. (figuratively) the brink of a precipice
-ὀχλέω|verb|ὄχλος|1. to mob 2. (by implication) to harass
-ὀχλοποιέω|verb|ποιέω|1. to make a crowd, i.e. raise a public disturbance
+ὀφρῦς|noun|ὀπτάνομαι|1. the eye-"brow" or forehead 2. (figuratively) the brink of a precipice
+ὀχλέω|verb|ὄχλος|1. to mob 2. (by implication) to harass
+ὀχλοποιέω|verb|ποιέω|1. to make a crowd, i.e. raise a public disturbance
 ὄχλος|noun|ἔχω|1. a throng (as borne along) 2. (by implication) the rabble 3. (by extension) a class of people 4. (figuratively) a riot
-ὀχύρωμα|noun|ἔχω|1. a castle 2. (figuratively) argument
-ὀψάριον|noun|ὀπτός|1. a relish to other food (as if cooked sauce) 2. (specially), fish (presumably salted and dried as a condiment)
-ὀψέ|adverb|ὀπτάνομαι|1. (adverbially) late in the day 2. (by extension) after the close of the day
+ὀχύρωμα|noun|ἔχω|1. a castle 2. (figuratively) argument
+ὀψάριον|noun|ὀπτός|1. a relish to other food (as if cooked sauce) 2. (specially), fish (presumably salted and dried as a condiment)
+ὀψέ|adverb|ὀπτάνομαι|1. (adverbially) late in the day 2. (by extension) after the close of the day
 ὄψιμος|adjective|ὀψέ|1. later, i.e. vernal (showering)
 ὄψιος|adjective|ὀψέ|1. late 2. (feminine, as noun) afternoon (early eve) or nightfall (later eve)
 ὄψις|noun|ὀπτάνομαι|1. (properly) sight (the act) 2. (by implication) the visage, an external show
-ὀψώνιον|noun|ὀψάριον|1. rations for a soldier 2. (by extension) his stipend or pay
-ὅ ὤν καί ὅ ἦν καί ὅ ερχόμενος|Name Person|καί|1. the one being and the one that was and the one coming, i.e. the Eternal, as a divine epithet of Christ
-παγιδεύω|verb|παγίς|1. to ensnare (figuratively)
-παγίς|noun|πήγνυμι|1. a trap (as fastened by a noose or notch) 2. (figuratively) a trick or statagem (temptation)
-πάθημα|noun|πάθος|1. something undergone, i.e. hardship or pain 2. (subjectively) an emotion or influence
-παθητός|adjective|πάθος|1. liable (i.e. doomed) to experience pain
-πάθος|noun|πάσχω|1. (properly) suffering ("pathos") 2. (subjectively) a passion (especially sexual lust)
-παιδαγωγός|noun|ἄγω|1. a boy-leader, i.e. a servant whose office it was to take the children to school 2. (by implication, (figuratively)) a tutor ("paedagogue")       
-παιδάριον|noun|παῖς|1. a little boy
-παιδεία|noun|παιδεύω|1. tutorage, i.e. education or training 2. (by implication) disciplinary correction
-παιδευτής|noun|παιδεύω|1. a trainer, i.e. teacher or (by implication) discipliner
-παιδεύω|verb|παῖς|1. to train up a child, i.e. educate 2. (by implication) discipline (by punishment)
-παιδιόθεν|adverb|παιδίον|1. from infancy
-παιδίον|noun|παῖς|1. a young child (of either sex) 2. (properly) an infant 3. (by extension) a half-grown boy or girl 4. (figuratively) an immature Christian
-παιδίσκη|noun|παῖς|1. a girl 2. (specially) a female slave or servant
-παίζω|verb|παῖς|1. to play as a child, to sport 2. to amuse oneself as a child
+ὀψώνιον|noun|ὀψάριον|1. rations for a soldier 2. (by extension) his stipend or pay
+ὁ|Name Person|καί|1. the one being and the one that was and the one coming, i.e. the Eternal, as a divine epithet of Christ
+παγιδεύω|verb|παγίς|1. to ensnare (figuratively)
+παγίς|noun|πήγνυμι|1. a trap (as fastened by a noose or notch) 2. (figuratively) a trick or statagem (temptation)
+πάθημα|noun|πάθος|1. something undergone, i.e. hardship or pain 2. (subjectively) an emotion or influence
+παθητός|adjective|πάθος|1. liable (i.e. doomed) to experience pain
+πάθος|noun|πάσχω|1. (properly) suffering ("pathos") 2. (subjectively) a passion (especially sexual lust)
+παιδαγωγός|noun|ἄγω|1. a boy-leader, i.e. a servant whose office it was to take the children to school 2. (by implication, (figuratively)) a tutor ("paedagogue")       
+παιδάριον|noun|παῖς|1. a little boy
+παιδεία|noun|παιδεύω|1. tutorage, i.e. education or training 2. (by implication) disciplinary correction
+παιδευτής|noun|παιδεύω|1. a trainer, i.e. teacher or (by implication) discipliner
+παιδεύω|verb|παῖς|1. to train up a child, i.e. educate 2. (by implication) discipline (by punishment)
+παιδιόθεν|adverb|παιδίον|1. from infancy
+παιδίον|noun|παῖς|1. a young child (of either sex) 2. (properly) an infant 3. (by extension) a half-grown boy or girl 4. (figuratively) an immature Christian
+παιδίσκη|noun|παῖς|1. a girl 2. (specially) a female slave or servant
+παίζω|verb|παῖς|1. to play as a child, to sport 2. to amuse oneself as a child
 παῖς|noun|παίω|1. a boy (of an age as one spanked with impunity) 2. (by analogy) a girl 3. (genitive case) a child 4. (specially) a slave or servant 5. (especially) a servant to a king 6. (by eminence) a servant to God
-παίω|verb|---|1. to hit (as if by a single blow) 2. (specially) to sting (as a scorpion)
-Πακατιανή|adjective/f|---|1. Pacatianian, a section of Phrygia
-πάλαι|adverb|πάλιν|1. (adverbially) formerly 2. (by relatively) sometime since 3. (elliptically as adjective) ancient
-παλαιός|adjective|πάλαι|1. antique, i.e. not recent, worn out
-παλαιότης|noun|παλαιός|1. antiquatedness
-παλαιόω|verb|παλαιός|1. to make (passively, become) worn out, or declare obsolete
-πάλη|noun|βάλλω|1. wrestling
-παλιγγενεσία|noun|γένεσις|1. (spiritual) rebirth (the state or the act) 2. (figuratively) spiritual renovation 3. (specially) Messianic restoration
-πάλιν|adverb|βάλλω|1. (adverbially) anew 2. (of place) back 3. (of time) once more 4. (conjunctionally) furthermore or on the other hand
-παμπληθεί|adverb|πλήθος|1. in full multitude, i.e. concertedly or simultaneously
-πάμπολυς|adjective|πολύς|1. full many, i.e. immense
-Παμφυλία|Name Location|πυρά|1. every-tribal, i.e. heterogeneous (having foreign origin) 2. Pamphylia, a region of Asia Minor
+παίω|verb|---|1. to hit (as if by a single blow) 2. (specially) to sting (as a scorpion)
+Πακατιανή|adjective/f|---|1. Pacatianian, a section of Phrygia
+πάλαι|adverb|πάλιν|1. (adverbially) formerly 2. (by relatively) sometime since 3. (elliptically as adjective) ancient
+παλαιός|adjective|πάλαι|1. antique, i.e. not recent, worn out
+παλαιότης|noun|παλαιός|1. antiquatedness
+παλαιόω|verb|παλαιός|1. to make (passively, become) worn out, or declare obsolete
+πάλη|noun|βάλλω|1. wrestling
+παλιγγενεσία|noun|γένεσις|1. (spiritual) rebirth (the state or the act) 2. (figuratively) spiritual renovation 3. (specially) Messianic restoration
+πάλιν|adverb|βάλλω|1. (adverbially) anew 2. (of place) back 3. (of time) once more 4. (conjunctionally) furthermore or on the other hand
+παμπληθεί|adverb|πλήθος|1. in full multitude, i.e. concertedly or simultaneously
+πάμπολυς|adjective|πολύς|1. full many, i.e. immense
+Παμφυλία|Name Location|πυρά|1. every-tribal, i.e. heterogeneous (having foreign origin) 2. Pamphylia, a region of Asia Minor
 πανδοχεῖον|noun|δέχομαι|1. all-receptive, i.e. a public lodging-place (caravanserai or khan)
-πανδοχεύς|noun|δέχομαι|1. an innkeeper (warden of a caravanserai)
-πανήγυρις|noun|ἀγορά|1. a public or national assembly 2. (especially) a festive assembly to honor a national god 3.
-πανοικί|adverb|οἶκος|1. with the whole family
-πανοπλία|noun|ὅπλον|1. full armor ("panoply")
-πανουργία|noun|πανοῦργος|1. adroitness 2. (in a bad sense) trickery or sophistry
+πανδοχεύς|noun|δέχομαι|1. an innkeeper (warden of a caravanserai)
+πανήγυρις|noun|ἀγορά|1. a public or national assembly 2. (especially) a festive assembly to honor a national god 3.
+πανοικί|adverb|οἶκος|1. with the whole family
+πανοπλία|noun|ὅπλον|1. full armor ("panoply")
+πανουργία|noun|πανοῦργος|1. adroitness 2. (in a bad sense) trickery or sophistry
 πανοῦργος|noun|ἔργον|1. all-working, i.e. adroit (shrewd)
-πανταχόθεν|adverb|πανταχοῦ|1. from all directions
+πανταχόθεν|adverb|πανταχοῦ|1. from all directions
 πανταχοῦ|adverb|πᾶς|1. universally
-παντελής|adjective|τέλος|1. full-ended, i.e. entire (neuter as noun, completion)
-πάντη|adverb|πᾶς|1. wholly
-παντόθεν|adverb|πᾶς|1. from (i.e. on) all sides
-παντοκράτωρ|noun|κράτος|1. the all-ruling, i.e. God (as absolute and universal sovereign)
-πάντοτε|adverb|ὅτε|1. every when, i.e. at all times
-πάντως|adverb|πᾶς|1. entirely 2. (specially) at all events 3. (with negative, following) in no event
-παρά|preposition|---|1. (properly) near 2. (genitive case) from beside (literally or figuratively) 3. (dative case) at (or in) the vicinity of (objectively or subjectively) 4. (accusative case) to the proximity with (local (especially beyond or opposed to) or causal (on account of))
-παραβαίνω|verb|βάσις|1. to go contrary to, i.e. violate a command
-παραβάλλω|verb|βάλλω|1. to throw alongside 2. (reflexively) to reach a place 3. (figuratively) to liken
-παράβασις|noun|παραβαίνω|1. violation
-παραβάτης|noun|παραβαίνω|1. a violator
-παραβιάζομαι|verb|βιάζω|1. to force contrary to (nature), i.e. compel (by entreaty)
-παραβολή|noun|παραβάλλω|1. a similitude ("parable") 2. (symbolic) fictitious narrative (of common life conveying a moral), apothegm or adage
-παραβουλεύομαι|verb|βουλεύω|1. to misconsult, i.e. disregard
-παραγγελία|noun|παραγγέλλω|1. a mandate
-παραγγέλλω|verb|ἄγγελος|1. to transmit a message 2. (by implication) to enjoin
-παραγίνομαι|verb|γίνομαι|1. to become near, i.e. approach (have arrived) 2. (by implication) to appear publicly
-παράγω|verb|ἄγω|1. to lead near 2. (reflexively or intransitively) to go along or away
-παραδειγματίζω|verb|δειγματίζω|1. to show alongside (the public), i.e. expose to infamy
-παράδεισος|noun|---|1. a park 2. (specially), an Eden (place of future happiness, "paradise")
-παραδέχομαι|verb|δέχομαι|1. to accept near, i.e. admit or (by implication) delight in
-παραδιατριβή|noun|διατρίβω|1. misemployment, i.e. meddlesomeness
-παραδίδωμι|verb|δίδωμι|1. to surrender, i.e yield up, intrust, transmit
-παράδοξος|adjective|δόξα|1. contrary to expectation, i.e. extraordinary ("paradox")
-παράδοσις|noun|δίδωμι|1. transmission 2. (concretely) a precept 3. (specially) the Jewish traditionary law
-παραζηλόω|verb|ζηλόω|1. to stimulate alongside, i.e. excite to rivalry
-παραθαλάσσιος|adjective|θάλασσα|1. along the sea, i.e. maritime (lacustrine)
-παραθεωρέω|verb|θεωρέω|1. to overlook or disregard
-παραθήκη|noun|παρατίθημι|1. a deposit 2. (figuratively) trust
-παραινέω|verb|αἰνέω|1. to mispraise, i.e. recommend or advise (a different course)
-παραιτέομαι|verb|αἰτέω|1. to beg off, i.e. deprecate, decline, shun
-παρακαθίζω|verb|καθίζω|1. to sit down near
-παρακαλέω|verb|καλέω|1. (properly) to call near (as to receive or give help) 2. to implore, entreat (to urgently ask (for mercy or help)) 3. to exhort (to urgently counsel, encourage or admonish) 4. to comfort
-παρακαλύπτω|verb|καλύπτω|1. to cover alongside, i.e. veil (figuratively)
-παρακαταθήκη|noun|κατατίθημι|1. something put down alongside, i.e. a deposit (sacred trust)
-παράκειμαι|verb|κεῖμαι|1. to lie near, i.e. be at hand 2. (figuratively) be prompt or easy
-παράκλησις|noun|παρακαλέω|1. an imploration, entreaty (urgent request (for mercy or help)) 2. an exhortation (urgent counsel, encouragement, or caution) 3. a comfort, solace
-παράκλητος|noun|κλητός|1. (properly) one called near (to give help) 2. an intercessor (one who entreats of behalf of another) 3. a comforter
-παρακοή|noun|παρακούω|1. inattention 2. (by implication) disobedience
-παρακολουθέω|verb|ἀκολουθέω|1. to follow near 2. (figuratively) attend (as a result), trace out, conform to
-παρακούω|verb|ἀκούω|1. to mishear 2. (by implication) to disobey
-παρακύπτω|verb|κύπτω|1. to bend beside, i.e. lean over (so as to peer within)
-παραλαμβάνω|verb|λαμβάνω|1. to receive near, i.e. associate with oneself (in any familiar or intimate act or relation) 2. (by analogy) to assume an office 3. (figuratively) to learn
-παραλέγομαι|verb|λέγω|1. (specially), to lay one's course near, i.e. sail past
-παράλιος|adjective|ἅλς|1. beside the salt (sea), i.e. maritime
-παραλλαγή|noun|ἀλλάσσω|1. transmutation (of phase or orbit) 2. (figuratively) fickleness
-παραλογίζομαι|verb|λογίζομαι|1. to misreckon, i.e. delude
-παραλυτικός|adjective|παραλύω|1. as if dissolved, i.e. "paralytic"
-παραλύω|verb|λύω|1. to loosen beside, i.e. relax (perfect passive participle, paralyzed or enfeebled)
-παραμένω|verb|μένω|1. to stay near, i.e. remain 2. (literally) tarry 3. (figuratively) be permanent, persevere
-παραμυθέομαι|verb|μύθος|1. to relate near 2. (by implication) to console, encourage
-παραμυθία|noun|παραμυθέομαι|1. consolation (properly, abstract)
-παραμύθιον|noun|παραμυθία|1. consolation (properly, concretely)
-παρανομέω|verb|νόμος|1. to be opposed to law, i.e. to transgress
-παρανομία|noun|νόμος|1. transgression
-παραπικραίνω|verb|πικραίνω|1. to embitter alongside 2. (figuratively) to exasperate
-παραπικρασμός|noun|παραπικραίνω|1. irritation
-παραπίπτω|verb|πίπτω|1. to fall aside 2. (figuratively) to apostatize
-παραπλέω|verb|πλέω|1. to sail near
-παραπλήσιον|adverb|πλησίον|1. close by 2. (figuratively) almost
-παραπλησίως|adverb|πλησίον|1. in a manner near by 2. (figuratively) similarly
-παραπορεύομαι|verb|πορεύομαι|1. to travel near
-παράπτωμα|noun|παραπίπτω|1. a side-slip (lapse or deviation) 2. (unintentional) error 3. (willful) transgression
-παραρῥυέω|verb|ῥέω|1. to flow by 2. (figuratively) carelessly pass (miss)
-παράσημος|noun|σημαίνω|1. side-marked, i.e. labelled (with a badge (figure-head) of a ship)
-παρασκευάζω|verb|σκεῦος|1. to furnish aside, i.e. get ready
-παρασκευή|noun|παρασκευάζω|1. readiness
-παρατείνω|verb|παρά|1. to extend along, i.e. prolong (in point of time)
-παρατηρέω|verb|τηρέω|1. to inspect alongside, i.e. note insidiously or scrupulously
-παρατήρησις|noun|παρατηρέω|1. inspection, i.e. ocular evidence
-παρατίθημι|verb|τίθημι|1. to place alongside, i.e. present (food, truth) 2. (by implication) to deposit (as a trust or for protection)
-παρατυγχάνω|verb|τυγχάνω|1. to chance near, i.e. fall in with
-παραυτίκα|adverb|αὐτός|1. at the very instant, i.e. momentary
-παραφέρω|verb|φέρω|1. to bear along or aside, i.e. carry off 2. (by implication) to avert
-παραφρονέω|verb|φρονέω|1. to misthink, i.e. be insane (silly)
-παραφρονία|noun|παραφρονέω|1. insanity, i.e. foolhardiness
-παραχειμάζω|verb|χειμάζω|1. to winter near, i.e. stay with over the rainy season
-παραχειμασία|noun|παραχειμάζω|1. a wintering over
+παντελής|adjective|τέλος|1. full-ended, i.e. entire (neuter as noun, completion)
+πάντῃ|adverb|πᾶς|1. wholly
+πάντοθεν|adverb|πᾶς|1. from (i.e. on) all sides
+παντοκράτωρ|noun|κράτος|1. the all-ruling, i.e. God (as absolute and universal sovereign)
+πάντοτε|adverb|ὅτε|1. every when, i.e. at all times
+πάντως|adverb|πᾶς|1. entirely 2. (specially) at all events 3. (with negative, following) in no event
+παρά|preposition|---|1. (properly) near 2. (genitive case) from beside (literally or figuratively) 3. (dative case) at (or in) the vicinity of (objectively or subjectively) 4. (accusative case) to the proximity with (local (especially beyond or opposed to) or causal (on account of))
+παραβαίνω|verb|βάσις|1. to go contrary to, i.e. violate a command
+παραβάλλω|verb|βάλλω|1. to throw alongside 2. (reflexively) to reach a place 3. (figuratively) to liken
+παράβασις|noun|παραβαίνω|1. violation
+παραβάτης|noun|παραβαίνω|1. a violator
+παραβιάζομαι|verb|βιάζω|1. to force contrary to (nature), i.e. compel (by entreaty)
+παραβολή|noun|παραβάλλω|1. a similitude ("parable") 2. (symbolic) fictitious narrative (of common life conveying a moral), apothegm or adage
+παραβουλεύομαι|verb|βουλεύω|1. to misconsult, i.e. disregard
+παραγγελία|noun|παραγγέλλω|1. a mandate
+παραγγέλλω|verb|ἄγγελος|1. to transmit a message 2. (by implication) to enjoin
+παραγίνομαι|verb|γίνομαι|1. to become near, i.e. approach (have arrived) 2. (by implication) to appear publicly
+παράγω|verb|ἄγω|1. to lead near 2. (reflexively or intransitively) to go along or away
+παραδειγματίζω|verb|δειγματίζω|1. to show alongside (the public), i.e. expose to infamy
+παράδεισος|noun|---|1. a park 2. (specially), an Eden (place of future happiness, "paradise")
+παραδέχομαι|verb|δέχομαι|1. to accept near, i.e. admit or (by implication) delight in
+παραδιατριβή|noun|διατρίβω|1. misemployment, i.e. meddlesomeness
+παραδίδωμι|verb|δίδωμι|1. to surrender, i.e yield up, intrust, transmit
+παράδοξος|adjective|δόξα|1. contrary to expectation, i.e. extraordinary ("paradox")
+παράδοσις|noun|δίδωμι|1. transmission 2. (concretely) a precept 3. (specially) the Jewish traditionary law
+παραζηλόω|verb|ζηλόω|1. to stimulate alongside, i.e. excite to rivalry
+παραθαλάσσιος|adjective|θάλασσα|1. along the sea, i.e. maritime (lacustrine)
+παραθεωρέω|verb|θεωρέω|1. to overlook or disregard
+παραθήκη|noun|παρατίθημι|1. a deposit 2. (figuratively) trust
+παραινέω|verb|αἰνέω|1. to mispraise, i.e. recommend or advise (a different course)
+παραιτέομαι|verb|αἰτέω|1. to beg off, i.e. deprecate, decline, shun
+παρακαθίζω|verb|καθίζω|1. to sit down near
+παρακαλέω|verb|καλέω|1. (properly) to call near (as to receive or give help) 2. to implore, entreat (to urgently ask (for mercy or help)) 3. to exhort (to urgently counsel, encourage or admonish) 4. to comfort
+παρακαλύπτω|verb|καλύπτω|1. to cover alongside, i.e. veil (figuratively)
+παρακαταθήκη|noun|κατατίθημι|1. something put down alongside, i.e. a deposit (sacred trust)
+παράκειμαι|verb|κεῖμαι|1. to lie near, i.e. be at hand 2. (figuratively) be prompt or easy
+παράκλησις|noun|παρακαλέω|1. an imploration, entreaty (urgent request (for mercy or help)) 2. an exhortation (urgent counsel, encouragement, or caution) 3. a comfort, solace
+παράκλητος|noun|κλητός|1. (properly) one called near (to give help) 2. an intercessor (one who entreats of behalf of another) 3. a comforter
+παρακοή|noun|παρακούω|1. inattention 2. (by implication) disobedience
+παρακολουθέω|verb|ἀκολουθέω|1. to follow near 2. (figuratively) attend (as a result), trace out, conform to
+παρακούω|verb|ἀκούω|1. to mishear 2. (by implication) to disobey
+παρακύπτω|verb|κύπτω|1. to bend beside, i.e. lean over (so as to peer within)
+παραλαμβάνω|verb|λαμβάνω|1. to receive near, i.e. associate with oneself (in any familiar or intimate act or relation) 2. (by analogy) to assume an office 3. (figuratively) to learn
+παραλέγομαι|verb|λέγω|1. (specially), to lay one's course near, i.e. sail past
+παράλιος|adjective|ἅλς|1. beside the salt (sea), i.e. maritime
+παραλλαγή|noun|ἀλλάσσω|1. transmutation (of phase or orbit) 2. (figuratively) fickleness
+παραλογίζομαι|verb|λογίζομαι|1. to misreckon, i.e. delude
+παραλυτικός|adjective|παραλύω|1. as if dissolved, i.e. "paralytic"
+παραλύω|verb|λύω|1. to loosen beside, i.e. relax (perfect passive participle, paralyzed or enfeebled)
+παραμένω|verb|μένω|1. to stay near, i.e. remain 2. (literally) tarry 3. (figuratively) be permanent, persevere
+παραμυθέομαι|verb|μύθος|1. to relate near 2. (by implication) to console, encourage
+παραμυθία|noun|παραμυθέομαι|1. consolation (properly, abstract)
+παραμύθιον|noun|παραμυθία|1. consolation (properly, concretely)
+παρανομέω|verb|νόμος|1. to be opposed to law, i.e. to transgress
+παρανομία|noun|νόμος|1. transgression
+παραπικραίνω|verb|πικραίνω|1. to embitter alongside 2. (figuratively) to exasperate
+παραπικρασμός|noun|παραπικραίνω|1. irritation
+παραπίπτω|verb|πίπτω|1. to fall aside 2. (figuratively) to apostatize
+παραπλέω|verb|πλέω|1. to sail near
+παραπλήσιον|adverb|πλησίον|1. close by 2. (figuratively) almost
+παραπλησίως|adverb|πλησίον|1. in a manner near by 2. (figuratively) similarly
+παραπορεύομαι|verb|πορεύομαι|1. to travel near
+παράπτωμα|noun|παραπίπτω|1. a side-slip (lapse or deviation) 2. (unintentional) error 3. (willful) transgression
+παραρρέω|verb|ῥέω|1. to flow by 2. (figuratively) carelessly pass (miss)
+παράσημος|noun|σημαίνω|1. side-marked, i.e. labelled (with a badge (figure-head) of a ship)
+παρασκευάζω|verb|σκεῦος|1. to furnish aside, i.e. get ready
+παρασκευή|noun|παρασκευάζω|1. readiness
+παρατείνω|verb|παρά|1. to extend along, i.e. prolong (in point of time)
+παρατηρέω|verb|τηρέω|1. to inspect alongside, i.e. note insidiously or scrupulously
+παρατήρησις|noun|παρατηρέω|1. inspection, i.e. ocular evidence
+παρατίθημι|verb|τίθημι|1. to place alongside, i.e. present (food, truth) 2. (by implication) to deposit (as a trust or for protection)
+παρατυγχάνω|verb|τυγχάνω|1. to chance near, i.e. fall in with
+παραυτίκα|adverb|αὐτός|1. at the very instant, i.e. momentary
+παραφέρω|verb|φέρω|1. to bear along or aside, i.e. carry off 2. (by implication) to avert
+παραφρονέω|verb|φρονέω|1. to misthink, i.e. be insane (silly)
+παραφρονία|noun|παραφρονέω|1. insanity, i.e. foolhardiness
+παραχειμάζω|verb|χειμάζω|1. to winter near, i.e. stay with over the rainy season
+παραχειμασία|noun|παραχειμάζω|1. a wintering over
 παραχρῆμα|adverb|χρῆμα|1. at the thing itself, i.e. instantly
-πάρδαλις|noun|---|1. a leopard
-πάρειμι|verb|εἰμί|1. to be near, i.e. at hand 2. (neuter present participle, singular) time being 3. (plural) property
-παρεισάγω|verb|εἰσάγω|1. to bring in from the side 2. to introduce secretly
-παρείσακτος|adjective|παρεισάγω|1. smuggled in
-παρεισδύνω|verb|εἰς|1. to settle in alongside, i.e. lodge stealthily
-παρεισέρχομαι|verb|εἰσέρχομαι|1. to come in alongside, i.e. supervene additionally or steathily
-παρεισφέρω|verb|εἰσφέρω|1. to bear in alongside, i.e. introduce simultaneously
-παρεκτός|adverb|ἐκτός|1. near outside, i.e. besides
-παρεμβολή|noun|ἐμβάλλω|1. a throwing in beside (juxtaposition) 2. (specially), battle-array, encampment or barracks (tower Antonia)
-παρενοχλέω|verb|ἐνοχλέω|1. to harass further, i.e. annoy
-παρεπίδημος|adjective|ἐπιδημέω|1. an alien alongside, i.e. a resident foreigner
-παρέρχομαι|verb|ἔρχομαι|1. to come near or aside 2. to approach (arrive) 3. to go by (or away) 4. (figuratively) perish or neglect 5. (causative) avert
-πάρεσις|noun|κτήτωρ|1. pretermission, i.e. toleration
-παρέχω|verb|ἔχω|1. to hold near, i.e. present, afford, exhibit, furnish occasion
-παρηγορία|noun|ἀγορά|1. an address alongside 2. (specially), consolation
-παρθενία|noun|παρθένος|1. maidenhood
-παρθένος|noun|---|1. a maiden 2. (by implication) an unmarried daughter
-Πάρθος|Name/g.|---|1. a Parthian, i.e. inhabitant of Parthia
-παρίημι|verb|παρά|1. to let by, i.e. relax
-παρίστημι|verb|ἵστημι|1. to stand beside 2. (transitively) to exhibit, proffer 3. (specially) recommend 4. (figuratively) substantiate 5. (intransitively) to be at hand (or ready), aid
+πάρδαλις|noun|---|1. a leopard
+πάρειμι|verb|εἰμί|1. to be near, i.e. at hand 2. (neuter present participle, singular) time being 3. (plural) property
+παρεισάγω|verb|εἰσάγω|1. to bring in from the side 2. to introduce secretly
+παρείσακτος|adjective|παρεισάγω|1. smuggled in
+παρεισδύω|verb|εἰς|1. to settle in alongside, i.e. lodge stealthily
+παρεισέρχομαι|verb|εἰσέρχομαι|1. to come in alongside, i.e. supervene additionally or steathily
+παρεισφέρω|verb|εἰσφέρω|1. to bear in alongside, i.e. introduce simultaneously
+παρεκτός|adverb|ἐκτός|1. near outside, i.e. besides
+παρεμβολή|noun|ἐμβάλλω|1. a throwing in beside (juxtaposition) 2. (specially), battle-array, encampment or barracks (tower Antonia)
+παρενοχλέω|verb|ἐνοχλέω|1. to harass further, i.e. annoy
+παρεπίδημος|adjective|ἐπιδημέω|1. an alien alongside, i.e. a resident foreigner
+παρέρχομαι|verb|ἔρχομαι|1. to come near or aside 2. to approach (arrive) 3. to go by (or away) 4. (figuratively) perish or neglect 5. (causative) avert
+πάρεσις|noun|κτήτωρ|1. pretermission, i.e. toleration
+παρέχω|verb|ἔχω|1. to hold near, i.e. present, afford, exhibit, furnish occasion
+παρηγορία|noun|ἀγορά|1. an address alongside 2. (specially), consolation
+παρθενία|noun|παρθένος|1. maidenhood
+παρθένος|noun|---|1. a maiden 2. (by implication) an unmarried daughter
+Πάρθος|Name/g.|---|1. a Parthian, i.e. inhabitant of Parthia
+παρίημι|verb|παρά|1. to let by, i.e. relax
+παρίστημι|verb|ἵστημι|1. to stand beside 2. (transitively) to exhibit, proffer 3. (specially) recommend 4. (figuratively) substantiate 5. (intransitively) to be at hand (or ready), aid
 Παρμενᾶς|Name Person|μένω|1. constant 2. Parmenas, a Christian
-πάροδος|noun|ὁδός|1. a by-road 2. (actively) a route
-παροικέω|verb|οἰκέω|1. to dwell near, i.e. reside as a foreigner
-παροικία|noun|πάροικος|1. foreign residence
-πάροικος|adjective|οἶκος|1. having a home near 2. (as noun) a by-dweller (alien resident)
-παροιμία|noun|οἴομαι|1. apparently a state alongside of supposition 2. (concretely) an adage 3. (specially) an enigmatical or fictitious illustration
-πάροινος|adjective|οἶνος|1. staying near wine, i.e. tippling (a toper)
-παροίχομαι|verb|παρά|1. to escape along, i.e. be gone
-παρομοιάζω|verb|παρόμοιος|1. to resemble
-παρόμοιος|adjective|ὅμοιος|1. alike nearly, i.e. similar
-παροξύνω|verb|ὀξύς|1. to sharpen alongside 2. (figuratively) to exasperate
-παροξυσμός|noun|παροξύνω|1. incitement (to good), or dispute (in anger)
-παροργίζω|verb|ὀργίζω|1. to anger alongside, i.e. enrage
-παροργισμός|noun|παροργίζω|1. rage
-παροτρύνω|verb|παρά|1. to urge along, i.e. stimulate (to hostility)
-παρουσία|noun|πάρειμι|1. a being near, i.e. advent 2. (often) return 3. (specially) return of Christ to punish Jerusalem, or finally the wicked 4. (by implication, physically) aspect
-παροψίς|noun|ὀψάριον|1. a side-dish (the receptacle)
-παρῥησία|noun|ῥέω|1. all out-spokenness, i.e. frankness, bluntness, publicity 2. (by implication) assurance
-παρῥησιάζομαι|verb|παρῥησία|1. to be frank in utterance, or confident in spirit and demeanor
+πάροδος|noun|ὁδός|1. a by-road 2. (actively) a route
+παροικέω|verb|οἰκέω|1. to dwell near, i.e. reside as a foreigner
+παροικία|noun|πάροικος|1. foreign residence
+πάροικος|adjective|οἶκος|1. having a home near 2. (as noun) a by-dweller (alien resident)
+παροιμία|noun|οἴομαι|1. apparently a state alongside of supposition 2. (concretely) an adage 3. (specially) an enigmatical or fictitious illustration
+πάροινος|adjective|οἶνος|1. staying near wine, i.e. tippling (a toper)
+παροίχομαι|verb|παρά|1. to escape along, i.e. be gone
+παρομοιάζω|verb|παρόμοιος|1. to resemble
+παρόμοιος|adjective|ὅμοιος|1. alike nearly, i.e. similar
+παροξύνω|verb|ὀξύς|1. to sharpen alongside 2. (figuratively) to exasperate
+παροξυσμός|noun|παροξύνω|1. incitement (to good), or dispute (in anger)
+παροργίζω|verb|ὀργίζω|1. to anger alongside, i.e. enrage
+παροργισμός|noun|παροργίζω|1. rage
+παροτρύνω|verb|παρά|1. to urge along, i.e. stimulate (to hostility)
+παρουσία|noun|πάρειμι|1. a being near, i.e. advent 2. (often) return 3. (specially) return of Christ to punish Jerusalem, or finally the wicked 4. (by implication, physically) aspect
+παροψίς|noun|ὀψάριον|1. a side-dish (the receptacle)
+παρρησία|noun|ῥέω|1. all out-spokenness, i.e. frankness, bluntness, publicity 2. (by implication) assurance
+παρρησιάζομαι|verb|παρῥησία|1. to be frank in utterance, or confident in spirit and demeanor
 πᾶς|adjective|---|1. all, any, every, the whole
-πάσχα|Aramaic|---|1. the Passover (the meal, the day, the festival or the special sacrifices connected with it)
-πάσχω|verb|---|1. to experience a sensation or impression (usually painful)
-Πάταρα|Name Location|---|1. Patara, a place in Asia Minor
-πατάσσω|verb|παίω|1. to knock (gently or with a weapon or fatally)
-πατέω|verb|παίω|1. to trample
-πατήρ|noun|---|1. a "father"
-Πάτμος|Name Location|---|1. Patmus, an islet in the Mediterranean
-πατραλῴας|noun|ἅλων|1. a patricide, father murderer 2. (literally) father-thresher
-πατριά|noun|πατήρ|1. paternal descent 2. (concretely) a group of families or a whole race (nation)
-πατριάρχης|noun|ἄρχω|1. a progenitor, the ancestor and father of ("patriarch")
-πατρικός|adjective|πατήρ|1. paternal, i.e. ancestral
-πατρίς|noun|παράσημος|1. a father-land, i.e. native town 2. (figuratively) heavenly home
-Πατρόβας|Name Person|βίος|1. father's life 2. Patrobas, a Christian
-πατροπαράδοτος|adjective|παραδίδωμι|1. traditionary
+πάσχα|Aramaic|---|1. the Passover (the meal, the day, the festival or the special sacrifices connected with it)
+πάσχω|verb|---|1. to experience a sensation or impression (usually painful)
+Πάταρα|Name Location|---|1. Patara, a place in Asia Minor
+πατάσσω|verb|παίω|1. to knock (gently or with a weapon or fatally)
+πατέω|verb|παίω|1. to trample
+πατήρ|noun|---|1. a "father"
+Πάτμος|Name Location|---|1. Patmus, an islet in the Mediterranean
+πατρολῴας|noun|ἅλων|1. a patricide, father murderer 2. (literally) father-thresher
+πατριά|noun|πατήρ|1. paternal descent 2. (concretely) a group of families or a whole race (nation)
+πατριάρχης|noun|ἄρχω|1. a progenitor, the ancestor and father of ("patriarch")
+πατρικός|adjective|πατήρ|1. paternal, i.e. ancestral
+πατρίς|noun|παράσημος|1. a father-land, i.e. native town 2. (figuratively) heavenly home
+Πατρόβας|Name Person|βίος|1. father's life 2. Patrobas, a Christian
+πατροπαράδοτος|adjective|παραδίδωμι|1. traditionary
 πατρῷος|adjective|πατήρ|1. paternal, i.e. hereditary
 Παῦλος|Name Person|παύω|1. little 2. Paulus, the name of a Roman and of an apostle
-παύω|verb|---|1. to stop, i.e. restrain, quit, desist, come to an end
-Πάφος|Name Location|---|1. Paphus, a place in Cyprus
-παχύνω|verb|πήγνυμι|1. to thicken 2. (by implication) to fatten 3. (figuratively) stupefy or render callous
-πέδη|noun|πούς|1. a shackle for the feet
-πεδινός|adjective|πούς|1. level (as easy for the feet)
-πεζεύω|verb|πούς|1. to foot a journey, i.e. travel by land
+παύω|verb|---|1. to stop, i.e. restrain, quit, desist, come to an end
+Πάφος|Name Location|---|1. Paphus, a place in Cyprus
+παχύνω|verb|πήγνυμι|1. to thicken 2. (by implication) to fatten 3. (figuratively) stupefy or render callous
+πέδη|noun|πούς|1. a shackle for the feet
+πεδινός|adjective|πούς|1. level (as easy for the feet)
+πεζεύω|verb|πούς|1. to foot a journey, i.e. travel by land
 πεζῇ|adverb|πούς|1. foot-wise, i.e. by walking
-πειθαρχέω|verb|ἄρχω|1. to be persuaded by a ruler 2. (genitive case) to submit to authority 3. (by analogy) to conform to advice
-πειθός|adjective|πείθω|1. persuasive
-πείθω|verb|---|1. to convince (by argument, true or false) 2. (by analogy) to pacify or conciliate (by other fair means) 3. (reflexively or passively) to assent (to evidence or authority), to rely (by inward certainty)
-πεινάω|verb|---|1. to famish 2. (figuratively) to crave
+πειθαρχέω|verb|ἄρχω|1. to be persuaded by a ruler 2. (genitive case) to submit to authority 3. (by analogy) to conform to advice
+πειθός|adjective|πείθω|1. persuasive
+πείθω|verb|---|1. to convince (by argument, true or false) 2. (by analogy) to pacify or conciliate (by other fair means) 3. (reflexively or passively) to assent (to evidence or authority), to rely (by inward certainty)
+πεινάω|verb|---|1. to famish 2. (figuratively) to crave
 πεῖρα|noun|πέραν|1. a trial, i.e. attempt, experience
-πειράζω|verb|πεῖρα|1. to test (objectively), i.e. endeavor, scrutinize, entice, discipline
-πειρασμός|noun|πειράζω|1. a putting to proof (by experiment (of good), experience (of evil), solicitation, discipline or provocation) 2. (by implication) adversity     
-πειράω|verb|πεῖρα|1. to test (subjectively) 2. (reflexively) to attempt
-πεισμονή|noun|πείθω|1. persuadableness, i.e. credulity
-πέλαγος|noun|---|1. deep or open sea, i.e. the main
-πελεκίζω|verb|πλήσσω|1. to chop off (the head), i.e. truncate
-πέμπτος|adjective|πέντε|1. fifth
-πέμπω|verb|---|1. to dispatch, especially on a temporary errand 2. (also) to transmit, bestow, or wield
-πένης|noun|---|1. starving, i.e. indigent
-πενθερά|noun|πενθερός|1. a wife's mother
-πενθερός|noun|---|1. a wife's father
-πενθέω|verb|πένθος|1. to grieve (the feeling or the act)
-πένθος|noun|πάσχω|1. grief
-πεντιχρός|adjective|πένης|1. necessitous
-πεντακίς|adverb|πέντε|1. five times
-πεντακισχίλιοι|noun|χίλιοι|1. five times a thousand
-πεντακόσιοι|noun|ἑκατόν|1. five hundred
-πέντε|noun|---|1. five
-πεντεκαιδέκατος|adjective|καί|1. five and tenth
-πεντήκοντα|noun|πέντε|1. fifty
-πεντηκοστή|noun|πεντήκοντα|1. fiftieth day from Passover, i.e. the festival of "Pentecost"
-πεποίθησις|noun|πάσχω|1. reliance
-πέρ|adjective|πέραν|1. much, very or ever
-πέραν|adverb|---|1. through, i.e. across
-πέρας|noun|---|1. an extremity
-Πέργαμος|Name Location|πύργος|1. fortified 2. Pergamus, a place in Asia Minor
-Πέργη|Name Location|πύργος|1. a tower 2. Perga, a place in Asia Minor
-περί|preposition|πέραν|1. (properly) through (all over), i.e. around 2. (figuratively) with respect to
-περιάγω|verb|ἄγω|1. to take around (as a companion) 2. (reflexively) to walk around
-περιαιρέω|verb|αἱρέομαι|1. to remove all around, i.e. unveil, cast off (anchor) 2. (figuratively) to expiate
-περιαστράπτω|verb|ἀστράπτω|1. to flash all around, i.e. envelop in light
-περιβάλλω|verb|βάλλω|1. to throw all around, i.e. invest (with a palisade or with clothing)
-περιβλέπω|verb|βλέπω|1. to look all around
-περιβόλαιον|noun|περιβάλλω|1. something thrown around one, i.e. a mantle, veil
-περιδέω|verb|δέω|1. to bind around one, i.e. enwrap
-περιεργάζομαι|verb|ἐργάζομαι|1. to work all around, i.e. bustle about (meddle)
-περίεργος|adjective|ἔργον|1. working all around, i.e. officious (meddlesome, neuter plural magic)
-περιέρχομαι|verb|ἔρχομαι|1. to come all around, i.e. stroll, vacillate, veer
-περιέχω|verb|ἔχω|1. to hold all around, i.e. include, clasp (figuratively)
-περιζώννυμι|verb|ζώννυμι|1. to gird all around 2. (middle voice or passive) to fasten on one's belt
-περίθεσις|noun|περιτίθημι|1. a putting all around, i.e. decorating oneself with
-περιίστημι|verb|ἵστημι|1. to stand all around 2. (near) to be a bystander 3. (aloof) to keep away from
-περικάθαρμα|noun|καθαίρω|1. something cleaned off all around, i.e. refuse (figuratively)
-περικαλύπτω|verb|καλύπτω|1. to cover all around, i.e. entirely (the face, a surface)
-περίκειμαι|verb|κεῖμαι|1. to lie all around, i.e. inclose, encircle, hamper
-περικεφαλαία|noun|κεφαλή|1. encirclement of the head, i.e. a helmet
-περικρατής|adjective|κράτος|1. strong all around, i.e. a master (manager)
-περικρύπτω|verb|κρύπτω|1. to conceal all around, i.e. entirely
-περικυκλόω|verb|κυκλόω|1. to encircle all around, i.e. blockade completely
-περιλάμπω|verb|λάμπω|1. to illuminate all around, i.e. invest with a halo
-περιλείπω|verb|λείπω|1. to leave all around 2. (passively) survive
-περίλυπος|adjective|λύπη|1. grieved all around, i.e. intensely sad
-περιμένω|verb|μένω|1. to stay around, i.e. await
-πέριξ|adverb|περί|1. all around 2. (as an adjective) circumjacent
-περιοικέω|verb|οἰκέω|1. to reside around, i.e. be a neighbor
-περίοικος|adjective|οἶκος|1. housed around, i.e. neighboring (used elliptically as a noun)
-περιούσιος|adjective|εἰμί|1. being beyond usual, i.e. special (one's own)
-περιοχή|noun|περιέχω|1. a being held around 2. (concretely) a passage (of Scripture, as circumscribed)
-περιπατέω|verb|πατέω|1. to tread all around, i.e. walk at large (especially as proof of ability) 2. (figuratively) to live, deport oneself, follow (as a companion or votary)
-περιπείρω|verb|πέραν|1. to penetrate entirely, i.e. transfix (figuratively)
-περιπίπτω|verb|πίπτω|1. to fall into something that is all around, i.e. light among or upon, be surrounded with
-περιποιέομαι|verb|ποιέω|1. to make around oneself, i.e. acquire (buy)
-περιποίησις|noun|περιποιέομαι|1. acquisition (the act or the thing) 2. (by extension) preservation
-περιρῥήγνυμι|verb|ῥήγνυμι|1. to tear all around, i.e. completely away
-περισπάω|verb|σπάω|1. to drag all around 2. (figuratively) to distract (with care)
-περισσεία|noun|περισσεύω|1. surplusage, i.e. superabundance
-περίσσευμα|noun|περισσεύω|1. a surplus, or superabundance
-περισσεύω|verb|περισσός|1. to superabound (in quantity or quality), be in excess, be superfluous 2. (transitively) to cause to superabound or excel
-περισσός|adjective|περί|1. superabundant (in quantity) or superior (in quality) 2. (by implication) excessive
-περισσότερον|adjective|περισσότερος|1. in a more superabundant way
-περισσότερος|adjective|περισσός|1. more superabundant (in number, degree or character)
-περισσοτέρως|adverb|περισσότερος|1. more superabundantly
+πειράζω|verb|πεῖρα|1. to test (objectively), i.e. endeavor, scrutinize, entice, discipline
+πειρασμός|noun|πειράζω|1. a putting to proof (by experiment (of good), experience (of evil), solicitation, discipline or provocation) 2. (by implication) adversity     
+πειράω|verb|πεῖρα|1. to test (subjectively) 2. (reflexively) to attempt
+πεισμονή|noun|πείθω|1. persuadableness, i.e. credulity
+πέλαγος|noun|---|1. deep or open sea, i.e. the main
+πελεκίζω|verb|πλήσσω|1. to chop off (the head), i.e. truncate
+πέμπτος|adjective|πέντε|1. fifth
+πέμπω|verb|---|1. to dispatch, especially on a temporary errand 2. (also) to transmit, bestow, or wield
+πένης|noun|---|1. starving, i.e. indigent
+πενθερά|noun|πενθερός|1. a wife's mother
+πενθερός|noun|---|1. a wife's father
+πενθέω|verb|πένθος|1. to grieve (the feeling or the act)
+πένθος|noun|πάσχω|1. grief
+πενιχρός|adjective|πένης|1. necessitous
+πεντάκις|adverb|πέντε|1. five times
+πεντακισχίλιοι|noun|χίλιοι|1. five times a thousand
+πεντακόσιοι|noun|ἑκατόν|1. five hundred
+πέντε|noun|---|1. five
+πεντεκαιδέκατος|adjective|καί|1. five and tenth
+πεντήκοντα|noun|πέντε|1. fifty
+πεντηκοστή|noun|πεντήκοντα|1. fiftieth day from Passover, i.e. the festival of "Pentecost"
+πεποίθησις|noun|πάσχω|1. reliance
+περ|adjective|πέραν|1. much, very or ever
+πέραν|adverb|---|1. through, i.e. across
+πέρας|noun|---|1. an extremity
+Πέργαμος|Name Location|πύργος|1. fortified 2. Pergamus, a place in Asia Minor
+Πέργη|Name Location|πύργος|1. a tower 2. Perga, a place in Asia Minor
+περί|preposition|πέραν|1. (properly) through (all over), i.e. around 2. (figuratively) with respect to
+περιάγω|verb|ἄγω|1. to take around (as a companion) 2. (reflexively) to walk around
+περιαιρέω|verb|αἱρέομαι|1. to remove all around, i.e. unveil, cast off (anchor) 2. (figuratively) to expiate
+περιαστράπτω|verb|ἀστράπτω|1. to flash all around, i.e. envelop in light
+περιβάλλω|verb|βάλλω|1. to throw all around, i.e. invest (with a palisade or with clothing)
+περιβλέπομαι|verb|βλέπω|1. to look all around
+περιβόλαιον|noun|περιβάλλω|1. something thrown around one, i.e. a mantle, veil
+περιδέω|verb|δέω|1. to bind around one, i.e. enwrap
+περιεργάζομαι|verb|ἐργάζομαι|1. to work all around, i.e. bustle about (meddle)
+περίεργος|adjective|ἔργον|1. working all around, i.e. officious (meddlesome, neuter plural magic)
+περιέρχομαι|verb|ἔρχομαι|1. to come all around, i.e. stroll, vacillate, veer
+περιέχω|verb|ἔχω|1. to hold all around, i.e. include, clasp (figuratively)
+περιζώννυμι|verb|ζώννυμι|1. to gird all around 2. (middle voice or passive) to fasten on one's belt
+περίθεσις|noun|περιτίθημι|1. a putting all around, i.e. decorating oneself with
+περιΐστημι|verb|ἵστημι|1. to stand all around 2. (near) to be a bystander 3. (aloof) to keep away from
+περικάθαρμα|noun|καθαίρω|1. something cleaned off all around, i.e. refuse (figuratively)
+περικαλύπτω|verb|καλύπτω|1. to cover all around, i.e. entirely (the face, a surface)
+περίκειμαι|verb|κεῖμαι|1. to lie all around, i.e. inclose, encircle, hamper
+περικεφαλαία|noun|κεφαλή|1. encirclement of the head, i.e. a helmet
+περικρατής|adjective|κράτος|1. strong all around, i.e. a master (manager)
+περικρύπτω|verb|κρύπτω|1. to conceal all around, i.e. entirely
+περικυκλόω|verb|κυκλόω|1. to encircle all around, i.e. blockade completely
+περιλάμπω|verb|λάμπω|1. to illuminate all around, i.e. invest with a halo
+περιλείπω|verb|λείπω|1. to leave all around 2. (passively) survive
+περίλυπος|adjective|λύπη|1. grieved all around, i.e. intensely sad
+περιμένω|verb|μένω|1. to stay around, i.e. await
+πέριξ|adverb|περί|1. all around 2. (as an adjective) circumjacent
+περιοικέω|verb|οἰκέω|1. to reside around, i.e. be a neighbor
+περίοικος|adjective|οἶκος|1. housed around, i.e. neighboring (used elliptically as a noun)
+περιούσιος|adjective|εἰμί|1. being beyond usual, i.e. special (one's own)
+περιοχή|noun|περιέχω|1. a being held around 2. (concretely) a passage (of Scripture, as circumscribed)
+περιπατέω|verb|πατέω|1. to tread all around, i.e. walk at large (especially as proof of ability) 2. (figuratively) to live, deport oneself, follow (as a companion or votary)
+περιπείρω|verb|πέραν|1. to penetrate entirely, i.e. transfix (figuratively)
+περιπίπτω|verb|πίπτω|1. to fall into something that is all around, i.e. light among or upon, be surrounded with
+περιποιέω|verb|ποιέω|1. to make around oneself, i.e. acquire (buy)
+περιποίησις|noun|περιποιέομαι|1. acquisition (the act or the thing) 2. (by extension) preservation
+περιρρήγνυμι|verb|ῥήγνυμι|1. to tear all around, i.e. completely away
+περισπάω|verb|σπάω|1. to drag all around 2. (figuratively) to distract (with care)
+περισσεία|noun|περισσεύω|1. surplusage, i.e. superabundance
+περίσσευμα|noun|περισσεύω|1. a surplus, or superabundance
+περισσεύω|verb|περισσός|1. to superabound (in quantity or quality), be in excess, be superfluous 2. (transitively) to cause to superabound or excel
+περισσός|adjective|περί|1. superabundant (in quantity) or superior (in quality) 2. (by implication) excessive
+περισσότερον|adjective|περισσότερος|1. in a more superabundant way
+περισσότερος|adjective|περισσός|1. more superabundant (in number, degree or character)
+περισσοτέρως|adverb|περισσότερος|1. more superabundantly
 περισσῶς|adverb|περισσός|1. superabundantly
-περιστερά|noun|---|1. a pigeon
-περιτέμνω|verb|τομώτερος|1. to cut around 2. (specially) to circumcise
-περιτίθημι|verb|τίθημι|1. to place around 2. (by implication) to present
-περιτομή|noun|περιτέμνω|1. circumcision (the rite, the condition, or the people)
-περιτρέπω|verb|τροπή|1. to turn around 2. (mentally) to craze
-περιτρέχω|verb|τρέχω|1. to run around, i.e. traverse
-περιφέρω|verb|φέρω|1. to convey around, i.e. transport hither and thither
-περιφρονέω|verb|φρονέω|1. to think beyond, i.e. depreciate (contemn)
-περίχωρος|adjective|χώρα|1. around the region, i.e. circumjacent
-περίψωμα|noun|περί|1. something brushed all around, i.e. off-scrapings 2. (figuratively) scum
-περπερεύομαι|verb|πέραν|1. to boast
-Περσίς|Name Person|---|1. a Persian woman 2. Persis, a Christian female
-πέρυσι|adverb|πέρας|1. the by-gone 2. (as noun) last year
-πετεινόν|noun|πέτομαι|1. a flying animal, i.e. bird
-πέτομαι|verb|---|1. to fly
-πέτρα|noun|Πέτρος|1. a (mass of) rock
-Πέτρος|Name Person|---|1. a (piece of) rock 2. as a name, Petrus, an apostle
-πετρώδης|adjective|εἶδος|1. rock-like, i.e. rocky
-πήγανον|noun|πήγνυμι|1. rue (from its thick or fleshy leaves)
-πηγή|noun|πήγνυμι|1. a fount (source or supply, of water, blood, enjoyment), but not necessarily the original spring
-πήγνυμι|verb|---|1. to fix 2. (specially) to set up (a tent)
-πηδάλιον|noun|πούς|1. a "pedal", i.e. helm
-πηλίκος|adjective|πού|1. how much (as an indefinite), i.e. in size or (figuratively) dignity
-πηλός|noun|---|1. clay
-πήρα|noun|---|1. a wallet or leather pouch for food
+περιστερά|noun|---|1. a pigeon
+περιτέμνω|verb|τομώτερος|1. to cut around 2. (specially) to circumcise
+περιτίθημι|verb|τίθημι|1. to place around 2. (by implication) to present
+περιτομή|noun|περιτέμνω|1. circumcision (the rite, the condition, or the people)
+περιτρέπω|verb|τροπή|1. to turn around 2. (mentally) to craze
+περιτρέχω|verb|τρέχω|1. to run around, i.e. traverse
+περιφέρω|verb|φέρω|1. to convey around, i.e. transport hither and thither
+περιφρονέω|verb|φρονέω|1. to think beyond, i.e. depreciate (contemn)
+περίχωρος|adjective|χώρα|1. around the region, i.e. circumjacent
+περίψημα|noun|περί|1. something brushed all around, i.e. off-scrapings 2. (figuratively) scum
+περπερεύομαι|verb|πέραν|1. to boast
+Περσίς|Name Person|---|1. a Persian woman 2. Persis, a Christian female
+πέρυσι|adverb|πέρας|1. the by-gone 2. (as noun) last year
+πετεινόν|noun|πέτομαι|1. a flying animal, i.e. bird
+πέτομαι|verb|---|1. to fly
+πέτρα|noun|Πέτρος|1. a (mass of) rock
+Πέτρος|Name Person|---|1. a (piece of) rock 2. as a name, Petrus, an apostle
+πετρώδης|adjective|εἶδος|1. rock-like, i.e. rocky
+πήγανον|noun|πήγνυμι|1. rue (from its thick or fleshy leaves)
+πηγή|noun|πήγνυμι|1. a fount (source or supply, of water, blood, enjoyment), but not necessarily the original spring
+πήγνυμι|verb|---|1. to fix 2. (specially) to set up (a tent)
+πηδάλιον|noun|πούς|1. a "pedal", i.e. helm
+πηλίκος|adjective|πού|1. how much (as an indefinite), i.e. in size or (figuratively) dignity
+πηλός|noun|---|1. clay
+πήρα|noun|---|1. a wallet or leather pouch for food
 πῆχυς|noun|---|1. the fore-arm 2. (as a measure) a cubit
-πιάζω|verb|βιάζω|1. to squeeze, i.e. seize (gently by the hand (press), or officially (arrest), or in hunting (capture))
-πιέζω|verb|πιάζω|1. to pack
-πιθανολογία|noun|λόγος|1. persuasive language
-πικραίνω|verb|πικρός|1. to embitter
-πικρία|noun|πικρός|1. acridity, extremely bitter 2. (especially) poison
-πικρός|adjective|πήγνυμι|1. acrid, bitter 2. (by implication) poisonous (bodily or spiritually)
+πιάζω|verb|βιάζω|1. to squeeze, i.e. seize (gently by the hand (press), or officially (arrest), or in hunting (capture))
+πιέζω|verb|πιάζω|1. to pack
+πιθανολογία|noun|λόγος|1. persuasive language
+πικραίνω|verb|πικρός|1. to embitter
+πικρία|noun|πικρός|1. acridity, extremely bitter 2. (especially) poison
+πικρός|adjective|πήγνυμι|1. acrid, bitter 2. (by implication) poisonous (bodily or spiritually)
 πικρῶς|adverb|πικρός|1. bitterly 2. (figuratively) violently
-Πιλάτος|Name Person|---|1. close-pressed, i.e. firm 2. Pilatus, a Roman
-πίμπρημι|verb|---|1. to fire, i.e. burn (figuratively and passively, become inflamed with fever)
-πινακίδιον|noun|πίναξ|1. a tablet (for writing on)
-πίναξ|noun|πλάξ|1. a plate
-πίνω|verb|---|1. to imbibe
-πιότης|noun|---|1. plumpness 2. (by implication) richness (oiliness)
-πιπράσκω|verb|πέραν|1. to sell (by travelling or traffic) 2. (figuratively) to dispose of as merchandise or into slavery
-πίπτω|verb|---|1. to fall
-Πισιδία|Name Location|---|1. Pisidia, a region of Asia Minor
-πιστεύω|verb|πείθω|1. to have faith (in, upon, or with respect to, a person or thing), i.e. credit 2. (by implication) to entrust (especially one's spiritual well-being to Christ)
-πιστικός|adjective|πίστις|1. trustworthy, i.e. genuine (unadulterated)
-πίστις|noun|πείθω|1. persuasion, i.e. credence 2. (morally) conviction (of religious truth, or the truthfulness of God or a religious teacher) 3. (especially) reliance upon Christ for salvation 4. (abstractly) constancy in such profession 5. (by extension) the system of religious (Gospel) truth itself
-πιστός|adjective|πείθω|1. (objectively) trustworthy 2. (subjectively) trustful
-πιστόω|verb|πιστός|1. to assure
-πλανάω|verb|πλάνη|1. (properly) to cause to stray from the straight path (i.e. to roam, wander) 2. (figuratively) to lead astray from safety, truth, or moral uprightness 3. (by implication) to deceive, mislead
-πλάνη|noun|πλάνος|1. (properly) a straying or wandering from the straight path (i.e. a deviation, an error, a bending) 2. (objectively) fraudulence 3. (subjectively) a straying from orthodoxy or piety
-πλανήτης|noun|πλάνος|1. a rover ("planet") 2. (figuratively) an erratic teacher
-πλάνος|adjective|---|1. straying or wandering from the straight path 2. roaming, roving (as a "planos kuon" meaning "stray dog" or as a vagabond) 3. (by implication) an imposter or misleader
-πλάξ|noun|πλάσσω|1. a moulding-board, i.e. flat surface ("plate", or tablet)
-πλάσμα|noun|πλάσσω|1. something moulded
-πλάσσω|verb|---|1. to mould, i.e. shape or fabricate
-πλαστός|adjective|πλάσσω|1. moulded 2. (by implication) artificial 3. (figuratively) fictitious (false)
+Πιλᾶτος|Name Person|---|1. close-pressed, i.e. firm 2. Pilatus, a Roman
+πίμπρημι|verb|---|1. to fire, i.e. burn (figuratively and passively, become inflamed with fever)
+πινακίδιον|noun|πίναξ|1. a tablet (for writing on)
+πίναξ|noun|πλάξ|1. a plate
+πίνω|verb|---|1. to imbibe
+πιότης|noun|---|1. plumpness 2. (by implication) richness (oiliness)
+πιπράσκω|verb|πέραν|1. to sell (by travelling or traffic) 2. (figuratively) to dispose of as merchandise or into slavery
+πίπτω|verb|---|1. to fall
+Πισιδία|Name Location|---|1. Pisidia, a region of Asia Minor
+πιστεύω|verb|πείθω|1. to have faith (in, upon, or with respect to, a person or thing), i.e. credit 2. (by implication) to entrust (especially one's spiritual well-being to Christ)
+πιστικός|adjective|πίστις|1. trustworthy, i.e. genuine (unadulterated)
+πίστις|noun|πείθω|1. persuasion, i.e. credence 2. (morally) conviction (of religious truth, or the truthfulness of God or a religious teacher) 3. (especially) reliance upon Christ for salvation 4. (abstractly) constancy in such profession 5. (by extension) the system of religious (Gospel) truth itself
+πιστός|adjective|πείθω|1. (objectively) trustworthy 2. (subjectively) trustful
+πιστόω|verb|πιστός|1. to assure
+πλανάω|verb|πλάνη|1. (properly) to cause to stray from the straight path (i.e. to roam, wander) 2. (figuratively) to lead astray from safety, truth, or moral uprightness 3. (by implication) to deceive, mislead
+πλάνη|noun|πλάνος|1. (properly) a straying or wandering from the straight path (i.e. a deviation, an error, a bending) 2. (objectively) fraudulence 3. (subjectively) a straying from orthodoxy or piety
+πλανήτης|noun|πλάνος|1. a rover ("planet") 2. (figuratively) an erratic teacher
+πλάνος|adjective|---|1. straying or wandering from the straight path 2. roaming, roving (as a "planos kuon" meaning "stray dog" or as a vagabond) 3. (by implication) an imposter or misleader
+πλάξ|noun|πλάσσω|1. a moulding-board, i.e. flat surface ("plate", or tablet)
+πλάσμα|noun|πλάσσω|1. something moulded
+πλάσσω|verb|---|1. to mould, i.e. shape or fabricate
+πλαστός|adjective|πλάσσω|1. moulded 2. (by implication) artificial 3. (figuratively) fictitious (false)
 πλατεῖα|noun|πλατύς|1. a wide "plat" or "place", i.e. open square
-πλάτος|noun|πλατύς|1. width
-πλατύνω|verb|πλατύς|1. to widen
-πλατύς|adjective|πλάσσω|1. spread out "flat" ("plot"), i.e. broad
-πλέγμα|noun|πλέκω|1. a plait (of hair)
+πλάτος|noun|πλατύς|1. width
+πλατύνω|verb|πλατύς|1. to widen
+πλατύς|adjective|πλάσσω|1. spread out "flat" ("plot"), i.e. broad
+πλέγμα|noun|πλέκω|1. a plait (of hair)
 πλεῖστος|adjective|πολύς|1. the largest number or very large
-πλείων|adjective|πολύς|1. more in quantity, number, or quality 2. (in plural) the major portion
-πλέκω|verb|---|1. to twine or braid
-πλεονάζω|verb|πλείων|1. to do, make or be more, i.e. increase (transitively or intransitively) 2. (by extension) to superabound
-πλεονεκτέω|verb|πλεονέκτης|1. to be covetous 2. (by implication) to over-reach
-πλεονέκτης|noun|ἔχω|1. holding (desiring) more, i.e. eager for gain (avaricious, hence a defrauder)
-πλεονεξία|noun|πλεονέκτης|1. avarice 2. (by implication) fraudulency, extortion
-πλευρά|noun|---|1. a rib 2. (by extension) side
-πλέω|verb|πλύνω|1. to sail
-πληγή|noun|πλήσσω|1. a stroke 2. (by implication) a wound 3. (figuratively) a calamity
-πλήθος|noun|πλήθω|1. a fulness, i.e. a large number, throng, populace
-πληθύνω|verb|πλήθος|1. to increase (transitively or intransitively)
-πλήθω|verb|---|1. to fill 2. (figuratively) imbue, influence, supply 3. (specially) to fulfil (time)
-πλήκτης|noun|πλήσσω|1. a smiter, i.e. pugnacious (quarrelsome)
-πλημμύρα|noun|πλήθω|1. flood-tide 2. (by analogy) a freshet
-πλήν|adverb|πλείων|1. moreover (besides), i.e. albeit, save that, rather, yet
-πλήρης|adjective|πλήθω|1. filled, replete, or covered over 2. (by analogy) complete
-πληροφορέω|verb|φορέω|1. to carry out fully (in evidence), i.e. completely assure (or convince), entirely accomplish
-πληροφορία|noun|πληροφορέω|1. entire confidence
-πληρόω|verb|πλήθω|1. to fully, completely fill 2. (literally) to cram (a net), level up (a hollow) 3. (figuratively) to fully supply, satisfy, execute (an office), finish (a period or task), verify (or coincide with a prediction), etc.
-πλήρωμα|noun|πληρόω|1. repletion or completion 2. (subjectively) what fills (as contents, supplement, copiousness, multitude) 3. (objectively) what is filled (as container, performance, period)
-πλησίον|adverb|---|1. (adverbially) close by 2. (as noun) a neighbor, i.e. fellow (as man, countryman, Christian or friend)
-πλησμονή|noun|πλήθω|1. a filling up 2. (figuratively) gratification
-πλήσσω|verb|πλάσσω|1. to pound 2. (figuratively) to inflict with (calamity)
-πλοιάριον|noun|πλοῖον|1. a boat
+πλείων|adjective|πολύς|1. more in quantity, number, or quality 2. (in plural) the major portion
+πλέκω|verb|---|1. to twine or braid
+πλεονάζω|verb|πλείων|1. to do, make or be more, i.e. increase (transitively or intransitively) 2. (by extension) to superabound
+πλεονεκτέω|verb|πλεονέκτης|1. to be covetous 2. (by implication) to over-reach
+πλεονέκτης|noun|ἔχω|1. holding (desiring) more, i.e. eager for gain (avaricious, hence a defrauder)
+πλεονεξία|noun|πλεονέκτης|1. avarice 2. (by implication) fraudulency, extortion
+πλευρά|noun|---|1. a rib 2. (by extension) side
+πλέω|verb|πλύνω|1. to sail
+πληγή|noun|πλήσσω|1. a stroke 2. (by implication) a wound 3. (figuratively) a calamity
+πλῆθος|noun|πλήθω|1. a fulness, i.e. a large number, throng, populace
+πληθύνω|verb|πλήθος|1. to increase (transitively or intransitively)
+πλήθω|verb|---|1. to fill 2. (figuratively) imbue, influence, supply 3. (specially) to fulfil (time)
+πλήκτης|noun|πλήσσω|1. a smiter, i.e. pugnacious (quarrelsome)
+πλημμύρα|noun|πλήθω|1. flood-tide 2. (by analogy) a freshet
+πλήν|adverb|πλείων|1. moreover (besides), i.e. albeit, save that, rather, yet
+πλήρης|adjective|πλήθω|1. filled, replete, or covered over 2. (by analogy) complete
+πληροφορέω|verb|φορέω|1. to carry out fully (in evidence), i.e. completely assure (or convince), entirely accomplish
+πληροφορία|noun|πληροφορέω|1. entire confidence
+πληρόω|verb|πλήθω|1. to fully, completely fill 2. (literally) to cram (a net), level up (a hollow) 3. (figuratively) to fully supply, satisfy, execute (an office), finish (a period or task), verify (or coincide with a prediction), etc.
+πλήρωμα|noun|πληρόω|1. repletion or completion 2. (subjectively) what fills (as contents, supplement, copiousness, multitude) 3. (objectively) what is filled (as container, performance, period)
+πλησίον|adverb|---|1. (adverbially) close by 2. (as noun) a neighbor, i.e. fellow (as man, countryman, Christian or friend)
+πλησμονή|noun|πλήθω|1. a filling up 2. (figuratively) gratification
+πλήσσω|verb|πλάσσω|1. to pound 2. (figuratively) to inflict with (calamity)
+πλοιάριον|noun|πλοῖον|1. a boat
 πλοῖον|noun|πλέω|1. a sailer, i.e. vessel
-πλόος|noun|πλέω|1. a sail, i.e. navigation
-πλούσιος|adjective|πλοῦτος|1. wealthy 2. (figuratively) abounding with
-πλουσίως|adverb|πλούσιος|1. copiously
-πλουτέω|verb|πλουτίζω|1. to be (or become) wealthy
-πλουτίζω|verb|πλοῦτος|1. to make wealthy (figuratively)
+πλόος|noun|πλέω|1. a sail, i.e. navigation
+πλούσιος|adjective|πλοῦτος|1. wealthy 2. (figuratively) abounding with
+πλουσίως|adverb|πλούσιος|1. copiously
+πλουτέω|verb|πλουτίζω|1. to be (or become) wealthy
+πλουτίζω|verb|πλοῦτος|1. to make wealthy (figuratively)
 πλοῦτος|noun|πλήθω|1. wealth (as fulness) 2. (literally) money, possessions 3. (figuratively) abundance, richness 4. (specially) valuable bestowment
-πλύνω|verb|---|1. to "plunge", i.e. launder clothing
+πλύνω|verb|---|1. to "plunge", i.e. launder clothing
 πνεῦμα|noun|πνέω|1. a current of air, i.e. breath (blast) or a breeze 2. (by analogy or figuratively) a spirit 3. (humanly) the rational soul 4. (by implication) vital principle, mental disposition, etc. 5. (superhumanly) an angel, demon 6. (divinely) God, Christ's spirit, the Holy Spirit
-πνευματικός|adjective|πνεῦμα|1. spiritual 2. (demonically) of evil spirits 3. (divinely) of the Holy Spirit
+πνευματικός|adjective|πνεῦμα|1. spiritual 2. (demonically) of evil spirits 3. (divinely) of the Holy Spirit
 πνευματικῶς|adverb|πνευματικός|1. non-physically, i.e. divinely, figuratively
-πνέω|verb|---|1. to breathe hard, i.e. breeze
-πνίγω|verb|πνέω|1. to wheeze (causative) 2. (by implication) to throttle or strangle (drown)
-πνικτός|adjective|πνίγω|1. throttled 2. (neuter concretely) an animal choked to death (not bled)
-πνοή|noun|πνέω|1. respiration, a breeze
-ποδήρης|adjective|πούς|1. a dress reaching the ankles
-πόθεν|adverb|πόσις|1. from which (as interrogative) or what (as relative) place, state, source or cause
-ποιέω|verb|ποιέω|1. to make or do
-ποίημα|noun|ποιέω|1. a product, i.e. fabric
-ποίησις|noun|ποιέω|1. action, i.e. performance (of the law)
-ποιητής|noun|ποιέω|1. a performer 2. (specially) a "poet"
-ποικίλος|adjective|---|1. motley, i.e. various in character
-ποιμαίνω|verb|ποιμήν|1. to tend as a shepherd of 2. (figuratively) supervisor
-ποιμήν|noun|---|1. a shepherd
-ποίμνη|noun|ποιμαίνω|1. a flock
-ποίμνιον|noun|ποίμνη|1. a flock 2. (figuratively) group (of believers)
+πνέω|verb|---|1. to breathe hard, i.e. breeze
+πνίγω|verb|πνέω|1. to wheeze (causative) 2. (by implication) to throttle or strangle (drown)
+πνικτός|adjective|πνίγω|1. throttled 2. (neuter concretely) an animal choked to death (not bled)
+πνοή|noun|πνέω|1. respiration, a breeze
+ποδήρης|adjective|πούς|1. a dress reaching the ankles
+πόθεν|adverb|πόσις|1. from which (as interrogative) or what (as relative) place, state, source or cause
+ποιέω|verb|ποιέω|1. to make or do
+ποίημα|noun|ποιέω|1. a product, i.e. fabric
+ποίησις|noun|ποιέω|1. action, i.e. performance (of the law)
+ποιητής|noun|ποιέω|1. a performer 2. (specially) a "poet"
+ποικίλος|adjective|---|1. motley, i.e. various in character
+ποιμαίνω|verb|ποιμήν|1. to tend as a shepherd of 2. (figuratively) supervisor
+ποιμήν|noun|---|1. a shepherd
+ποίμνη|noun|ποιμαίνω|1. a flock
+ποίμνιον|noun|ποίμνη|1. a flock 2. (figuratively) group (of believers)
 ποῖος|p/i.|οἷος|1. individualizing interrogative (of character) what sort of 2. (of number) which one
-πολεμέω|verb|πόλεμος|1. to be (engaged) in warfare, i.e. to battle
-πόλεμος|noun|---|1. warfare (a single encounter or a series)
-πόλις|noun|πολύς|1. a town (properly, with walls, of greater or less size)
-πολιτάρχης|noun|ἄρχω|1. a town-officer, i.e. magistrate
-πολιτεία|noun|πολίτης|1. citizenship 2. (concretely) a community
-πολίτευμα|noun|πολιτεύομαι|1. a community 2. (abstractly) citizenship (figuratively)
-πολιτεύομαι|verb|πολίτης|1. to behave as a citizen (figuratively)
-πολίτης|noun|πόλις|1. a citizen, a townsman
-πολλάκις|adverb|πολύς|1. many times, i.e. frequently
-πολλαπλασίων|adjective|πλέκω|1. manifold 2. (neuter as noun) very much more
-πολυλογία|noun|λόγος|1. loquacity, i.e. prolixity
-πολυμέρως|adverb|μέρος|1. in many portions, i.e. variously as to time and agency (piecemeal)
-πολυποίκιλος|adjective|ποικίλος|1. much variegated, i.e. multifarious
-πολύς|adjective|---|1. (singular) much (in any respect) or (plural) many, (neuter singular as adverbial) largely, (neuter plural as adverb or noun) often, mostly, largely
-πολύσπλαγχνος|adjective|σπλάγχνον|1. extremely compassionate
-πολυτελής|adjective|τέλος|1. extremely expensive
-πολύτιμος|adjective|τιμή|1. extremely valuable
-πολυτρόπως|adverb|τρόπος|1. in many ways, i.e. variously as to method or form
-πόμα|noun|πίνω|1. a beverage
-πονηρία|noun|πονηρός|1. depravity 2. (specially) malice 3. (plural, concretely) plots, sins
-πονηρός|adjective|πόνος|1. hurtful, i.e. evil 2. (figuratively) calamitous 3. (passively) ill, i.e. diseased 4. (especially, morally) culpable, i.e. derelict, vicious, atrociously wicked 5. (neuter, singular) mischief, malice 6. (neuter plural) guilt 7. (masculine, singular) the devil 8. (plural) sinners
-πονηρότερος|adjective|πονηρός|1. more evil
-πόνος|noun|πένης|1. toil 2. (by implication) anguish
-Ποντικός|adjective/g.|Πόντος|1. a Pontican, i.e. native of Pontus
-Πόντιος|Name Person|---|1. apparently bridged 2. Pontius, a Roman
-Πόντος|Name Location|---|1. a sea 2. Pontus, a region of Asia Minor
-Πόπλιος|Name Person|---|1. apparently "popular" 2. Poplius (i.e. Publius), a Roman
-πορεία|noun|πορεύομαι|1. travel (by land) 2. (figuratively, plural) proceedings, i.e. career
-πορεύομαι|verb|πορεύομαι|1. to traverse, i.e. travel (especially to remove) 2. (figuratively) to die, live, etc.
-πορθέω|verb|---|1. (figuratively) to ravage
-πορισμός|noun|---|1. furnishing (procuring) 2. (by implication) money-getting (acquisition)
-Πόρκιος|Name Person|---|1. apparently swinish 2. Porcius, a Roman
-πορνεία|noun|πορνεύω|1. prostitution (including adultery, incest, and porn) 2. (by extension) unwedded stimulation or fulfillment of sexual desire 3. (figuratively) idolatry
-πορνεύω|verb|πόρνη|1. to act the prostitute 2. (literally) indulge unlawful lust (of either sex) 3. to stimulate unwedded sexual desire 4. (figuratively) practice idolatry
-πόρνη|noun|πόρνος|1. a prostitute, a sex worker 2. (by extension) one who deliberately stimulates or fulfills unwedded sexual desire by dress, speech or conduct 3. (figuratively) an idolater
-πόρνος|noun|---|1. a (male) prostitute (for hire) 2. (by analogy) a sex addict, a debauchee, a pornographer 3. (by extension) one who is sexually or morally unrestrained
-πόρῥω|adverb|πρό|1. forwards, i.e. at a distance
-πόρῥωθεν|adverb|πόρῥω|1. from far 2. (by implication) at a distance, i.e. distantly
-πορῥωτέρω|adverb|πόρῥω|1. further, i.e. a greater distance
-πορφύρα|noun|---|1. the "purple" mussel 2. (by implication) the red-blue color itself, and finally a garment dyed with it
+πολεμέω|verb|πόλεμος|1. to be (engaged) in warfare, i.e. to battle
+πόλεμος|noun|---|1. warfare (a single encounter or a series)
+πόλις|noun|πολύς|1. a town (properly, with walls, of greater or less size)
+πολιτάρχης|noun|ἄρχω|1. a town-officer, i.e. magistrate
+πολιτεία|noun|πολίτης|1. citizenship 2. (concretely) a community
+πολίτευμα|noun|πολιτεύομαι|1. a community 2. (abstractly) citizenship (figuratively)
+πολιτεύομαι|verb|πολίτης|1. to behave as a citizen (figuratively)
+πολίτης|noun|πόλις|1. a citizen, a townsman
+πολλάκις|adverb|πολύς|1. many times, i.e. frequently
+πολλαπλασίων|adjective|πλέκω|1. manifold 2. (neuter as noun) very much more
+πολυλογία|noun|λόγος|1. loquacity, i.e. prolixity
+πολυμερῶς|adverb|μέρος|1. in many portions, i.e. variously as to time and agency (piecemeal)
+πολυποίκιλος|adjective|ποικίλος|1. much variegated, i.e. multifarious
+πολύς|adjective|---|1. (singular) much (in any respect) or (plural) many, (neuter singular as adverbial) largely, (neuter plural as adverb or noun) often, mostly, largely
+πολύσπλαγχνος|adjective|σπλάγχνον|1. extremely compassionate
+πολυτελής|adjective|τέλος|1. extremely expensive
+πολύτιμος|adjective|τιμή|1. extremely valuable
+πολυτρόπως|adverb|τρόπος|1. in many ways, i.e. variously as to method or form
+πόμα|noun|πίνω|1. a beverage
+πονηρία|noun|πονηρός|1. depravity 2. (specially) malice 3. (plural, concretely) plots, sins
+πονηρός|adjective|πόνος|1. hurtful, i.e. evil 2. (figuratively) calamitous 3. (passively) ill, i.e. diseased 4. (especially, morally) culpable, i.e. derelict, vicious, atrociously wicked 5. (neuter, singular) mischief, malice 6. (neuter plural) guilt 7. (masculine, singular) the devil 8. (plural) sinners
+πονηρότερα|adjective|πονηρός|1. more evil
+πόνος|noun|πένης|1. toil 2. (by implication) anguish
+Ποντικός|adjective/g.|Πόντος|1. a Pontican, i.e. native of Pontus
+Πόντιος|Name Person|---|1. apparently bridged 2. Pontius, a Roman
+Πόντος|Name Location|---|1. a sea 2. Pontus, a region of Asia Minor
+Πόπλιος|Name Person|---|1. apparently "popular" 2. Poplius (i.e. Publius), a Roman
+πορεία|noun|πορεύομαι|1. travel (by land) 2. (figuratively, plural) proceedings, i.e. career
+πορεύομαι|verb|πορεύομαι|1. to traverse, i.e. travel (especially to remove) 2. (figuratively) to die, live, etc.
+πορθέω|verb|---|1. (figuratively) to ravage
+πορισμός|noun|---|1. furnishing (procuring) 2. (by implication) money-getting (acquisition)
+Πόρκιος|Name Person|---|1. apparently swinish 2. Porcius, a Roman
+πορνεία|noun|πορνεύω|1. prostitution (including adultery, incest, and porn) 2. (by extension) unwedded stimulation or fulfillment of sexual desire 3. (figuratively) idolatry
+πορνεύω|verb|πόρνη|1. to act the prostitute 2. (literally) indulge unlawful lust (of either sex) 3. to stimulate unwedded sexual desire 4. (figuratively) practice idolatry
+πόρνη|noun|πόρνος|1. a prostitute, a sex worker 2. (by extension) one who deliberately stimulates or fulfills unwedded sexual desire by dress, speech or conduct 3. (figuratively) an idolater
+πόρνος|noun|---|1. a (male) prostitute (for hire) 2. (by analogy) a sex addict, a debauchee, a pornographer 3. (by extension) one who is sexually or morally unrestrained
+πόρρω|adverb|πρό|1. forwards, i.e. at a distance
+πόρρωθεν|adverb|πόρῥω|1. from far 2. (by implication) at a distance, i.e. distantly
+πορρωτέρω|adverb|πόρῥω|1. further, i.e. a greater distance
+πορφύρα|noun|---|1. the "purple" mussel 2. (by implication) the red-blue color itself, and finally a garment dyed with it
 πορφυροῦς|adjective|πορφύρα|1. purpureal, i.e. bluish red
-πορφυρόπωλις|noun|πωλέω|1. a female trader in purple cloth
-ποσάκις|adverb|πόσος|1. how many times
-πόσις|noun|πίνω|1. a drinking (the act) 2. (concretely) a draught
-πόσος|p/q.|ὅς|1. interrogative pronoun (of amount) how much (large, long or (plural) many)
-ποταμός|noun|πίνω|1. a current, brook or freshet (as drinkable), i.e. running water
-ποταμοφόρητος|adjective|φορέω|1. river-borne, i.e. overwhelmed by a stream
-ποταπός|adjective|ποῦ|1. interrogatively, whatever, i.e. of what possible sort
-ποτέ|particle|τέ|1. indefinite adverb, at some time, ever
-πότε|particle|τέ|1. interrogative adverb, at what time
-πότερον|adverb|ποῦ|1. interrogative as adverb, which (of two), i.e. is it this or that
-ποτήριον|noun|πίνω|1. a drinking-vessel 2. (by extension) the contents thereof, i.e. a cupful (draught) 3. (figuratively) a lot or fate
-ποτίζω|verb|πίνω|1. to furnish drink, irrigate
-Ποτίολοι|Name Location|---|1. little wells, i.e. mineral springs 2. Potioli (i.e. Puteoli), a place in Italy
-πότος|noun|πίνω|1. a drinking-bout or carousal
-πού|particle|---|1. as adverb of place, somewhere, i.e. nearly
+πορφυρόπωλις|noun|πωλέω|1. a female trader in purple cloth
+ποσάκις|adverb|πόσος|1. how many times
+πόσις|noun|πίνω|1. a drinking (the act) 2. (concretely) a draught
+πόσος|p/q.|ὅς|1. interrogative pronoun (of amount) how much (large, long or (plural) many)
+ποταμός|noun|πίνω|1. a current, brook or freshet (as drinkable), i.e. running water
+ποταμοφόρητος|adjective|φορέω|1. river-borne, i.e. overwhelmed by a stream
+ποταπός|adjective|ποῦ|1. interrogatively, whatever, i.e. of what possible sort
+ποτέ|particle|τέ|1. indefinite adverb, at some time, ever
+πότε|particle|τέ|1. interrogative adverb, at what time
+πότερος|adverb|ποῦ|1. interrogative as adverb, which (of two), i.e. is it this or that
+ποτήριον|noun|πίνω|1. a drinking-vessel 2. (by extension) the contents thereof, i.e. a cupful (draught) 3. (figuratively) a lot or fate
+ποτίζω|verb|πίνω|1. to furnish drink, irrigate
+Ποτίολοι|Name Location|---|1. little wells, i.e. mineral springs 2. Potioli (i.e. Puteoli), a place in Italy
+πότος|noun|πίνω|1. a drinking-bout or carousal
+πού|particle|---|1. as adverb of place, somewhere, i.e. nearly
 ποῦ|particle|πού|1. as adverb of place
-Πούδης|Name Person|---|1. modest 2. Pudes (i.e. Pudens), a Christian
-πούς|noun|---|1. a foot
+Πούδης|Name Person|---|1. modest 2. Pudes (i.e. Pudens), a Christian
+πούς|noun|---|1. a foot
 πρᾶγμα|noun|πράσσω|1. a deed 2. (by implication) an affair 3. (by extension) an object (material)
-πραγματεία|noun|πραγματεύομαι|1. a transaction, i.e. negotiation
-πραγματεύομαι|verb|πρᾶγμα|1. to busy oneself with, i.e. to trade
-πραιτώριον|noun|---|1. the pretorium or governor's courtroom (sometimes including the whole edifice and camp)
-πράκτωρ|noun|πράσσω|1. a practiser 2. (specially), an official collector
+πραγματεία|noun|πραγματεύομαι|1. a transaction, i.e. negotiation
+πραγματεύομαι|verb|πρᾶγμα|1. to busy oneself with, i.e. to trade
+πραιτώριον|noun|---|1. the pretorium or governor's courtroom (sometimes including the whole edifice and camp)
+πράκτωρ|noun|πράσσω|1. a practiser 2. (specially), an official collector
 πρᾶξις|noun|πράσσω|1. practice 2. (concretely) an act 3. (by extension) a function
-πράος|noun|πραΰς|1. gentle, i.e. humble
-πρᾳότης|noun|πράος|1. gentleness 2. (by implication) humility
-πρασιά|noun|---|1. a garden plot 2. (by implication, of regular beds) a row (repeated in plural by Hebraism, to indicate an arrangement)
-πράσσω|verb|---|1. to practice, i.e. perform repeatedly or habitually 2. (by implication) to execute, accomplish, etc. 3. (specially) to collect (dues), fare (personally)
-πραΰς|adjective|---|1. mild 2. (by implication) humble
-πραΰτης|noun|πραΰς|1. mildness 2. (by implication) humility
-πρέπω|verb|---|1. to tower up (be conspicuous) 2. (by implication) to be suitable or proper 3. (third person singular present indicative, often used impersonally) it is fit or right
-πρεσβεία|noun|πρεσβεύω|1. seniority (eldership) 2. (by implication) an embassy 3. (concretely) ambassadors
-πρεσβεύω|verb|πρεσβύτερος|1. to be a senior 2. (by implication) act as a representative 3. (figuratively) preacher
-πρεσβυτέριον|noun|πρεσβύτερος|1. the order of elders 2. (specially), Israelite Sanhedrin or Christian "presbytery"
-πρεσβύτερος|adjective|---|1. older 2. (as noun) a senior 3. (specially) an Israelite Sanhedrist 4. (figuratively) member of the celestial council 5. (Christian) "presbyter"
-πρεσβύτης|noun|---|1. an old man
-πρεσβύτις|noun|πρεσβύτης|1. an old woman
-πρηνής|adjective|πρό|1. leaning (falling) forward ("prone"), i.e. head foremost
-πρίζω|verb|---|1. to saw in two
-πρίν|adverb|πρό|1. prior, sooner
-Πρίσκα|Name Person|---|1. feminine of Priscus, ancient 2. Priska, a Christian woman
-Πρίσκιλλα|Name Person|Πρίσκα|1. Priscilla (i.e. little Prisca), a Christian woman
-πρό|preposition|---|1. "fore", i.e. in front of, prior to 2. (figuratively) superior to
-προάγω|verb|ἄγω|1. to lead forward (magisterially) 2. (intransitively) to precede (in place or time) 3. (participle) previous
-προαιρέομαι|verb|αἱρέομαι|1. to choose for oneself before another thing (prefer) 2. (by implication) to propose (intend)
-προαιτιάομαι|verb|αἰτία|1. to accuse already, i.e. previously charge
-προακούω|verb|ἀκούω|1. to hear already,i.e. anticipate
-προαμαρτάνω|verb|ἁμαρτάνω|1. to sin previously (to conversion)
-προαύλιον|noun|αὐλή|1. a forecourt, i.e. vestibule (alley-way)
-προβαίνω|verb|βάσις|1. to walk forward 2. (literally) to advance 3. (of age) to age in years
-προβάλλω|verb|βάλλω|1. to throw forward, i.e. push to the front, germinate
-προβατικός|adjective|πρόβατον|1. relating to sheep 2. (typically)  a gate through which sheep were led into Jerusalem
-πρόβατον|noun|προβαίνω|1. something that walks forward (a quadruped) 2. (specially) a sheep
-προβιβάζω|verb|βιάζω|1. to force forward, i.e. bring to the front, instigate
-προβλέπω|verb|βλέπω|1. to look out beforehand, i.e. furnish in advance
-προγίνομαι|verb|γίνομαι|1. to be already, i.e. have previousy transpired
-προγινώσκω|verb|γινώσκω|1. to know beforehand, i.e. foresee
-πρόγνωσις|noun|προγινώσκω|1. forethought
-πρόγονος|noun|προγίνομαι|1. an ancestor, (grand-)parent
-προγράφω|verb|γράφω|1. to write previously 2. (figuratively) to announce, prescribe
-πρόδηλος|adjective|δῆλος|1. plain before all men, i.e. obvious
-προδίδωμι|verb|δίδωμι|1. to give before the other party has given
-προδότης|noun|προδίδωμι|1. a surrender
-πρόδρομος|adjective|προτρέχω|1. a runner ahead, i.e. scout 2. (figuratively) precursor, forerunner
-προείδω|verb|εἴδω|1. to foresee
-προελπίζω|verb|ἐλπίζω|1. to hope in advance of other confirmation
-προέπω|verb|ἔπω|1. to say already, to predict
-προενάρχομαι|verb|ἐνάρχομαι|1. to commence already
-προεπαγγέλλομαι|verb|ἐπαγγέλλω|1. to promise of old
-προερέω|verb|ἐρέω|1. to say already, predict
-προέρχομαι|verb|ἔρχομαι|1. to go onward, precede (in place or time)
-προετοιμάζω|verb|ἑτοιμάζω|1. to prepare in advance
-προευαγγελίζομαι|verb|εὐαγγελίζω|1. to announce glad news in advance
-προέχομαι|verb|ἔχω|1. to hold oneself before others 2. (figuratively) to excel
-προηγέομαι|verb|ἡγέομαι|1. to lead the way for others, i.e. show deference
-πρόθεσις|noun|προτίθεμαι|1. a setting forth 2. (figuratively) proposal (intention) 3. (specially) the show-bread (in the Temple) as exposed before God
-προθέσμιος|noun|τίθημι|1. fixed beforehand, i.e.  a designated day
-προθυμία|noun|πρόθυμος|1. predisposition, i.e. alacrity
-πρόθυμος|adjective|θυμός|1. forward in spirit, i.e. predisposed 2. (neuter, as noun) alacrity
-προθύμως|adverb|πρόθυμος|1. with alacrity
-προΐστημι|verb|ἵστημι|1. to stand before 2. (in rank) to preside 3. (by implication) to practise
-προκαλέομαι|verb|καλέω|1. to call forth to oneself (challenge) 2. (by implication) to irritate
-προκαταγγέλλω|verb|καταγγέλλω|1. to anounce beforehand, i.e. predict, promise
-προκαταρτίζω|verb|καταρτίζω|1. to prepare in advance
-πρόκειμαι|verb|κεῖμαι|1. to lie before the view 2. (figuratively) to be present (to the mind), to stand forth (as an example or reward)
-προκηρύσσω|verb|κηρύσσω|1. to herald (i.e. proclaim) in advance
-προκοπή|noun|προκόπτω|1. progress, i.e. advancement (subjectively or objectively)
-προκόπτω|verb|κόπτω|1. to drive forward (as if by beating) 2. (figuratively and intransitively) to advance 3. (in amount) to grow 4. (in time) to be well along
-πρόκριμα|noun|κρίνω|1. a prejudgment (prejudice), i.e. prepossession
-προκυρόω|verb|κυρόω|1. to ratify previously
-προλαμβάνω|verb|λαμβάνω|1. to take in advance 2. (literally) eat before others have an opportunity 3. (figuratively) to anticipate, surprise
-προλέγω|verb|λέγω|1. to say beforehand, i.e. predict, forewarn
-προμαρτύρομαι|verb|μαρτύρομαι|1. to be a witness in advance i.e. predict
-προμελετάω|verb|μελετάω|1. to premeditate
-προμεριμνάω|verb|μεριμνάω|1. to care (anxiously) in advance
-προνοέω|verb|νοιέω|1. to consider in advance, i.e. look out for beforehand 2. (actively) by way of maintenance for others 3. (middle voice) by way of circumspection for oneself
-πρόνοια|noun|προνοέω|1. forethought, i.e. provident care or supply
-προοράω|verb|ὁράω|1. to behold in advance 2. (actively) to notice (another) previously 3. (middle voice) to keep in (one's own) view
-προορίζω|verb|ὁρίζω|1. to limit in advance 2. (figuratively) predetermine
-προπάσχω|verb|πάσχω|1. to undergo hardship previously
-προπέμπω|verb|πέμπω|1. to send forward, i.e. escort or aid in travel
-προπετής|adjective|πίπτω|1. falling forward, i.e. headlong 2. (figuratively) hasty, rash
-προπορεύομαι|verb|πορεύομαι|1. to precede (as guide or herald)
-πρός|preposition|πρό|1. forward to, i.e. toward 2. (genitive case) the side of, i.e. pertaining to 3. (dative case) by the side of, i.e. near to 4. (accusative case, usually) the place, time, occasion, or respect (which is the destination of the relation, i.e. whither or for which it is predicated)
-προσάββατον|noun|σάββατον|1. a fore-sabbath, i.e. the Sabbath-eve
-προσαγορεύω|verb|ἀγορά|1. to address, i.e. salute by name
-προσάγω|verb|ἄγω|1. to lead towards 2. (transitively) to conduct near (summon, present) 3. (intransitively) to approach
-προσαγωγή|noun|προσάγω|1. admission
-προσαιτέω|verb|αἰτέω|1. to ask repeatedly (importune), i.e. solicit
-προσαναβαίνω|verb|ἀναβαίνω|1. to ascend farther, i.e. be promoted (take an upper (more honorable) seat)
-προσαναλίσκω|verb|ἀναλίσκω|1. to expend further
-προσαναπληρόω|verb|ἀναπληρόω|1. to fill up further, i.e. furnish fully
-προσανατίθημι|verb|ἀνατίθεμαι|1. to lay up in addition 2. (middle voice and figuratively) to impart 3. (by implication) to consult
-προσαπειλέω|verb|ἀπειλέω|1. to menace additionally
-προσδαπανάω|verb|δαπανάω|1. to expend additionally
-προσδέομαι|verb|δέομαι|1. to require additionally, i.e. want further
-προσδέχομαι|verb|δέχομαι|1. to admit (to intercourse, hospitality, credence) 2. (figuratively) endurance 3. (by implication) to await (with confidence or patience)     
-προσδοκάω|verb|πρός|1. to anticipate (in thought, hope or fear) 2. (by implication) to await
-προσδοκία|noun|προσδοκάω|1. apprehension (of evil) 2. (by implication) infliction anticipated
-προσεάω|verb|ἐάω|1. to permit further progress
-προσεγγίζω|verb|ἐγγίζω|1. to approach near
-προσεδρεύω|verb|ἑδραῖος|1. to sit near, i.e. attend as a servant
-προσεργάζομαι|verb|ἐργάζομαι|1. to work additionally 2. (by implication) acquire besides
-προσέρχομαι|verb|ἔρχομαι|1. to approach 2. (literally) come near, visit 3. (figuratively) worship, assent to
-προσευχή|noun|προσεύχομαι|1. prayer 2. (by implication) an oratory (chapel)
-προσεύχομαι|verb|εὔχομαι|1. to pray to God, i.e. supplicate, worship
-προσέχω|verb|ἔχω|1. to hold the mind towards, i.e. pay attention to, be cautious about, apply oneself to, adhere to
-προσηλόω|verb|ἥλος|1. to nail to, i.e. spike fast
-προσήλυτος|noun|προσέρχομαι|1. an arriver from a foreign region 2. (specially), a convert to Judaism ("proselyte")
-πρόσκαιρος|adjective|καιρός|1. for the occasion only, i.e. temporary
-προσκαλέομαι|verb|καλέω|1. to call toward oneself, i.e. summon, invite
-προσκαρτερέω|verb|καρτερέω|1. to be earnest towards 2. (to a thing) to persevere, be constantly diligent 3. (in a place) to attend assiduously all the exercises 4. (to a person) to adhere closely to (as a servitor)
-προσκαρτέρησις|noun|προσκαρτερέω|1. persistancy
-προσκεφάλαιον|noun|κεφαλή|1. something for the head, i.e. a cushion
-προσκληρόω|verb|κληρόω|1. to give a common lot to 2. (figuratively) to associate with
-πρόσκλισις|noun|κλίνω|1. a leaning towards 2. (figuratively) proclivity (favoritism)
-προσκολλάω|verb|κολλάω|1. to glue to 2. (figuratively) to adhere
-πρόσκομμα|noun|προσκόπτω|1. a stub 2. (figuratively) occasion of apostasy
-προσκοπή|noun|προσκόπτω|1. a stumbling 2. (figuratively and concretely) occasion of sin
-προσκόπτω|verb|κόπτω|1. to strike at, i.e. surge against (as water) 2. (specially) to stub on, i.e. trip up
-προσκυλίω|verb|κυλιόω|1. to roll towards, i.e. block against
-προσκυνέω|verb|κύων|1. to fawn or crouch to 2. to fall face down (prostrate) in adoration 3. a physical act of lowering oneself in humble submission with an attitude of utmost adoration or respect
-προσκυνητής|noun|προσκυνέω|1. an adorer
-προσλαλέω|verb|λαλέω|1. to talk to, i.e. converse with
-προσλαμβάνω|verb|λαμβάνω|1. to take to oneself, i.e. use (food), lead (aside), admit (to friendship or hospitality)
-πρόσληψις|noun|προσλαμβάνω|1. admission
-προσμένω|verb|μένω|1. to stay further, i.e. remain in a place, with a person 2. (figuratively) to adhere to, persevere in
-προσορμίζω|verb|ὁρμή|1. to moor to 2. (by implication) land at
-προσοφείλω|verb|ὀφείλω|1. to be indebted additionally
-προσοχθίζω|verb|πρός|1. to feel indignant at
-πρόσπεινος|adjective|πεινάω|1. hungering further, i.e. intensely hungry
-προσπήγνυμι|verb|πήγνυμι|1. to fasten to 2. (specially) to impale (on a cross)
-προσπίπτω|verb|πίπτω|1. to fall towards 2. (gently) prostrate oneself (in supplication or homage) 3. (violently) to rush upon (in storm)
-προσποιέομαι|verb|ποιέω|1. to do forward for oneself, i.e. pretend (as if about to do a thing)
-προσπορεύομαι|verb|πορεύομαι|1. to journey towards, i.e. approach
-προσρήγνυμι|verb|ῥήγνυμι|1. to tear towards, i.e. burst upon (as a tempest or flood)
-προστάσσω|verb|τάσσω|1. to arrange towards 2. (figuratively) enjoin
-προστάτις|noun|προΐστημι|1. a patroness, i.e. assistant
-προστίθημι|verb|τίθημι|1. to place additionally, i.e. lay beside, annex, repeat
-προστρέχω|verb|τρέχω|1. to run towards, i.e. hasten to meet or join
-προσφάγιον|noun|φάγω|1. something eaten in addition to bread, i.e. a relish (specially, fish)
-πρόσφατος|adjective|σφάζω|1. previously (recently) slain (fresh) 2. (figuratively) lately made
-προσφάτως|adverb|πρόσφατος|1. recently
-προσφέρω|verb|φέρω|1. to bear towards, i.e. lead to, tender (especially to God), treat
-προσφιλής|adjective|φιλέω|1. friendly towards, i.e. acceptable
-προσφορά|noun|προσφέρω|1. presentation 2. (concretely) an oblation (bloodless) or sacrifice
-προσφωνέω|verb|φωνέω|1. to sound towards, i.e. address, exclaim, summon
-πρόσχυσις|noun|πρός|1. a shedding forth, i.e. affusion
-προσψαύω|verb|πρός|1. to impinge, i.e. lay a finger on (in order to relieve)
-προσωποληπτέω|verb|προσωπολήπτης|1. to favor an individual, i.e. show partiality
-προσωπολήπτης|noun|λαμβάνω|1. an accepter of a face (individual) 2. (specially), one exhibiting partiality
-προσωποληψία|noun|προσωπολήπτης|1. partiality, i.e. favoritism
-πρόσωπον|noun|ὀπτάνομαι|1. the front (as being towards view), i.e. the countenance, aspect, appearance, surface 2. (by implication) presence, person
-προτάσσω|verb|τάσσω|1. to pre-arrange, i.e. prescribe
-προτείνω|verb|πρό|1. to protend, i.e. tie prostrate (for scourging)
-πρότερον|adjective|πρότερος|1. previously
-πρότερος|adjective|πρό|1. prior or previous
-προτίθεμαι|verb|τίθημι|1. to place before 2. (for oneself) to exhibit 3. (to oneself) to propose (determine)
-προτρέπομαι|verb|τροπή|1. to turn forward for oneself, i.e. encourage
-προτρέχω|verb|τρέχω|1. to run forward, i.e. outstrip, precede
-προϋπάρχω|verb|ὑπάρχω|1. to exist before 2. (adverbially) to be or do something previously
-πρόφασις|noun|φαίνω|1. an outward showing, i.e. pretext
-προφέρω|verb|φέρω|1. to bear forward, i.e. produce
-προφητεία|noun|προφήτης|1. prediction (scriptural or other)
-προφητεύω|verb|προφήτης|1. to foretell events, divine, speak under inspiration, exercise the prophetic office
-προφήτης|noun|φημί|1. a foreteller ("prophet") 2. (by analogy) an inspired speaker 3. (by extension) a poet
-προφητικός|adjective|προφήτης|1. pertaining to a foreteller ("prophetic")
+πρᾷος|noun|πραΰς|1. gentle, i.e. humble
+πρᾳότης|noun|πράος|1. gentleness 2. (by implication) humility
+πρασιά|noun|---|1. a garden plot 2. (by implication, of regular beds) a row (repeated in plural by Hebraism, to indicate an arrangement)
+πράσσω|verb|---|1. to practice, i.e. perform repeatedly or habitually 2. (by implication) to execute, accomplish, etc. 3. (specially) to collect (dues), fare (personally)
+πραΰς|adjective|---|1. mild 2. (by implication) humble
+πρᾳΰτης|noun|πραΰς|1. mildness 2. (by implication) humility
+πρέπω|verb|---|1. to tower up (be conspicuous) 2. (by implication) to be suitable or proper 3. (third person singular present indicative, often used impersonally) it is fit or right
+πρεσβεία|noun|πρεσβεύω|1. seniority (eldership) 2. (by implication) an embassy 3. (concretely) ambassadors
+πρεσβεύω|verb|πρεσβύτερος|1. to be a senior 2. (by implication) act as a representative 3. (figuratively) preacher
+πρεσβυτέριον|noun|πρεσβύτερος|1. the order of elders 2. (specially), Israelite Sanhedrin or Christian "presbytery"
+πρεσβύτερος|adjective|---|1. older 2. (as noun) a senior 3. (specially) an Israelite Sanhedrist 4. (figuratively) member of the celestial council 5. (Christian) "presbyter"
+πρεσβύτης|noun|---|1. an old man
+πρεσβῦτις|noun|πρεσβύτης|1. an old woman
+πρηνής|adjective|πρό|1. leaning (falling) forward ("prone"), i.e. head foremost
+πρίζω|verb|---|1. to saw in two
+πρίν|adverb|πρό|1. prior, sooner
+Πρίσκα|Name Person|---|1. feminine of Priscus, ancient 2. Priska, a Christian woman
+Πρίσκιλλα|Name Person|Πρίσκα|1. Priscilla (i.e. little Prisca), a Christian woman
+πρό|preposition|---|1. "fore", i.e. in front of, prior to 2. (figuratively) superior to
+προάγω|verb|ἄγω|1. to lead forward (magisterially) 2. (intransitively) to precede (in place or time) 3. (participle) previous
+προαιρέω|verb|αἱρέομαι|1. to choose for oneself before another thing (prefer) 2. (by implication) to propose (intend)
+προαιτιάομαι|verb|αἰτία|1. to accuse already, i.e. previously charge
+προακούω|verb|ἀκούω|1. to hear already,i.e. anticipate
+προαμαρτάνω|verb|ἁμαρτάνω|1. to sin previously (to conversion)
+προαύλιον|noun|αὐλή|1. a forecourt, i.e. vestibule (alley-way)
+προβαίνω|verb|βάσις|1. to walk forward 2. (literally) to advance 3. (of age) to age in years
+προβάλλω|verb|βάλλω|1. to throw forward, i.e. push to the front, germinate
+προβατικός|adjective|πρόβατον|1. relating to sheep 2. (typically)  a gate through which sheep were led into Jerusalem
+πρόβατον|noun|προβαίνω|1. something that walks forward (a quadruped) 2. (specially) a sheep
+προβιβάζω|verb|βιάζω|1. to force forward, i.e. bring to the front, instigate
+προβλέπομαι|verb|βλέπω|1. to look out beforehand, i.e. furnish in advance
+προγίνομαι|verb|γίνομαι|1. to be already, i.e. have previousy transpired
+προγινώσκω|verb|γινώσκω|1. to know beforehand, i.e. foresee
+πρόγνωσις|noun|προγινώσκω|1. forethought
+πρόγονος|noun|προγίνομαι|1. an ancestor, (grand-)parent
+προγράφω|verb|γράφω|1. to write previously 2. (figuratively) to announce, prescribe
+πρόδηλος|adjective|δῆλος|1. plain before all men, i.e. obvious
+προδίδωμι|verb|δίδωμι|1. to give before the other party has given
+προδότης|noun|προδίδωμι|1. a surrender
+πρόδρομος|adjective|προτρέχω|1. a runner ahead, i.e. scout 2. (figuratively) precursor, forerunner
+προείδω|verb|εἴδω|1. to foresee
+προελπίζω|verb|ἐλπίζω|1. to hope in advance of other confirmation
+προέπω|verb|ἔπω|1. to say already, to predict
+προενάρχομαι|verb|ἐνάρχομαι|1. to commence already
+προεπαγγέλλομαι|verb|ἐπαγγέλλω|1. to promise of old
+προερέω|verb|ἐρέω|1. to say already, predict
+προέρχομαι|verb|ἔρχομαι|1. to go onward, precede (in place or time)
+προετοιμάζω|verb|ἑτοιμάζω|1. to prepare in advance
+προευαγγελίζομαι|verb|εὐαγγελίζω|1. to announce glad news in advance
+προέχω|verb|ἔχω|1. to hold oneself before others 2. (figuratively) to excel
+προηγέομαι|verb|ἡγέομαι|1. to lead the way for others, i.e. show deference
+πρόθεσις|noun|προτίθεμαι|1. a setting forth 2. (figuratively) proposal (intention) 3. (specially) the show-bread (in the Temple) as exposed before God
+προθεσμία|noun|τίθημι|1. fixed beforehand, i.e.  a designated day
+προθυμία|noun|πρόθυμος|1. predisposition, i.e. alacrity
+πρόθυμος|adjective|θυμός|1. forward in spirit, i.e. predisposed 2. (neuter, as noun) alacrity
+προθύμως|adverb|πρόθυμος|1. with alacrity
+προΐστημι|verb|ἵστημι|1. to stand before 2. (in rank) to preside 3. (by implication) to practise
+προκαλέομαι|verb|καλέω|1. to call forth to oneself (challenge) 2. (by implication) to irritate
+προκαταγγέλλω|verb|καταγγέλλω|1. to anounce beforehand, i.e. predict, promise
+προκαταρτίζω|verb|καταρτίζω|1. to prepare in advance
+πρόκειμαι|verb|κεῖμαι|1. to lie before the view 2. (figuratively) to be present (to the mind), to stand forth (as an example or reward)
+προκηρύσσω|verb|κηρύσσω|1. to herald (i.e. proclaim) in advance
+προκοπή|noun|προκόπτω|1. progress, i.e. advancement (subjectively or objectively)
+προκόπτω|verb|κόπτω|1. to drive forward (as if by beating) 2. (figuratively and intransitively) to advance 3. (in amount) to grow 4. (in time) to be well along
+πρόκριμα|noun|κρίνω|1. a prejudgment (prejudice), i.e. prepossession
+προκυρόω|verb|κυρόω|1. to ratify previously
+προλαμβάνω|verb|λαμβάνω|1. to take in advance 2. (literally) eat before others have an opportunity 3. (figuratively) to anticipate, surprise
+προλέγω|verb|λέγω|1. to say beforehand, i.e. predict, forewarn
+προμαρτύρομαι|verb|μαρτύρομαι|1. to be a witness in advance i.e. predict
+προμελετάω|verb|μελετάω|1. to premeditate
+προμεριμνάω|verb|μεριμνάω|1. to care (anxiously) in advance
+προνοέω|verb|νοιέω|1. to consider in advance, i.e. look out for beforehand 2. (actively) by way of maintenance for others 3. (middle voice) by way of circumspection for oneself
+πρόνοια|noun|προνοέω|1. forethought, i.e. provident care or supply
+προοράω|verb|ὁράω|1. to behold in advance 2. (actively) to notice (another) previously 3. (middle voice) to keep in (one's own) view
+προορίζω|verb|ὁρίζω|1. to limit in advance 2. (figuratively) predetermine
+προπάσχω|verb|πάσχω|1. to undergo hardship previously
+προπέμπω|verb|πέμπω|1. to send forward, i.e. escort or aid in travel
+προπετής|adjective|πίπτω|1. falling forward, i.e. headlong 2. (figuratively) hasty, rash
+προπορεύομαι|verb|πορεύομαι|1. to precede (as guide or herald)
+πρός|preposition|πρό|1. forward to, i.e. toward 2. (genitive case) the side of, i.e. pertaining to 3. (dative case) by the side of, i.e. near to 4. (accusative case, usually) the place, time, occasion, or respect (which is the destination of the relation, i.e. whither or for which it is predicated)
+προσάββατον|noun|σάββατον|1. a fore-sabbath, i.e. the Sabbath-eve
+προσαγορεύω|verb|ἀγορά|1. to address, i.e. salute by name
+προσάγω|verb|ἄγω|1. to lead towards 2. (transitively) to conduct near (summon, present) 3. (intransitively) to approach
+προσαγωγή|noun|προσάγω|1. admission
+προσαιτέω|verb|αἰτέω|1. to ask repeatedly (importune), i.e. solicit
+προσαναβαίνω|verb|ἀναβαίνω|1. to ascend farther, i.e. be promoted (take an upper (more honorable) seat)
+προσαναλίσκω|verb|ἀναλίσκω|1. to expend further
+προσαναπληρόω|verb|ἀναπληρόω|1. to fill up further, i.e. furnish fully
+προσανατίθημι|verb|ἀνατίθεμαι|1. to lay up in addition 2. (middle voice and figuratively) to impart 3. (by implication) to consult
+προσαπειλέω|verb|ἀπειλέω|1. to menace additionally
+προσδαπανάω|verb|δαπανάω|1. to expend additionally
+προσδέομαι|verb|δέομαι|1. to require additionally, i.e. want further
+προσδέχομαι|verb|δέχομαι|1. to admit (to intercourse, hospitality, credence) 2. (figuratively) endurance 3. (by implication) to await (with confidence or patience)     
+προσδοκάω|verb|πρός|1. to anticipate (in thought, hope or fear) 2. (by implication) to await
+προσδοκία|noun|προσδοκάω|1. apprehension (of evil) 2. (by implication) infliction anticipated
+προσεάω|verb|ἐάω|1. to permit further progress
+προσεγγίζω|verb|ἐγγίζω|1. to approach near
+προσεδρεύω|verb|ἑδραῖος|1. to sit near, i.e. attend as a servant
+προσεργάζομαι|verb|ἐργάζομαι|1. to work additionally 2. (by implication) acquire besides
+προσέρχομαι|verb|ἔρχομαι|1. to approach 2. (literally) come near, visit 3. (figuratively) worship, assent to
+προσευχή|noun|προσεύχομαι|1. prayer 2. (by implication) an oratory (chapel)
+προσεύχομαι|verb|εὔχομαι|1. to pray to God, i.e. supplicate, worship
+προσέχω|verb|ἔχω|1. to hold the mind towards, i.e. pay attention to, be cautious about, apply oneself to, adhere to
+προσηλόω|verb|ἥλος|1. to nail to, i.e. spike fast
+προσήλυτος|noun|προσέρχομαι|1. an arriver from a foreign region 2. (specially), a convert to Judaism ("proselyte")
+πρόσκαιρος|adjective|καιρός|1. for the occasion only, i.e. temporary
+προσκαλέω|verb|καλέω|1. to call toward oneself, i.e. summon, invite
+προσκαρτερέω|verb|καρτερέω|1. to be earnest towards 2. (to a thing) to persevere, be constantly diligent 3. (in a place) to attend assiduously all the exercises 4. (to a person) to adhere closely to (as a servitor)
+προσκαρτέρησις|noun|προσκαρτερέω|1. persistancy
+προσκεφάλαιον|noun|κεφαλή|1. something for the head, i.e. a cushion
+προσκληρόω|verb|κληρόω|1. to give a common lot to 2. (figuratively) to associate with
+πρόσκλησις|noun|κλίνω|1. a leaning towards 2. (figuratively) proclivity (favoritism)
+προσκολλάω|verb|κολλάω|1. to glue to 2. (figuratively) to adhere
+πρόσκομμα|noun|προσκόπτω|1. a stub 2. (figuratively) occasion of apostasy
+προσκοπή|noun|προσκόπτω|1. a stumbling 2. (figuratively and concretely) occasion of sin
+προσκόπτω|verb|κόπτω|1. to strike at, i.e. surge against (as water) 2. (specially) to stub on, i.e. trip up
+προσκυλίω|verb|κυλιόω|1. to roll towards, i.e. block against
+προσκυνέω|verb|κύων|1. to fawn or crouch to 2. to fall face down (prostrate) in adoration 3. a physical act of lowering oneself in humble submission with an attitude of utmost adoration or respect
+προσκυνητής|noun|προσκυνέω|1. an adorer
+προσλαλέω|verb|λαλέω|1. to talk to, i.e. converse with
+προσλαμβάνω|verb|λαμβάνω|1. to take to oneself, i.e. use (food), lead (aside), admit (to friendship or hospitality)
+πρόσληψις|noun|προσλαμβάνω|1. admission
+προσμένω|verb|μένω|1. to stay further, i.e. remain in a place, with a person 2. (figuratively) to adhere to, persevere in
+προσορμίζω|verb|ὁρμή|1. to moor to 2. (by implication) land at
+προσοφείλω|verb|ὀφείλω|1. to be indebted additionally
+προσοχθίζω|verb|πρός|1. to feel indignant at
+πρόσπεινος|adjective|πεινάω|1. hungering further, i.e. intensely hungry
+προσπήγνυμι|verb|πήγνυμι|1. to fasten to 2. (specially) to impale (on a cross)
+προσπίπτω|verb|πίπτω|1. to fall towards 2. (gently) prostrate oneself (in supplication or homage) 3. (violently) to rush upon (in storm)
+προσποιέω|verb|ποιέω|1. to do forward for oneself, i.e. pretend (as if about to do a thing)
+προσπορεύομαι|verb|πορεύομαι|1. to journey towards, i.e. approach
+προσρήγνυμι|verb|ῥήγνυμι|1. to tear towards, i.e. burst upon (as a tempest or flood)
+προστάσσω|verb|τάσσω|1. to arrange towards 2. (figuratively) enjoin
+προστάτις|noun|προΐστημι|1. a patroness, i.e. assistant
+προστίθημι|verb|τίθημι|1. to place additionally, i.e. lay beside, annex, repeat
+προστρέχω|verb|τρέχω|1. to run towards, i.e. hasten to meet or join
+προσφάγιον|noun|φάγω|1. something eaten in addition to bread, i.e. a relish (specially, fish)
+πρόσφατος|adjective|σφάζω|1. previously (recently) slain (fresh) 2. (figuratively) lately made
+προσφάτως|adverb|πρόσφατος|1. recently
+προσφέρω|verb|φέρω|1. to bear towards, i.e. lead to, tender (especially to God), treat
+προσφιλής|adjective|φιλέω|1. friendly towards, i.e. acceptable
+προσφορά|noun|προσφέρω|1. presentation 2. (concretely) an oblation (bloodless) or sacrifice
+προσφωνέω|verb|φωνέω|1. to sound towards, i.e. address, exclaim, summon
+πρόσχυσις|noun|πρός|1. a shedding forth, i.e. affusion
+προσψαύω|verb|πρός|1. to impinge, i.e. lay a finger on (in order to relieve)
+προσωποληπτέω|verb|προσωπολήπτης|1. to favor an individual, i.e. show partiality
+προσωπολήπτης|noun|λαμβάνω|1. an accepter of a face (individual) 2. (specially), one exhibiting partiality
+προσωποληψία|noun|προσωπολήπτης|1. partiality, i.e. favoritism
+πρόσωπον|noun|ὀπτάνομαι|1. the front (as being towards view), i.e. the countenance, aspect, appearance, surface 2. (by implication) presence, person
+προτάσσω|verb|τάσσω|1. to pre-arrange, i.e. prescribe
+προτείνω|verb|πρό|1. to protend, i.e. tie prostrate (for scourging)
+πρότερον|adjective|πρότερος|1. previously
+πρότερος|adjective|πρό|1. prior or previous
+προτίθεμαι|verb|τίθημι|1. to place before 2. (for oneself) to exhibit 3. (to oneself) to propose (determine)
+προτρέπω|verb|τροπή|1. to turn forward for oneself, i.e. encourage
+προτρέχω|verb|τρέχω|1. to run forward, i.e. outstrip, precede
+προϋπάρχω|verb|ὑπάρχω|1. to exist before 2. (adverbially) to be or do something previously
+πρόφασις|noun|φαίνω|1. an outward showing, i.e. pretext
+προφέρω|verb|φέρω|1. to bear forward, i.e. produce
+προφητεία|noun|προφήτης|1. prediction (scriptural or other)
+προφητεύω|verb|προφήτης|1. to foretell events, divine, speak under inspiration, exercise the prophetic office
+προφήτης|noun|φημί|1. a foreteller ("prophet") 2. (by analogy) an inspired speaker 3. (by extension) a poet
+προφητικός|adjective|προφήτης|1. pertaining to a foreteller ("prophetic")
 προφῆτις|noun|προφήτης|1. a female foreteller or an inspired woman
-προφθάνω|verb|φθάνω|1. to get an earlier start of, i.e. anticipate
-προχειρίζομαι|verb|χείρ|1. to handle for oneself in advance 2. (figuratively) to purpose
-προχειροτονέω|verb|χειροτονέω|1. to elect in advance
-Πρόχορος|Name Person|χορός|1. before the dance 2. Prochorus, a Christian
-πρύμνα|noun|---|1. the stern of a ship
-πρωΐ|adverb|πρό|1. at dawn 2. (by implication) the day-break watch
-πρωΐα|noun|πρωΐ|1. day-dawn
-πρώϊμος|adjective|πρωΐ|1. dawning 2. (by analogy) autumnal (showering, the first of the rainy season)
-πρωϊνός|adjective|πρωΐ|1. pertaining to the dawn, i.e. matutinal
-πρώρα|noun|πρό|1. the prow, i.e. forward part of a vessel
-πρωτεύω|verb|πρῶτος|1. to be first (in rank or influence)
-πρωτοκαθεδρία|noun|καθέδρα|1. a sitting first (in the front row), i.e. preeminence in council
-πρωτοκλισία|noun|κλισία|1. a reclining first (in the place of honor) at the dinner-bed, i.e. preeminence at meals
+προφθάνω|verb|φθάνω|1. to get an earlier start of, i.e. anticipate
+προχειρίζομαι|verb|χείρ|1. to handle for oneself in advance 2. (figuratively) to purpose
+προχειροτονέω|verb|χειροτονέω|1. to elect in advance
+Πρόχορος|Name Person|χορός|1. before the dance 2. Prochorus, a Christian
+πρύμνα|noun|---|1. the stern of a ship
+πρωΐ|adverb|πρό|1. at dawn 2. (by implication) the day-break watch
+πρωΐα|noun|πρωΐ|1. day-dawn
+πρώϊμος|adjective|πρωΐ|1. dawning 2. (by analogy) autumnal (showering, the first of the rainy season)
+πρωϊνός|adjective|πρωΐ|1. pertaining to the dawn, i.e. matutinal
+πρῴρα|noun|πρό|1. the prow, i.e. forward part of a vessel
+πρωτεύω|verb|πρῶτος|1. to be first (in rank or influence)
+πρωτοκαθεδρία|noun|καθέδρα|1. a sitting first (in the front row), i.e. preeminence in council
+πρωτοκλισία|noun|κλισία|1. a reclining first (in the place of honor) at the dinner-bed, i.e. preeminence at meals
 πρῶτον|adjective|ὁ|1. firstly (in time, place, order, or importance)
 πρῶτος|adjective|πρό|1. foremost (in time, place, order or importance)
-πρωτοστάτης|noun|ἵστημι|1. one standing first in the ranks, i.e. a captain (champion)
-πρωτοτόκια|noun|πρωτοτόκος|1. primogeniture (as a privilege)
-πρωτοτόκος|adjective|τίκτω|1. first-born
-πταίω|verb|πίπτω|1. to trip 2. (figuratively) to err, sin, fail (of salvation)
-πτέρνα|noun|---|1. the heel (figuratively)
-πτερύγιον|noun|πτέρυξ|1. a winglet 2. (figuratively) extremity (top corner)
-πτέρυξ|noun|πέτομαι|1. a wing
-πτηνόν|adjective|πετεινόν|1. a bird
-πτοέω|verb|---|1. to scare
-πτόησις|noun|πτοέω|1. alarm
-Πτολεμαίς|Name Location|---|1. Ptolemais, a place in Israel
-πτύον|noun|πτύω|1. a winnowing-fork (as scattering like spittle)
-πτύρω|verb|πτύω|1. to frighten
-πτύσμα|noun|πτύω|1. saliva
-πτύσσω|verb|---|1. to fold, i.e. furl a scroll
-πτύω|verb|---|1. to spit
+πρωτοστάτης|noun|ἵστημι|1. one standing first in the ranks, i.e. a captain (champion)
+πρωτοτόκια|noun|πρωτοτόκος|1. primogeniture (as a privilege)
+πρωτότοκος|adjective|τίκτω|1. first-born
+πταίω|verb|πίπτω|1. to trip 2. (figuratively) to err, sin, fail (of salvation)
+πτέρνα|noun|---|1. the heel (figuratively)
+πτερύγιον|noun|πτέρυξ|1. a winglet 2. (figuratively) extremity (top corner)
+πτέρυξ|noun|πέτομαι|1. a wing
+πτηνός|adjective|πετεινόν|1. a bird
+πτοέω|verb|---|1. to scare
+πτόησις|noun|πτοέω|1. alarm
+Πτολεμαΐς|Name Location|---|1. Ptolemais, a place in Israel
+πτύον|noun|πτύω|1. a winnowing-fork (as scattering like spittle)
+πτύρω|verb|πτύω|1. to frighten
+πτύσμα|noun|πτύω|1. saliva
+πτύσσω|verb|---|1. to fold, i.e. furl a scroll
+πτύω|verb|---|1. to spit
 πτῶμα|noun|πίπτω|1. a ruin 2. (specially), lifeless body (corpse, carrion)
 πτῶσις|noun|πίπτω|1. a crash, i.e. downfall
-πτωχεία|noun|πτωχεύω|1. beggary, i.e. indigence
-πτωχεύω|verb|πτωχός|1. to be a beggar 2. (by implication) to become indigent (figuratively)
-πτωχός|adjective|---|1. a beggar (as cringing),  a pauper 2. (figuratively) distressed 3. (literally, as a noun) strictly denoting absolute or public dependency on charity
-πυγμή|noun|---|1. the clenched hand 2. (only in dative case as adverb) with the fist (hard scrubbing)
-Πύθων|Name Person|---|1. a Python 2. (by analogy, with the supposed diviner there) inspiration (soothsaying)
-πυκνός|adjective|---|1. clasped (thick) 2. (figuratively) frequent 3. (neuter plural, as adverb) frequently
-πυκτέω|verb|πυγμή|1. to box (with the fist), i.e. contend (as a boxer) at the games (figuratively)
-πύλη|noun|---|1. a gate, i.e. the leaf or wing of a folding entrance
-πυλών|noun|πύλη|1. a gate-way, door-way of a building or city 2. (by implication) a portal or vestibule
-πυνθάνομαι|verb|---|1. to question, i.e. ascertain by inquiry 2. (by implication) to learn (by casual intelligence)
+πτωχεία|noun|πτωχεύω|1. beggary, i.e. indigence
+πτωχεύω|verb|πτωχός|1. to be a beggar 2. (by implication) to become indigent (figuratively)
+πτωχός|adjective|---|1. a beggar (as cringing),  a pauper 2. (figuratively) distressed 3. (literally, as a noun) strictly denoting absolute or public dependency on charity
+πυγμή|noun|---|1. the clenched hand 2. (only in dative case as adverb) with the fist (hard scrubbing)
+Πύθων|Name Person|---|1. a Python 2. (by analogy, with the supposed diviner there) inspiration (soothsaying)
+πυκνός|adjective|---|1. clasped (thick) 2. (figuratively) frequent 3. (neuter plural, as adverb) frequently
+πυκτεύω|verb|πυγμή|1. to box (with the fist), i.e. contend (as a boxer) at the games (figuratively)
+πύλη|noun|---|1. a gate, i.e. the leaf or wing of a folding entrance
+πυλών|noun|πύλη|1. a gate-way, door-way of a building or city 2. (by implication) a portal or vestibule
+πυνθάνομαι|verb|---|1. to question, i.e. ascertain by inquiry 2. (by implication) to learn (by casual intelligence)
 πῦρ|noun|---|1. fire
-πυρά|noun|πῦρ|1. a fire
-πύργος|noun|---|1. a tower or castle
-πυρέσσω|verb|πυρά|1. to be on fire 2. (specially), to have a fever
-πυρετός|noun|πυρέσσω|1. inflamed 2. (by implication) feverish (as noun, fever)
-πύρινος|adjective|πυρά|1. fiery 2. (by implication) flaming
-πυρόω|verb|πῦρ|1. to kindle 2. (passively) to be ignited, glow 3. (literally) be refined 4. (by implication or figuratively) to be inflamed (with anger, grief, lust)   
-πυρῥάζω|verb|πυρῥός|1. to redden (intransitively)
-πυρῥός|adjective|πῦρ|1. fire-like 2. (specially), flame- colored
-πύρωσις|noun|πυρόω|1. ignition 2. (specially) smelting 3. (figuratively) conflagration, calamity as a test
-πῶ|particle|πώς|1. an enclitic particle of indefiniteness
-πωλέω|verb|---|1. to barter (as a pedlar), i.e. to sell
+πυρά|noun|πῦρ|1. a fire
+πύργος|noun|---|1. a tower or castle
+πυρέσσω|verb|πυρά|1. to be on fire 2. (specially), to have a fever
+πυρετός|noun|πυρέσσω|1. inflamed 2. (by implication) feverish (as noun, fever)
+πύρινος|adjective|πυρά|1. fiery 2. (by implication) flaming
+πυρόω|verb|πῦρ|1. to kindle 2. (passively) to be ignited, glow 3. (literally) be refined 4. (by implication or figuratively) to be inflamed (with anger, grief, lust)   
+πυρράζω|verb|πυρῥός|1. to redden (intransitively)
+πυρός|adjective|πῦρ|1. fire-like 2. (specially), flame- colored
+πύρωσις|noun|πυρόω|1. ignition 2. (specially) smelting 3. (figuratively) conflagration, calamity as a test
+-πω|particle|πώς|1. an enclitic particle of indefiniteness
+πωλέω|verb|---|1. to barter (as a pedlar), i.e. to sell
 πῶλος|noun|---|1. a "foal" or "filly" 2. (specially), a young ass
-πώποτε|adverb|ποτέ|1. at any time 2. (with negative particle) at no time
-πωρόω|verb|---|1. to petrify 2. (figuratively) to indurate (render stupid or callous)
-πώρωσις|noun|πωρόω|1. stupidity or callousness
-πώς|adverb|πού|1. somehow or anyhow
+πώποτε|adverb|ποτέ|1. at any time 2. (with negative particle) at no time
+πωρόω|verb|---|1. to petrify 2. (figuratively) to indurate (render stupid or callous)
+πώρωσις|noun|πωρόω|1. stupidity or callousness
+-πώς|adverb|πού|1. somehow or anyhow
 πῶς|adverb|ποῦ|1. in what way? 2. (sometimes indirect) how? 3. (as exclamation) how much!
-Ῥαάβ|Name Person|רָחָב|1. Raab (i.e. Rachab), a Canaanitess
-ῥαββί|Hebrew|רַב|1. my master, i.e Rabbi, as an official title of honor
-ῥαββονί|Aramaic|---|1. my master, i.e Rabboni, as an official title of honor
-ῥαβδίζω|verb|ῥάβδος|1. to strike with a stick, i.e. bastinado
-ῥάβδος|noun|ῥαπίζω|1. a stick or wand (as a cudgel, a cane or a baton of royalty)
+Ῥαάβ|Name Person|רָחָב|1. Raab (i.e. Rachab), a Canaanitess
+ῥαββί|Hebrew|רַב|1. my master, i.e Rabbi, as an official title of honor
+ῥαββουνί|Aramaic|---|1. my master, i.e Rabboni, as an official title of honor
+ῥαβδίζω|verb|ῥάβδος|1. to strike with a stick, i.e. bastinado
+ῥάβδος|noun|ῥαπίζω|1. a stick or wand (as a cudgel, a cane or a baton of royalty)
 ῥαβδοῦχος|noun|ἔχω|1. a rod- (the Latin fasces) holder, i.e. a Roman lictor (constable or executioner)
 Ῥαγαῦ|Name Person|רְעוּ|1. Ragau (i.e. Reu), a patriarch
-ῥᾳδιούργημα|noun|ἔργον|1. easy-going behavior 2. (by extension) a crime
-ῥᾳδιουργία|noun|---|1. recklessness 2. (by extension) malignity
-ῥακά|Aramaic|---|1. O empty one, i.e. thou worthless (as a term of utter vilification)
-ῥάκος|noun|ῥήγνυμι|1. a "rag," i.e. piece of cloth
-Ῥαμά|Name Location|רָמָה|1. Rama (i.e. Ramah), a place in Israel
-ῥαντίζω|verb|---|1. to render besprinkled, i.e. asperse
-ῥαντισμός|noun|ῥαντίζω|1. aspersion (ceremonially or figuratively)
-ῥαπίζω|verb|---|1. to slap
-ῥάπισμα|noun|ῥαπίζω|1. a slap
-ῥαφίς|noun|---|1. a needle
-Ῥαχάβ|Name Person|רָחָב|1. Rachab, a Canaanitess
-Ῥαχήλ|Name Person|רָחֵל|1. Rachel, the wife of Jacob
-Ῥεβέκκα|Name Person|רִבקָה|1. Rebecca (i.e. Ribkah), the wife of Isaac
-ῥέδα|noun|---|1. a rheda, i.e. four-wheeled carriage (wagon for riding)
-Ῥεμφάν|Name Person|כִּיוּן|1. Remphan (i.e. Kijun), an Egyptian idol
-ῥέω|verb|---|1. to flow ("run", as water)
-ῥέω|verb|---|1. to utter, i.e. speak or say
-Ῥήγιον|Name Location|---|1. Rhegium, a place in Italy
-ῥήγμα|noun|ῥήγνυμι|1. something torn, i.e. a fragment (by implication and abstractly, a fall)
-ῥήγνυμι|verb|---|1. to "break," "wreck" or "crack" 2. (especially) to sunder (by separation of the parts) or disrupt, lacerate 3. (by implication) to convulse (with spasms) 4. (figuratively) to give vent to joyful emotions
-ῥήμα|noun|ῥέω|1. an utterance (individually, collectively or specially) 2. (by implication) a matter or topic 3. (especially) of narration, command or dispute 4. (with a negative) naught whatever
-Ῥησά|Name Person|רְפָיָה|1. Resa (i.e. Rephajah), an Israelite
-ῥήτωρ|noun|ῥέω|1. a speaker 2. (by implication) a forensic advocate
+ῥᾳδιούργημα|noun|ἔργον|1. easy-going behavior 2. (by extension) a crime
+ῥᾳδιουργία|noun|---|1. recklessness 2. (by extension) malignity
+ῥακά|Aramaic|---|1. O empty one, i.e. thou worthless (as a term of utter vilification)
+ῥάκος|noun|ῥήγνυμι|1. a "rag," i.e. piece of cloth
+Ῥαμά|Name Location|רָמָה|1. Rama (i.e. Ramah), a place in Israel
+ῥαντίζω|verb|---|1. to render besprinkled, i.e. asperse
+ῥαντισμός|noun|ῥαντίζω|1. aspersion (ceremonially or figuratively)
+ῥαπίζω|verb|---|1. to slap
+ῥάπισμα|noun|ῥαπίζω|1. a slap
+ῥαφίς|noun|---|1. a needle
+Ῥαχάβ|Name Person|רָחָב|1. Rachab, a Canaanitess
+Ῥαχήλ|Name Person|רָחֵל|1. Rachel, the wife of Jacob
+Ῥεβέκκα|Name Person|רִבקָה|1. Rebecca (i.e. Ribkah), the wife of Isaac
+ῥέδα|noun|---|1. a rheda, i.e. four-wheeled carriage (wagon for riding)
+Ῥεμφάν|Name Person|כִּיוּן|1. Remphan (i.e. Kijun), an Egyptian idol
+ῥέω|verb|---|1. to flow ("run", as water)
+ῥέω|verb|---|1. to utter, i.e. speak or say
+Ῥήγιον|Name Location|---|1. Rhegium, a place in Italy
+ῥῆγμα|noun|ῥήγνυμι|1. something torn, i.e. a fragment (by implication and abstractly, a fall)
+ῥήγνυμι|verb|---|1. to "break," "wreck" or "crack" 2. (especially) to sunder (by separation of the parts) or disrupt, lacerate 3. (by implication) to convulse (with spasms) 4. (figuratively) to give vent to joyful emotions
+ῥῆμα|noun|ῥέω|1. an utterance (individually, collectively or specially) 2. (by implication) a matter or topic 3. (especially) of narration, command or dispute 4. (with a negative) naught whatever
+Ῥησά|Name Person|רְפָיָה|1. Resa (i.e. Rephajah), an Israelite
+ῥήτωρ|noun|ῥέω|1. a speaker 2. (by implication) a forensic advocate
 ῥητῶς|adverb|ῥέω|1. out-spokenly, i.e. distinctly
-ῥίζα|noun|---|1. a root
-ῥιζόω|verb|ῥίζα|1. to root 2. (figuratively) to become stable
-ῥιπή|noun|ῥίπτω|1. a jerk (of the eye) 2. (by analogy) an instant
-ῥιπίζω|verb|ῥίπτω|1. to breeze up 2. (by analogy) to agitate (into waves)
-ῥιπτέω|verb|ῥίπτω|1. to toss up
-ῥίπτω|verb|---|1. to fling (properly, with a quick toss) 2. (by qualification) to deposit (as if a load) 3. (by extension) to disperse
-Ῥοβοάμ|Name Person|רְחַבעָם|1. Roboam (i.e. Rechobam), an Israelite
-Ῥόδη|Name Person|---|1. Rode, a servant girl
-Ῥόδος|Name Location|---|1. Rhodus, an island of the Mediterranean
-ῥοιζηδόν|adverb|---|1. whizzingly, i.e. with a crash
-ῥομφαία|noun|---|1. a sabre, i.e. a long and broad cutlass (any weapon of the kind)
-Ῥουβήν|Name Person|רְאוּבֵן|1. Ruben (i.e. Reuben), an Israelite
-Ῥούθ|Name Person|רוּת|1. Ruth, a Moabitess
+ῥίζα|noun|---|1. a root
+ῥιζόω|verb|ῥίζα|1. to root 2. (figuratively) to become stable
+ῥιπή|noun|ῥίπτω|1. a jerk (of the eye) 2. (by analogy) an instant
+ῥιπίζω|verb|ῥίπτω|1. to breeze up 2. (by analogy) to agitate (into waves)
+ῥιπτέω|verb|ῥίπτω|1. to toss up
+ῥίπτω|verb|---|1. to fling (properly, with a quick toss) 2. (by qualification) to deposit (as if a load) 3. (by extension) to disperse
+Ῥοβοάμ|Name Person|רְחַבעָם|1. Roboam (i.e. Rechobam), an Israelite
+Ῥόδη|Name Person|---|1. Rode, a servant girl
+Ῥόδος|Name Location|---|1. Rhodus, an island of the Mediterranean
+ῥοιζηδόν|adverb|---|1. whizzingly, i.e. with a crash
+ῥομφαία|noun|---|1. a sabre, i.e. a long and broad cutlass (any weapon of the kind)
+Ῥουβίμ|Name Person|רְאוּבֵן|1. Ruben (i.e. Reuben), an Israelite
+Ῥούθ|Name Person|רוּת|1. Ruth, a Moabitess
 Ῥοῦφος|Name Person|---|1. red 2. Rufus, a Christian
-ῥύμη|noun|ῥύομαι|1. an alley or avenue (as crowded)
-ῥύομαι|verb|---|1. to rush or draw (for oneself), i.e. rescue
-ῥυπαρία|noun|ῥυπαρός|1. dirtiness (morally)
-ῥυπαρός|adjective|ῥύπος|1. dirty 2. (relatively) cheap or shabby 3. (morally) wicked
-ῥύπος|noun|---|1. dirt 2. (morally) depravity
-ῥυπόω|verb|ῥύπος|1. to soil 2. (intransitively) to become dirty (morally)
-ῥύσις|noun|ῥέω|1. a flux (of blood)
-ῥυτίς|noun|ῥύομαι|1. a fold (as drawing together), i.e. a wrinkle (especially on the face)
-Ῥωμαϊκός|adjective/g.|Ῥωμαῖος|1. Romaic, i.e. Latin
+ῥύμη|noun|ῥύομαι|1. an alley or avenue (as crowded)
+ῥύομαι|verb|---|1. to rush or draw (for oneself), i.e. rescue
+ῥυπαρία|noun|ῥυπαρός|1. dirtiness (morally)
+ῥυπαρός|adjective|ῥύπος|1. dirty 2. (relatively) cheap or shabby 3. (morally) wicked
+ῥύπος|noun|---|1. dirt 2. (morally) depravity
+ῥυπαρεύομαι|verb|ῥύπος|1. to soil 2. (intransitively) to become dirty (morally)
+ῥύσις|noun|ῥέω|1. a flux (of blood)
+ῥυτίς|noun|ῥύομαι|1. a fold (as drawing together), i.e. a wrinkle (especially on the face)
+Ῥωμαϊκός|adjective/g.|Ῥωμαῖος|1. Romaic, i.e. Latin
 Ῥωμαῖος|adjective/g.|Ῥώμη|1. Romaean, i.e. Roman (as noun)
-Ῥωμαϊστί|adverb/g|Ῥώμη|1. Romaistically, i.e. in the Latin language
-Ῥώμη|Name Location|ῥώννυμι|1. strength 2. Roma, the capital of Italy
-ῥώννυμι|verb|---|1. to strengthen 2. (impersonal passive) have health (as a parting exclamation, good-bye)
-σαβαχθανί|Aramaic|שְׁבַק|1. thou hast left me 2. sabachthani (i.e. shebakthani), a cry of distress
-σαβαώθ|Hebrew|צָּבָא צֶּבָאָה|1. armies 2. sabaoth (i.e. tsebaoth), a military epithet of God
-σαββατισμός|noun|σάββατον|1. a "sabbatism" 2. (figuratively) the repose of Christianity (as a type of heaven)
-σάββατον|noun|שַׁבָּת|1. the Sabbath (i.e. Shabbath) 2. a day of weekly repose from secular avocations 3. the observance or institution itself 4. (by extensi   ion) a w   week, i.e. the interval between two Sabbaths 5. likewise the plural in all the above applications
-σαγήνη|noun|---|1. a "seine" for fishing
+Ῥωμαϊστί|adverb/g|Ῥώμη|1. Romaistically, i.e. in the Latin language
+Ῥώμη|Name Location|ῥώννυμι|1. strength 2. Roma, the capital of Italy
+ῥώννυμι|verb|---|1. to strengthen 2. (impersonal passive) have health (as a parting exclamation, good-bye)
+σαβαχθανί|Aramaic|שְׁבַק|1. thou hast left me 2. sabachthani (i.e. shebakthani), a cry of distress
+σαβαώθ|Hebrew|צָּבָא צֶּבָאָה|1. armies 2. sabaoth (i.e. tsebaoth), a military epithet of God
+σαββατισμός|noun|σάββατον|1. a "sabbatism" 2. (figuratively) the repose of Christianity (as a type of heaven)
+σάββατον|noun|שַׁבָּת|1. the Sabbath (i.e. Shabbath) 2. a day of weekly repose from secular avocations 3. the observance or institution itself 4. (by extensi   ion) a w   w   week, i.e. the interval between two Sabbaths 5. likewise the plural in all the above applications
+σαγήνη|noun|---|1. a "seine" for fishing
 Σαδδουκαῖος|Name Person|Σαδώκ|1. a Sadducaean (i.e. Tsadokian), or follower of a certain heretical Israelite
-Σαδώκ|Name Person|צָּדוֹק|1. Sadoc (i.e. Tsadok), an Israelite
-σαίνω|verb|---|1. to wag (as a dog its tail fawningly) 2. (generally) to shake 3. (figuratively) disturb
-σάκκος|noun|שַׂק|1. "sack"-cloth, i.e. mohair (the material or garments made of it, worn as a sign of grief)
-Σαλά|Name Person|שֶׁלחַ|1. Sala (i.e. Shelach), a patriarch
-Σαλαθιήλ|Name Person|שְׁאַלתִּיאֵל|1. Salathiel (i.e. Shealtiel), an Israelite
-Σαλαμίς|Name Location|σάλος|1. Salamis, a place in Cyprus
-Σαλείμ|Name Location|σάλος|1. Salim, a place in Israel
-σαλεύω|verb|σάλος|1. to waver, i.e. agitate, rock, topple 2. (by implication) destroy 3. (figuratively) to disturb, incite
-Σαλήμ|Name Location|שָׁלֵם|1. Salem (i.e. Shalem), a place in Israel
-Σαλμών|Name Person|שַׂלמוֹן|1. Salmon, an Israelite
-Σαλμώνη|Name Location|Σαλαμίς|1. Salmone, a place in Crete
-σάλος|noun|σαίνω|1. a vibration 2. (specially), billow
-σάλπιγξ|noun|σάλος|1. a trumpet
-σαλπίζω|verb|σάλπιγξ|1. to trumpet, i.e. sound a blast
-σαλπιστής|noun|σαλπίζω|1. a trumpeter
-Σαλώμη|Name Person|שָׁלוֹם שָׁלוֹם|1. Salome (i.e. Shelomah), an Israelitess
-Σαμάρεια|Name Location|שׁוֹמְרוֹן|1. Samaria (i.e. Shomeron), a city and region of Israel
-Σαμαρείτης|Name/g.|Σαμάρεια|1. a Samarite, i.e. inhabitant of Samaria
+Σαδώκ|Name Person|צָּדוֹק|1. Sadoc (i.e. Tsadok), an Israelite
+σαίνω|verb|---|1. to wag (as a dog its tail fawningly) 2. (generally) to shake 3. (figuratively) disturb
+σάκκος|noun|שַׂק|1. "sack"-cloth, i.e. mohair (the material or garments made of it, worn as a sign of grief)
+Σαλά|Name Person|שֶׁלחַ|1. Sala (i.e. Shelach), a patriarch
+Σαλαθιήλ|Name Person|שְׁאַלתִּיאֵל|1. Salathiel (i.e. Shealtiel), an Israelite
+Σαλαμίς|Name Location|σάλος|1. Salamis, a place in Cyprus
+Σαλείμ|Name Location|σάλος|1. Salim, a place in Israel
+σαλεύω|verb|σάλος|1. to waver, i.e. agitate, rock, topple 2. (by implication) destroy 3. (figuratively) to disturb, incite
+Σαλήμ|Name Location|שָׁלֵם|1. Salem (i.e. Shalem), a place in Israel
+Σαλμών|Name Person|שַׂלמוֹן|1. Salmon, an Israelite
+Σαλμώνη|Name Location|Σαλαμίς|1. Salmone, a place in Crete
+σάλος|noun|σαίνω|1. a vibration 2. (specially), billow
+σάλπιγξ|noun|σάλος|1. a trumpet
+σαλπίζω|verb|σάλπιγξ|1. to trumpet, i.e. sound a blast
+σαλπιστής|noun|σαλπίζω|1. a trumpeter
+Σαλώμη|Name Person|שָׁלוֹם שָׁלוֹם|1. Salome (i.e. Shelomah), an Israelitess
+Σαμάρεια|Name Location|שׁוֹמְרוֹן|1. Samaria (i.e. Shomeron), a city and region of Israel
+Σαμαρείτης|Name/g.|Σαμάρεια|1. a Samarite, i.e. inhabitant of Samaria
 Σαμαρεῖτις|Name/g.|Σαμαρείτης|1. a Samaritess, i.e. woman of Samaria
 Σαμοθρᾴκη|Name Location|Σάμος|1. Samo-thrace (Samos of Thrace), an island in the Mediterranean
-Σάμος|Name Location|---|1. Samus, an island of the Mediterranean
-Σαμουήλ|Name Person|שְׁמוּאֵל|1. Samuel (i.e. Shemuel), an Israelite
-Σαμψών|Name Person|שִׁמשׁוֹן|1. Sampson (i.e. Shimshon), an Israelite
-σανδάλιον|noun|---|1. a slipper or sole-pad
-σανίς|noun|---|1. a plank
-Σαούλ|Name Person|שָׁאוּל|1. Saul (i.e. Shaul), the Jewish name of Paul
-σαπρός|adjective|σήπω|1. rotten, i.e. worthless
-Σαπφείρη|Name Person|σάπφειρος|1. Sapphire, an Israelitess
-σάπφειρος|noun|סַפִּיר|1. a "sapphire" or lapis-lazuli gem
-σαργάνη|noun|שָׂרַג|1. a basket (as interwoven or wicker-work
-Σάρδεις|Name Location|---|1. Sardis, a place in Asia Minor
-σάρδινος|noun|---|1. sardine, i.e. a gem, so called
-σάρδιος|noun|---|1. sardian 2. (as noun) the gem so called
-σαρδόνυξ|noun|σάρδιος|1. a "sardonyx", i.e. the gem so called
-Σάρεπτα|Name Location|צָּרְפַת|1. Sarepta (i.e. Tsarephath), a place in Lebanon
-σαρκικός|adjective|σάρξ|1. pertaining to flesh 2. (by extension) bodily, temporal 3. (by implication) animal, unregenerate
-σάρκινος|adjective|σάρξ|1. similar to flesh 2. (by analogy) soft
-σάρξ|noun|σαρόω|1. flesh (as stripped of the skin) 2. (strictly) the meat of an animal (as food) 3. (by extension) the body (as opposed to the soul (or spirit), or as the symbol of what is external, or as the means of kindred) 4. (by implication) human nature (with its frailties (physically or morally) and passions) 5. (specially) a human being (as such)
-Σαρούχ|Name Person|שְׂרוּג|1. Saruch (i.e. Serug), a patriarch
-σαρόω|verb|---|1. to sweep (with a broom)
-Σάρῥα|Name Person|שָׂרָה|1. Sarra (i.e. Sarah), the wife of Abraham
-Σάρων|Name Location|שָׁרוֹן|1. Saron (i.e. Sharon), a district of Israel
+Σάμος|Name Location|---|1. Samus, an island of the Mediterranean
+Σαμουήλ|Name Person|שְׁמוּאֵל|1. Samuel (i.e. Shemuel), an Israelite
+Σαμψών|Name Person|שִׁמשׁוֹן|1. Sampson (i.e. Shimshon), an Israelite
+σανδάλιον|noun|---|1. a slipper or sole-pad
+σανίς|noun|---|1. a plank
+Σαούλ|Name Person|שָׁאוּל|1. Saul (i.e. Shaul), the Jewish name of Paul
+σαπρός|adjective|σήπω|1. rotten, i.e. worthless
+Σαπφείρη|Name Person|σάπφειρος|1. Sapphire, an Israelitess
+σάπφειρος|noun|סַפִּיר|1. a "sapphire" or lapis-lazuli gem
+σαργάνη|noun|שָׂרַג|1. a basket (as interwoven or wicker-work
+Σάρδεις|Name Location|---|1. Sardis, a place in Asia Minor
+σάρδινος|noun|---|1. sardine, i.e. a gem, so called
+σάρδιον|noun|---|1. sardian 2. (as noun) the gem so called
+σαρδόνυξ|noun|σάρδιος|1. a "sardonyx", i.e. the gem so called
+Σάρεπτα|Name Location|צָּרְפַת|1. Sarepta (i.e. Tsarephath), a place in Lebanon
+σαρκικός|adjective|σάρξ|1. pertaining to flesh 2. (by extension) bodily, temporal 3. (by implication) animal, unregenerate
+σάρκινος|adjective|σάρξ|1. similar to flesh 2. (by analogy) soft
+σάρξ|noun|σαρόω|1. flesh (as stripped of the skin) 2. (strictly) the meat of an animal (as food) 3. (by extension) the body (as opposed to the soul (or spirit), or as the symbol of what is external, or as the means of kindred) 4. (by implication) human nature (with its frailties (physically or morally) and passions) 5. (specially) a human being (as such)
+Σερούχ|Name Person|שְׂרוּג|1. Saruch (i.e. Serug), a patriarch
+σαρόω|verb|---|1. to sweep (with a broom)
+Σάρρα|Name Person|שָׂרָה|1. Sarra (i.e. Sarah), the wife of Abraham
+Ασσαρών|Name Location|שָׁרוֹן|1. Saron (i.e. Sharon), a district of Israel
 Σατᾶν|Name Person|שָׂטָן|1. the Adversary 2. (figuratively) the Accuser 3. "Satan", i.e. the devil
 Σατανᾶς|Name Person|שָׂטָן|1. the Adversary 2. (figuratively) the Accuser 3. Satan, the devil
-σάτον|noun|סְאָה|1. a certain measure for things dry
+σάτον|noun|סְאָה|1. a certain measure for things dry
 Σαῦλος|Name Person|שָׁאוּל|1. Saulus (i.e. Shaul), the Jewish name of Paul
-σβέννυμι|verb|---|1. to extinguish
-σέ|p/p.|σύ|1. thee
+σβέννυμι|verb|---|1. to extinguish
+σέ|p/p.|σύ|1. thee
 σεαυτοῦ|p/f|αὐτός|1. of (with, to) thyself
-σεβάζομαι|verb|ἀσεβέω|1. to reverence, (antonym) to irreverence
-σέβασμα|noun|σεβάζομαι|1. something reverenced, i.e. an object of worship (god, altar, etc)
-σεβαστός|adjective|σεβάζομαι|1. venerable (august) 2. (as noun) a title of the Roman Emperor 3. (as adjective) imperial
-σέβομαι|verb|---|1. to reverence 2. (antonym) to irreverence
-σειρά|noun|σύρω|1. a chain (as binding or drawing)
-σεισμός|noun|σείω|1. a commotion 2. (of the air) a gale 3. (of the ground) an earthquake
-σείω|verb|---|1. (properly) to shake (sideways or to and fro) 2. (generally) to agitate (in any direction) 3. (figuratively) to cause to tremble 4. (reflexively) to tremble for fear or concern
+σεβάζομαι|verb|ἀσεβέω|1. to reverence, (antonym) to irreverence
+σέβασμα|noun|σεβάζομαι|1. something reverenced, i.e. an object of worship (god, altar, etc)
+Σεβαστός|adjective|σεβάζομαι|1. venerable (august) 2. (as noun) a title of the Roman Emperor 3. (as adjective) imperial
+σέβομαι|verb|---|1. to reverence 2. (antonym) to irreverence
+σειρά|noun|σύρω|1. a chain (as binding or drawing)
+σεισμός|noun|σείω|1. a commotion 2. (of the air) a gale 3. (of the ground) an earthquake
+σείω|verb|---|1. (properly) to shake (sideways or to and fro) 2. (generally) to agitate (in any direction) 3. (figuratively) to cause to tremble 4. (reflexively) to tremble for fear or concern
 Σεκοῦνδος|Name Person|---|1. "second" 2. Secundus, a Christian
-Σελεύκεια|Name Location|---|1. Seleuceia, a place in Syria
-σελήνη|noun|---|1. the moon
-σεληνιάζομαι|verb|σελήνη|1. to be moon-struck, i.e. crazy
-Σεμεΐ|Name Person|שִׁמעִי|1. Semei (i.e. Shimi), an Israelite
-σεμίδαλις|noun|---|1. fine wheaten flour
-σεμνός|adjective|σέβομαι|1. venerable, i.e. honorable
-σεμνότης|noun|σεμνός|1. venerableness, i.e. probity
-Σέργιος|Name Person|---|1. Sergius, a Roman
-Σήθ|Name Person|שֵׁת|1. Seth (i.e. Sheth), a patriarch
-Σήμ|Name Person|שֵׁם|1. Sem (i.e. Shem), a patriarch
-σημαίνω|verb|---|1. to indicate
+Σελεύκεια|Name Location|---|1. Seleuceia, a place in Syria
+σελήνη|noun|---|1. the moon
+σεληνιάζομαι|verb|σελήνη|1. to be moon-struck, i.e. crazy
+Σεμεΐ|Name Person|שִׁמעִי|1. Semei (i.e. Shimi), an Israelite
+σεμίδαλις|noun|---|1. fine wheaten flour
+σεμνός|adjective|σέβομαι|1. venerable, i.e. honorable
+σεμνότης|noun|σεμνός|1. venerableness, i.e. probity
+Σέργιος|Name Person|---|1. Sergius, a Roman
+Σήθ|Name Person|שֵׁת|1. Seth (i.e. Sheth), a patriarch
+Σήμ|Name Person|שֵׁם|1. Sem (i.e. Shem), a patriarch
+σημαίνω|verb|---|1. to indicate
 σημεῖον|noun|σημαίνω|1. an indication, especially ceremonially or supernaturally
-σημειόω|verb|σημεῖον|1. to distinguish, i.e. mark (for avoidance)
-σήμερον|adverb|ἡμέρα|1. on the (i.e. this) day (or night current or just passed) 2. (generally) now (i.e. at present, hitherto)
-σήπω|verb|---|1. to putrefy 2. (figuratively) perish
-σηρικός|adjective|---|1. Seric, i.e. silken (neuter as noun, a silky fabric)
-σής|noun|סָס|1. a moth
-σητόβρωτος|adjective|βιβρώσκω|1. moth-eaten
-σθενόω|verb|---|1. to strengthen 2. (figuratively) to confirm (in spiritual knowledge and power)
-σιαγών|noun|---|1. the jaw-bone 2. (by implication) the cheek or side of the face
-σιγάω|verb|σιγή|1. to keep silent (transitively or intransitively)
-σιγή|noun|---|1. silence
-σιδήρεος|adjective|σίδηρος|1. made of iron
-σίδηρος|noun|---|1. iron
-Σιδών|Name Location|צִּידּוֹן צִּידּוֹן|1. Sidon (i.e. Tsidon), a place in Lebanon
-Σιδώνιος|adjective/g.|Σιδών|1. a Sidonian, i.e. inhabitant of Sidon
-σικάριος|noun|---|1. an assassin
-σίκερα|noun|שֵׁכָר|1. an intoxicant, i.e. intensely fermented liquor
-Σίλας|Name Person|Σιλουανός|1. Silas, a Christian
-Σιλουανός|Name Person|---|1. "silvan" 2. Silvanus, a Christian
-Σιλωάμ|Name Location|שִׁלּוֹחַ שֶׁלחַ|1. Siloam (i.e. Shiloach), a pool of Jerusalem
-σιμικίνθιον|noun|---|1. a semicinctium or half-girding, i.e. narrow covering (apron)
-Σίμων|Name Person|שִׁמעוֹן|1. Simon (i.e. Shimon), the name of nine Israelites
+σημειόομαι|verb|σημεῖον|1. to distinguish, i.e. mark (for avoidance)
+σήμερον|adverb|ἡμέρα|1. on the (i.e. this) day (or night current or just passed) 2. (generally) now (i.e. at present, hitherto)
+σήπω|verb|---|1. to putrefy 2. (figuratively) perish
+σηρικός|adjective|---|1. Seric, i.e. silken (neuter as noun, a silky fabric)
+σής|noun|סָס|1. a moth
+σητόβρωτος|adjective|βιβρώσκω|1. moth-eaten
+σθενόω|verb|---|1. to strengthen 2. (figuratively) to confirm (in spiritual knowledge and power)
+σιαγών|noun|---|1. the jaw-bone 2. (by implication) the cheek or side of the face
+σιγάω|verb|σιγή|1. to keep silent (transitively or intransitively)
+σιγή|noun|---|1. silence
+σιδήρεος|adjective|σίδηρος|1. made of iron
+σίδηρος|noun|---|1. iron
+Σιδών|Name Location|צִּידּוֹן צִּידּוֹן|1. Sidon (i.e. Tsidon), a place in Lebanon
+Σιδώνιος|adjective/g.|Σιδών|1. a Sidonian, i.e. inhabitant of Sidon
+σικάριος|noun|---|1. an assassin
+σίκερα|noun|שֵׁכָר|1. an intoxicant, i.e. intensely fermented liquor
+Σίλας|Name Person|Σιλουανός|1. Silas, a Christian
+Σιλουανός|Name Person|---|1. "silvan" 2. Silvanus, a Christian
+Σιλωάμ|Name Location|שִׁלּוֹחַ שֶׁלחַ|1. Siloam (i.e. Shiloach), a pool of Jerusalem
+σιμικίνθιον|noun|---|1. a semicinctium or half-girding, i.e. narrow covering (apron)
+Σίμων|Name Person|שִׁמעוֹן|1. Simon (i.e. Shimon), the name of nine Israelites
 Σινᾶ|Name Location|סִינַי|1. Sina (i.e. Sinai), a mountain in Arabia
-σίναπι|noun|---|1. mustard (the plant)
-σινδών|noun|---|1. byssos, i.e. bleached linen (the cloth or a garment of it)
-σινιάζω|verb|---|1. to riddle (figuratively)
-σιτευτός|adjective|σίτος|1. grain-fed, i.e. fattened
-σιτιστός|adjective|σίτος|1. grained, i.e. fatted
-σιτόμετρον|noun|μέτρον|1. a grain-measure 2. (by implication) ration (allowance of food)
-σίτος|noun|---|1. grain, especially wheat
-Σιών|Name Location|צִּיוֹן|1. Sion (i.e. Tsijon), a hill of Jerusalem 2. (figuratively) the Called Out Assembly (militant or triumphant)
-σιωπάω|verb|---|1. to be dumb (but not also deaf) 2. (figuratively) to be calm (as quiet water)
-σκανδαλίζω|verb|σκάνδαλον|1. to entrap, i.e. trip up 2. (figuratively) to stumble 3. (causitive) to entice to sin, apostasy or displeasure
-σκάνδαλον|noun|κάμπτω|1. a trap-stick (bent sapling) 2. (concretely) a snare 3. (figuratively) a cause of displeasure or sin
-σκάπτω|verb|---|1. to dig
-σκάφη|noun|---|1. a "skiff" (as if dug out), or yawl (carried aboard a large vessel for landing)
-σκέλος|noun|---|1. the leg (as lank)
-σκέπασμα|noun|---|1. clothing
+σίναπι|noun|---|1. mustard (the plant)
+σινδών|noun|---|1. byssos, i.e. bleached linen (the cloth or a garment of it)
+σινιάζω|verb|---|1. to riddle (figuratively)
+σιτευτός|adjective|σίτος|1. grain-fed, i.e. fattened
+σιτιστός|adjective|σίτος|1. grained, i.e. fatted
+σιτομέτριον|noun|μέτρον|1. a grain-measure 2. (by implication) ration (allowance of food)
+σῖτος|noun|---|1. grain, especially wheat
+Σιών|Name Location|צִּיוֹן|1. Sion (i.e. Tsijon), a hill of Jerusalem 2. (figuratively) the Called Out Assembly (militant or triumphant)
+σιωπάω|verb|---|1. to be dumb (but not also deaf) 2. (figuratively) to be calm (as quiet water)
+σκανδαλίζω|verb|σκάνδαλον|1. to entrap, i.e. trip up 2. (figuratively) to stumble 3. (causitive) to entice to sin, apostasy or displeasure
+σκάνδαλον|noun|κάμπτω|1. a trap-stick (bent sapling) 2. (concretely) a snare 3. (figuratively) a cause of displeasure or sin
+σκάπτω|verb|---|1. to dig
+σκάφη|noun|---|1. a "skiff" (as if dug out), or yawl (carried aboard a large vessel for landing)
+σκέλος|noun|---|1. the leg (as lank)
+σκέπασμα|noun|---|1. clothing
 Σκευᾶς|Name Person|---|1. left-handed 2. Scevas (i.e. Scoevus), an Israelite
-σκευή|noun|σκεῦος|1. furniture, i.e. spare tackle
+σκευή|noun|σκεῦος|1. furniture, i.e. spare tackle
 σκεῦος|noun|---|1. a vessel, implement, equipment or apparatus 2. (specially) a wife as contributing to the usefulness of the husband
-σκηνή|noun|---|1. a tent or cloth hut
-σκηνοπηγία|noun|πήγνυμι|1. the Festival of Tabernacles (so called from the custom of erecting booths for temporary homes)
-σκηνοποιός|noun|ποιέω|1. a manufacturer of tents
-σκήνος|noun|σκηνή|1. a hut or temporary residence 2. (figuratively) the human body (as the abode of the spirit)
-σκηνόω|verb|σκήνος|1. to tent or encamp 2. (figuratively) to occupy (as a mansion) or (specially), to reside (as God did in the Tabernacle of old, a symbol of protection and communion)
-σκήνωμα|noun|σκηνόω|1. an encampment 2. (figuratively) the Temple (as God's residence), the body (as an abode for the soul)
-σκία|noun|---|1. "shade" or a shadow (darkness of error or an adumbration)
-σκιρτάω|verb|---|1. to jump, i.e. sympathetically move (as the quickening of a fetus)
-σκληροκαρδία|noun|καρδία|1. hard-heartedness 2. (specially), destitution of (spiritual) perception
-σκληρός|adjective|σκέλος|1. dry, i.e. hard or tough 2. (figuratively) harsh, severe
-σκληρότης|noun|σκληρός|1. callousness 2. (figuratively) stubbornness
-σκληροτράχηλος|adjective|τράχηλος|1. hardnaped 2. (figuratively) obstinate
-σκληρύνω|verb|σκληρός|1. to indurate 2. (figuratively) render stubborn
-σκολιός|adjective|σκέλος|1. warped, i.e. winding 2. (figuratively) perverse
-σκόλοψ|noun|ὀπτάνομαι|1. a thorn, a point or prickle 2. (figuratively) a bodily annoyance or disability
-σκοπέω|verb|σκοπός|1. to take aim at (spy) 2. (figuratively) regard
-σκοπός|noun|---|1. a watch (sentry or scout) 2. (by implication) a goal
-σκορπίζω|verb|---|1. to dissipate 2. (figuratively) put to flight, waste, be liberal
-σκορπίος|noun|σκοπός|1. a "scorpion" (from its sting)
-σκοτεινός|adjective|σκότος|1. opaque 2. (figuratively) benighted
-σκοτία|noun|σκότος|1. dimness, obscurity
-σκοτίζω|verb|σκότος|1. to obscure
-σκότος|noun|σκία|1. shadiness, i.e. obscurity
-σκοτόω|verb|σκότος|1. to obscure or blind
-σκύβαλον|noun|κύων|1. what is thrown to the dogs, i.e. refuse (ordure)
-Σκύθης|Name/g.|---|1. a Scythene or Scythian 2. (by implication) a savage
-σκυθρωπός|adjective|ὀπτάνομαι|1. angry-visaged, i.e. gloomy or affecting a mournful appearance
-σκύλλω|verb|---|1. to flay 2. (figuratively) to harass
+σκηνή|noun|---|1. a tent or cloth hut
+σκηνοπηγία|noun|πήγνυμι|1. the Festival of Tabernacles (so called from the custom of erecting booths for temporary homes)
+σκηνοποιός|noun|ποιέω|1. a manufacturer of tents
+σκῆνος|noun|σκηνή|1. a hut or temporary residence 2. (figuratively) the human body (as the abode of the spirit)
+σκηνόω|verb|σκήνος|1. to tent or encamp 2. (figuratively) to occupy (as a mansion) or (specially), to reside (as God did in the Tabernacle of old, a symbol of protection and communion)
+σκήνωμα|noun|σκηνόω|1. an encampment 2. (figuratively) the Temple (as God's residence), the body (as an abode for the soul)
+σκιά|noun|---|1. "shade" or a shadow (darkness of error or an adumbration)
+σκιρτάω|verb|---|1. to jump, i.e. sympathetically move (as the quickening of a fetus)
+σκληροκαρδία|noun|καρδία|1. hard-heartedness 2. (specially), destitution of (spiritual) perception
+σκληρός|adjective|σκέλος|1. dry, i.e. hard or tough 2. (figuratively) harsh, severe
+σκληρότης|noun|σκληρός|1. callousness 2. (figuratively) stubbornness
+σκληροτράχηλος|adjective|τράχηλος|1. hardnaped 2. (figuratively) obstinate
+σκληρύνω|verb|σκληρός|1. to indurate 2. (figuratively) render stubborn
+σκολιός|adjective|σκέλος|1. warped, i.e. winding 2. (figuratively) perverse
+σκόλοψ|noun|ὀπτάνομαι|1. a thorn, a point or prickle 2. (figuratively) a bodily annoyance or disability
+σκοπέω|verb|σκοπός|1. to take aim at (spy) 2. (figuratively) regard
+σκοπός|noun|---|1. a watch (sentry or scout) 2. (by implication) a goal
+σκορπίζω|verb|---|1. to dissipate 2. (figuratively) put to flight, waste, be liberal
+σκορπίος|noun|σκοπός|1. a "scorpion" (from its sting)
+σκοτεινός|adjective|σκότος|1. opaque 2. (figuratively) benighted
+σκοτία|noun|σκότος|1. dimness, obscurity
+σκοτίζω|verb|σκότος|1. to obscure
+σκότος|noun|σκία|1. shadiness, i.e. obscurity
+σκοτόω|verb|σκότος|1. to obscure or blind
+σκύβαλον|noun|κύων|1. what is thrown to the dogs, i.e. refuse (ordure)
+Σκύθης|Name/g.|---|1. a Scythene or Scythian 2. (by implication) a savage
+σκυθρωπός|adjective|ὀπτάνομαι|1. angry-visaged, i.e. gloomy or affecting a mournful appearance
+σκύλλω|verb|---|1. to flay 2. (figuratively) to harass
 σκῦλον|noun|σκύλλω|1. something stripped (as a hide), i.e. booty
-σκωληκόβρωτος|adjective|βιβρώσκω|1. worm-eaten, i.e. diseased with maggots
-σκώληξ|noun|---|1. a grub, maggot or earth-worm
-σμαράγδινος|adjective|σμάραγδος|1. consisting of emerald
-σμάραγδος|noun|---|1. the emerald or green gem so called
-σμύρνα|noun|μύρον|1. myrrh
-Σμύρνα|Name Location|σμύρνα|1. Smyrna, a place in Asia Minor
-Σμυρναίος|Name/g.|Σμύρνα|1. a Smyrnoean
-σμυρνίζω|verb|Σμύρνα|1. to tincture with myrrh, i.e. embitter (as a narcotic)
-Σόδομα|Name Location|סְדוֹם|1. Sodoma (i.e. Sedom), a place in Israel
-σοί|p/p.|σύ|1. to thee
-Σολομών|Name Person|שְׁלוֹמוֹה|1. Solomon (i.e. Shelomoh), the son of David
-σορός|noun|---|1. a funereal receptacle (urn, coffin) 2. (by analogy) a bier
-σός|p/s.|σύ|1. thine
+σκωληκόβρωτος|adjective|βιβρώσκω|1. worm-eaten, i.e. diseased with maggots
+σκώληξ|noun|---|1. a grub, maggot or earth-worm
+σμαράγδινος|adjective|σμάραγδος|1. consisting of emerald
+σμάραγδος|noun|---|1. the emerald or green gem so called
+σμύρνα|noun|μύρον|1. myrrh
+Σμύρνα|Name Location|σμύρνα|1. Smyrna, a place in Asia Minor
+Σμυρναῖος|Name/g.|Σμύρνα|1. a Smyrnoean
+σμυρνίζω|verb|Σμύρνα|1. to tincture with myrrh, i.e. embitter (as a narcotic)
+Σόδομα|Name Location|סְדוֹם|1. Sodoma (i.e. Sedom), a place in Israel
+σοί|p/p.|σύ|1. to thee
+Σολομών|Name Person|שְׁלוֹמוֹה|1. Solomon (i.e. Shelomoh), the son of David
+σορός|noun|---|1. a funereal receptacle (urn, coffin) 2. (by analogy) a bier
+σός|p/s.|σύ|1. thine
 σοῦ|p/p.|σύ|1. of thee, thy
-σουδάριον|noun|---|1. a sudarium (sweat-cloth), i.e. towel (for wiping the perspiration from the face, or binding the face of a corpse)
-Σουσάννα|Name Person|שׁוֹשַׁנָּה|1. lily 2. Susannah (i.e. Shoshannah), an Israelitess
-σοφία|noun|σοφός|1. wisdom (higher or lower, worldly or spiritual)
-σοφίζω|verb|σοφός|1. to render wise 2. (in a sinister context) to form "sophisms", i.e. to continue plausible error 3. (absolutely) to pursue wisdom, be well instructed
-σοφός|adjective|---|1. wise (in a most general application)
-Σπανία|Name Location|---|1. Spania, a region of Europe
-σπαράσσω|verb|σπάω|1. to mangle, i.e. convluse with epilepsy
-σπαργανόω|verb|σπαράσσω|1. to swathe (an infant after the Oriental custom)
-σπαταλάω|verb|---|1. to be voluptuous
-σπάω|verb|---|1. to draw
+σουδάριον|noun|---|1. a sudarium (sweat-cloth), i.e. towel (for wiping the perspiration from the face, or binding the face of a corpse)
+Σουσάννα|Name Person|שׁוֹשַׁנָּה|1. lily 2. Susannah (i.e. Shoshannah), an Israelitess
+σοφία|noun|σοφός|1. wisdom (higher or lower, worldly or spiritual)
+σοφίζω|verb|σοφός|1. to render wise 2. (in a sinister context) to form "sophisms", i.e. to continue plausible error 3. (absolutely) to pursue wisdom, be well instructed
+σοφός|adjective|---|1. wise (in a most general application)
+Σπανία|Name Location|---|1. Spania, a region of Europe
+σπαράσσω|verb|σπάω|1. to mangle, i.e. convluse with epilepsy
+σπαργανόω|verb|σπαράσσω|1. to swathe (an infant after the Oriental custom)
+σπαταλάω|verb|---|1. to be voluptuous
+σπάω|verb|---|1. to draw
 σπεῖρα|noun|αἱρέομαι|1. a coil (spira, "spire") 2. (figuratively) a mass of men (a Roman military cohort) 3. (by analogy) a squad of Levitical janitors
-σπείρω|verb|σπάω|1. to scatter, i.e. sow
-σπεκουλάτωρ|noun|---|1. military scout (spy) 2. (by extension) a bodyguard, life-guardsman
-σπένδω|verb|---|1. to pour out as a libation 2. (figuratively) to devote (one's life or blood, as a sacrifice) 3. "spend"
-σπέρμα|noun|σπείρω|1. something sown, i.e. seed (including the male "sperm") 2. (by implication) offspring 3. (specially) a remnant 4. (figuratively) as if kept over for planting
-σπερμολόγος|adjective|λέγω|1. a seed-picker (as the crow) 2. (figuratively) a sponger, loafer (specially, a gossip or trifler in talk)
-σπεύδω|verb|πούς|1. to "speed" ("study"), i.e. urge on (diligently or earnestly) 2. (by implication) to await eagerly
-σπήλαιον|noun|---|1. a cavern 2. (by implication) a hiding-place or resort
-σπιλάς|noun|---|1. a ledge or reef of rock in the sea
-σπιλόω|verb|σπίλος|1. to stain or soil
-σπίλος|noun|---|1. a stain or blemish 2. (figuratively) defect, disgrace
-σπλαγχνίζομαι|verb|σπλάγχνον|1. to have the bowels yearn 2. (figuratively) feel sympathy, to pity
-σπλάγχνον|noun|---|1. an intestine (plural) 2. (figuratively) pity or sympathy
-σπόγγος|noun|---|1. a "sponge"
-σποδός|noun|---|1. ashes
-σπορά|noun|σπείρω|1. a sowing 2. (by implication) parentage
-σπόριμος|adjective|σπόρος|1. sown 2. (neuter plural) a planted field
-σπόρος|noun|σπείρω|1. a scattering (of seed) 2. (concretely) seed (as sown)
-σπουδάζω|verb|σπουδή|1. to use speed, i.e. to make effort, be prompt or earnest
+σπείρω|verb|σπάω|1. to scatter, i.e. sow
+σπεκουλάτωρ|noun|---|1. military scout (spy) 2. (by extension) a bodyguard, life-guardsman
+σπένδω|verb|---|1. to pour out as a libation 2. (figuratively) to devote (one's life or blood, as a sacrifice) 3. "spend"
+σπέρμα|noun|σπείρω|1. something sown, i.e. seed (including the male "sperm") 2. (by implication) offspring 3. (specially) a remnant 4. (figuratively) as if kept over for planting
+σπερμολόγος|adjective|λέγω|1. a seed-picker (as the crow) 2. (figuratively) a sponger, loafer (specially, a gossip or trifler in talk)
+σπεύδω|verb|πούς|1. to "speed" ("study"), i.e. urge on (diligently or earnestly) 2. (by implication) to await eagerly
+σπήλαιον|noun|---|1. a cavern 2. (by implication) a hiding-place or resort
+σπιλάς|noun|---|1. a ledge or reef of rock in the sea
+σπιλόω|verb|σπίλος|1. to stain or soil
+σπῖλος|noun|---|1. a stain or blemish 2. (figuratively) defect, disgrace
+σπλαγχνίζομαι|verb|σπλάγχνον|1. to have the bowels yearn 2. (figuratively) feel sympathy, to pity
+σπλάγχνα|noun|---|1. an intestine (plural) 2. (figuratively) pity or sympathy
+σπόγγος|noun|---|1. a "sponge"
+σποδός|noun|---|1. ashes
+σπορά|noun|σπείρω|1. a sowing 2. (by implication) parentage
+σπόριμος|adjective|σπόρος|1. sown 2. (neuter plural) a planted field
+σπόρος|noun|σπείρω|1. a scattering (of seed) 2. (concretely) seed (as sown)
+σπουδάζω|verb|σπουδή|1. to use speed, i.e. to make effort, be prompt or earnest
 σπουδαῖος|adjective|σπουδή|1. prompt, energetic, earnest
-σπουδαιότερον|adjective|σπουδαιότερος|1. more earnestly than others), i.e. very promptly
-σπουδαιότερος|adjective|σπουδαῖος|1. more prompt, more earnest
-σπουδαιοτέρως|adverb|σπουδαιότερος|1. more speedily, i.e. sooner than otherwise
-σπουδαίως|adverb|σπουδαῖος|1. earnestly, promptly
-σπουδή|noun|σπεύδω|1. "speed" 2. (by implication) despatch, eagerness, earnestness
-σπυρίς|noun|σπείρω|1. a hamper or lunch-receptacle
-στάδιον|noun|ἵστημι|1. a stade or certain measure of distance 2. (by implication) a stadium or race-course
-στάμνος|adjective|ἵστημι|1. a jar or earthen tank
-στάσις|noun|ἵστημι|1. a standing (properly, the act) 2. (by analogy) position (existence) 3. (by implication) a popular uprising 4. (figuratively) controversy
-στατήρ|noun|καύχησις|1. a stander (standard of value) 2. (specially), a stater or certain coin
-σταυρός|noun|ἵστημι|1. a stake or post (as set upright) 2. (specially) a pole or cross (as an instrument of capital punishment) 3. (figuratively) exposure to death, i.e. self-denial 4. (by implication) the atonement of Christ
-σταυρόω|verb|σταυρός|1. to impale on the cross, to crucify 2. (figuratively) to extinguish (subdue) passion or selfishness
-σταφυλή|noun|στέφανος|1. a cluster of grapes (as if intertwined)
-στάχυς|noun|ἵστημι|1. a head of grain (as standing out from the stalk)
-Στάχυς|Name Person|στάχυς|1. Stachys, a Christian
-στέγη|noun|---|1. a roof
-στέγω|verb|στέγη|1. to roof over 2. (figuratively) to cover with silence (endure patiently)
-στείρος|noun|στερεός|1. sterile
-στέλλω|verb|ἵστημι|1. (properly) to set fast ("stall") 2. (figuratively) to repress 3. (reflexively) to abstain from associating with
-στέμμα|noun|στέφανος|1. a wreath for show
-στεναγμός|noun|στενάζω|1. a sigh
-στενάζω|verb|στενός|1. to make in distress (in a tight spot) 2. (intransitively) to be in distress 3. (by implication) to sigh, groan, pray inaudibly
-στενός|adjective|ἵστημι|1. narrow (from obstacles standing close about)
-στενοχωρέω|verb|χώρα|1. to hem in closely 2. (figuratively) cramp
-στενοχωρία|noun|χώρα|1. narrowness of room 2. (figuratively) calamity
-στερεός|adjective|ἵστημι|1. stiff, i.e. solid, stable
-στερεόω|verb|στερεός|1. to solidify, i.e. confirm
-στερέωμα|noun|στερεόω|1. something established 2. (abstractly) confirmation (stability)
+σπουδαιότερον|adjective|σπουδαιότερος|1. more earnestly than others), i.e. very promptly
+σπουδαιότερος|adjective|σπουδαῖος|1. more prompt, more earnest
+σπουδαιοτέρως|adverb|σπουδαιότερος|1. more speedily, i.e. sooner than otherwise
+σπουδαίως|adverb|σπουδαῖος|1. earnestly, promptly
+σπουδή|noun|σπεύδω|1. "speed" 2. (by implication) despatch, eagerness, earnestness
+σπυρίς|noun|σπείρω|1. a hamper or lunch-receptacle
+στάδιον|noun|ἵστημι|1. a stade or certain measure of distance 2. (by implication) a stadium or race-course
+στάμνος|adjective|ἵστημι|1. a jar or earthen tank
+στάσις|noun|ἵστημι|1. a standing (properly, the act) 2. (by analogy) position (existence) 3. (by implication) a popular uprising 4. (figuratively) controversy
+στατήρ|noun|καύχησις|1. a stander (standard of value) 2. (specially), a stater or certain coin
+σταυρός|noun|ἵστημι|1. a stake or post (as set upright) 2. (specially) a pole or cross (as an instrument of capital punishment) 3. (figuratively) exposure to death, i.e. self-denial 4. (by implication) the atonement of Christ
+σταυρόω|verb|σταυρός|1. to impale on the cross, to crucify 2. (figuratively) to extinguish (subdue) passion or selfishness
+σταφυλή|noun|στέφανος|1. a cluster of grapes (as if intertwined)
+στάχυς|noun|ἵστημι|1. a head of grain (as standing out from the stalk)
+Στάχυς|Name Person|στάχυς|1. Stachys, a Christian
+στέγη|noun|---|1. a roof
+στέγω|verb|στέγη|1. to roof over 2. (figuratively) to cover with silence (endure patiently)
+στεῖρος|noun|στερεός|1. sterile
+στέλλω|verb|ἵστημι|1. (properly) to set fast ("stall") 2. (figuratively) to repress 3. (reflexively) to abstain from associating with
+στέμμα|noun|στέφανος|1. a wreath for show
+στεναγμός|noun|στενάζω|1. a sigh
+στενάζω|verb|στενός|1. to make in distress (in a tight spot) 2. (intransitively) to be in distress 3. (by implication) to sigh, groan, pray inaudibly
+στενός|adjective|ἵστημι|1. narrow (from obstacles standing close about)
+στενοχωρέω|verb|χώρα|1. to hem in closely 2. (figuratively) cramp
+στενοχωρία|noun|χώρα|1. narrowness of room 2. (figuratively) calamity
+στερεός|adjective|ἵστημι|1. stiff, i.e. solid, stable
+στερεόω|verb|στερεός|1. to solidify, i.e. confirm
+στερέωμα|noun|στερεόω|1. something established 2. (abstractly) confirmation (stability)
 Στεφανᾶς|Name Person|στεφανόω|1. Stephanas, a Christian
-στέφανος|noun|---|1. a chaplet (as a badge of royalty, a prize in the public games or a symbol of honor generally)
-Στέφανος|Name Person|στέφανος|1. Stephanus, a Christian
-στεφανόω|verb|στέφανος|1. to adorn with an honorary wreath
+στέφανος|noun|---|1. a chaplet (as a badge of royalty, a prize in the public games or a symbol of honor generally)
+Στέφανος|Name Person|στέφανος|1. Stephanus, a Christian
+στεφανόω|verb|στέφανος|1. to adorn with an honorary wreath
 στῆθος|noun|ἵστημι|1. the (entire external) bosom, i.e. chest
-στήκω|verb|ἵστημι|1. to be stationary 2. (figuratively) to persevere
-στηριγμός|noun|στηρίζω|1. stability (figuratively)
-στηρίζω|verb|στερεός|1. to set fast 2. (literally) to turn resolutely in a certain direction 3. (figuratively) to confirm
-στίγμα|noun|---|1. a mark incised or punched (for recognition of ownership) 2. (figuratively) scar of service
-στιγμή|noun|στίγμα|1. a point of time, i.e. an instant
-στίλβω|verb|---|1. to gleam, i.e. flash intensely
-στοά|noun|ἵστημι|1. a colonnade or interior piazza
-στοιβάς|noun|---|1. a spread (as if tramped flat) of loose materials for a couch 2. (by implication) a bough of a tree so employed
+στήκω|verb|ἵστημι|1. to be stationary 2. (figuratively) to persevere
+στηριγμός|noun|στηρίζω|1. stability (figuratively)
+στηρίζω|verb|στερεός|1. to set fast 2. (literally) to turn resolutely in a certain direction 3. (figuratively) to confirm
+στίγμα|noun|---|1. a mark incised or punched (for recognition of ownership) 2. (figuratively) scar of service
+στιγμή|noun|στίγμα|1. a point of time, i.e. an instant
+στίλβω|verb|---|1. to gleam, i.e. flash intensely
+στοά|noun|ἵστημι|1. a colonnade or interior piazza
+στοιβάς|noun|---|1. a spread (as if tramped flat) of loose materials for a couch 2. (by implication) a bough of a tree so employed
 στοιχεῖον|noun|στοιχέω|1. something orderly in arrangement 2. (by implication) an initial element of a fundamental series 3. (literally) fundamental principle 4. (figuratively, plural) the elements
-στοιχέω|verb|---|1. to march in (military) rank (keep step) 2. (figuratively) to conform to virtue and piety
-στολή|noun|στέλλω|1. equipment 2. (specially), a "stole" or long-fitting gown (as a mark of dignity)
-στόμα|noun|τομώτερος|1. the mouth (as if a gash in the face) 2. (by implication) language (and its relations) 3. (figuratively) an opening (in the earth) 4. (specially) the front or edge (of a weapon)
-στόμαχος|noun|στόμα|1. an orifice (the gullet) 2. (specially), the "stomach"
-στρατεία|noun|στρατεύομαι|1. military service 2. (figuratively) the apostolic career (as one of hardship and danger)
-στράτευμα|noun|στρατεύομαι|1. an armament 2. (by implication) a body of troops (more or less extensive or systematic)
-στρατεύομαι|verb|στρατία|1. to serve in a military campaign 2. (figuratively) to execute the apostolate (with its arduous duties and functions), to contend with carnal inclinations
-στρατηγός|noun|στρατία|1. a general 2. (by implication or analogy) a (military) governor (praetor), the chief (prefect) of the (Levitical) temple-wardens
-στρατία|noun|στρώννυμι|1. camp-likeness, i.e. an army 2. (figuratively) the angels, the celestial luminaries
-στρατιώτης|noun|στρατία|1. a camper-out, i.e. a (common) warrior
-στρατολογέω|verb|λέγω|1. to gather (or select) as a warrior, i.e. enlist in the army
-στρατοπεδάρχης|noun|ἄρχω|1. a ruler of an army 2. (specially), a Praetorian prefect
-στρατόπεδον|noun|πεδινός|1. a camping-ground 2. (by implication) a body of troops
-στρεβλόω|verb|στρέφω|1. to wrench 2. (specially) to torture (by the rack) 3. (figuratively) to pervert
-στρέφω|verb|τροπή|1. to turn (around) 2. (figuratively) to turn back, return
-στρηνιάω|verb|στρήνος|1. to be luxurious
-στρήνος|noun|---|1. a "straining", "strenuousness" or excessive "strength" 2. (figuratively) luxury (voluptuousness)
-στρουθίον|noun|---|1. a little sparrow
-στρώννυμι|verb|---|1. to "strew," i.e. spread (as a carpet or couch)
-στυγνητός|adjective|---|1. hated, i.e. odious
-στυγνάζω|verb|---|1. to render gloomy 2. (by implication) glower (be overcast with clouds, or sombreness of speech)
-στύλος|noun|---|1. a post ("style") 2. (figuratively) support
-Στωϊκός|adjective/g.|στοά|1. a "Stoic" (as occupying a particular porch in Athens), i.e. adherent of a certain philosophy
-σύ|p/p.|---|1. thou
-συγγένεια|noun|συγγενής|1. relationship 2. (concretely) relatives, kinsmen, kin (kinsfolk or kindred 3. male and female)
-συγγενής|adjective|γένος|1. a relative, a kinsman (by blood) 2. (by extension) a fellow countryman 3. (by hebrew analogy) a kinsman redeemer
-συγγνώμη|noun|γινώσκω|1. fellow knowledge, i.e. concession
-συγκάθημαι|verb|κάθημαι|1. to seat oneself in company with
-συγκαθίζω|verb|καθίζω|1. to give (or take) a seat in company with
-συγκακοπαθέω|verb|κακοπαθέω|1. to suffer hardship in company with
-συγκακουχέω|verb|κακουχέω|1. to maltreat in company with 2. (passively) endure persecution together
-συγκαλέω|verb|καλέω|1. to convoke
-συγκαλύπτω|verb|καλύπτω|1. to conceal altogether
-συγκάμπτω|verb|κάμπτω|1. to bend together 2. (figuratively) to afflict
-συγκαταβαίνω|verb|καταβαίνω|1. to descend in company with
-συγκατάθεσις|noun|συγκατατίθεμαι|1. a deposition (of sentiment) in company with 2. (figuratively) accord with
-συγκατατίθεμαι|verb|κατατίθημι|1. to deposit (one's vote or opinion) in company with 2. (figuratively) to accord with
-συγκαταψηφίζω|verb|κατά|1. to count down in company with, i.e. enroll among
-συγκεράννυμι|verb|κεράννυμι|1. to commingle 2. (figuratively) to combine or assimilate
-συγκινέω|verb|κινέω|1. to move together 2. (specially), to excite as a mass (to sedition)
-συγκλείω|verb|κλείω|1. to shut together, i.e. include or (figuratively) embrace in a common subjection to
-συγκληρονόμος|adjective|κληρονόμος|1. a co-heir 2. (by analogy) participant in common
-συγκοινωνέω|verb|κοινωνέω|1. to share in company with, i.e. co-participate in
-συγκοινωνός|adjective|κοινωνός|1. a co-participant
-συγκομίζω|verb|κομίζω|1. to convey together, i.e. collect or bear away in company with others
-συγκρίνω|verb|κρίνω|1. to judge of one thing in connection with another, i.e. combine (spiritual ideas with appropriate expressions) or collate (one person with another by way of contrast or resemblance)
-συγκύπτω|verb|κύπτω|1. to stoop altogether, i.e. be completely overcome by
-συγκυρία|noun|κύριος|1. concurrence, i.e. accident
-συγχαίρω|verb|χαίρω|1. to sympathize in gladness, congratulate
-συγχέω|verb|σύν|1. to commingle promiscuously 2. (figuratively) to throw (an assembly) into disorder, to perplex (the mind)
-συγχράομαι|verb|χράομαι|1. to use jointly 2. (by implication) to hold intercourse in common
-σύγχυσις|noun|συγχέω|1. commixture 2. (figuratively) riotous disturbance
-συζάω|verb|ζάω|1. to continue to live in common with, i.e. co-survive
-συζεύγνυμι|verb|ζεῦγος|1. to yoke together 2. (figuratively) conjoin (in marriage)
-συζητέω|verb|ζητέω|1. to investigate jointly, i.e. discuss, controvert, cavil
-συζήτησις|noun|συζητέω|1. mutual questioning, i.e. discussion
-συζητητής|noun|συζητέω|1. a disputant, i.e. sophist
-σύζυγος|adjective|συζεύγνυμι|1. yoked together, co-yoked 2. (figuratively, as noun) a colleague 3. (a proper name) Syzygus, a Christian
-συζωοποιέω|verb|ζωοποιέω|1. to reanimate conjointly with (figuratively)
-συκάμινος|adjective|שָׁקָם שִׁקמָה|1. of a sycamore tree
+στοιχέω|verb|---|1. to march in (military) rank (keep step) 2. (figuratively) to conform to virtue and piety
+στολή|noun|στέλλω|1. equipment 2. (specially), a "stole" or long-fitting gown (as a mark of dignity)
+στόμα|noun|τομώτερος|1. the mouth (as if a gash in the face) 2. (by implication) language (and its relations) 3. (figuratively) an opening (in the earth) 4. (specially) the front or edge (of a weapon)
+στόμαχος|noun|στόμα|1. an orifice (the gullet) 2. (specially), the "stomach"
+στρατεία|noun|στρατεύομαι|1. military service 2. (figuratively) the apostolic career (as one of hardship and danger)
+στράτευμα|noun|στρατεύομαι|1. an armament 2. (by implication) a body of troops (more or less extensive or systematic)
+στρατεύομαι|verb|στρατία|1. to serve in a military campaign 2. (figuratively) to execute the apostolate (with its arduous duties and functions), to contend with carnal inclinations
+στρατηγός|noun|στρατία|1. a general 2. (by implication or analogy) a (military) governor (praetor), the chief (prefect) of the (Levitical) temple-wardens
+στρατιά|noun|στρώννυμι|1. camp-likeness, i.e. an army 2. (figuratively) the angels, the celestial luminaries
+στρατιώτης|noun|στρατία|1. a camper-out, i.e. a (common) warrior
+στρατολογέω|verb|λέγω|1. to gather (or select) as a warrior, i.e. enlist in the army
+στρατοπεδάρχης|noun|ἄρχω|1. a ruler of an army 2. (specially), a Praetorian prefect
+στρατόπεδον|noun|πεδινός|1. a camping-ground 2. (by implication) a body of troops
+στρεβλόω|verb|στρέφω|1. to wrench 2. (specially) to torture (by the rack) 3. (figuratively) to pervert
+στρέφω|verb|τροπή|1. to turn (around) 2. (figuratively) to turn back, return
+στρηνιάω|verb|στρήνος|1. to be luxurious
+στρῆνος|noun|---|1. a "straining", "strenuousness" or excessive "strength" 2. (figuratively) luxury (voluptuousness)
+στρουθίον|noun|---|1. a little sparrow
+στρωννύω|verb|---|1. to "strew," i.e. spread (as a carpet or couch)
+στυγητός|adjective|---|1. hated, i.e. odious
+στυγνάζω|verb|---|1. to render gloomy 2. (by implication) glower (be overcast with clouds, or sombreness of speech)
+στῦλος|noun|---|1. a post ("style") 2. (figuratively) support
+Στωϊκός|adjective/g.|στοά|1. a "Stoic" (as occupying a particular porch in Athens), i.e. adherent of a certain philosophy
+σύ|p/p.|---|1. thou
+συγγένεια|noun|συγγενής|1. relationship 2. (concretely) relatives, kinsmen, kin (kinsfolk or kindred 3. male and female)
+συγγενής|adjective|γένος|1. a relative, a kinsman (by blood) 2. (by extension) a fellow countryman 3. (by hebrew analogy) a kinsman redeemer
+συγγνώμη|noun|γινώσκω|1. fellow knowledge, i.e. concession
+συγκάθημαι|verb|κάθημαι|1. to seat oneself in company with
+συγκαθίζω|verb|καθίζω|1. to give (or take) a seat in company with
+συγκακοπαθέω|verb|κακοπαθέω|1. to suffer hardship in company with
+συγκακουχέω|verb|κακουχέω|1. to maltreat in company with 2. (passively) endure persecution together
+συγκαλέω|verb|καλέω|1. to convoke
+συγκαλύπτω|verb|καλύπτω|1. to conceal altogether
+συγκάμπτω|verb|κάμπτω|1. to bend together 2. (figuratively) to afflict
+συγκαταβαίνω|verb|καταβαίνω|1. to descend in company with
+συγκατάθεσις|noun|συγκατατίθεμαι|1. a deposition (of sentiment) in company with 2. (figuratively) accord with
+συγκατατίθημι|verb|κατατίθημι|1. to deposit (one's vote or opinion) in company with 2. (figuratively) to accord with
+συγκαταψηφίζω|verb|κατά|1. to count down in company with, i.e. enroll among
+συγκεράννυμι|verb|κεράννυμι|1. to commingle 2. (figuratively) to combine or assimilate
+συγκινέω|verb|κινέω|1. to move together 2. (specially), to excite as a mass (to sedition)
+συγκλείω|verb|κλείω|1. to shut together, i.e. include or (figuratively) embrace in a common subjection to
+συγκληρονόμος|adjective|κληρονόμος|1. a co-heir 2. (by analogy) participant in common
+συγκοινωνέω|verb|κοινωνέω|1. to share in company with, i.e. co-participate in
+συγκοινωνός|adjective|κοινωνός|1. a co-participant
+συγκομίζω|verb|κομίζω|1. to convey together, i.e. collect or bear away in company with others
+συγκρίνω|verb|κρίνω|1. to judge of one thing in connection with another, i.e. combine (spiritual ideas with appropriate expressions) or collate (one person with another by way of contrast or resemblance)
+συγκύπτω|verb|κύπτω|1. to stoop altogether, i.e. be completely overcome by
+συγκυρία|noun|κύριος|1. concurrence, i.e. accident
+συγχαίρω|verb|χαίρω|1. to sympathize in gladness, congratulate
+συγχέω|verb|σύν|1. to commingle promiscuously 2. (figuratively) to throw (an assembly) into disorder, to perplex (the mind)
+συγχράομαι|verb|χράομαι|1. to use jointly 2. (by implication) to hold intercourse in common
+σύγχυσις|noun|συγχέω|1. commixture 2. (figuratively) riotous disturbance
+συζάω|verb|ζάω|1. to continue to live in common with, i.e. co-survive
+συζεύγνυμι|verb|ζεῦγος|1. to yoke together 2. (figuratively) conjoin (in marriage)
+συζητέω|verb|ζητέω|1. to investigate jointly, i.e. discuss, controvert, cavil
+συζήτησις|noun|συζητέω|1. mutual questioning, i.e. discussion
+συζητητής|noun|συζητέω|1. a disputant, i.e. sophist
+σύζυγος|adjective|συζεύγνυμι|1. yoked together, co-yoked 2. (figuratively, as noun) a colleague 3. (a proper name) Syzygus, a Christian
+συζωοποιέω|verb|ζωοποιέω|1. to reanimate conjointly with (figuratively)
+συκάμινος|adjective|שָׁקָם שִׁקמָה|1. of a sycamore tree
 συκῆ|noun|σῦκον|1. a fig-tree
-συκομωραία|noun|σῦκον|1. the "sycamore" tree 2. a mulberry-fig tree
+συκομωραία|noun|σῦκον|1. the "sycamore" tree 2. a mulberry-fig tree
 σῦκον|noun|---|1. a fig
-συκοφαντέω|verb|φαίνω|1. to be a fig-informer (reporter of the law forbidding the exportation of figs from Greece), "sycophant" 2. (genitive and by extension) to defraud (exact unlawfully, extort)
-συλαγωγέω|verb|ἄγω|1. to lead away as booty 2. (figuratively) seduce
-συλάω|verb|---|1. to despoil
-συλλαλέω|verb|λαλέω|1. to talk together, i.e. converse
-συλλαμβάνω|verb|λαμβάνω|1. to clasp, i.e. seize (arrest, capture) 2. (specially) to conceive 3. (by implication) to aid
-συλλέγω|verb|λέγω|1. to collect
-συλλογίζομαι|verb|λογίζομαι|1. to reckon together (with oneself), i.e. deliberate
-συλλυπέω|verb|λυπέω|1. to afflict jointly 2. (passive) sorrow at (on account of) someone
-συμβαίνω|verb|βάσις|1. to walk together 2. (figuratively) to coincide together, i.e. take place
-συμβάλλω|verb|βάλλω|1. to combine 2. (in speaking) to converse, consult, dispute 3. (mentally) to consider 4. (by implication) to aid 5. (personally) to join, attack   
-συμβασιλεύω|verb|βασιλεύω|1. to be co-regent (figuratively)
-συμβιβάζω|verb|βάσις|1. to drive together, i.e. unite (in association or affection), (mentally) to infer, show, teach
-συμβουλεύω|verb|βουλεύω|1. to give (or take) advice jointly, i.e. recommend, deliberate or determine
-συμβούλιον|noun|σύμβουλος|1. advisement 2. (specially) a deliberative body, i.e. the provincial assessors or lay-court
-σύμβουλος|noun|βουλή|1. a consultor, i.e. adviser
-Συμεών|Name Person|שִׁמעוֹן|1. Symeon (i.e. Shimon), the name of five Israelites
-συμμαθητής|noun|μανθάνω|1. a co-learner (of Christianity)
-συμμαρτυρέω|verb|μαρτυρέω|1. to testify jointly, i.e. corroborate by (concurrent) evidence
-συμμερίζομαι|verb|μερίζω|1. to share jointly, i.e. participate in
-συμμέτοχος|adjective|μέτοχος|1. a co-participant
-συμμιμητής|noun|μιμέομαι|1. a co-imitator, i.e. fellow votary
-συμμορφός|adjective|μορφή|1. jointly formed 2. (figuratively) similar
-συμμορφόω|verb|συμμορφός|1. to render like 2. (figuratively) to assimilate
-συμπαθέω|verb|συμπαθής|1. to feel "sympathy" with 2. (by implication) to commiserate
-συμπαθής|adjective|συμπάσχω|1. having a fellow-feeling ("sympathetic") 2. (by implication) mutually commiserative
-συμπαραγίνομαι|verb|παραγίνομαι|1. to be present together, i.e. to convene 2. (by implication) to appear in aid
-συμπαρακαλέω|verb|παρακαλέω|1. to console jointly
-συμπαραλαμβάνω|verb|παραλαμβάνω|1. to take along in company
-συμπαραμένω|verb|παραμένω|1. to remain in company, i.e. still live
-συμπάρειμι|verb|πάρειμι|1. to be at hand together, i.e. now present
-συμπάσχω|verb|πάσχω|1. to experience pain jointly or of the same kind 2. (specially) persecution 3. to "sympathize"
-συμπέμπω|verb|πέμπω|1. to despatch in company
-συμπεριλαμβάνω|verb|περί|1. to take by enclosing altogether, i.e. earnestly throw the arms about one
-συμπίνω|verb|πίνω|1. to partake a beverage in company
-συμπληρόω|verb|πληρόω|1. to fully fill completely 2. (of space) to swamp (a boat) 3. (of time) to accomplish 4. (passive) to be complete)
-συμπνίγω|verb|πνίγω|1. to strangle completely 2. (literally) to drown 3. (figuratively) to crowd
-συμπολίτης|noun|πολίτης|1. a native of the same town 2. fellow-citizen 3. (figuratively) co-religionist (fellow-Christian)
-συμπορεύομαι|verb|πορεύομαι|1. to journey together 2. (by implication) to assemble
-συμπόσιον|noun|συμπίνω|1. a drinking-party ("symposium") 2. (by extension) a room of guests
-συμπρεσβύτερος|noun|πρεσβύτερος|1. a co-presbyter
-συμφέρω|verb|φέρω|1. to bring together (contribute) 2. (literally) to collect 3. (figuratively) to contribute to 4. (especially, neuter participle as a noun) to bestow an advantage
-σύμφημι|verb|φημί|1. to say jointly, i.e. assent to
-συμφυλέτης|noun|φυλή|1. a co-tribesman, i.e. native of the same country
-σύμφυτος|adjective|φύω|1. grown along with (connate) 2. (figuratively) closely united to
-συμφύω|verb|φύω|1. passive, to grow jointly
-συμφωνέω|verb|σύμφωνος|1. to be harmonious 2. (figuratively) to accord (be suitable, concur) or stipulate (by compact)
-συμφώνησις|noun|συμφωνέω|1. accordance
-συμφωνία|noun|σύμφωνος|1. unison of sound ("symphony"), i.e. a concert of instruments (harmonious note)
-σύμφωνος|adjective|φωνή|1. sounding together (alike) 2. (figuratively) accordant (neuter as noun, agreement)
-συμψηφίζω|verb|ψηφίζω|1. to compute jointly
-σύμψυχος|adjective|ψυχή|1. jointly of soul, i.e. similar in sentiment
-σύν|preposition|---|1. with or together 2. (in composition) association, companionship, process, resemblance, possession, instrumentality, addition, etc
-συνάγω|verb|ἄγω|1. (properly) to lead together 2. (generally) to gather together, to congregate 3. (specially) to entertain (hospitably)
-συναγωγή|noun|συνάγω|1. a gathering of persons 2. (specially) a Jewish "synagogue" (the meeting or the place) 3. (by analogy) a religious meeting or building (of Jews, Jewish Christians, Greeks, or even of Satan)
-συναγωνίζομαι|verb|ἀγωνίζομαι|1. to struggle in company with 2. (figuratively) to be a partner (assistant)
-συναθλέω|verb|ἀθλέω|1. to wrestle in company with 2. (figuratively) to seek jointly
-συναθροίζω|verb|σύν|1. to convene
-συναίρω|verb|αἴρω|1. to make up together 2. (figuratively) to compute (an account)
-συναιχμάλωτος|adjective|αἰχμαλωτός|1. a co-captive
-συνακολουθέω|verb|ἀκολουθέω|1. to accompany
-συναλίζω|verb|σύν|1. to throng together, i.e. huddle together
-συναναβαίνω|verb|ἀναβαίνω|1. to ascend in company with
-συνανάκειμαι|verb|ἀνακεῖμαι|1. to recline in company with (at a meal)
-συναναμίγνυμι|verb|ἀνά|1. to mix up together 2. (figurative) associate with
-συναναπαύομαι|verb|ἀναπαύω|1. to recruit oneself in company with
-συναντάω|verb|ἀντί|1. to meet with 2. (figuratively) to occur
-συνάντησις|noun|συναντάω|1. a meeting with
-συναντιλαμβάνομαι|verb|ἀντιλαμβάνομαι|1. to take hold of opposite together, i.e. co-operate (assist)
-συναπάγω|verb|ἀπάγω|1. to take off together, i.e. transport with (seduce, passively, yield)
-συναποθνήσκω|verb|ἀποθνήσκω|1. to decease together 2. (literally) to die in company with 3. (figuratively) to die similarly to
-συναπόλλυμι|verb|ἀπόλλυμι|1. to destroy (middle voice or passively, be slain) in company with
-συναποστέλλω|verb|ἀποστέλλω|1. to despatch (on an errand) in company with
-συναρμολογέω|verb|ἁρμός|1. to render close-jointed together, i.e. organize compactly
-συναρπάζω|verb|ἁρπάζω|1. to snatch together, i.e. seize
-συναυξάνω|verb|αὐξάνω|1. to increase (grow up) together
-σύνδεσμος|noun|δεσμόν|1. a joint tie, i.e. ligament, (figuratively) uniting principle, control
-συνδέω|verb|δέω|1. to bind with 2. (passively) be a fellow-prisoner (figuratively)
-συνδοξάζω|verb|δοξάζω|1. to exalt to dignity in company (i.e. similarly) with
-σύνδουλος|noun|δοῦλος|1. a co-slave, i.e. servitor or ministrant of the same master (human or divine)
-συνδρομή|noun|συντρέχω|1. a running together 2. (riotous) concourse
-συνεγείρω|verb|ἐγείρω|1. to rouse (from death) in company with 2. (figuratively) to revivify (spirtually) in resemblance to
-συνέδριον|noun|ἑδραῖος|1. a joint session 2. (specially), the Jewish Sanhedrin 3. (by analogy) a subordinate tribunal
-συνείδησις|noun|συνείδω|1. co-perception, i.e. moral consciousness
-συνείδω|verb|εἴδω|1. to see completely 2. (past tense, first usage) to understand or become aware 3. (past tense, second usage) to be conscious or (clandestinely) informed of
-σύνειμι|verb|εἰμί|1. to be in company with, i.e. present at the time
-σύνειμι|verb|σύν|1. to assemble
-συνεισέρχομαι|verb|εἰσέρχομαι|1. to enter in company with
-συνέκδημος|noun|ἐκδημέω|1. a co-absentee from home, i.e. fellow-traveller
-συνεκλεκτός|adjective|ἐκλέγομαι|1. chosen in company with, i.e. co-elect (fellow Christian)
-συνελαύνω|verb|ἐλαύνω|1. to drive together 2. (figuratively) exhort (to reconciliation)
-συνεπιμαρτυρέω|verb|ἐπιμαρτυρέω|1. to testify further jointly, i.e. unite in adding evidence
-συνέπομαι|verb|σύν|1. to attend (travel) in company with
-συνεργέω|verb|συνεργός|1. to be a fellow-worker, i.e. co-operate
-συνεργός|adjective|ἔργον|1. a co-laborer, i.e. coadjutor
-συνέρχομαι|verb|ἔρχομαι|1. to convene, depart in company with, associate with 2. (specially, maritally) cohabit
-συνεσθίω|verb|ἐσθίω|1. to take food in company with
-σύνεσις|noun|συνίημι|1. a mental putting together, i.e. intelligence or (concretely) the intellect
-συνετός|adjective|συνίημι|1. mentally put (or putting) together, i.e. sagacious
-συνευδοκέω|verb|εὐδοκέω|1. to think well of in common, i.e. assent to, feel gratified with
-συνευωχέω|verb|εὖ|1. to entertain sumptuously in company with 2. (middle voice or passive) to revel together
-συνεφίστημι|verb|ἐφίστημι|1. to stand up together, i.e. to resist (or assault) jointly
-συνέχω|verb|ἔχω|1. to hold together, i.e. to compress (the ears, with a crowd or siege) or arrest (a prisoner) 2. (figuratively) to compel, perplex, afflict, preoccupy 
-συνήδομαι|verb|ἡδονή|1. to rejoice in with oneself, i.e. feel satisfaction concerning
-συνήθεια|noun|ἤθος|1. mutual habituation, i.e. usage
-συνηλικιώτης|noun|ἡλικία|1. a co-aged person, i.e. alike in years
-συνθάπτω|verb|θάπτω|1. to inter in company with 2. (figuratively) to assimilate spiritually (to Christ by a sepulture as to sin)
-συνθλάω|verb|σύν|1. to dash together, i.e. shatter
-συνθλίβω|verb|θλίβω|1. to compress, i.e. crowd on all sides
-συνθρύπτω|verb|σύν|1. to crush together 2. (figuratively) to dispirit
-συνίημι|verb|σύν|1. to put together 2. (mentally) to comprehend 3. (by implication) to act piously
-συνιστάω|verb|ἵστημι|1. to set together 2. (by implication) to introduce (favorably) 3. (figuratively) to exhibit 4. (intransitively) to stand near 5. (figuratively) to constitute
-συνοδεύω|verb|ὁδεύω|1. to travel in company with
-συνοδία|noun|ὁδός|1. companionship on a journey 2. (by implication), a caravan
-συνοικέω|verb|οἰκέω|1. to reside together (as a family)
-συνοικοδομέω|verb|οἰκοδομέω|1. to construct 2. (passively) to compose (in company with other Christians, figuratively)
-συνομιλέω|verb|ὁμιλέω|1. to converse mutually
-συνομορέω|verb|ὁμοῦ|1. to border together, i.e. adjoin
-συνοχή|noun|συνέχω|1. restraint 2. (figuratively) anxiety
-συντάσσω|verb|τάσσω|1. to arrange jointly 2. (figuratively) to direct
-συντέλεια|noun|συντελέω|1. entire completion, i.e. consummation (of a dispensation)
-συντελέω|verb|τελέω|1. to complete entirely 2. (generally) to execute (literally or figuratively)
-συντέμνω|verb|τομώτερος|1. to contract by cutting 2. (figuratively) do concisely (speedily)
-συντηρέω|verb|τηρέω|1. to keep closely together 2. (by implication) to conserve (from ruin) 3. (mentally) to remember (and obey)
-συντίθεμαι|verb|τίθημι|1. to place jointly 2. (figuratively) to consent (bargain, stipulate), concur
-συντόμως|adverb|συντέμνω|1. concisely (briefly)
-συντρέχω|verb|τρέχω|1. to rush together (hastily assemble) or headlong (figuratively)
-συντρίβω|verb|τρίβος|1. to crush completely, i.e. to shatter
-σύντριμμα|noun|συντρίβω|1. concussion or utter fracture (properly, concretely), i.e. complete ruin
-σύντροφος|adjective|τροφός|1. a fellow-nursling, i.e. comrade
-συντυγχάνω|verb|τυγχάνω|1. to chance together, i.e. meet with (reach)
-Συντύχη|Name Person|συντυγχάνω|1. an accident 2. Syntyche, a Christian female
-συνυποκρίνομαι|verb|ὑποκρίνομαι|1. to act hypocritically in concert with
-συνυπουργέω|verb|ὑπό|1. to be a co-auxiliary, i.e. assist
-συνωδίνω|verb|ὠδίν|1. to have (parturition) pangs in company (concert, simultaneously) with 2. (figuratively) to sympathize (in expectation of relief from suffering)   
-συνωμοσία|noun|ὀμνύω|1. a swearing together 2. (by implication) a plot
-Συράκουσαι|Name Location|---|1. Syracuse, the capital of Sicily
-Συρία|Name Location|צּוֹר צּוֹר|1. Syria (i.e. Tsyria or Tyre), a region of Asia
-Σύρος|Name/g.|צּוֹר צּוֹר|1. a Syran (i.e. probably Tyrian), a native of Syria
-Συροφοίνισσα|Name/g.|Φοινίκη|1. a Syro-phoenician woman, i.e. a female native of Phoenicia in Syria
-σύρτις|noun|σύρω|1. a shoal (from the sand drawn thither by the waves), i.e. the Syrtis Major or great bay on the north coast of Africa
-σύρω|verb|---|1. to trail
-συσπαράσσω|verb|σπαράσσω|1. to rend completely 2. (by analogy) to convulse violently
-σύσσημον|noun|σημαίνω|1. a sign in common, i.e. preconcerted signal
-σύσσωμος|adjective|σῶμα|1. of a joint body 2. (figuratively) a fellow-member of the Christian community
-συστασιαστής|noun|στάσις|1. a fellow-insurgent
-συστατικός|adjective|συνιστάω|1. introductory, i.e. recommendatory
-συσταυρόω|verb|σταυρόω|1. to impale in company with
-συστέλλω|verb|στέλλω|1. to send (draw) together, i.e. enwrap (enshroud a corpse for burial), contract (an interval)
-συστενάζω|verb|στενάζω|1. to moan jointly 2. (figuratively) experience a common calamity
-συστοιχέω|verb|στοιχέω|1. to file together (as soldiers in ranks) 2. (figuratively) to correspond to
-συστρατιώτης|noun|στρατιώτης|1. a co-campaigner 2. (figuratively) an associate in Christian toil
-συστρέφω|verb|στρέφω|1. to twist together, i.e. collect (a bundle, a crowd)
-συστροφή|noun|συστρέφω|1. a twisting together 2. (figuratively) a secret coalition, riotous crowd
-συσχηματίζω|verb|σχῆμα|1. to fashion alike, i.e. conform to the same pattern (figuratively)
-Συχάρ|Name Location|שֵׁכָר|1. Sychar (i.e. Shekar), a place in Israel
-Συχέμ|Name Location|שְׁכֶם|1. Sychem (i.e. Shekem), the name of a Canaanite and of a place in Israel
-σφαγή|noun|σφάζω|1. butchery (of animals for food or sacrifice) 2. (figuratively) butchery of men (destruction)
-σφάγιον|noun|σφαγή|1. a victim (in sacrifice)
-σφάζω|verb|---|1. to butcher (especially an animal for food or in sacrifice) 2. (generally) to slaughter 3. (specially) to maim (violently)
-σφόδρα|adverb|---|1. vehemently, i.e. in a high degree, much
+συκοφαντέω|verb|φαίνω|1. to be a fig-informer (reporter of the law forbidding the exportation of figs from Greece), "sycophant" 2. (genitive and by extension) to defraud (exact unlawfully, extort)
+συλαγωγέω|verb|ἄγω|1. to lead away as booty 2. (figuratively) seduce
+συλάω|verb|---|1. to despoil
+συλλαλέω|verb|λαλέω|1. to talk together, i.e. converse
+συλλαμβάνω|verb|λαμβάνω|1. to clasp, i.e. seize (arrest, capture) 2. (specially) to conceive 3. (by implication) to aid
+συλλέγω|verb|λέγω|1. to collect
+συλλογίζομαι|verb|λογίζομαι|1. to reckon together (with oneself), i.e. deliberate
+συλλυπέομαι|verb|λυπέω|1. to afflict jointly 2. (passive) sorrow at (on account of) someone
+συμβαίνω|verb|βάσις|1. to walk together 2. (figuratively) to coincide together, i.e. take place
+συμβάλλω|verb|βάλλω|1. to combine 2. (in speaking) to converse, consult, dispute 3. (mentally) to consider 4. (by implication) to aid 5. (personally) to join, attack   
+συμβασιλεύω|verb|βασιλεύω|1. to be co-regent (figuratively)
+συμβιβάζω|verb|βάσις|1. to drive together, i.e. unite (in association or affection), (mentally) to infer, show, teach
+συμβουλεύω|verb|βουλεύω|1. to give (or take) advice jointly, i.e. recommend, deliberate or determine
+συμβούλιον|noun|σύμβουλος|1. advisement 2. (specially) a deliberative body, i.e. the provincial assessors or lay-court
+σύμβουλος|noun|βουλή|1. a consultor, i.e. adviser
+Συμεών|Name Person|שִׁמעוֹן|1. Symeon (i.e. Shimon), the name of five Israelites
+συμμαθητής|noun|μανθάνω|1. a co-learner (of Christianity)
+συμμαρτυρέω|verb|μαρτυρέω|1. to testify jointly, i.e. corroborate by (concurrent) evidence
+συμμερίζομαι|verb|μερίζω|1. to share jointly, i.e. participate in
+συμμέτοχος|adjective|μέτοχος|1. a co-participant
+συμμιμητής|noun|μιμέομαι|1. a co-imitator, i.e. fellow votary
+σύμμορφος|adjective|μορφή|1. jointly formed 2. (figuratively) similar
+συμμορφόω|verb|συμμορφός|1. to render like 2. (figuratively) to assimilate
+συμπαθέω|verb|συμπαθής|1. to feel "sympathy" with 2. (by implication) to commiserate
+συμπαθής|adjective|συμπάσχω|1. having a fellow-feeling ("sympathetic") 2. (by implication) mutually commiserative
+συμπαραγίνομαι|verb|παραγίνομαι|1. to be present together, i.e. to convene 2. (by implication) to appear in aid
+συμπαρακαλέω|verb|παρακαλέω|1. to console jointly
+συμπαραλαμβάνω|verb|παραλαμβάνω|1. to take along in company
+συμπαραμένω|verb|παραμένω|1. to remain in company, i.e. still live
+συμπάρειμι|verb|πάρειμι|1. to be at hand together, i.e. now present
+συμπάσχω|verb|πάσχω|1. to experience pain jointly or of the same kind 2. (specially) persecution 3. to "sympathize"
+συμπέμπω|verb|πέμπω|1. to despatch in company
+συμπεριλαμβάνω|verb|περί|1. to take by enclosing altogether, i.e. earnestly throw the arms about one
+συμπίνω|verb|πίνω|1. to partake a beverage in company
+συμπληρόω|verb|πληρόω|1. to fully fill completely 2. (of space) to swamp (a boat) 3. (of time) to accomplish 4. (passive) to be complete)
+συμπνίγω|verb|πνίγω|1. to strangle completely 2. (literally) to drown 3. (figuratively) to crowd
+συμπολίτης|noun|πολίτης|1. a native of the same town 2. fellow-citizen 3. (figuratively) co-religionist (fellow-Christian)
+συμπορεύομαι|verb|πορεύομαι|1. to journey together 2. (by implication) to assemble
+συμπόσιον|noun|συμπίνω|1. a drinking-party ("symposium") 2. (by extension) a room of guests
+συμπρεσβύτερος|noun|πρεσβύτερος|1. a co-presbyter
+συμφέρω|verb|φέρω|1. to bring together (contribute) 2. (literally) to collect 3. (figuratively) to contribute to 4. (especially, neuter participle as a noun) to bestow an advantage
+σύμφημι|verb|φημί|1. to say jointly, i.e. assent to
+συμφυλέτης|noun|φυλή|1. a co-tribesman, i.e. native of the same country
+σύμφυτος|adjective|φύω|1. grown along with (connate) 2. (figuratively) closely united to
+συμφύω|verb|φύω|1. passive, to grow jointly
+συμφωνέω|verb|σύμφωνος|1. to be harmonious 2. (figuratively) to accord (be suitable, concur) or stipulate (by compact)
+συμφώνησις|noun|συμφωνέω|1. accordance
+συμφωνία|noun|σύμφωνος|1. unison of sound ("symphony"), i.e. a concert of instruments (harmonious note)
+σύμφωνος|adjective|φωνή|1. sounding together (alike) 2. (figuratively) accordant (neuter as noun, agreement)
+συμψηφίζω|verb|ψηφίζω|1. to compute jointly
+σύμψυχος|adjective|ψυχή|1. jointly of soul, i.e. similar in sentiment
+σύν|preposition|---|1. with or together 2. (in composition) association, companionship, process, resemblance, possession, instrumentality, addition, etc
+συνάγω|verb|ἄγω|1. (properly) to lead together 2. (generally) to gather together, to congregate 3. (specially) to entertain (hospitably)
+συναγωγή|noun|συνάγω|1. a gathering of persons 2. (specially) a Jewish "synagogue" (the meeting or the place) 3. (by analogy) a religious meeting or building (of Jews, Jewish Christians, Greeks, or even of Satan)
+συναγωνίζομαι|verb|ἀγωνίζομαι|1. to struggle in company with 2. (figuratively) to be a partner (assistant)
+συναθλέω|verb|ἀθλέω|1. to wrestle in company with 2. (figuratively) to seek jointly
+συναθροίζω|verb|σύν|1. to convene
+συναίρω|verb|αἴρω|1. to make up together 2. (figuratively) to compute (an account)
+συναιχμάλωτος|adjective|αἰχμαλωτός|1. a co-captive
+συνακολουθέω|verb|ἀκολουθέω|1. to accompany
+συναλίζομαι|verb|σύν|1. to throng together, i.e. huddle together
+συναναβαίνω|verb|ἀναβαίνω|1. to ascend in company with
+συνανάκειμαι|verb|ἀνακεῖμαι|1. to recline in company with (at a meal)
+συναναμίγνυμι|verb|ἀνά|1. to mix up together 2. (figurative) associate with
+συναναπαύομαι|verb|ἀναπαύω|1. to recruit oneself in company with
+συναντάω|verb|ἀντί|1. to meet with 2. (figuratively) to occur
+συνάντησις|noun|συναντάω|1. a meeting with
+συναντιλαμβάνομαι|verb|ἀντιλαμβάνομαι|1. to take hold of opposite together, i.e. co-operate (assist)
+συναπάγω|verb|ἀπάγω|1. to take off together, i.e. transport with (seduce, passively, yield)
+συναποθνῄσκω|verb|ἀποθνήσκω|1. to decease together 2. (literally) to die in company with 3. (figuratively) to die similarly to
+συναπόλλυμι|verb|ἀπόλλυμι|1. to destroy (middle voice or passively, be slain) in company with
+συναποστέλλω|verb|ἀποστέλλω|1. to despatch (on an errand) in company with
+συναρμολογέω|verb|ἁρμός|1. to render close-jointed together, i.e. organize compactly
+συναρπάζω|verb|ἁρπάζω|1. to snatch together, i.e. seize
+συναυξάνομαι|verb|αὐξάνω|1. to increase (grow up) together
+σύνδεσμος|noun|δεσμόν|1. a joint tie, i.e. ligament, (figuratively) uniting principle, control
+συνδέω|verb|δέω|1. to bind with 2. (passively) be a fellow-prisoner (figuratively)
+συνδοξάζω|verb|δοξάζω|1. to exalt to dignity in company (i.e. similarly) with
+σύνδουλος|noun|δοῦλος|1. a co-slave, i.e. servitor or ministrant of the same master (human or divine)
+συνδρομή|noun|συντρέχω|1. a running together 2. (riotous) concourse
+συνεγείρω|verb|ἐγείρω|1. to rouse (from death) in company with 2. (figuratively) to revivify (spirtually) in resemblance to
+συνέδριον|noun|ἑδραῖος|1. a joint session 2. (specially), the Jewish Sanhedrin 3. (by analogy) a subordinate tribunal
+συνείδησις|noun|συνείδω|1. co-perception, i.e. moral consciousness
+σύνοιδα|verb|εἴδω|1. to see completely 2. (past tense, first usage) to understand or become aware 3. (past tense, second usage) to be conscious or (clandestinely) informed of
+σύνειμι|verb|εἰμί|1. to be in company with, i.e. present at the time
+σύν εἶμι|verb|σύν|1. to assemble
+συνεισέρχομαι|verb|εἰσέρχομαι|1. to enter in company with
+συνέκδημος|noun|ἐκδημέω|1. a co-absentee from home, i.e. fellow-traveller
+συνεκλεκτός|adjective|ἐκλέγομαι|1. chosen in company with, i.e. co-elect (fellow Christian)
+συνελαύνω|verb|ἐλαύνω|1. to drive together 2. (figuratively) exhort (to reconciliation)
+συνεπιμαρτυρέω|verb|ἐπιμαρτυρέω|1. to testify further jointly, i.e. unite in adding evidence
+συνέπομαι|verb|σύν|1. to attend (travel) in company with
+συνεργέω|verb|συνεργός|1. to be a fellow-worker, i.e. co-operate
+συνεργός|adjective|ἔργον|1. a co-laborer, i.e. coadjutor
+συνέρχομαι|verb|ἔρχομαι|1. to convene, depart in company with, associate with 2. (specially, maritally) cohabit
+συνεσθίω|verb|ἐσθίω|1. to take food in company with
+σύνεσις|noun|συνίημι|1. a mental putting together, i.e. intelligence or (concretely) the intellect
+συνετός|adjective|συνίημι|1. mentally put (or putting) together, i.e. sagacious
+συνευδοκέω|verb|εὐδοκέω|1. to think well of in common, i.e. assent to, feel gratified with
+συνευωχέομαι|verb|εὖ|1. to entertain sumptuously in company with 2. (middle voice or passive) to revel together
+συνεπίστημι|verb|ἐφίστημι|1. to stand up together, i.e. to resist (or assault) jointly
+συνέχω|verb|ἔχω|1. to hold together, i.e. to compress (the ears, with a crowd or siege) or arrest (a prisoner) 2. (figuratively) to compel, perplex, afflict, preoccupy 
+συνήδομαι|verb|ἡδονή|1. to rejoice in with oneself, i.e. feel satisfaction concerning
+συνήθεια|noun|ἤθος|1. mutual habituation, i.e. usage
+συνηλικιώτης|noun|ἡλικία|1. a co-aged person, i.e. alike in years
+συνθάπτω|verb|θάπτω|1. to inter in company with 2. (figuratively) to assimilate spiritually (to Christ by a sepulture as to sin)
+συνθλάω|verb|σύν|1. to dash together, i.e. shatter
+συνθλίβω|verb|θλίβω|1. to compress, i.e. crowd on all sides
+συνθρύπτω|verb|σύν|1. to crush together 2. (figuratively) to dispirit
+συνίημι|verb|σύν|1. to put together 2. (mentally) to comprehend 3. (by implication) to act piously
+συνίστημι|verb|ἵστημι|1. to set together 2. (by implication) to introduce (favorably) 3. (figuratively) to exhibit 4. (intransitively) to stand near 5. (figuratively) to constitute
+συνοδεύω|verb|ὁδεύω|1. to travel in company with
+συνοδία|noun|ὁδός|1. companionship on a journey 2. (by implication), a caravan
+συνοικέω|verb|οἰκέω|1. to reside together (as a family)
+συνοικοδομέω|verb|οἰκοδομέω|1. to construct 2. (passively) to compose (in company with other Christians, figuratively)
+συνομιλέω|verb|ὁμιλέω|1. to converse mutually
+συνομορέω|verb|ὁμοῦ|1. to border together, i.e. adjoin
+συνοχή|noun|συνέχω|1. restraint 2. (figuratively) anxiety
+συντάσσω|verb|τάσσω|1. to arrange jointly 2. (figuratively) to direct
+συντέλεια|noun|συντελέω|1. entire completion, i.e. consummation (of a dispensation)
+συντελέω|verb|τελέω|1. to complete entirely 2. (generally) to execute (literally or figuratively)
+συντέμνω|verb|τομώτερος|1. to contract by cutting 2. (figuratively) do concisely (speedily)
+συντηρέω|verb|τηρέω|1. to keep closely together 2. (by implication) to conserve (from ruin) 3. (mentally) to remember (and obey)
+συντίθημι|verb|τίθημι|1. to place jointly 2. (figuratively) to consent (bargain, stipulate), concur
+συντόμως|adverb|συντέμνω|1. concisely (briefly)
+συντρέχω|verb|τρέχω|1. to rush together (hastily assemble) or headlong (figuratively)
+συντρίβω|verb|τρίβος|1. to crush completely, i.e. to shatter
+σύντριμμα|noun|συντρίβω|1. concussion or utter fracture (properly, concretely), i.e. complete ruin
+σύντροφος|adjective|τροφός|1. a fellow-nursling, i.e. comrade
+συντυγχάνω|verb|τυγχάνω|1. to chance together, i.e. meet with (reach)
+Συντύχη|Name Person|συντυγχάνω|1. an accident 2. Syntyche, a Christian female
+συνυποκρίνομαι|verb|ὑποκρίνομαι|1. to act hypocritically in concert with
+συνυπουργέω|verb|ὑπό|1. to be a co-auxiliary, i.e. assist
+συνωδίνω|verb|ὠδίν|1. to have (parturition) pangs in company (concert, simultaneously) with 2. (figuratively) to sympathize (in expectation of relief from suffering)   
+συνωμοσία|noun|ὀμνύω|1. a swearing together 2. (by implication) a plot
+Συράκουσαι|Name Location|---|1. Syracuse, the capital of Sicily
+Συρία|Name Location|צּוֹר צּוֹר|1. Syria (i.e. Tsyria or Tyre), a region of Asia
+Σύρος|Name/g.|צּוֹר צּוֹר|1. a Syran (i.e. probably Tyrian), a native of Syria
+Συροφοινίκισσα|Name/g.|Φοινίκη|1. a Syro-phoenician woman, i.e. a female native of Phoenicia in Syria
+Σύρτις|noun|σύρω|1. a shoal (from the sand drawn thither by the waves), i.e. the Syrtis Major or great bay on the north coast of Africa
+σύρω|verb|---|1. to trail
+συσπαράσσω|verb|σπαράσσω|1. to rend completely 2. (by analogy) to convulse violently
+σύσσημον|noun|σημαίνω|1. a sign in common, i.e. preconcerted signal
+σύσσωμος|adjective|σῶμα|1. of a joint body 2. (figuratively) a fellow-member of the Christian community
+συστασιαστής|noun|στάσις|1. a fellow-insurgent
+συστατικός|adjective|συνιστάω|1. introductory, i.e. recommendatory
+συσταυρόω|verb|σταυρόω|1. to impale in company with
+συστέλλω|verb|στέλλω|1. to send (draw) together, i.e. enwrap (enshroud a corpse for burial), contract (an interval)
+συστενάζω|verb|στενάζω|1. to moan jointly 2. (figuratively) experience a common calamity
+συστοιχέω|verb|στοιχέω|1. to file together (as soldiers in ranks) 2. (figuratively) to correspond to
+συστρατιώτης|noun|στρατιώτης|1. a co-campaigner 2. (figuratively) an associate in Christian toil
+συστρέφω|verb|στρέφω|1. to twist together, i.e. collect (a bundle, a crowd)
+συστροφή|noun|συστρέφω|1. a twisting together 2. (figuratively) a secret coalition, riotous crowd
+συσχηματίζω|verb|σχῆμα|1. to fashion alike, i.e. conform to the same pattern (figuratively)
+Συχάρ|Name Location|שֵׁכָר|1. Sychar (i.e. Shekar), a place in Israel
+Συχέμ|Name Location|שְׁכֶם|1. Sychem (i.e. Shekem), the name of a Canaanite and of a place in Israel
+σφαγή|noun|σφάζω|1. butchery (of animals for food or sacrifice) 2. (figuratively) butchery of men (destruction)
+σφάγιον|noun|σφαγή|1. a victim (in sacrifice)
+σφάζω|verb|---|1. to butcher (especially an animal for food or in sacrifice) 2. (generally) to slaughter 3. (specially) to maim (violently)
+σφόδρα|adverb|---|1. vehemently, i.e. in a high degree, much
 σφοδρῶς|adverb|---|1. very much
-σφραγίζω|verb|σφραγίς|1. to stamp (with a signet or private mark) for security or preservation 2. (by implication) to keep secret, to attest
-σφραγίς|noun|φράσσω|1. a signet (as fencing in or protecting from misappropriation) 2. (by implication) the stamp impressed (as a mark of privacy, or genuineness)      
-σφυρόν|noun|---|1. the ankle (as globular)
-σχεδόν|adverb|ἔχω|1. nigh, i.e. nearly
+σφραγίζω|verb|σφραγίς|1. to stamp (with a signet or private mark) for security or preservation 2. (by implication) to keep secret, to attest
+σφραγίς|noun|φράσσω|1. a signet (as fencing in or protecting from misappropriation) 2. (by implication) the stamp impressed (as a mark of privacy, or genuineness)      
+σφυρόν|noun|---|1. the ankle (as globular)
+σχεδόν|adverb|ἔχω|1. nigh, i.e. nearly
 σχῆμα|noun|ἔχω|1. a figure (as a mode or circumstance) 2. (by implication) external condition
-σχίζω|verb|---|1. to split or sever
-σχίσμα|noun|σχίζω|1. a split or gap ("schism")
-σχοινίον|noun|---|1. a rushlet, i.e. grass-withe or tie (generally)
-σχολάζω|verb|σχολή|1. to take a holiday, i.e. be at leisure for 2. (by implication) devote oneself wholly to 3. (figuratively) to be vacant (of a house)
-σχολή|noun|ἔχω|1. (properly) loitering (as a withholding of oneself from work) or leisure 2. (by implication) a "school" (as vacation from physical employment)
-σώζω|verb|---|1. to save, i.e. deliver or protect
+σχίζω|verb|---|1. to split or sever
+σχίσμα|noun|σχίζω|1. a split or gap ("schism")
+σχοινίον|noun|---|1. a rushlet, i.e. grass-withe or tie (generally)
+σχολάζω|verb|σχολή|1. to take a holiday, i.e. be at leisure for 2. (by implication) devote oneself wholly to 3. (figuratively) to be vacant (of a house)
+σχολή|noun|ἔχω|1. (properly) loitering (as a withholding of oneself from work) or leisure 2. (by implication) a "school" (as vacation from physical employment)
+σῴζω|verb|---|1. to save, i.e. deliver or protect
 σῶμα|noun|σώζω|1. the body (as a sound whole)
-σωματικός|adjective|σῶμα|1. corporeal or physical
+σωματικός|adjective|σῶμα|1. corporeal or physical
 σωματικῶς|adverb|σωματικός|1. corporeally or physically
-Σώπατρος|Name Person|πατήρ|1. of a safe father 2. Sopatrus, a Christian
-σωρεύω|verb|σορός|1. to pile up
-Σωσθένης|Name Person|σθενόω|1. of safe strength 2. Sosthenes, a Christian
-Σωσίπατρος|Name Person|Σώπατρος|1. Sosipatrus, a Christian
-σωτήρ|noun|σώζω|1. a deliverer, i.e. God or Christ
-σωτηρία|noun|σωτήρ|1. rescue or safety (physically or morally)
-σωτήριον|adjective|σωτηρία|1. defender or (by implication) defence
-σωφρονέω|verb|σώφρων|1. to be of sound mind, i.e. sane, (figuratively) moderate
-σωφρονίζω|verb|σώφρων|1. to make of sound mind, ie. to be self-controlled 2. (figuratively) to discipline or correct
-σωφρονισμός|noun|σωφρονίζω|1. discipline, i.e. self-control
-σωφρόνως|adverb|σώφρων|1. with sound mind, i.e. moderately
-σωφροσύνη|noun|σώφρων|1. soundness of mind 2. (literally) sanity 3. (figuratively) self-control
-σώφρων|adjective|φρήν|1. safe (sound) in mind, i.e. self-controlled (moderate as to opinion or passion)
-Ταβέρναι|Name Location|---|1. huts or wooden-walled buildings 2. Tabernoe
-Ταβιθά|Name Person|---|1. the gazelle 2. Tabitha (i.e. Tabjetha), a Christian female
-τάγμα|noun|τάσσω|1. something orderly in arrangement (a troop) 2. (figuratively) a series or succession
-τακτός|adjective|τάσσω|1. arranged, i.e. appointed or stated
-ταλαιπωρέω|verb|ταλαίπωρος|1. to be wretched, i.e. realize one's own misery
-ταλαιπωρία|noun|ταλαίπωρος|1. wretchedness, i.e. calamity
-ταλαίπωρος|adjective|πεῖρα|1. enduring trial, i.e. miserable
-ταλαντιαίος|adjective|τάλαντον|1. talent-like in weight
-τάλαντον|noun|φέρω|1. a balance (as supporting weights) 2. (by implication) a certain weight (and thence a coin or rather sum of money) or "talent"
-ταλιθά|Aramaic|---|1. the fresh, i.e. young girl 2. talitha (O maiden)
+Σώπατρος|Name Person|πατήρ|1. of a safe father 2. Sopatrus, a Christian
+σωρεύω|verb|σορός|1. to pile up
+Σωσθένης|Name Person|σθενόω|1. of safe strength 2. Sosthenes, a Christian
+Σωσίπατρος|Name Person|Σώπατρος|1. Sosipatrus, a Christian
+σωτήρ|noun|σώζω|1. a deliverer, i.e. God or Christ
+σωτηρία|noun|σωτήρ|1. rescue or safety (physically or morally)
+σωτήριος|adjective|σωτηρία|1. defender or (by implication) defence
+σωφρονέω|verb|σώφρων|1. to be of sound mind, i.e. sane, (figuratively) moderate
+σωφρονίζω|verb|σώφρων|1. to make of sound mind, ie. to be self-controlled 2. (figuratively) to discipline or correct
+σωφρονισμός|noun|σωφρονίζω|1. discipline, i.e. self-control
+σωφρόνως|adverb|σώφρων|1. with sound mind, i.e. moderately
+σωφροσύνη|noun|σώφρων|1. soundness of mind 2. (literally) sanity 3. (figuratively) self-control
+σώφρων|adjective|φρήν|1. safe (sound) in mind, i.e. self-controlled (moderate as to opinion or passion)
+ταβέρναι|Name Location|---|1. huts or wooden-walled buildings 2. Tabernoe
+Ταβηθά|Name Person|---|1. the gazelle 2. Tabitha (i.e. Tabjetha), a Christian female
+τάγμα|noun|τάσσω|1. something orderly in arrangement (a troop) 2. (figuratively) a series or succession
+τακτός|adjective|τάσσω|1. arranged, i.e. appointed or stated
+ταλαιπωρέω|verb|ταλαίπωρος|1. to be wretched, i.e. realize one's own misery
+ταλαιπωρία|noun|ταλαίπωρος|1. wretchedness, i.e. calamity
+ταλαίπωρος|adjective|πεῖρα|1. enduring trial, i.e. miserable
+ταλαντιαῖος|adjective|τάλαντον|1. talent-like in weight
+τάλαντον|noun|φέρω|1. a balance (as supporting weights) 2. (by implication) a certain weight (and thence a coin or rather sum of money) or "talent"
+ταλιθά|Aramaic|---|1. the fresh, i.e. young girl 2. talitha (O maiden)
 ταμεῖον|noun|---|1. a dispensary or magazine, i.e. a chamber on the ground-floor or interior of an Oriental house (generally used for storage or privacy, a spot for retirement)
-τάξις|noun|τάσσω|1. regular arrangement 2. (in time) fixed succession (of rank or character), official dignity
-ταπεινός|adjective|---|1. depressed 2. (figuratively) humiliated (in circumstances or disposition)
-ταπεινοφροσύνη|noun|φρήν|1. humiliation of mind, i.e. modesty
-ταπεινόω|verb|ταπεινός|1. to depress 2. (figuratively) to humiliate (in condition or heart)
-ταπείνωσις|noun|ταπεινόω|1. depression (in rank or feeling)
-ταράσσω|verb|---|1. to stir or agitate (roil water)
-ταραχή|noun|ταράσσω|1. disturbance 2. (of water) roiling 3. (of a mob) sedition
-τάραχος|noun|ταράσσω|1. a disturbance 2. (popular) tumult
-Ταρσεύς|Name/g.|Ταρσός|1. a Tarsean, i.e. native of Tarsus
-Ταρσός|Name Location|---|1. Tarsus, a place in Asia Minor
-ταρταρόω|verb|---|1. to incarcerate in the Abyss "Tatarus" to await final judgement and eternal torment
-τάσσω|verb|---|1. to arrange in an orderly manner 2. (generally) to assign or dispose (to a certain position or lot)
+τάξις|noun|τάσσω|1. regular arrangement 2. (in time) fixed succession (of rank or character), official dignity
+ταπεινός|adjective|---|1. depressed 2. (figuratively) humiliated (in circumstances or disposition)
+ταπεινοφροσύνη|noun|φρήν|1. humiliation of mind, i.e. modesty
+ταπεινόω|verb|ταπεινός|1. to depress 2. (figuratively) to humiliate (in condition or heart)
+ταπείνωσις|noun|ταπεινόω|1. depression (in rank or feeling)
+ταράσσω|verb|---|1. to stir or agitate (roil water)
+ταραχή|noun|ταράσσω|1. disturbance 2. (of water) roiling 3. (of a mob) sedition
+τάραχος|noun|ταράσσω|1. a disturbance 2. (popular) tumult
+Ταρσεύς|Name/g.|Ταρσός|1. a Tarsean, i.e. native of Tarsus
+Ταρσός|Name Location|---|1. Tarsus, a place in Asia Minor
+ταρταρόω|verb|---|1. to incarcerate in the Abyss "Tatarus" to await final judgement and eternal torment
+τάσσω|verb|---|1. to arrange in an orderly manner 2. (generally) to assign or dispose (to a certain position or lot)
 ταῦρος|noun|---|1. a bullock
 ταῦτα|p/d.|οὗτος|1. these things
-ταυτά|p/d.|αὐτός|1. in the same way
-ταύταις|noun|οὗτος|1. (to or with or by, etc.) these
-ταύτη|noun|οὗτος|1. (towards or of) this
-ταφή|noun|θάπτω|1. burial (the act)
-τάφος|noun|θάπτω|1. a grave (the place of interment)
-τάχα|adverb|ταχύς|1. shortly 2. (figuratively) possibly
-ταχέως|adverb|ταχύς|1. briefly 2. (in time) speedily 3. (in manner) rapidly
-ταχινός|adjective|τάχος|1. curt, i.e. impending
-τάχιον|adverb|ταχύς|1. more swiftly 2. (in manner) more rapidly 3. (in time) more speedily
-τάχιστα|adverb|ταχύς|1. most quickly
-τάχος|noun|---|1. a brief space (of time)
-ταχύ|adverb|ταχύς|1. shortly, i.e. without delay, soon 2. (by surprise) suddenly 3. (by implication, of ease) readily
-ταχύς|adjective|---|1. swift, fleet 2. (figuratively) prompt or ready
-τέ|particle|---|1. both or also
-τείχος|noun|---|1. a wall (as formative of a house)
-τεκμήριον|noun|---|1. a token (as defining a fact), i.e. criterion of certainty
-τεκνίον|noun|τέκνον|1. an infant 2. (plural figuratively) darlings (Christian converts)
-τεκνογονέω|verb|γίνομαι|1. to be a child-bearer, i.e. parent (mother)
-τεκνογονία|noun|γίνομαι|1. childbirth (parentage) 2. (by implication) maternity (the performance of maternal duties)
-τέκνον|noun|τιμωρία|1. a child (as produced)
-τεκνοτροφέω|verb|τρέφω|1. to be a childrearer, i.e. fulfil the duties of a female parent
-τέκτων|noun|τίκτω|1. an artisan (as producer of fabrics) 2. (specially), a craftsman in wood
-τέλειος|adjective|τέλος|1. complete
-τελειότης|noun|τέλειος|1. (the state) completeness (mentally or morally)
-τελειόω|verb|τέλειος|1. to complete 2. (literally) to accomplish 3. (figuratively) to make perfect (in character)
-τελείως|adverb|τέλειος|1. completely 2. (of hope) without wavering
-τελείωσις|noun|φυσιόω|1. (the act) completion 2. (of prophecy) verification 3. (of expiation) absolution
-τελειωτής|noun|τελειόω|1. a completer, i.e. consummater
-τελεσφορέω|verb|φέρω|1. to be a bearer to completion (maturity), i.e. to ripen fruit (figuratively)
-τελευτάω|verb|τελέω|1. to finish bodily life, i.e. expire (demise)
-τελευτή|noun|τελευτάω|1. decease
-τελέω|verb|τέλος|1. to end, i.e. complete, execute, conclude, discharge (a debt)
-τέλος|noun|---|1. (properly) the point aimed at as a limit 2. (by implication) the conclusion of an act or state (a  termination) 3. (literally, figuratively or indefinitely) a result 4. (immediate, ultimate or prophetic) a purpose 5. (specially) an tax or levy (as paid)
-τελώνης|noun|ὠνέομαι|1. a tax-farmer, i.e. collector of public revenue
-τελώνιον|noun|τελώνης|1. a tax-gatherer's place of business
-τέρας|noun|---|1. a prodigy or omen
-Τέρτιος|Name Person|---|1. third 2. Tertius, a Christian
-Τέρτυλλος|Name Person|---|1. Tertullus, a Roman
-τεσσαράκοντα|noun|---|1. forty
-τεσσαρακονταετής|adjective|ἔτος|1. of forty years of age
-τέσσαρες|noun|---|1. four
-τεσσαρεσκαιδέκατος|adjective|καί|1. fourteenth
+ταὐτά|p/d.|αὐτός|1. in the same way
+ταύταις|noun|οὗτος|1. (to or with or by, etc.) these
+ταύτῃ|noun|οὗτος|1. (towards or of) this
+ταφή|noun|θάπτω|1. burial (the act)
+τάφος|noun|θάπτω|1. a grave (the place of interment)
+τάχα|adverb|ταχύς|1. shortly 2. (figuratively) possibly
+ταχέως|adverb|ταχύς|1. briefly 2. (in time) speedily 3. (in manner) rapidly
+ταχινός|adjective|τάχος|1. curt, i.e. impending
+τάχιον|adverb|ταχύς|1. more swiftly 2. (in manner) more rapidly 3. (in time) more speedily
+τάχιστα|adverb|ταχύς|1. most quickly
+τάχος|noun|---|1. a brief space (of time)
+ταχύ|adverb|ταχύς|1. shortly, i.e. without delay, soon 2. (by surprise) suddenly 3. (by implication, of ease) readily
+ταχύς|adjective|---|1. swift, fleet 2. (figuratively) prompt or ready
+τέ|particle|---|1. both or also
+τεῖχος|noun|---|1. a wall (as formative of a house)
+τεκμήριον|noun|---|1. a token (as defining a fact), i.e. criterion of certainty
+τεκνίον|noun|τέκνον|1. an infant 2. (plural figuratively) darlings (Christian converts)
+τεκνογονέω|verb|γίνομαι|1. to be a child-bearer, i.e. parent (mother)
+τεκνογονία|noun|γίνομαι|1. childbirth (parentage) 2. (by implication) maternity (the performance of maternal duties)
+τέκνον|noun|τιμωρία|1. a child (as produced)
+τεκνοτροφέω|verb|τρέφω|1. to be a childrearer, i.e. fulfil the duties of a female parent
+τέκτων|noun|τίκτω|1. an artisan (as producer of fabrics) 2. (specially), a craftsman in wood
+τέλειος|adjective|τέλος|1. complete
+τελειότης|noun|τέλειος|1. (the state) completeness (mentally or morally)
+τελειόω|verb|τέλειος|1. to complete 2. (literally) to accomplish 3. (figuratively) to make perfect (in character)
+τελείως|adverb|τέλειος|1. completely 2. (of hope) without wavering
+τελείωσις|noun|φυσιόω|1. (the act) completion 2. (of prophecy) verification 3. (of expiation) absolution
+τελειωτής|noun|τελειόω|1. a completer, i.e. consummater
+τελεσφορέω|verb|φέρω|1. to be a bearer to completion (maturity), i.e. to ripen fruit (figuratively)
+τελευτάω|verb|τελέω|1. to finish bodily life, i.e. expire (demise)
+τελευτή|noun|τελευτάω|1. decease
+τελέω|verb|τέλος|1. to end, i.e. complete, execute, conclude, discharge (a debt)
+τέλος|noun|---|1. (properly) the point aimed at as a limit 2. (by implication) the conclusion of an act or state (a  termination) 3. (literally, figuratively or indefinitely) a result 4. (immediate, ultimate or prophetic) a purpose 5. (specially) an tax or levy (as paid)
+τελώνης|noun|ὠνέομαι|1. a tax-farmer, i.e. collector of public revenue
+τελώνιον|noun|τελώνης|1. a tax-gatherer's place of business
+τέρας|noun|---|1. a prodigy or omen
+Τέρτιος|Name Person|---|1. third 2. Tertius, a Christian
+Τέρτυλλος|Name Person|---|1. Tertullus, a Roman
+τεσσαράκοντα|noun|---|1. forty
+τεσσαρακονταετής|adjective|ἔτος|1. of forty years of age
+τέσσαρες|noun|---|1. four
+τεσσαρεσκαιδέκατος|adjective|καί|1. fourteenth
 τεταρταῖος|adjective|τέσσαρες|1. pertaining to the fourth day
-τέταρτος|adjective|τέσσαρες|1. fourth
-τετράγωνος|adjective|γωνία|1. four-cornered, i.e. square
-τετράδιον|noun|τέσσαρες|1. a quaternion or squad (picket) of four Roman soldiers
-τετρακισχίλιοι|noun|χίλιοι|1. four times a thousand
-τετρακόσιοι|noun|ἑκατόν|1. four hundred
-τετράμηνον|adjective|μήν|1. a four months' space
-τετραπλόος|adjective|πλεῖστος|1. quadruple
-τετράπους|adjective|πούς|1. a quadruped
-τετραρχέω|verb|τετράρχης|1. to be a tetrarch
-τετράρχης|noun|ἄρχω|1. the ruler of a fourth part of a country ("tetrarch")
-τεφρόω|verb|---|1. to incinerate, i.e. consume
-τέχνη|noun|τίκτω|1. art (as productive) 2. (specially), a trade 3. (generally) skill
-τεχνίτης|noun|τέχνη|1. an artisan 2. (figuratively) a founder (Creator)
-τήκω|verb|---|1. to liquefy
+τέταρτος|adjective|τέσσαρες|1. fourth
+τετράγωνος|adjective|γωνία|1. four-cornered, i.e. square
+τετράδιον|noun|τέσσαρες|1. a quaternion or squad (picket) of four Roman soldiers
+τετρακισχίλιοι|noun|χίλιοι|1. four times a thousand
+τετρακόσιοι|noun|ἑκατόν|1. four hundred
+τετράμηνος|adjective|μήν|1. a four months' space
+τετραπλοῦς|adjective|πλεῖστος|1. quadruple
+τετράπους|adjective|πούς|1. a quadruped
+τετραρχέω|verb|τετράρχης|1. to be a tetrarch
+τετράρχης|noun|ἄρχω|1. the ruler of a fourth part of a country ("tetrarch")
+τεφρόω|verb|---|1. to incinerate, i.e. consume
+τέχνη|noun|τίκτω|1. art (as productive) 2. (specially), a trade 3. (generally) skill
+τεχνίτης|noun|τέχνη|1. an artisan 2. (figuratively) a founder (Creator)
+τήκω|verb|---|1. to liquefy
 τηλαυγῶς|adverb|αὐγή|1. in a far-shining manner, i.e. plainly
 τηλικοῦτος|p/d.|ἡλίκος|1. such as this 2. (in magnitude or figurative) so vast
-τηρέω|verb|---|1. to guard (from loss or injury) 2. (properly) by keeping the eye upon, i.e. to note (a prophecy) 3. (... figuratively) to fulfil a command 4. (by implication) to detain in custody 5. (... figuratively) to maintain 6. (by extension) to withhold for personal ends 7. (... figuratively) to keep unmarried
-τήρησις|noun|τηρέω|1. a watching 2. (figuratively) observance 3. (concretely) a prison
-Τιβεριάς|Name Location|Τιβέριος|1. Tiberias, the name of a town and a lake in Israel
-Τιβέριος|Name Person|---|1. probably pertaining to the river Tiberis or Tiber 2. Tiberius, a Roman emperor
-τίθημι|verb|---|1. to place (properly, in a passive or horizontal posture)
-τίκτω|verb|---|1. to produce, to bring forth (from seed, as a mother, a plant, the earth, etc.)
-τίλλω|verb|---|1. to pull off
-Τίμαιος|Name Person|---|1. Timoeus (i.e. Timay), an Israelite
-τιμάω|verb|τίμιος|1. to prize, i.e. fix a valuation upon 2. (by implication) to revere
-τιμή|noun|τίνω|1. a value, i.e. money paid 2. (concretely and collectively) valuables 3. (by analogy) esteem (especially of the highest degree), or the dignity itself  
-τίμιος|adjective|τιμή|1. valuable 2. (objectively) costly 3. (subjectively) honored, esteemed 4. (figuratively) beloved
-τιμιότης|noun|τίμιος|1. expensiveness 2. (by implication) magnificence
-Τιμόθεος|Name Person|θεός|1. dear to God 2. Timotheus, a Christian
-Τίμων|Name Person|τιμή|1. valuable 2. Timon, a Christian
-τιμωρέω|verb|τιμή|1. (properly) to protect one's honor, i.e. to avenge (inflict a penalty)
-τιμωρία|noun|τιμωρέω|1. vindication 2. (by implication) a penalty
-τίνω|verb|---|1. to pay a price, i.e. as a penalty
-τίς|p/i.|---|1. some or any person or object
-τίς|p/i.|τίς|1. an interrogative pronoun, who, which or what (in direct or indirect questions)
-τίτλος|noun|---|1. a titulus or "title" (placard)
-Τίτος|Name Person|---|1. Titus, a Christian
-τοί|particle|ὁ|1. in sooth
+τηρέω|verb|---|1. to guard (from loss or injury) 2. (properly) by keeping the eye upon, i.e. to note (a prophecy) 3. (... figuratively) to fulfil a command 4. (by implication) to detain in custody 5. (... figuratively) to maintain 6. (by extension) to withhold for personal ends 7. (... figuratively) to keep unmarried
+τήρησις|noun|τηρέω|1. a watching 2. (figuratively) observance 3. (concretely) a prison
+Τιβεριάς|Name Location|Τιβέριος|1. Tiberias, the name of a town and a lake in Israel
+Τιβέριος|Name Person|---|1. probably pertaining to the river Tiberis or Tiber 2. Tiberius, a Roman emperor
+τίθημι|verb|---|1. to place (properly, in a passive or horizontal posture)
+τίκτω|verb|---|1. to produce, to bring forth (from seed, as a mother, a plant, the earth, etc.)
+τίλλω|verb|---|1. to pull off
+Τιμαῖος|Name Person|---|1. Timoeus (i.e. Timay), an Israelite
+τιμάω|verb|τίμιος|1. to prize, i.e. fix a valuation upon 2. (by implication) to revere
+τιμή|noun|τίνω|1. a value, i.e. money paid 2. (concretely and collectively) valuables 3. (by analogy) esteem (especially of the highest degree), or the dignity itself  
+τίμιος|adjective|τιμή|1. valuable 2. (objectively) costly 3. (subjectively) honored, esteemed 4. (figuratively) beloved
+τιμιότης|noun|τίμιος|1. expensiveness 2. (by implication) magnificence
+Τιμόθεος|Name Person|θεός|1. dear to God 2. Timotheus, a Christian
+Τίμων|Name Person|τιμή|1. valuable 2. Timon, a Christian
+τιμωρέω|verb|τιμή|1. (properly) to protect one's honor, i.e. to avenge (inflict a penalty)
+τιμωρία|noun|τιμωρέω|1. vindication 2. (by implication) a penalty
+τίνω|verb|---|1. to pay a price, i.e. as a penalty
+τις|p/i.|---|1. some or any person or object
+τίς|p/i.|τίς|1. an interrogative pronoun, who, which or what (in direct or indirect questions)
+τίτλος|noun|---|1. a titulus or "title" (placard)
+Τίτος|Name Person|---|1. Titus, a Christian
+τοί|particle|ὁ|1. in sooth
 τοιγαροῦν|particle|γάρ|1. truly for then, i.e. consequently
-τοίνυν|particle|νῦν|1. truly now, i.e. accordingly
-τοιόσδε|p/d.|δέ|1. such-like then, i.e. so great
+τοίνυν|particle|νῦν|1. truly now, i.e. accordingly
+τοιόσδε|p/d.|δέ|1. such-like then, i.e. so great
 τοιοῦτος|p/d.|οὗτος|1. truly this, i.e. of this sort (to denote character or individuality)
 τοῖχος|noun|τείχος|1. a wall
-τόκος|noun|τίκτω|1. interest on money loaned (as a produce)
-τολμάω|verb|---|1. to venture 2. (by implication) to be courageous
-τολμηρότερον|adverb|τολμάω|1. more daringly, i.e. with greater confidence than otherwise
-τολμητής|noun|τολμάω|1. a daring (audacious) man
-τομώτερος|adjective|κόπτω|1. more keen
-τόξον|noun|τίκτω|1. a bow (apparently as the simplest fabric)
-τοπάζιον|noun|---|1. a gem, probably the chrysolite
-τόπος|noun|---|1. a spot , i.e. location (as a position, home, tract, etc.) 2. (figuratively) condition, opportunity 3. (specially) a scabbard
+τόκος|noun|τίκτω|1. interest on money loaned (as a produce)
+τολμάω|verb|---|1. to venture 2. (by implication) to be courageous
+τολμηρότερον|adverb|τολμάω|1. more daringly, i.e. with greater confidence than otherwise
+τολμητής|noun|τολμάω|1. a daring (audacious) man
+τομώτερος|adjective|κόπτω|1. more keen
+τόξον|noun|τίκτω|1. a bow (apparently as the simplest fabric)
+τοπάζιον|noun|---|1. a gem, probably the chrysolite
+τόπος|noun|---|1. a spot , i.e. location (as a position, home, tract, etc.) 2. (figuratively) condition, opportunity 3. (specially) a scabbard
 τοσοῦτος|p/d.|ὅς|1. so vast as this, i.e. such (in quantity, amount, number of space)
-τότε|adverb|ὁ|1. the when, i.e. at the time that (of the past or future, also in consecution)
+τότε|adverb|ὁ|1. the when, i.e. at the time that (of the past or future, also in consecution)
 τοῦ|noun|τούτου|1. of this person
-τοὐναντίον|adverb|ἐναντίον|1. on the contrary
+τοὐναντίον|adverb|ἐναντίον|1. on the contrary
 τοὔνομα|adverb|ὄνομα|1. the name (is)
-τουτέστι|verb|τοῦτο|1. that is
+τουτέστι|verb|τοῦτο|1. that is
 τοῦτο|p/d.|οὗτος|1. that thing
-τούτοις|p/d.|οὗτος|1. to (for, in, with or by) these (persons or things)
+τούτοις|p/d.|οὗτος|1. to (for, in, with or by) these (persons or things)
 τοῦτον|p/d.|οὗτος|1. this (person, as objective of verb or preposition)
-τούτου|p/d.|οὗτος|1. of (from or concerning) this (person or thing)
-τούτους|p/d.|οὗτος|1. these (persons, as objective of verb or preposition)
-τούτῳ|p/d.|οὗτος|1. to (in, with or by) this (person or thing)
-τούτων|p/d.|οὗτος|1. of (from or concerning) these (persons or things)
-τράγος|noun|τρώγω|1. a he-goat (as a gnawer)
-τράπεζα|noun|πεζῇ|1. a table or stool (as being four-legged), usually for food 2. (figuratively) a meal 3. (also) a counter for money (i.e. a broker's office for loans at interest)
-τραπεζίτης|noun|τράπεζα|1. a money-broker or banker
-τραύμα|noun|---|1. a wound
-τραυματίζω|verb|τραύμα|1. to inflict a wound
-τραχηλίζω|verb|τράχηλος|1. to seize by the throat or neck, i.e. to expose the gullet of a victim for killing (generally, to lay bare)
-τράχηλος|noun|τρέχω|1. the throat (neck) 2. (figuratively) life
-τραχύς|adjective|ῥήγνυμι|1. uneven, rocky (reefy)
+τούτου|p/d.|οὗτος|1. of (from or concerning) this (person or thing)
+τούτους|p/d.|οὗτος|1. these (persons, as objective of verb or preposition)
+τούτῳ|p/d.|οὗτος|1. to (in, with or by) this (person or thing)
+τούτων|p/d.|οὗτος|1. of (from or concerning) these (persons or things)
+τράγος|noun|τρώγω|1. a he-goat (as a gnawer)
+τράπεζα|noun|πεζῇ|1. a table or stool (as being four-legged), usually for food 2. (figuratively) a meal 3. (also) a counter for money (i.e. a broker's office for loans at interest)
+τραπεζίτης|noun|τράπεζα|1. a money-broker or banker
+τραῦμα|noun|---|1. a wound
+τραυματίζω|verb|τραύμα|1. to inflict a wound
+τραχηλίζω|verb|τράχηλος|1. to seize by the throat or neck, i.e. to expose the gullet of a victim for killing (generally, to lay bare)
+τράχηλος|noun|τρέχω|1. the throat (neck) 2. (figuratively) life
+τραχύς|adjective|ῥήγνυμι|1. uneven, rocky (reefy)
 Τραχωνῖτις|Name Location|τραχύς|1. rough district 2. Trachonitis, a region of Syria
 τρεῖς|noun|---|1. three
-τρέμω|verb|---|1. to "tremble" or fear
-τρέφω|verb|τροπή|1. (properly) to stiffen, i.e. fatten 2. (by implication), to cherish (with food, etc.), pamper, rear
-τρέχω|verb|---|1. to run
-τριάκοντα|noun|---|1. thirty
-τριακόσιοι|noun|ἑκατόν|1. three hundred
-τρίβολος|noun|βέλος|1. (properly) a crow-foot (three-pronged obstruction in war) 2. (by analogy) a thorny plant (caltrop)
-τρίβος|noun|---|1. a rut or worn track
-τριετία|noun|ἔτος|1. a three years' period (triennium)
-τρίζω|verb|---|1. to creak (squeak) 2. (by analogy) to grate the teeth (in frenzy)
-τρίμηνον|adjective|μήν|1. a three months' space
-τρίς|adverb|τρεῖς|1. three times
-τρίστεγον|noun|στέγη|1. a third roof (story)
-τρισχίλιοι|noun|χίλιοι|1. three times a thousand
-τρίτος|adjective|τρεῖς|1. third 2. (neuter, as noun) a third part 3. (as adverb) a (or the) third time, thirdly
-τρίχινος|adjective|θρίξ|1. hairy, i.e. made of hair (mohair)
-τρόμος|noun|τρέμω|1. a "trembling", i.e. quaking with fear
-τροπή|noun|---|1. a turn, a revolution 2. (figuratively) variation
-τρόπος|noun|---|1. a turn 2. (by implication) mode or style 3. (especially with preposition or relative prefix as adverb) like 4. (figuratively) deportment or character
-τροποφορέω|verb|φορέω|1. to endure one's habits
-τροφή|noun|τρέφω|1. nourishment 2. (by implication) rations (wages)
-Τρόφιμος|Name Person|τροφή|1. nutritious 2. Trophimus, a Christian
-τροφός|noun|τρέφω|1. a nourisher, i.e. nurse
-τροχιά|noun|τροχός|1. a track (as a wheel-rut) 2. (figuratively) a course of conduct
-τροχός|noun|τρέχω|1. a wheel (as a runner) 2. (figuratively) a circuit of physical effects
-τρύβλιον|noun|---|1. a bowl
-τρυγάω|verb|---|1. to collect the vintage
-τρυγών|noun|---|1. a turtle-dove (as cooing)
-τρυμαλιά|noun|---|1. an orifice, i.e. needle's eye
-τρύπημα|noun|τρυμαλιά|1. an aperture, i.e. a needle's eye
-Τρύφαινα|Name Person|τρυφή|1. luxurious 2. Tryphoena, a Christian woman
-τρυφάω|verb|τρυφή|1. to indulge in luxury
-τρυφή|noun|---|1. effeminacy, i.e. luxury or debauchery
+τρέμω|verb|---|1. to "tremble" or fear
+τρέφω|verb|τροπή|1. (properly) to stiffen, i.e. fatten 2. (by implication), to cherish (with food, etc.), pamper, rear
+τρέχω|verb|---|1. to run
+τριάκοντα|noun|---|1. thirty
+τριακόσιοι|noun|ἑκατόν|1. three hundred
+τρίβολος|noun|βέλος|1. (properly) a crow-foot (three-pronged obstruction in war) 2. (by analogy) a thorny plant (caltrop)
+τρίβος|noun|---|1. a rut or worn track
+τριετία|noun|ἔτος|1. a three years' period (triennium)
+τρίζω|verb|---|1. to creak (squeak) 2. (by analogy) to grate the teeth (in frenzy)
+τρίμηνος|adjective|μήν|1. a three months' space
+τρίς|adverb|τρεῖς|1. three times
+τρίστεγος|noun|στέγη|1. a third roof (story)
+τρισχίλιοι|noun|χίλιοι|1. three times a thousand
+τρίτος|adjective|τρεῖς|1. third 2. (neuter, as noun) a third part 3. (as adverb) a (or the) third time, thirdly
+τρίχινος|adjective|θρίξ|1. hairy, i.e. made of hair (mohair)
+τρόμος|noun|τρέμω|1. a "trembling", i.e. quaking with fear
+τροπή|noun|---|1. a turn, a revolution 2. (figuratively) variation
+τρόπος|noun|---|1. a turn 2. (by implication) mode or style 3. (especially with preposition or relative prefix as adverb) like 4. (figuratively) deportment or character
+τροποφορέω|verb|φορέω|1. to endure one's habits
+τροφή|noun|τρέφω|1. nourishment 2. (by implication) rations (wages)
+Τρόφιμος|Name Person|τροφή|1. nutritious 2. Trophimus, a Christian
+τροφός|noun|τρέφω|1. a nourisher, i.e. nurse
+τροχιά|noun|τροχός|1. a track (as a wheel-rut) 2. (figuratively) a course of conduct
+τροχός|noun|τρέχω|1. a wheel (as a runner) 2. (figuratively) a circuit of physical effects
+τρύβλιον|noun|---|1. a bowl
+τρυγάω|verb|---|1. to collect the vintage
+τρυγών|noun|---|1. a turtle-dove (as cooing)
+τρυμαλιά|noun|---|1. an orifice, i.e. needle's eye
+τρύπημα|noun|τρυμαλιά|1. an aperture, i.e. a needle's eye
+Τρύφαινα|Name Person|τρυφή|1. luxurious 2. Tryphoena, a Christian woman
+τρυφάω|verb|τρυφή|1. to indulge in luxury
+τρυφή|noun|---|1. effeminacy, i.e. luxury or debauchery
 Τρυφῶσα|Name Person|τρυφή|1. luxuriating 2. Tryphosa, a Christian female
-Τρωάς|Name Location|---|1. the Troad (or plain of Troy), i.e. Troas, a place in Asia Minor
-Τρωγύλλιον|Name Location|---|1. Trogyllium, a place in Asia Minor
-τρώγω|verb|τρίζω|1. to gnaw or chew 2. (generally) to eat
-τυγχάνω|verb|---|1. (properly) to affect 2. (specially) to hit or light upon (as a mark to be reached) 3. (transitively) to attain or secure an object or end 4. (intransitively) to happen (as if meeting with)
-τυμπανίζω|verb|τύπτω|1. to stretch on an instrument of torture resembling a drum, and thus beat to death
-τύπος|noun|τύπτω|1. a die (as struck) 2. (by implication) a stamp or scar 3. (by analogy) a shape, i.e. a statue 4. (figuratively) style or resemblance 5. (specially) a sampler ("type"), i.e. a model (for imitation) or instance (for warning)
-τύπτω|verb|---|1. to "thump" by repeated blows, i.e. cudgel or pummel (properly, with a stick or bastinado) 2. (by implication) to punish 3. (figuratively) to offend (the conscience)
-Τύραννος|Name Person|κύριος|1. a "tyrant" 2. Tyrannus, an Ephesian
-τυρβάζω|verb|---|1. to make "turbid", i.e. disturb
-Τύριος|Name/g.|Τύρος|1. a Tyrian, i.e. inhabitant of Tyrus
-Τύρος|Name Location|צּוֹר צּוֹר|1. Tyrus (i.e. Tsor), a place in Lebanon
-τυφλός|adjective|τυφόω|1. opaque (as if smoky) 2. (by analogy) blind (physically or mentally)
-τυφλόω|verb|τυφλός|1. to make blind 2. (figuratively) to obscure
-τυφόω|verb|τύφω|1. to envelop with smoke 2. (figuratively) to inflate with self-conceit
-τύφω|verb|---|1. to make a smoke, i.e. slowly consume without flame
-τυφωνικός|adjective|τύφω|1. stormy (as if smoky)
-Τυχικός|Name Person|τυγχάνω|1. fortuitous, i.e. fortunate 2. Tychicus, a Christian
-ὑακίνθινος|adjective|ὑάκινθος|1. "hyacinthine" or "jacinthine", i.e. deep blue
-ὑάκινθος|noun|---|1. the "hyacinth" or "jacinth", i.e. some gem of a deep blue color, probably the zirkon
-ὑάλινος|adjective|ὕαλος|1. glassy, i.e. transparent
+Τρῳάς|Name Location|---|1. the Troad (or plain of Troy), i.e. Troas, a place in Asia Minor
+Τρωγύλλιον|Name Location|---|1. Trogyllium, a place in Asia Minor
+τρώγω|verb|τρίζω|1. to gnaw or chew 2. (generally) to eat
+τυγχάνω|verb|---|1. (properly) to affect 2. (specially) to hit or light upon (as a mark to be reached) 3. (transitively) to attain or secure an object or end 4. (intransitively) to happen (as if meeting with)
+τυμπανίζω|verb|τύπτω|1. to stretch on an instrument of torture resembling a drum, and thus beat to death
+τύπος|noun|τύπτω|1. a die (as struck) 2. (by implication) a stamp or scar 3. (by analogy) a shape, i.e. a statue 4. (figuratively) style or resemblance 5. (specially) a sampler ("type"), i.e. a model (for imitation) or instance (for warning)
+τύπτω|verb|---|1. to "thump" by repeated blows, i.e. cudgel or pummel (properly, with a stick or bastinado) 2. (by implication) to punish 3. (figuratively) to offend (the conscience)
+Τύραννος|Name Person|κύριος|1. a "tyrant" 2. Tyrannus, an Ephesian
+τυρβάζω|verb|---|1. to make "turbid", i.e. disturb
+Τύριος|Name/g.|Τύρος|1. a Tyrian, i.e. inhabitant of Tyrus
+Τύρος|Name Location|צּוֹר צּוֹר|1. Tyrus (i.e. Tsor), a place in Lebanon
+τυφλός|adjective|τυφόω|1. opaque (as if smoky) 2. (by analogy) blind (physically or mentally)
+τυφλόω|verb|τυφλός|1. to make blind 2. (figuratively) to obscure
+τυφόω|verb|τύφω|1. to envelop with smoke 2. (figuratively) to inflate with self-conceit
+τύφω|verb|---|1. to make a smoke, i.e. slowly consume without flame
+τυφωνικός|adjective|τύφω|1. stormy (as if smoky)
+Τυχικός|Name Person|τυγχάνω|1. fortuitous, i.e. fortunate 2. Tychicus, a Christian
+ὑακίνθινος|adjective|ὑάκινθος|1. "hyacinthine" or "jacinthine", i.e. deep blue
+ὑάκινθος|noun|---|1. the "hyacinth" or "jacinth", i.e. some gem of a deep blue color, probably the zirkon
+ὑάλινος|adjective|ὕαλος|1. glassy, i.e. transparent
 ὕαλος|noun|---|1. glass
-ὑβρίζω|verb|ὕβρις|1. to exercise violence, i.e. abuse
+ὑβρίζω|verb|ὕβρις|1. to exercise violence, i.e. abuse
 ὕβρις|noun|ὑπέρ|1. insolence (as over-bearing), i.e. insult, injury
-ὑβριστής|noun|ὑβρίζω|1. an insulter, i.e. maltreater
-ὑγιαίνω|verb|ὑγιής|1. to have sound health, i.e. be well (in body) 2. (figuratively) to be uncorrupt (true in doctrine)
-ὑγιής|adjective|αὐξάνω|1. healthy, i.e. well (in body) 2. (figuratively) true (in doctrine)
-ὑγρός|adjective|ὑετός|1. wet (as if with rain) 2. (by implication) sappy (fresh)
-ὑδριά|noun|ὕδωρ|1. a water-jar, i.e. receptacle for family supply
-ὑδροποτέω|verb|πίνω|1. to be a water-drinker, i.e. to abstain from vinous beverages
-ὑδρωπικός|adjective|ὀπτάνομαι|1. to be "dropsical"
+ὑβριστής|noun|ὑβρίζω|1. an insulter, i.e. maltreater
+ὑγιαίνω|verb|ὑγιής|1. to have sound health, i.e. be well (in body) 2. (figuratively) to be uncorrupt (true in doctrine)
+ὑγιής|adjective|αὐξάνω|1. healthy, i.e. well (in body) 2. (figuratively) true (in doctrine)
+ὑγρός|adjective|ὑετός|1. wet (as if with rain) 2. (by implication) sappy (fresh)
+ὑδρία|noun|ὕδωρ|1. a water-jar, i.e. receptacle for family supply
+ὑδροποτέω|verb|πίνω|1. to be a water-drinker, i.e. to abstain from vinous beverages
+ὑδρωπικός|adjective|ὀπτάνομαι|1. to be "dropsical"
 ὕδωρ|noun|ὑετός|1. water (as if rainy)
-ὑετός|noun|---|1. rain, especially a shower
-υἱοθεσία|noun|τίθημι|1. the placing as a son 2. (concretely) adoption 3. (figuratively) Christian sonship in respect to God
-υἱός|noun|---|1. a "son" (sometimes of animals)
-ὕλή|noun|---|1. a forest 2. (by implication) fuel
+ὑετός|noun|---|1. rain, especially a shower
+υἱοθεσία|noun|τίθημι|1. the placing as a son 2. (concretely) adoption 3. (figuratively) Christian sonship in respect to God
+υἱός|noun|---|1. a "son" (sometimes of animals)
+ὕλη|noun|---|1. a forest 2. (by implication) fuel
 ὑμᾶς|p/p.|ὑμεῖς|1. you (as the objective of a verb or preposition)
 ὑμεῖς|p/p.|σύ|1. you (as subjective of verb)
-Ὑμεναῖος|Name Person|---|1. "hymeneal" 2. of weddings, a wedding song 3. Hymeneus, an opponent of Christianity
-ὑμέτερος|p/s.|ὑμεῖς|1. yours, i.e. pertaining to you
+Ὑμέναιος|Name Person|---|1. "hymeneal" 2. of weddings, a wedding song 3. Hymeneus, an opponent of Christianity
+ὑμέτερος|p/s.|ὑμεῖς|1. yours, i.e. pertaining to you
 ὑμῖν|p/p.|ὑμεῖς|1. to (with or by) you
-ὑμνέω|verb|ὕμνος|1. to hymn, i.e. sing a religious ode 2. (by implication) to celebrate (God) in song
+ὑμνέω|verb|ὕμνος|1. to hymn, i.e. sing a religious ode 2. (by implication) to celebrate (God) in song
 ὕμνος|noun|---|1. a "hymn" or religious ode (one of the Psalms)
 ὑμῶν|p/p.|ὑμεῖς|1. of (from or concerning) you
-ὑπάγω|verb|ἄγω|1. to lead (oneself) under, i.e. withdraw or retire (as if sinking out of sight)
-ὑπακοή|noun|ὑπακούω|1. attentive hearkening 2. (by implication) compliance or submission
-ὑπακούω|verb|ἀκούω|1. to hear under (as a subordinate), i.e. to listen attentively 2. (by implication) to heed or conform to a command or authority
+ὑπάγω|verb|ἄγω|1. to lead (oneself) under, i.e. withdraw or retire (as if sinking out of sight)
+ὑπακοή|noun|ὑπακούω|1. attentive hearkening 2. (by implication) compliance or submission
+ὑπακούω|verb|ἀκούω|1. to hear under (as a subordinate), i.e. to listen attentively 2. (by implication) to heed or conform to a command or authority
 ὕπανδρος|adjective|ἀνήρ|1. in subjection under a man, i.e. a married woman
-ὑπαντάω|verb|ἀντί|1. to go opposite (meet) under (quietly), i.e. to encounter, fall in with
-ὑπάντησις|noun|ὑπαντάω|1. an encounter or concurrence
+ὑπαντάω|verb|ἀντί|1. to go opposite (meet) under (quietly), i.e. to encounter, fall in with
+ὑπάντησις|noun|ὑπαντάω|1. an encounter or concurrence
 ὕπαρξις|noun|ὑπάρχω|1. existency or proprietorship 2. (concretely) property, wealth
-ὑπάρχοντα|verb|ὑπάρχω|1. things extant or in hand, i.e. property or possessions
-ὑπάρχω|verb|ἄρχομαι|1. to begin under (quietly), i.e. come into existence (be present or at hand) 2. (expletively) to exist (as copula or subordinate to an adjective, participle, adverb or preposition, or as an auxiliary to a principal (verb))
-ὑπείκω|verb|ὑπό|1. to surrender
-ὑπεναντίος|adjective|ἐναντίος|1. under (covertly) contrary to, i.e. opposed or (as noun) an opponent
-ὑπέρ|preposition|---|1. "over" 2. (with the genitive case) of place, above, beyond, across, or causal, for the sake of, instead, regarding 3. (with the accusative case) superior to, more than
-ὑπεραίρομαι|verb|αἴρω|1. to raise oneself over 2. (figuratively) to become haughty
-ὑπέρακμος|adjective|ἀκμήν|1. beyond the "acme", i.e. figuratively (of a daughter) past the bloom (prime) of youth
-ὑπεράνω|adverb|ἄνω|1. above upward, i.e. greatly higher (in place or rank)
-ὑπεραυξάνω|verb|αὐξάνω|1. to increase above ordinary degree
-ὑπερβαίνω|verb|βάσις|1. to transcend 2. (figuratively) to overreach
-ὑπερβαλλόντως|adverb|ὑπερβάλλω|1. excessively
-ὑπερβάλλω|verb|βάλλω|1. to throw beyod the usual mark 2. (figuratively) to surpass (only active participle supereminent)
-ὑπερβολή|noun|ὑπερβάλλω|1. a throwing beyond others 2. (figuratively) supereminence
-ὑπερείδω|verb|εἴδω|1. to overlook, i.e. not punish
-ὑπερέκεινα|adverb|ἐκεῖνος|1. above those parts, i.e. still farther
-ὑπερεκτείνω|verb|ἐκτείνω|1. to extend inordinately
-ὑπερεκχύνω|verb|ἐκχέω|1. to pour out over 2. (passively) to overflow
-ὑπερεντυγχάνω|verb|ἐντυγχάνω|1. to intercede in behalf of
-ὑπερέχω|verb|ἔχω|1. to hold oneself above 2. (figuratively) to excel 3. (participle as adjective, or neuter as noun) superior, superiority
-ὑπερηφανία|noun|ὑπερήφανος|1. haughtiness
-ὑπερήφανος|adjective|φαίνω|1. appearing above others (conspicuous) 2. (figuratively) haughty
-ὑπερνικάω|verb|νικάω|1. to vanquish beyond, i.e. gain a decisive victory
-ὑπέρογκος|adjective|ὄγκος|1. bulging over 2. (figuratively) insolent
-ὑπεροχή|noun|ὑπερέχω|1. prominence 2. (figuratively) superiority (in rank or character)
-ὑπερπερισσεύω|verb|περισσεύω|1. to super-abound
+ὑπάρχοντα|verb|ὑπάρχω|1. things extant or in hand, i.e. property or possessions
+ὑπάρχω|verb|ἄρχομαι|1. to begin under (quietly), i.e. come into existence (be present or at hand) 2. (expletively) to exist (as copula or subordinate to an adjective, participle, adverb or preposition, or as an auxiliary to a principal (verb))
+ὑπείκω|verb|ὑπό|1. to surrender
+ὑπεναντίος|adjective|ἐναντίος|1. under (covertly) contrary to, i.e. opposed or (as noun) an opponent
+ὑπέρ|preposition|---|1. "over" 2. (with the genitive case) of place, above, beyond, across, or causal, for the sake of, instead, regarding 3. (with the accusative case) superior to, more than
+ὑπεραίρω|verb|αἴρω|1. to raise oneself over 2. (figuratively) to become haughty
+ὑπέρακμος|adjective|ἀκμήν|1. beyond the "acme", i.e. figuratively (of a daughter) past the bloom (prime) of youth
+ὑπεράνω|adverb|ἄνω|1. above upward, i.e. greatly higher (in place or rank)
+ὑπεραυξάνω|verb|αὐξάνω|1. to increase above ordinary degree
+ὑπερβαίνω|verb|βάσις|1. to transcend 2. (figuratively) to overreach
+ὑπερβαλλόντως|adverb|ὑπερβάλλω|1. excessively
+ὑπερβάλλω|verb|βάλλω|1. to throw beyod the usual mark 2. (figuratively) to surpass (only active participle supereminent)
+ὑπερβολή|noun|ὑπερβάλλω|1. a throwing beyond others 2. (figuratively) supereminence
+ὑπερεῖδον|verb|εἴδω|1. to overlook, i.e. not punish
+ὑπερέκεινα|adverb|ἐκεῖνος|1. above those parts, i.e. still farther
+ὑπερεκτείνω|verb|ἐκτείνω|1. to extend inordinately
+ὑπερεκχύνω|verb|ἐκχέω|1. to pour out over 2. (passively) to overflow
+ὑπερεντυγχάνω|verb|ἐντυγχάνω|1. to intercede in behalf of
+ὑπερέχω|verb|ἔχω|1. to hold oneself above 2. (figuratively) to excel 3. (participle as adjective, or neuter as noun) superior, superiority
+ὑπερηφανία|noun|ὑπερήφανος|1. haughtiness
+ὑπερήφανος|adjective|φαίνω|1. appearing above others (conspicuous) 2. (figuratively) haughty
+ὑπερνικάω|verb|νικάω|1. to vanquish beyond, i.e. gain a decisive victory
+ὑπέρογκος|adjective|ὄγκος|1. bulging over 2. (figuratively) insolent
+ὑπεροχή|noun|ὑπερέχω|1. prominence 2. (figuratively) superiority (in rank or character)
+ὑπερπερισσεύω|verb|περισσεύω|1. to super-abound
 ὑπερπερισσῶς|adverb|περισσῶς|1. superabundantly, i.e. exceedingly
-ὑπερπλεονάζω|verb|πλεονάζω|1. to superabound
-ὑπερυψόω|verb|ὑψόω|1. to elevate above others, i.e. raise to the highest position
-ὑπερφρονέω|verb|φρονέω|1. to esteem oneself overmuch, i.e. be vain or arrogant
+ὑπερπλεονάζω|verb|πλεονάζω|1. to superabound
+ὑπερυψόω|verb|ὑψόω|1. to elevate above others, i.e. raise to the highest position
+ὑπερφρονέω|verb|φρονέω|1. to esteem oneself overmuch, i.e. be vain or arrogant
 ὑπερῷον|noun|ὑπέρ|1. a higher part of the house, i.e. apartment in the third story
-ὑπέχω|verb|ἔχω|1. to hold oneself under, i.e. endure with patience
-ὑπήκοος|adjective|ὑπακούω|1. attentively listening 2. (by implication) submissive
-ὑπηρετέω|verb|ὑπηρέτης|1. to assist or help 2. (generally) to be a subordinate 3. (by implication) subserve, (by extension) to tend unto needs
-ὑπηρέτης|noun|ὑπό|1. an assistant or helper 2. (literally) an under-oarsman 3. (generally) a subordinate
+ὑπέχω|verb|ἔχω|1. to hold oneself under, i.e. endure with patience
+ὑπήκοος|adjective|ὑπακούω|1. attentively listening 2. (by implication) submissive
+ὑπηρετέω|verb|ὑπηρέτης|1. to assist or help 2. (generally) to be a subordinate 3. (by implication) subserve, (by extension) to tend unto needs
+ὑπηρέτης|noun|ὑπό|1. an assistant or helper 2. (literally) an under-oarsman 3. (generally) a subordinate
 ὕπνος|noun|---|1. sleep 2. (figuratively) spiritual torpor
-ὑπό|preposition|---|1. under 2. (with the genitive case) of place (beneath), or with verbs (the agency or means, through) 3. (with the accusative case) of place (whither (underneath) or where (below) or time (when (at))  In the comparative, it retains the same general applications, especially of inferior position or condition, and specially, covertly or moderately.
-ὑποβάλλω|verb|βάλλω|1. to throw in stealthily, i.e. introduce by collusion
-ὑπογραμμός|noun|γράφω|1. an underwriting, i.e. copy for imitation (figuratively)
-ὑπόδειγμα|noun|ὑποδείκνυμι|1. an exhibit for imitation or warning 2. (figuratively) an example or pattern
-ὑποδείκνυμι|verb|δεικνύω|1. to exhibit under the eyes 2. (figuratively) to exemplify (instruct, admonish)
-ὑποδέχομαι|verb|δέχομαι|1. to admit under one's roof, i.e. entertain hospitably
-ὑποδέω|verb|δέω|1. to bind under one's feet, i.e. put on shoes or sandals
-ὑπόδημα|noun|ὑποδέω|1. something bound under the feet, i.e. a shoe or sandal
-ὑπόδικος|adjective|δίκη|1. under sentence 2. (by implication) condemned
-ὑποζύγιον|noun|ζυγός|1. an animal under the yoke (draught-beast) 2. (specially), a donkey
-ὑποζώννυμι|verb|ζώννυμι|1. to gird under, i.e. frap (a vessel with cables across the keel, sides and deck)
-ὑποκάτω|adverb|κάτω|1. down under, i.e. beneath
-ὑποκρίνομαι|verb|κρίνω|1. to decide (speak or act) under a false part 2. (figuratively) dissemble (pretend)
-ὑπόκρισις|noun|ὑποκρίνομαι|1. acting under a feigned part 2. (figuratively) deceit ("hypocrisy")
-ὑποκριτής|noun|ὑποκρίνομαι|1. an actor under an assumed character (stage-player) 2. (figuratively) a dissembler ("hypocrite"
-ὑπολαμβάνω|verb|λαμβάνω|1. to take from below, i.e. carry upward 2. (figuratively) to take up, i.e. continue a discourse or topic 3. (mentally) to assume (presume)     
-ὑπολείπω|verb|λείπω|1. to leave under (behind) 2. (passively) to remain (survive)
-ὑπολήνιον|noun|ληνός|1. vessel or receptacle under the press, i.e. lower wine-vat
-ὑπολιμπάνω|verb|ὑπολείπω|1. to leave behind, i.e. bequeath
-ὑπομένω|verb|μένω|1. to stay under (behind), i.e. remain 2. (figuratively) to undergo, i.e. bear (trials), have fortitude, persevere
-ὑπομιμνήσκω|verb|μιμνήσκω|1. to remind quietly, i.e. suggest to the (middle voice, one's own) memory
-ὑπόμνησις|noun|ὑπομιμνήσκω|1. a reminding or (reflexively) recollection
-ὑπομονή|noun|ὑπομένω|1. cheerful (or hopeful) endurance, constancy
-ὑπονοέω|verb|νοιέω|1. to think under (privately), i.e. to surmise or conjecture
-ὑπόνοια|noun|ὑπονοέω|1. suspicion
-ὑποπλέω|verb|πλέω|1. to sail under the lee of
-ὑποπνέω|verb|πνέω|1. to breathe gently, i.e. breeze
-ὑποπόδιον|noun|πούς|1. something under the feet, i.e. a foot-rest (figuratively)
-ὑπόστασις|noun|ἵστημι|1. a setting under (support) 2. (figuratively) concretely, essence, or abstractly, assurance (objectively or subjectively)
-ὑποστέλλω|verb|στέλλω|1. to withhold under (out of sight) 2. (reflexively) to cower or shrink, (figuratively) to conceal (reserve)
-ὑποστολή|noun|ὑποστέλλω|1. shrinkage (timidity) 2. (by implication) apostasy
-ὑποστρέφω|verb|στρέφω|1. to turn under (behind), i.e. to return
-ὑποστρώννυμι|verb|στρώννυμι|1. to strew underneath (the feet as a carpet)
-ὑποταγή|noun|ὑποτάσσω|1. subordination
-ὑποτάσσω|verb|τάσσω|1. to subordinate 2. (reflexively) to obey
-ὑποτίθημι|verb|τίθημι|1. to place underneath 2. (figuratively) to hazard, (reflexively) to suggest
-ὑποτρέχω|verb|τρέχω|1. to run under 2. (specially), to sail past
-ὑποτύπωσις|noun|τύπος|1. typification under (after) 2. (concretely) a sketch (figuratively) for imitation
-ὑποφέρω|verb|φέρω|1. to bear from underneath 2. (figuratively) to undergo hardship
-ὑποχωρέω|verb|χωρέω|1. to vacate down, i.e. retire quietly
-ὑπωπιάζω|verb|ὀπτάνομαι|1. to hit under the eye (buffet or disable an antagonist as a pugilist) 2. (figuratively) to tease or annoy (into compliance), subdue (one's passions)
+ὑπό|preposition|---|1. under 2. (with the genitive case) of place (beneath), or with verbs (the agency or means, through) 3. (with the accusative case) of place (whither (underneath) or where (below) or time (when (at))  In the comparative, it retains the same general applications, especially of inferior position or condition, and specially, covertly or moderately.
+ὑποβάλλω|verb|βάλλω|1. to throw in stealthily, i.e. introduce by collusion
+ὑπογραμμός|noun|γράφω|1. an underwriting, i.e. copy for imitation (figuratively)
+ὑπόδειγμα|noun|ὑποδείκνυμι|1. an exhibit for imitation or warning 2. (figuratively) an example or pattern
+ὑποδείκνυμι|verb|δεικνύω|1. to exhibit under the eyes 2. (figuratively) to exemplify (instruct, admonish)
+ὑποδέχομαι|verb|δέχομαι|1. to admit under one's roof, i.e. entertain hospitably
+ὑποδέω|verb|δέω|1. to bind under one's feet, i.e. put on shoes or sandals
+ὑπόδημα|noun|ὑποδέω|1. something bound under the feet, i.e. a shoe or sandal
+ὑπόδικος|adjective|δίκη|1. under sentence 2. (by implication) condemned
+ὑποζύγιον|noun|ζυγός|1. an animal under the yoke (draught-beast) 2. (specially), a donkey
+ὑποζώννυμι|verb|ζώννυμι|1. to gird under, i.e. frap (a vessel with cables across the keel, sides and deck)
+ὑποκάτω|adverb|κάτω|1. down under, i.e. beneath
+ὑποκρίνομαι|verb|κρίνω|1. to decide (speak or act) under a false part 2. (figuratively) dissemble (pretend)
+ὑπόκρισις|noun|ὑποκρίνομαι|1. acting under a feigned part 2. (figuratively) deceit ("hypocrisy")
+ὑποκριτής|noun|ὑποκρίνομαι|1. an actor under an assumed character (stage-player) 2. (figuratively) a dissembler ("hypocrite"
+ὑπολαμβάνω|verb|λαμβάνω|1. to take from below, i.e. carry upward 2. (figuratively) to take up, i.e. continue a discourse or topic 3. (mentally) to assume (presume)     
+ὑπολείπω|verb|λείπω|1. to leave under (behind) 2. (passively) to remain (survive)
+ὑπολήνιον|noun|ληνός|1. vessel or receptacle under the press, i.e. lower wine-vat
+ὑπολιμπάνω|verb|ὑπολείπω|1. to leave behind, i.e. bequeath
+ὑπομένω|verb|μένω|1. to stay under (behind), i.e. remain 2. (figuratively) to undergo, i.e. bear (trials), have fortitude, persevere
+ὑπομιμνῄσκω|verb|μιμνήσκω|1. to remind quietly, i.e. suggest to the (middle voice, one's own) memory
+ὑπόμνησις|noun|ὑπομιμνήσκω|1. a reminding or (reflexively) recollection
+ὑπομονή|noun|ὑπομένω|1. cheerful (or hopeful) endurance, constancy
+ὑπονοέω|verb|νοιέω|1. to think under (privately), i.e. to surmise or conjecture
+ὑπόνοια|noun|ὑπονοέω|1. suspicion
+ὑποπλέω|verb|πλέω|1. to sail under the lee of
+ὑποπνέω|verb|πνέω|1. to breathe gently, i.e. breeze
+ὑποπόδιον|noun|πούς|1. something under the feet, i.e. a foot-rest (figuratively)
+ὑπόστασις|noun|ἵστημι|1. a setting under (support) 2. (figuratively) concretely, essence, or abstractly, assurance (objectively or subjectively)
+ὑποστέλλω|verb|στέλλω|1. to withhold under (out of sight) 2. (reflexively) to cower or shrink, (figuratively) to conceal (reserve)
+ὑποστολή|noun|ὑποστέλλω|1. shrinkage (timidity) 2. (by implication) apostasy
+ὑποστρέφω|verb|στρέφω|1. to turn under (behind), i.e. to return
+ὑποστρωννύω|verb|στρώννυμι|1. to strew underneath (the feet as a carpet)
+ὑποταγή|noun|ὑποτάσσω|1. subordination
+ὑποτάσσω|verb|τάσσω|1. to subordinate 2. (reflexively) to obey
+ὑποτίθημι|verb|τίθημι|1. to place underneath 2. (figuratively) to hazard, (reflexively) to suggest
+ὑποτρέχω|verb|τρέχω|1. to run under 2. (specially), to sail past
+ὑποτύπωσις|noun|τύπος|1. typification under (after) 2. (concretely) a sketch (figuratively) for imitation
+ὑποφέρω|verb|φέρω|1. to bear from underneath 2. (figuratively) to undergo hardship
+ὑποχωρέω|verb|χωρέω|1. to vacate down, i.e. retire quietly
+ὑπωπιάζω|verb|ὀπτάνομαι|1. to hit under the eye (buffet or disable an antagonist as a pugilist) 2. (figuratively) to tease or annoy (into compliance), subdue (one's passions)
 ὗς|noun|---|1. a hog ("swine")
 ὕσσωπος|noun|אֵזוֹב|1. "hyssop"
-ὑστερέω|verb|ὕστερος|1. to be later 2. (by implication) to be inferior 3. (generally) to fall short (be deficient)
-ὑστέρημα|noun|ὑστερέω|1. a deficit 2. (specially) poverty
-ὑστέρησις|noun|ὑστερέω|1. a falling short 2. (specially), penury
+ὑστερέω|verb|ὕστερος|1. to be later 2. (by implication) to be inferior 3. (generally) to fall short (be deficient)
+ὑστέρημα|noun|ὑστερέω|1. a deficit 2. (specially) poverty
+ὑστέρησις|noun|ὑστερέω|1. a falling short 2. (specially), penury
 ὕστερον|adverb|ὕστερος|1. more lately, i.e. eventually
 ὕστερος|adjective|ὑπό|1. later
-ὑφαντός|adjective|---|1. woven 2. (perhaps) knitted
-ὑψηλός|adjective|ὕψος|1. lofty (in place or character)
-ὑψηλοφρονέω|verb|φρήν|1. to be lofty in mind, i.e. arrogant
+ὑφαντός|adjective|---|1. woven 2. (perhaps) knitted
+ὑψηλός|adjective|ὕψος|1. lofty (in place or character)
+ὑψηλοφρονέω|verb|φρήν|1. to be lofty in mind, i.e. arrogant
 ὕψιστος|adjective|ὕψος|1. highest 2. (masculine singular) the Supreme (God) 3. (neuter plural) the heavens
 ὕψος|noun|ὑπέρ|1. elevation 2. (abstractly) altitude, (specially), the sky 3. (figuratively) dignity
-ὑψόω|verb|ὕψος|1. to elevate
+ὑψόω|verb|ὕψος|1. to elevate
 ὕψωμα|noun|ὑψόω|1. an elevated place or thing 2. (abstractly) altitude 3. (by implication) a barrier (figuratively)
-φάγος|noun|φάγω|1. a glutton
-φάγω|verb|---|1. to eat
-φαίνω|verb|φῶς|1. (properly, transitive) to lighten (shine) 2. (intransitive) to appear (show)
-Φάλεκ|Name Person|פֶּלֶג|1. Phalek (i.e. Peleg), a patriarch
-φανερός|adjective|φαίνω|1. shining, i.e. apparent 2. (neuter as adverb) publicly, externally
-φανερόω|verb|φανερός|1. to render apparent
+φάγος|noun|φάγω|1. a glutton
+φάγω|verb|---|1. to eat
+φαίνω|verb|φῶς|1. (properly, transitive) to lighten (shine) 2. (intransitive) to appear (show)
+Φάλεκ|Name Person|פֶּלֶג|1. Phalek (i.e. Peleg), a patriarch
+φανερός|adjective|φαίνω|1. shining, i.e. apparent 2. (neuter as adverb) publicly, externally
+φανερόω|verb|φανερός|1. to render apparent
 φανερῶς|adverb|φανερός|1. plainly, i.e. clearly or publicly
-φανέρωσις|noun|φανερόω|1. exhibition 2. (figuratively) expression, (by extension) a bestowment
-φανός|noun|φαίνω|1. a lightener, i.e. light 2. lantern
-Φανουήλ|Name Person|פְּנוּאֵל פְּנִיאֵל|1. Phanuel (i.e. Penuel), an Israelite
-φαντάζω|verb|φαίνω|1. to make apparent 2. (passively) to appear (neuter participle as noun, a spectacle)
-φαντασία|noun|φαντάζω|1. (properly abstract) a (vain) show ("fantasy")
-φάντασμα|noun|φαντάζω|1. (properly concrete) a (mere) show ("phantasm"), i.e. spectre
-φάραγξ|noun|πέραν|1. a gap or chasm, i.e. ravine (winter-torrent)
-Φαραώ|Name Person|פַּרעוֹה|1. Pharao (i.e. Pharoh), an Egyptian king
-Φαρές|Name Person|פֶּרֶץ|1. Phares (i.e. Perets), an Israelite
+φανέρωσις|noun|φανερόω|1. exhibition 2. (figuratively) expression, (by extension) a bestowment
+φανός|noun|φαίνω|1. a lightener, i.e. light 2. lantern
+Φανουήλ|Name Person|פְּנוּאֵל פְּנִיאֵל|1. Phanuel (i.e. Penuel), an Israelite
+φαντάζω|verb|φαίνω|1. to make apparent 2. (passively) to appear (neuter participle as noun, a spectacle)
+φαντασία|noun|φαντάζω|1. (properly abstract) a (vain) show ("fantasy")
+φάντασμα|noun|φαντάζω|1. (properly concrete) a (mere) show ("phantasm"), i.e. spectre
+φάραγξ|noun|πέραν|1. a gap or chasm, i.e. ravine (winter-torrent)
+Φαραώ|Name Person|פַּרעוֹה|1. Pharao (i.e. Pharoh), an Egyptian king
+Φαρές|Name Person|פֶּרֶץ|1. Phares (i.e. Perets), an Israelite
 Φαρισαῖος|Name/g.|---|1. a separatist, i.e. exclusively religious 2. a Pharisean, i.e. Jewish sectary
-φαρμακεία|noun|φαρμακεύς|1. the use of drugs, potions, and enchantments 2. poisoning ("pharmacy") 3. (by extension) the occult, witchcraft 4. (by implication) the remedy, the cure
-φαρμακεύς|noun|---|1. a druggist or poisoner ("pharmacist") 2. (by extension) a sorcerer, a male witch
-φαρμακός|noun|φαρμακεύς|1. a poisoner 2. a "pharmacist" 3. (by extension) a sorcerer (i.e. involved in occult and witchcraft) 4. (passively) one who is sacrificed for others
-φάσις|noun|φημί|1. a saying, i.e. report
-φάσκω|verb|φαίνω|1. to assert, affirm
-φάτνη|noun|---|1. a feeding trough (for fodder)
+φαρμακεία|noun|φαρμακεύς|1. the use of drugs, potions, and enchantments 2. poisoning ("pharmacy") 3. (by extension) the occult, witchcraft 4. (by implication) the remedy, the cure
+φαρμακεύς|noun|---|1. a druggist or poisoner ("pharmacist") 2. (by extension) a sorcerer, a male witch
+φάρμακος|noun|φαρμακεύς|1. a poisoner 2. a "pharmacist" 3. (by extension) a sorcerer (i.e. involved in occult and witchcraft) 4. (passively) one who is sacrificed for others
+φάσις|noun|φημί|1. a saying, i.e. report
+φάσκω|verb|φαίνω|1. to assert, affirm
+φάτνη|noun|---|1. a feeding trough (for fodder)
 φαῦλος|adjective|---|1. mediocre, worthless, ordinary, inadequate 2. (figuratively) wicked
-φέγγος|noun|---|1. brilliancy
-φείδομαι|verb|---|1. to be sparing of 2. (subjectively) to abstain 3. (objectively) to treat leniently
-φειδομένως|adverb|φείδομαι|1. sparingly, i.e. stingily
-φελόνης|noun|φαίνω|1. a mantle (surtout)
-φέρω|verb|---|1. to bring or carry
-φεύγω|verb|---|1. to run away 2. (by implication) to shun 3. (by analogy) to vanish
+φέγγος|noun|---|1. brilliancy
+φείδομαι|verb|---|1. to be sparing of 2. (subjectively) to abstain 3. (objectively) to treat leniently
+φειδομένως|adverb|φείδομαι|1. sparingly, i.e. stingily
+φελόνης|noun|φαίνω|1. a mantle (surtout)
+φέρω|verb|---|1. to bring or carry
+φεύγω|verb|---|1. to run away 2. (by implication) to shun 3. (by analogy) to vanish
 Φῆλιξ|Name Person|---|1. happy 2. Phelix (i.e. Felix), a Roman
-φήμη|noun|φημί|1. a saying, i.e. rumor ("fame")
-φημί|verb|φαίνω|1. to show or make known one's thoughts, i.e. speak or say
+φήμη|noun|φημί|1. a saying, i.e. rumor ("fame")
+φημί|verb|φαίνω|1. to show or make known one's thoughts, i.e. speak or say
 Φῆστος|Name Person|---|1. festal 2. Phestus (i.e. Festus), a Roman
-φθάνω|verb|---|1. to be beforehand, i.e. anticipate or precede 2. (by extension) to have arrived at
-φθαρτός|adjective|φθείρω|1. decayed 2. (by implication) perishable
-φθέγγομαι|verb|---|1. to utter a clear sound 2. (generally) to proclaim
-φθείρω|verb|---|1. (properly) to shrivel or wither, i.e. to spoil (by any process) 2. (generally) to ruin 3. (especially figuratively, by moral influences) to deprave  
-φθινοπωρινός|adjective|ὀπώρα|1. autumnal (as stripped of leaves)
-φθόγγος|noun|φθέγγομαι|1. utterance, i.e. a musical note (vocal or instrumental)
-φθονέω|verb|φθόνος|1. to be jealous of
-φθόνος|noun|---|1. ill-will (as detraction), i.e. jealousy (spite)
-φθορά|noun|φθείρω|1. decay, i.e. ruin (spontaneous or inflicted)
-φιάλη|noun|---|1. a broad shallow cup ("phial")
-φιλάγαθος|adjective|ἀγαθός|1. fond to good, i.e. a promoter of virtue
-Φιλαδέλφεια|Name Location|φιλάδελφος|1. Philadelphia, a place in Asia Minor
-φιλαδελφία|noun|φιλάδελφος|1. fraternal affection
-φιλάδελφος|adjective|ἀδελφός|1. fond of brethren, i.e. fraternal
-φίλανδρος|noun|ἀνήρ|1. fond of man, i.e. affectionate as a wife
-φιλανθρωπία|noun|ἄνθρωπος|1. fondness of mankind, i.e. benevolence ("philanthropy")
-φιλανθρώπως|adverb|ἄνθρωπος|1. fondly to man ("philanthropically"), i.e. humanely
-φιλαργυρία|noun|φιλάργυρος|1. avarice
-φιλάργυρος|adjective|ἄργυρος|1. fond of silver (money), i.e. avaricious
-φίλαυτος|adjective|αὐτός|1. fond of self, i.e. selfish
-φιλέω|verb|φίλος|1. to be a friend to (fond of (an individual or an object)), i.e. have affection for (denoting personal attachment, as a matter of sentiment or feeling) 2. (specially) to kiss (as a mark of tenderness)
-φιλήδονος|adjective|ἡδονή|1. fond of pleasure, i.e. voluptuous
-φίλημα|noun|φιλέω|1. a kiss
-Φιλήμων|Name Person|φιλέω|1. friendly 2. Philemon, a Christian
-Φιλητός|Name Person|φιλέω|1. amiable 2. Philetus, an opposer of Christianity
-φιλία|noun|φίλος|1. fondness
-Φιλιππήσιος|Name/g.|Φίλιπποι|1. a Philippesian (Philippian), i.e. native of Philippi
-Φίλιπποι|Name Location|Φίλιππος|1. Philippi, a place in Macedonia
-Φίλιππος|Name Person|ἵππος|1. fond of horses 2. Philippus, the name of four Israelites
-φιλόθεος|adjective|θεός|1. fond of God, i.e. pious
-Φιλόλογος|Name Person|λόγος|1. fond of words, i.e. talkative (argumentative, learned, "philological") 2. Philologus, a Christian
-φιλονεικία|noun|φιλόνεικος|1. quarrelsomeness, i.e. a dispute
-φιλόνεικος|adjective|φίλος|1. fond of strife, i.e. disputatious
-φιλονεξία|noun|φιλόξενος|1. hospitableness
-φιλόξενος|adjective|ξένος|1. fond of guests, i.e. hospitable
-φιλοπρωτεύω|verb|πρῶτος|1. to be fond of being first, i.e. ambitious of distinction
-φίλος|adjective|---|1. (properly) dear, i.e. a friend 2. (actively) fond, i.e. friendly 3. (as a noun) an associate, neighbor, etc.
-φιλοσοφία|noun|φιλόσοφος|1. "philosophy" 2. (specially), Jewish sophistry
-φιλόσοφος|noun|σοφός|1. fond of wise things, i.e. a "philosopher"
-φιλόστοργος|adjective|φίλος|1. fond of natural relatives 2. fraternal towards fellow Christian
-φιλότεκνος|adjective|τέκνον|1. fond of one's children, i.e. maternal
-φιλοτιμέομαι|verb|τιμή|1. to be fond of honor, i.e. emulous (eager or earnest to do something)
-φιλοφρόνως|adverb|φιλόφρων|1. with friendliness of mind, i.e. kindly
-φιλόφρων|adjective|φρήν|1. friendly of mind, i.e. kind
-φιμόω|verb|---|1. to muzzle
-Φλέγων|Name Person|φλόξ|1. blazing 2. Phlegon, a Christian
-φλογίζω|verb|φλόξ|1. to cause a blaze, i.e. ignite 2. (figuratively) to inflame with passion
-φλόξ|noun|---|1. a blaze
-φλυαρέω|verb|φλύαρος|1. to be a babbler or trifler 2. (by implication) to berate idly or mischievously
-φλύαρος|adjective|---|1. excessively talkative, i.e. prater
-φοβερός|adjective|φόβος|1. frightful 2. (objectively) formidable
-φοβέω|verb|φόβος|1. to frighten 2. (passively) to be alarmed 3. (by analogy) to be in awe of, i.e. revere
-φόβητρον|noun|φοβέω|1. a frightening thing, i.e. terrific portent
-φόβος|noun|---|1. alarm or fright
-Φοίβη|Name Person|---|1. Phoebe, a Christian woman
-Φοινίκη|Name Location|φοίνιξ|1. palm-country 2. Phoenice (or Phoenicia), a region of Lebanon
-φοίνιξ|noun|---|1. a palm-tree 2. (symbolic of) righteousness or victory
-Φοίνιξ|Name Location|φοίνιξ|1. Phoenix, a place in Crete
-φονεύς|noun|φόνος|1. a murderer
-φονεύω|verb|φονεύς|1. to be a murderer (of)
-φόνος|noun|---|1. murder
-φορέω|verb|φόρος|1. to have a burden 2. (by analogy) to wear as clothing or a constant accompaniment
-Φόρον|Name Location|---|1. a forum or market-place
-φόρος|noun|φέρω|1. a load (as borne) 2. (figuratively) a tax
-φορτίζω|verb|φόρτος|1. (properly) to load up (a vessel or animal) 2. (figuratively) to overburden with ceremony (or spiritual anxiety)
-φορτίον|noun|φόρτος|1. an invoice (as part of freight) 2. (figuratively) a task or service
-φόρτος|noun|φέρω|1. something carried 2. (specially) the cargo of a ship
-Φορτουνάτος|Name Person|---|1. "fortunate" 2. Fortunatus, a Christian
-φραγέλλιον|noun|φραγελλόω|1. a whip, i.e. Roman lash as a public punishment
-φραγελλόω|verb|---|1. to whip, i.e. lash as a public punishment
-φραγμός|noun|φράσσω|1. a fence, or inclosing barrier
-φράζω|verb|---|1. to indicate (by word or act) 2. (specially), to expound
-φράσσω|verb|φρήν|1. to fence or inclose 2. (specially) to block up 3. (figuratively) to silence
-φρέαρ|noun|---|1. a hole in the ground (dug for obtaining or holding water or other purposes), i.e. a cistern or well 2. (figuratively) an abyss (as a prison)
-φρεναπατάω|verb|φρεναπάτης|1. to be a mind-misleader, i.e. delude
-φρεναπάτης|noun|ἀπάτη|1. a mind-misleader, i.e. seducer
-φρήν|noun|---|1. the midrif (as a partition of the body) 2. (figuratively and by implication of sympathy) the feelings or sensitive nature 3. (by extension, also in the plural) the mind or cognitive faculties
-φρίσσω|verb|---|1. to "bristle" or chill, i.e. shudder (fear)
-φρονέω|verb|φρήν|1. to exercise the mind, i.e. entertain or have a sentiment or opinion 2. (by implication) to be (mentally) disposed (more or less earnestly in a certain direction) 3. (intensively) to interest oneself in (with concern or obedience)
-φρόνημα|noun|φρονέω|1. (mental) inclination or purpose
-φρόνησις|noun|φρονέω|1. mental action or activity, i.e. intellectual or moral insight
-φρόνιμος|adjective|φρήν|1. thoughtful, i.e. sagacious or discreet (implying a cautious character) 2. in a bad sense, conceited (also in the comparative)
-φρονίμως|adverb|φρόνιμος|1. prudently
-φροντίζω|verb|φρήν|1. to exercise thought, i.e. be anxious
-φρουρέω|verb|ὁράω|1. to be a watcher in advance, i.e. to mount guard as a sentinel (post spies at gates) 2. (figuratively) to hem in, protect
-φρυάσσω|verb|---|1. to snort (as a spirited horse) 2. (figuratively) to make a tumult
-φρύγανον|noun|---|1. something thoroughly dried up, i.e. a dry twig
-Φρυγία|Name Location|---|1. Phrygia, a region of Asia Minor
-Φύγελλος|Name Person|φεύγω|1. fugitive 2. Phygellus, an apostate Christian
-φυγή|noun|φεύγω|1. a fleeing, i.e. escape
-φυλακή|noun|φυλάσσω|1. a guarding 2. (concretely) guard (the act, the person) 3. (figuratively) the place, the condition 4. (specially) the time (as a division of day or night)
-φυλακίζω|verb|φύλαξ|1. to incarcerate
-φυλακτήριον|noun|φυλάσσω|1. a guard-case, i.e. "phylactery" for wearing slips of Scripture texts
-φύλαξ|noun|φυλάσσω|1. a guard or sentry
-φυλάσσω|verb|φυλή|1. to watch, i.e. be on guard 2. (by implication) to preserve, obey, avoid
-φυλή|noun|φύω|1. an offshoot, i.e. race or clan
-φύλλον|noun|φύω|1. a sprout, i.e. leaf
-φύραμα|noun|---|1. a mass of dough
-φυσικός|adjective|φύσις|1. "physical" 2. (by implication) instinctive
+φθάνω|verb|---|1. to be beforehand, i.e. anticipate or precede 2. (by extension) to have arrived at
+φθαρτός|adjective|φθείρω|1. decayed 2. (by implication) perishable
+φθέγγομαι|verb|---|1. to utter a clear sound 2. (generally) to proclaim
+φθείρω|verb|---|1. (properly) to shrivel or wither, i.e. to spoil (by any process) 2. (generally) to ruin 3. (especially figuratively, by moral influences) to deprave  
+φθινοπωρινός|adjective|ὀπώρα|1. autumnal (as stripped of leaves)
+φθόγγος|noun|φθέγγομαι|1. utterance, i.e. a musical note (vocal or instrumental)
+φθονέω|verb|φθόνος|1. to be jealous of
+φθόνος|noun|---|1. ill-will (as detraction), i.e. jealousy (spite)
+φθορά|noun|φθείρω|1. decay, i.e. ruin (spontaneous or inflicted)
+φιάλη|noun|---|1. a broad shallow cup ("phial")
+φιλάγαθος|adjective|ἀγαθός|1. fond to good, i.e. a promoter of virtue
+Φιλαδέλφεια|Name Location|φιλάδελφος|1. Philadelphia, a place in Asia Minor
+φιλαδελφία|noun|φιλάδελφος|1. fraternal affection
+φιλάδελφος|adjective|ἀδελφός|1. fond of brethren, i.e. fraternal
+φίλανδρος|noun|ἀνήρ|1. fond of man, i.e. affectionate as a wife
+φιλανθρωπία|noun|ἄνθρωπος|1. fondness of mankind, i.e. benevolence ("philanthropy")
+φιλανθρώπως|adverb|ἄνθρωπος|1. fondly to man ("philanthropically"), i.e. humanely
+φιλαργυρία|noun|φιλάργυρος|1. avarice
+φιλάργυρος|adjective|ἄργυρος|1. fond of silver (money), i.e. avaricious
+φίλαυτος|adjective|αὐτός|1. fond of self, i.e. selfish
+φιλέω|verb|φίλος|1. to be a friend to (fond of (an individual or an object)), i.e. have affection for (denoting personal attachment, as a matter of sentiment or feeling) 2. (specially) to kiss (as a mark of tenderness)
+φιλήδονος|adjective|ἡδονή|1. fond of pleasure, i.e. voluptuous
+φίλημα|noun|φιλέω|1. a kiss
+Φιλήμων|Name Person|φιλέω|1. friendly 2. Philemon, a Christian
+Φίλητος|Name Person|φιλέω|1. amiable 2. Philetus, an opposer of Christianity
+φιλία|noun|φίλος|1. fondness
+Φιλιππήσιος|Name/g.|Φίλιπποι|1. a Philippesian (Philippian), i.e. native of Philippi
+Φίλιπποι|Name Location|Φίλιππος|1. Philippi, a place in Macedonia
+Φίλιππος|Name Person|ἵππος|1. fond of horses 2. Philippus, the name of four Israelites
+φιλόθεος|adjective|θεός|1. fond of God, i.e. pious
+Φιλόλογος|Name Person|λόγος|1. fond of words, i.e. talkative (argumentative, learned, "philological") 2. Philologus, a Christian
+φιλονεικία|noun|φιλόνεικος|1. quarrelsomeness, i.e. a dispute
+φιλόνεικος|adjective|φίλος|1. fond of strife, i.e. disputatious
+φιλοξενία|noun|φιλόξενος|1. hospitableness
+φιλόξενος|adjective|ξένος|1. fond of guests, i.e. hospitable
+φιλοπρωτεύω|verb|πρῶτος|1. to be fond of being first, i.e. ambitious of distinction
+φίλος|adjective|---|1. (properly) dear, i.e. a friend 2. (actively) fond, i.e. friendly 3. (as a noun) an associate, neighbor, etc.
+φιλοσοφία|noun|φιλόσοφος|1. "philosophy" 2. (specially), Jewish sophistry
+φιλόσοφος|noun|σοφός|1. fond of wise things, i.e. a "philosopher"
+φιλόστοργος|adjective|φίλος|1. fond of natural relatives 2. fraternal towards fellow Christian
+φιλότεκνος|adjective|τέκνον|1. fond of one's children, i.e. maternal
+φιλοτιμέομαι|verb|τιμή|1. to be fond of honor, i.e. emulous (eager or earnest to do something)
+φιλοφρόνως|adverb|φιλόφρων|1. with friendliness of mind, i.e. kindly
+φιλόφρων|adjective|φρήν|1. friendly of mind, i.e. kind
+φιμόω|verb|---|1. to muzzle
+Φλέγων|Name Person|φλόξ|1. blazing 2. Phlegon, a Christian
+φλογίζω|verb|φλόξ|1. to cause a blaze, i.e. ignite 2. (figuratively) to inflame with passion
+φλόξ|noun|---|1. a blaze
+φλυαρέω|verb|φλύαρος|1. to be a babbler or trifler 2. (by implication) to berate idly or mischievously
+φλύαρος|adjective|---|1. excessively talkative, i.e. prater
+φοβερός|adjective|φόβος|1. frightful 2. (objectively) formidable
+φοβέομαι|verb|φόβος|1. to frighten 2. (passively) to be alarmed 3. (by analogy) to be in awe of, i.e. revere
+φόβητρον|noun|φοβέω|1. a frightening thing, i.e. terrific portent
+φόβος|noun|---|1. alarm or fright
+Φοίβη|Name Person|---|1. Phoebe, a Christian woman
+Φοινίκη|Name Location|φοίνιξ|1. palm-country 2. Phoenice (or Phoenicia), a region of Lebanon
+φοίνιξ|noun|---|1. a palm-tree 2. (symbolic of) righteousness or victory
+Φοῖνιξ|Name Location|φοίνιξ|1. Phoenix, a place in Crete
+φονεύς|noun|φόνος|1. a murderer
+φονεύω|verb|φονεύς|1. to be a murderer (of)
+φόνος|noun|---|1. murder
+φορέω|verb|φόρος|1. to have a burden 2. (by analogy) to wear as clothing or a constant accompaniment
+Φόρον|Name Location|---|1. a forum or market-place
+φόρος|noun|φέρω|1. a load (as borne) 2. (figuratively) a tax
+φορτίζω|verb|φόρτος|1. (properly) to load up (a vessel or animal) 2. (figuratively) to overburden with ceremony (or spiritual anxiety)
+φορτίον|noun|φόρτος|1. an invoice (as part of freight) 2. (figuratively) a task or service
+φόρτος|noun|φέρω|1. something carried 2. (specially) the cargo of a ship
+Φορτουνάτος|Name Person|---|1. "fortunate" 2. Fortunatus, a Christian
+φραγέλλιον|noun|φραγελλόω|1. a whip, i.e. Roman lash as a public punishment
+φραγελλόω|verb|---|1. to whip, i.e. lash as a public punishment
+φραγμός|noun|φράσσω|1. a fence, or inclosing barrier
+φράζω|verb|---|1. to indicate (by word or act) 2. (specially), to expound
+φράσσω|verb|φρήν|1. to fence or inclose 2. (specially) to block up 3. (figuratively) to silence
+φρέαρ|noun|---|1. a hole in the ground (dug for obtaining or holding water or other purposes), i.e. a cistern or well 2. (figuratively) an abyss (as a prison)
+φρεναπατάω|verb|φρεναπάτης|1. to be a mind-misleader, i.e. delude
+φρεναπάτης|noun|ἀπάτη|1. a mind-misleader, i.e. seducer
+φρήν|noun|---|1. the midrif (as a partition of the body) 2. (figuratively and by implication of sympathy) the feelings or sensitive nature 3. (by extension, also in the plural) the mind or cognitive faculties
+φρίσσω|verb|---|1. to "bristle" or chill, i.e. shudder (fear)
+φρονέω|verb|φρήν|1. to exercise the mind, i.e. entertain or have a sentiment or opinion 2. (by implication) to be (mentally) disposed (more or less earnestly in a certain direction) 3. (intensively) to interest oneself in (with concern or obedience)
+φρόνημα|noun|φρονέω|1. (mental) inclination or purpose
+φρόνησις|noun|φρονέω|1. mental action or activity, i.e. intellectual or moral insight
+φρόνιμος|adjective|φρήν|1. thoughtful, i.e. sagacious or discreet (implying a cautious character) 2. in a bad sense, conceited (also in the comparative)
+φρονίμως|adverb|φρόνιμος|1. prudently
+φροντίζω|verb|φρήν|1. to exercise thought, i.e. be anxious
+φρουρέω|verb|ὁράω|1. to be a watcher in advance, i.e. to mount guard as a sentinel (post spies at gates) 2. (figuratively) to hem in, protect
+φρυάσσω|verb|---|1. to snort (as a spirited horse) 2. (figuratively) to make a tumult
+φρύγανον|noun|---|1. something thoroughly dried up, i.e. a dry twig
+Φρυγία|Name Location|---|1. Phrygia, a region of Asia Minor
+Φύγελος|Name Person|φεύγω|1. fugitive 2. Phygellus, an apostate Christian
+φυγή|noun|φεύγω|1. a fleeing, i.e. escape
+φυλακή|noun|φυλάσσω|1. a guarding 2. (concretely) guard (the act, the person) 3. (figuratively) the place, the condition 4. (specially) the time (as a division of day or night)
+φυλακίζω|verb|φύλαξ|1. to incarcerate
+φυλακτήριον|noun|φυλάσσω|1. a guard-case, i.e. "phylactery" for wearing slips of Scripture texts
+φύλαξ|noun|φυλάσσω|1. a guard or sentry
+φυλάσσω|verb|φυλή|1. to watch, i.e. be on guard 2. (by implication) to preserve, obey, avoid
+φυλή|noun|φύω|1. an offshoot, i.e. race or clan
+φύλλον|noun|φύω|1. a sprout, i.e. leaf
+φύραμα|noun|---|1. a mass of dough
+φυσικός|adjective|φύσις|1. "physical" 2. (by implication) instinctive
 φυσικῶς|adverb|φυσικός|1. "physically" 2. (by implication) instinctively
-φυσιόω|verb|φύσις|1. to inflate 2. (figuratively) make proud (haughty)
-φύσις|noun|φύω|1. growth (by germination or expansion) 2. (by implication) natural production (lineal descent) 3. (by extension) a genus or sort 4. (figuratively) native disposition, constitution or usage
-φυσίωσις|noun|φυσιόω|1. inflation 2. (figuratively) haughtiness
-φυτεία|noun|φυτεύω|1. trans-planting 2. (concretely) a shrub or vegetable
-φυτεύω|verb|φύω|1. to set out in the earth, i.e. implant 2. (figuratively) to instil doctrine
-φύω|verb|---|1. to germinate or grow (sprout, produce)
-φωλεός|noun|---|1. a burrow or lurking-place
-φωνέω|verb|φωνή|1. to emit a sound (animal, human or instrumental) 2. (by implication) to address in words or by name, also in imitation
-φωνή|noun|---|1. a tone (articulate, bestial or artificial) 2. (by implication) an address (for any purpose), saying or language
+φυσιόω|verb|φύσις|1. to inflate 2. (figuratively) make proud (haughty)
+φύσις|noun|φύω|1. growth (by germination or expansion) 2. (by implication) natural production (lineal descent) 3. (by extension) a genus or sort 4. (figuratively) native disposition, constitution or usage
+φυσίωσις|noun|φυσιόω|1. inflation 2. (figuratively) haughtiness
+φυτεία|noun|φυτεύω|1. trans-planting 2. (concretely) a shrub or vegetable
+φυτεύω|verb|φύω|1. to set out in the earth, i.e. implant 2. (figuratively) to instil doctrine
+φύω|verb|---|1. to germinate or grow (sprout, produce)
+φωλεός|noun|---|1. a burrow or lurking-place
+φωνέω|verb|φωνή|1. to emit a sound (animal, human or instrumental) 2. (by implication) to address in words or by name, also in imitation
+φωνή|noun|---|1. a tone (articulate, bestial or artificial) 2. (by implication) an address (for any purpose), saying or language
 φῶς|noun|---|1. luminousness
-φωστήρ|noun|φῶς|1. an illuminator 2. (concretely) a luminary 3. (abstractly) brilliancy
-φωσφόρος|adjective|φέρω|1. light-bearing ("phosphorus") 2. (specially), the morning-star (figuratively)
-φωτεινός|adjective|φῶς|1. lustrous, i.e. transparent or well-illuminated (figuratively)
-φωτίζω|verb|φῶς|1. to shed rays, i.e. to shine 2. (transitively) to brighten up
-φωτισμός|noun|φωτίζω|1. illumination (figuratively)
-χαίρω|verb|---|1. to be "cheer"ful, i.e. calmly happy or well-off 2. (impersonally, especially) as salutation (on meeting or parting), be well
-χάλαζα|noun|χαλάω|1. hail
-χαλάω|verb|χάσμα|1. to lower (as into a void)
-Χαλδαίος|Name/g.|כַּשׂדִּי כַּשׂדִּימָה|1. a Chaldoean (i.e. Kasdi), or native or the region of the lower Euphrates
-χαλεπός|adjective|χαλάω|1. difficult, i.e. dangerous 2. (by implication) furious
-χαλιναγωγέω|verb|ἄγω|1. to be a bit-leader, i.e. to curb (figuratively)
-χαλινός|noun|χαλάω|1. a curb or head-stall (as curbing the spirit)
-χάλκεος|adjective|χαλκός|1. coppery
-χαλκεύς|noun|χαλκός|1. a copper-worker or brazier
-χαλκηδών|noun|εἶδος|1. copper-like, i.e. "chalcedony"
-χαλκίον|noun|χαλκός|1. a copper dish
-χαλκολίβανον|noun|λίβανος|1. burnished copper, an alloy of copper (or gold) and silver having a brilliant lustre
-χαλκός|noun|χαλάω|1. copper (the substance, or some implement or coin made of it)
-χαμαί|adverb|χάσμα|1. earthward, i.e. prostrate
-Χαναάν|Name Location|כְּנַעַן|1. Chanaan (i.e. Kenaan), the early name of Israel
-Χανααναίος|adjective/g.|Χαναάν|1. a Chanaanoean (i.e. Kenaanite), or native of gentile Israel
-χαρά|noun|χαίρω|1. cheerfulness, i.e. calm delight
-χάραγμα|noun|---|1. a scratch or etching, i.e. stamp (as a badge of servitude), or scupltured figure (statue)
-χαρακτήρ|noun|---|1. a graver (the tool or the person) 2. (by implication) engraving (("character"), the figure stamped, i.e. an exact copy or (figuratively) representation)
-χάραξ|noun|---|1. a stake 2. (by implication) a palisade or rampart (military mound for circumvallation in a siege)
-χαρίζομαι|verb|χάρις|1. to grant as a favor, i.e. gratuitously, in kindness, pardon or rescue
-χάριν|adverb|χάρις|1. through favor of, i.e. on account of
-χάρις|noun|χαίρω|1. graciousness (as gratifying), of manner or act 2. (especially) the divine influence upon the heart, and its reflection in the life 3. (also) gratitude
-χάρισμα|noun|χαρίζομαι|1. a (divine) gratuity, i.e. deliverance (from danger or passion) 2. (specially), a (spiritual) endowment 3. (subjectively) religious qualification 4. (objectively) miraculous faculty
-χαριτόω|verb|χάρις|1. to grace, i.e. indue with special honor
-Χαρῥάν|Name Location|חָרָן|1. Charrhan (i.e. Charan), a place in Mesopotamia
-χάρτης|noun|---|1. a sheet ("chart") of writing-material (as to be scribbled over)
-χάσμα|noun|---|1. a "chasm" or vacancy (impassable interval)
+φωστήρ|noun|φῶς|1. an illuminator 2. (concretely) a luminary 3. (abstractly) brilliancy
+φωσφόρος|adjective|φέρω|1. light-bearing ("phosphorus") 2. (specially), the morning-star (figuratively)
+φωτεινός|adjective|φῶς|1. lustrous, i.e. transparent or well-illuminated (figuratively)
+φωτίζω|verb|φῶς|1. to shed rays, i.e. to shine 2. (transitively) to brighten up
+φωτισμός|noun|φωτίζω|1. illumination (figuratively)
+χαίρω|verb|---|1. to be "cheer"ful, i.e. calmly happy or well-off 2. (impersonally, especially) as salutation (on meeting or parting), be well
+χάλαζα|noun|χαλάω|1. hail
+χαλάω|verb|χάσμα|1. to lower (as into a void)
+Χαλδαῖος|Name/g.|כַּשׂדִּי כַּשׂדִּימָה|1. a Chaldoean (i.e. Kasdi), or native or the region of the lower Euphrates
+χαλεπός|adjective|χαλάω|1. difficult, i.e. dangerous 2. (by implication) furious
+χαλιναγωγέω|verb|ἄγω|1. to be a bit-leader, i.e. to curb (figuratively)
+χαλινός|noun|χαλάω|1. a curb or head-stall (as curbing the spirit)
+χάλκοῦς|adjective|χαλκός|1. coppery
+χαλκεύς|noun|χαλκός|1. a copper-worker or brazier
+χαλκηδών|noun|εἶδος|1. copper-like, i.e. "chalcedony"
+χαλκίον|noun|χαλκός|1. a copper dish
+χαλκολίβανον|noun|λίβανος|1. burnished copper, an alloy of copper (or gold) and silver having a brilliant lustre
+χαλκός|noun|χαλάω|1. copper (the substance, or some implement or coin made of it)
+χαμαί|adverb|χάσμα|1. earthward, i.e. prostrate
+Χαναάν|Name Location|כְּנַעַן|1. Chanaan (i.e. Kenaan), the early name of Israel
+Χαναναῖος|adjective/g.|Χαναάν|1. a Chanaanoean (i.e. Kenaanite), or native of gentile Israel
+χαρά|noun|χαίρω|1. cheerfulness, i.e. calm delight
+χάραγμα|noun|---|1. a scratch or etching, i.e. stamp (as a badge of servitude), or scupltured figure (statue)
+χαρακτήρ|noun|---|1. a graver (the tool or the person) 2. (by implication) engraving (("character"), the figure stamped, i.e. an exact copy or (figuratively) representation)
+χάραξ|noun|---|1. a stake 2. (by implication) a palisade or rampart (military mound for circumvallation in a siege)
+χαρίζομαι|verb|χάρις|1. to grant as a favor, i.e. gratuitously, in kindness, pardon or rescue
+χάριν|adverb|χάρις|1. through favor of, i.e. on account of
+χάρις|noun|χαίρω|1. graciousness (as gratifying), of manner or act 2. (especially) the divine influence upon the heart, and its reflection in the life 3. (also) gratitude
+χάρισμα|noun|χαρίζομαι|1. a (divine) gratuity, i.e. deliverance (from danger or passion) 2. (specially), a (spiritual) endowment 3. (subjectively) religious qualification 4. (objectively) miraculous faculty
+χαριτόω|verb|χάρις|1. to grace, i.e. indue with special honor
+Χαρράν|Name Location|חָרָן|1. Charrhan (i.e. Charan), a place in Mesopotamia
+χάρτης|noun|---|1. a sheet ("chart") of writing-material (as to be scribbled over)
+χάσμα|noun|---|1. a "chasm" or vacancy (impassable interval)
 χεῖλος|noun|χάσμα|1. a lip (as a pouring place) 2. (figuratively) a margin (of water)
-χειμάζω|verb|---|1. to storm 2. (passively) to labor under a gale
-χείμαρῥος|noun|ῥέω|1. a storm-runlet, i.e. winter-torrent
-χειμών|noun|---|1. by implication, the rainy season, i.e. winter
-χείρ|noun|χάσμα|1. the hand 2. (figuratively) power 3. (especially by Hebraism) a means or instrument
-χειραγωγέω|verb|χειραγωγός|1. to be a hand-leader, i.e. to guide (a blind person)
-χειραγωγός|noun|ἄγω|1. a hand-leader, i.e. personal conductor (of a blind person)
-χειρόγραφον|noun|γράφω|1. something hand-written ("chirograph"), i.e. a manuscript (specially, a legal document or bond (figuratively))
-χειροποίητος|adjective|ποιέω|1. manufactured, i.e. of human construction
-χειροτονέω|verb|χείρ|1. to be a hand-reacher or voter (by raising the hand) 2. (generally) to select or appoint
-χείρων|adjective|κακός|1. more evil or aggravated (physically, mentally or morally)
-χερουβίμ|noun|כְּרוּב|1. "cherubim" (i.e. cherubs or kerubim)
-χήρα|noun|χάσμα|1. a widow (as lacking a husband)
-χθές|adverb|---|1. "yesterday" 2. (by extension) in time past or hitherto
-χιλιάς|noun|χίλιοι|1. one thousand ("chiliad")
-χιλίαρχος|noun|ἄρχω|1. the commander of a thousand soldiers ("chiliarch"), i.e. colonel
-χίλιοι|noun|---|1. a thousand
-Χίος|Name Location|---|1. Chios, an island in the Mediterranean
-χιτών|noun|כְּתוֹנֶת כּוּתּתּוֹנֶת|1. a tunic or shirt
-χιών|noun|---|1. snow
-χλαμύς|noun|---|1. a military cloak
-χλευάζω|verb|χεῖλος|1. to throw out the lip, i.e. jeer at
-χλιαρός|adjective|---|1. tepid
-Χλόη|Name Person|---|1. "green" 2. Chloe, a Christian female
-χλωρός|adjective|Χλόη|1. greenish, i.e. verdant, dun-colored
-χξς|noun|στίγμα|1. 666 as a numeral
-χοϊκός|adjective|χόος|1. dusty or dirty (soil-like) 2. (by implication) earthly
+χειμάζομαι|verb|---|1. to storm 2. (passively) to labor under a gale
+χείμαρρος|noun|ῥέω|1. a storm-runlet, i.e. winter-torrent
+χειμών|noun|---|1. by implication, the rainy season, i.e. winter
+χείρ|noun|χάσμα|1. the hand 2. (figuratively) power 3. (especially by Hebraism) a means or instrument
+χειραγωγέω|verb|χειραγωγός|1. to be a hand-leader, i.e. to guide (a blind person)
+χειραγωγός|noun|ἄγω|1. a hand-leader, i.e. personal conductor (of a blind person)
+χειρόγραφον|noun|γράφω|1. something hand-written ("chirograph"), i.e. a manuscript (specially, a legal document or bond (figuratively))
+χειροποίητος|adjective|ποιέω|1. manufactured, i.e. of human construction
+χειροτονέω|verb|χείρ|1. to be a hand-reacher or voter (by raising the hand) 2. (generally) to select or appoint
+χείρων|adjective|κακός|1. more evil or aggravated (physically, mentally or morally)
+Χερουβίμ|noun|כְּרוּב|1. "cherubim" (i.e. cherubs or kerubim)
+χήρα|noun|χάσμα|1. a widow (as lacking a husband)
+χθές|adverb|---|1. "yesterday" 2. (by extension) in time past or hitherto
+χιλιάς|noun|χίλιοι|1. one thousand ("chiliad")
+χιλίαρχος|noun|ἄρχω|1. the commander of a thousand soldiers ("chiliarch"), i.e. colonel
+χίλιοι|noun|---|1. a thousand
+Χίος|Name Location|---|1. Chios, an island in the Mediterranean
+χιτών|noun|כְּתוֹנֶת כּוּתּתּוֹנֶת|1. a tunic or shirt
+χιών|noun|---|1. snow
+χλαμύς|noun|---|1. a military cloak
+χλευάζω|verb|χεῖλος|1. to throw out the lip, i.e. jeer at
+χλιαρός|adjective|---|1. tepid
+Χλόη|Name Person|---|1. "green" 2. Chloe, a Christian female
+χλωρός|adjective|Χλόη|1. greenish, i.e. verdant, dun-colored
+χξϛ|noun|στίγμα|1. 666 as a numeral
+χοϊκός|adjective|χόος|1. dusty or dirty (soil-like) 2. (by implication) earthly
 χοῖνιξ|noun|---|1. a choenix or certain dry measure
 χοῖρος|noun|---|1. a hog
-χολάω|verb|χολή|1. to be bilious 2. (by implication) irritable (enraged, "choleric")
-χολή|noun|---|1. "gall" or bile 2. (by analogy) poison or an anodyne (wormwood, poppy, etc.)
-χόος|noun|χειμών|1. a heap (as poured out), i.e. rubbish, loose dirt
-Χοραζίν|Name Location|---|1. Chorazin, a place in Israel
-χορηγέω|verb|ἄγω|1. to be a dance-leader 2. (generally) to furnish
-χορός|noun|---|1. a ring, i.e. round dance ("choir"
-χορτάζω|verb|χόρτος|1. to fodder 2. (generally) to gorge (supply food in abundance)
-χόρτασμα|noun|χορτάζω|1. forage, i.e. food
-χόρτος|noun|---|1. a "court" or "garden" 2. (by implication, of pasture) herbage or vegetation
+χολάω|verb|χολή|1. to be bilious 2. (by implication) irritable (enraged, "choleric")
+χολή|noun|---|1. "gall" or bile 2. (by analogy) poison or an anodyne (wormwood, poppy, etc.)
+χοῦς|noun|χειμών|1. a heap (as poured out), i.e. rubbish, loose dirt
+Χοραζίν|Name Location|---|1. Chorazin, a place in Israel
+χορηγέω|verb|ἄγω|1. to be a dance-leader 2. (generally) to furnish
+χορός|noun|---|1. a ring, i.e. round dance ("choir"
+χορτάζω|verb|χόρτος|1. to fodder 2. (generally) to gorge (supply food in abundance)
+χόρτασμα|noun|χορτάζω|1. forage, i.e. food
+χόρτος|noun|---|1. a "court" or "garden" 2. (by implication, of pasture) herbage or vegetation
 Χουζᾶς|Name Person|---|1. Chuzas, an officer of Herod
-χράομαι|verb|χείρ|1. to furnish what is needed 2. (give an oracle, "graze" (touch slightly), light upon, etc.) 3. (by implication) to employ or (by extension) to act towards one in a given manner
-χράω|verb|χράομαι|1. to loan
-χρεία|noun|χράομαι|1. employment, i.e. an affair 2. (by implication) occasion, demand, requirement or destitution
-χρεωφειλέτης|noun|ὀφειλέτης|1. a loan-ower, i.e. indebted person
-χρή|verb|χράω|1. it needs (must or should) be
+χράομαι|verb|χείρ|1. to furnish what is needed 2. (give an oracle, "graze" (touch slightly), light upon, etc.) 3. (by implication) to employ or (by extension) to act towards one in a given manner
+χράω|verb|χράομαι|1. to loan
+χρεία|noun|χράομαι|1. employment, i.e. an affair 2. (by implication) occasion, demand, requirement or destitution
+χρεωφειλέτης|noun|ὀφειλέτης|1. a loan-ower, i.e. indebted person
+χρή|verb|χράω|1. it needs (must or should) be
 χρῄζω|verb|χρεία|1. to make (i.e. have) necessity, i.e. be in want of
 χρῆμα|noun|---|1. something useful or needed, i.e. wealth, price
-χρηματίζω|verb|χρῆμα|1. to utter an oracle, i.e. divinely intimate 2. (by implication) to constitute a firm for business 3. (generally) to bear as a title, to be spoken of as
-χρηματισμός|noun|χρηματίζω|1. a divine response or revelation
-χρήσιμος|adjective|χρῆσις|1. serviceable
+χρηματίζω|verb|χρῆμα|1. to utter an oracle, i.e. divinely intimate 2. (by implication) to constitute a firm for business 3. (generally) to bear as a title, to be spoken of as
+χρηματισμός|noun|χρηματίζω|1. a divine response or revelation
+χρήσιμος|adjective|χρῆσις|1. serviceable
 χρῆσις|noun|χράομαι|1. employment 2. (specially), sexual intercourse (as an occupation of the body)
-χρηστεύομαι|verb|χρηστός|1. to show oneself useful, i.e. act benevolently
-χρηστολογία|noun|λέγω|1. fair speech, i.e. plausibility
-χρηστός|adjective|χράομαι|1. employed 2. (by implication) useful (in manner or morals)
-χρηστότης|noun|χρηστός|1. usefulness, i.e. morally, excellence (in character or demeanor)
-χρίσμα|noun|χρίω|1. an anointing or smearing 2. (figuratively) the special endowment ("chrism") of the Holy Spirit
-Χριστιανός|Name/g.|Χριστός|1. (properly, only of the redeemed) a kinsman (relative by blood) of the Anointed-One (the Messiah, also called Christ) 2. (figuratively, as understood by the nations) followers of the teachings of Christ 3. (improperly, though very common) a person who identifies himself as a Christian only because he does not identify with another religion 4. (transliterated) "Christian"
-Χριστός|Name Person|χρίω|1. (literally) Anointed 2. (transliterated) "Christ" 3. (properly) the Messiah, the Anointed One of the God of Abraham, Isaac and Jacob 4. (by function) the (kinsman) Redeemer, the Saviour 5. (by identity) Jesus, Yeshua, Ἰησοῦς, יְהוֹשֻׁעַ, יֵשׁוּעַ
-χρίω|verb|---|1. to smear or rub with oil 2. (specially, of divine purpose) to anoint 3. (by implication) to consecrate to an office or religious service
-χρονίζω|verb|χρόνος|1. to take time, i.e. linger
-χρόνος|noun|---|1. a space of time (in general) or interval 2. (by extension) an individual opportunity 3. (by implication) delay
-χρονοτριβέω|verb|τρίβος|1. to be a time-wearer, i.e. to procrastinate (linger)
-χρύσεος|adjective|χρυσός|1. made of gold
-χρυσίον|noun|χρυσός|1. a golden article, i.e. gold plating, ornament, or coin
-χρυσοδακτύλιος|adjective|δακτύλιος|1. gold-ringed, i.e. wearing a golden finger-ring or similar jewelry
-χρυσόλιθος|noun|λίθος|1. gold-stone, i.e. a yellow gem ("chrysolite")
-χρυσόπρασος|noun|χρυσός|1. a greenish-yellow gem ("chrysoprase")
-χρυσός|noun|χράομαι|1. gold 2. (by extension) a golden article, as an ornament or coin
-χρυσόω|verb|χρυσός|1. to gild, i.e. bespangle with golden ornaments
-χρώς|noun|---|1. the body (properly, its surface or skin)
-χωλός|adjective|---|1. "halt", i.e. limping
-χώρα|noun|χάσμα|1. room, i.e. a space of territory
-χωρέω|verb|χώρα|1. to be in a space (give space) 2. (intransitively) to pass, enter 3. (transitively) to hold, admit
-χωρίζω|verb|χώρα|1. to place room between, i.e. part 2. (reflexively) to go away
-χωρίον|noun|χώρα|1. a spot or plot of ground
-χωρίς|adverb|χώρα|1. at a space, i.e. separately or apart from (often as preposition)
+χρηστεύομαι|verb|χρηστός|1. to show oneself useful, i.e. act benevolently
+χρηστολογία|noun|λέγω|1. fair speech, i.e. plausibility
+χρηστός|adjective|χράομαι|1. employed 2. (by implication) useful (in manner or morals)
+χρηστότης|noun|χρηστός|1. usefulness, i.e. morally, excellence (in character or demeanor)
+χρίσμα|noun|χρίω|1. an anointing or smearing 2. (figuratively) the special endowment ("chrism") of the Holy Spirit
+Χριστιανός|Name/g.|Χριστός|1. (properly, only of the redeemed) a kinsman (relative by blood) of the Anointed-One (the Messiah, also called Christ) 2. (figuratively, as understood by the nations) followers of the teachings of Christ 3. (improperly, though very common) a person who identifies himself as a Christian only because he does not identify with another religion 4. (transliterated) "Christian"
+Χριστός|Name Person|χρίω|1. (literally) Anointed 2. (transliterated) "Christ" 3. (properly) the Messiah, the Anointed One of the God of Abraham, Isaac and Jacob 4. (by function) the (kinsman) Redeemer, the Saviour 5. (by identity) Jesus, Yeshua, Ἰησοῦς, יְהוֹשֻׁעַ, יֵשׁוּעַ
+χρίω|verb|---|1. to smear or rub with oil 2. (specially, of divine purpose) to anoint 3. (by implication) to consecrate to an office or religious service
+χρονίζω|verb|χρόνος|1. to take time, i.e. linger
+χρόνος|noun|---|1. a space of time (in general) or interval 2. (by extension) an individual opportunity 3. (by implication) delay
+χρονοτριβέω|verb|τρίβος|1. to be a time-wearer, i.e. to procrastinate (linger)
+χρυσοῦς|adjective|χρυσός|1. made of gold
+χρυσίον|noun|χρυσός|1. a golden article, i.e. gold plating, ornament, or coin
+χρυσοδακτύλιος|adjective|δακτύλιος|1. gold-ringed, i.e. wearing a golden finger-ring or similar jewelry
+χρυσόλιθος|noun|λίθος|1. gold-stone, i.e. a yellow gem ("chrysolite")
+χρυσόπρασος|noun|χρυσός|1. a greenish-yellow gem ("chrysoprase")
+χρυσός|noun|χράομαι|1. gold 2. (by extension) a golden article, as an ornament or coin
+χρυσόω|verb|χρυσός|1. to gild, i.e. bespangle with golden ornaments
+χρώς|noun|---|1. the body (properly, its surface or skin)
+χωλός|adjective|---|1. "halt", i.e. limping
+χώρα|noun|χάσμα|1. room, i.e. a space of territory
+χωρέω|verb|χώρα|1. to be in a space (give space) 2. (intransitively) to pass, enter 3. (transitively) to hold, admit
+χωρίζω|verb|χώρα|1. to place room between, i.e. part 2. (reflexively) to go away
+χωρίον|noun|χώρα|1. a spot or plot of ground
+χωρίς|adverb|χώρα|1. at a space, i.e. separately or apart from (often as preposition)
 χῶρος|noun|---|1. the north-west wind
-ψάλλω|verb|---|1. to twitch or twang, i.e. to play on a stringed instrument (celebrate the divine worship with music and accompanying odes)
-ψαλμός|noun|ψάλλω|1. a set piece of music, i.e. a sacred ode (accompanied with the voice, harp or other instrument) 2. a "psalm" 3. collectively, the book of the Psalms
-ψευδάδελφος|noun|ἀδελφός|1. a false brother, i.e. pretended associate
-ψευδαπόστολος|noun|ἀπόστολος|1. a false apostle, i.e. pretended pracher
-ψευδής|adjective|ψεύδομαι|1. false, untrue 2. (by extension) erroneous, deceitful, wicked
-ψευδοδιδάσκαλος|noun|διδάσκαλος|1. a false teacher 2. (by implication) a propagator of erroneous Christian doctrine
-ψευδολόγος|adjective|λέγω|1. mendacious, i.e. promulgating erroneous Christian doctrine
-ψεύδομαι|verb|---|1. to utter a lie or attempt to deceive by falsehood
-ψευδομάρτυρ|noun|μάρτυς|1. a false witness, i.e. bearer of untrue testimony
-ψευδομαρτυρέω|verb|ψευδομάρτυρ|1. to be an untrue testifier, i.e. offer falsehood in evidence
-ψευδομαρτυρία|noun|ψευδομάρτυρ|1. untrue testimony
-ψευδοπροφήτης|noun|προφήτης|1. a false prophet, i.e. pretended foreteller or religious imposter
+ψάλλω|verb|---|1. to twitch or twang, i.e. to play on a stringed instrument (celebrate the divine worship with music and accompanying odes)
+ψαλμός|noun|ψάλλω|1. a set piece of music, i.e. a sacred ode (accompanied with the voice, harp or other instrument) 2. a "psalm" 3. collectively, the book of the Psalms
+ψευδάδελφος|noun|ἀδελφός|1. a false brother, i.e. pretended associate
+ψευδαπόστολος|noun|ἀπόστολος|1. a false apostle, i.e. pretended pracher
+ψευδής|adjective|ψεύδομαι|1. false, untrue 2. (by extension) erroneous, deceitful, wicked
+ψευδοδιδάσκαλος|noun|διδάσκαλος|1. a false teacher 2. (by implication) a propagator of erroneous Christian doctrine
+ψευδολόγος|adjective|λέγω|1. mendacious, i.e. promulgating erroneous Christian doctrine
+ψεύδομαι|verb|---|1. to utter a lie or attempt to deceive by falsehood
+ψευδόμαρτυς|noun|μάρτυς|1. a false witness, i.e. bearer of untrue testimony
+ψευδομαρτυρέω|verb|ψευδομάρτυρ|1. to be an untrue testifier, i.e. offer falsehood in evidence
+ψευδομαρτυρία|noun|ψευδομάρτυρ|1. untrue testimony
+ψευδοπροφήτης|noun|προφήτης|1. a false prophet, i.e. pretended foreteller or religious imposter
 ψεῦδος|noun|ψεύδομαι|1. a lie, falsehood
-ψευδόχριστος|noun|Χριστός|1. a false Messiah
-ψευδώνυμος|adjective|ὄνομα|1. untruly named
-ψεύσμα|noun|ψεύδομαι|1. a fabrication, i.e. falsehood
-ψευστής|noun|ψεύδομαι|1. a falsifier
-ψηλαφάω|verb|ψάλλω|1. to manipulate, i.e. verify by contact 2. (figuratively) to search for
-ψηφίζω|verb|ψῆφος|1. to use pebbles in enumeration 2. (generally) to compute
+ψευδόχριστος|noun|Χριστός|1. a false Messiah
+ψευδώνυμος|adjective|ὄνομα|1. untruly named
+ψεῦσμα|noun|ψεύδομαι|1. a fabrication, i.e. falsehood
+ψεύστης|noun|ψεύδομαι|1. a falsifier
+ψηλαφάω|verb|ψάλλω|1. to manipulate, i.e. verify by contact 2. (figuratively) to search for
+ψηφίζω|verb|ψῆφος|1. to use pebbles in enumeration 2. (generally) to compute
 ψῆφος|noun|ψάλλω|1. a pebble (as worn smooth by handling) 2. (by implication) of use as a counter or ballot (a verdict (of acquittal) or ticket (of admission) 3. (also) a vote
-ψιθυρισμός|noun|---|1. whispering, i.e. secret detraction 2. (by implication) a slander
-ψιθυριστής|noun|---|1. a secret slanderer
-ψιχίον|noun|ψάλλω|1. a little bit or morsel
-ψυχή|noun|ψύχω|1. soul, inner being or life 2. (literally) breath 3. (figuratively) the heart's desire, the drive or passion of one's soul (i.e. that which brings satisfaction to one's being)
-ψυχικός|adjective|ψυχή|1. sensitive, i.e. animate
-ψύχος|noun|ψύχω|1. coolness
-ψυχρός|adjective|ψύχος|1. chilly
-ψύχω|verb|---|1. to breathe (voluntarily but gently), i.e. to chill (figuratively)
-ψωμίζω|verb|ψωμίον|1. to supply with bits 2. (generally) to nourish
-ψωμίον|noun|ψώχω|1. a crumb or morsel (as if rubbed off), i.e. a mouthful
-ψώχω|verb|---|1. to triturate 2. (by analogy) to rub out (kernels from husks with the fingers or hand)
-Ω|noun|---|1. the last letter of the Greek alphabet 2. (figuratively) the finality
+ψιθυρισμός|noun|---|1. whispering, i.e. secret detraction 2. (by implication) a slander
+ψιθυριστής|noun|---|1. a secret slanderer
+ψιχίον|noun|ψάλλω|1. a little bit or morsel
+ψυχή|noun|ψύχω|1. soul, inner being or life 2. (literally) breath 3. (figuratively) the heart's desire, the drive or passion of one's soul (i.e. that which brings satisfaction to one's being)
+ψυχικός|adjective|ψυχή|1. sensitive, i.e. animate
+ψῦχος|noun|ψύχω|1. coolness
+ψυχρός|adjective|ψύχος|1. chilly
+ψύχω|verb|---|1. to breathe (voluntarily but gently), i.e. to chill (figuratively)
+ψωμίζω|verb|ψωμίον|1. to supply with bits 2. (generally) to nourish
+ψωμίον|noun|ψώχω|1. a crumb or morsel (as if rubbed off), i.e. a mouthful
+ψώχω|verb|---|1. to triturate 2. (by analogy) to rub out (kernels from husks with the fingers or hand)
+Ὦ|noun|---|1. the last letter of the Greek alphabet 2. (figuratively) the finality
 ὦ|injunction|---|1. as a note of exclamation, oh
 ὦ|verb|εἰμί|1. may be, (might, can, could, would, should, must, etc.) be
-Ὠβήδ|Name Person|עוֹבֵד|1. Obed, an Israelite
+Ὠβήδ|Name Person|עוֹבֵד|1. Obed, an Israelite
 ὧδε|adverb|ὅδε|1. in this same spot, i.e. here or hither
-ᾠδή|noun|ᾄδω|1. a chant or "ode"
-ὠδίν|noun|---|1. a pang or throe, especially of childbirth
-ὠδίν|noun|---|1. a pang or throe, especially of childbirth
-ὤμος|noun|φέρω|1. the shoulder (as that on which burdens are borne)
+ᾠδή|noun|ᾄδω|1. a chant or "ode"
+ὠδίν|noun|---|1. a pang or throe, especially of childbirth
+ὠδίνω|noun|---|1. a pang or throe, especially of childbirth
+ὦμος|noun|φέρω|1. the shoulder (as that on which burdens are borne)
 ὤν|verb|εἰμί|1. being
-ὠνέομαι|verb|---|1. to purchase
-ὠόν|noun|---|1. an "egg"
+ὠνέομαι|verb|---|1. to purchase
+ᾠόν|noun|---|1. an "egg"
 ὥρα|noun|---|1. an "hour"
 ὡραῖος|adjective|ὥρα|1. belonging to the right hour or season (timely) 2. (by implication) flourishing (beauteous (figuratively))
-ὠρύομαι|verb|---|1. to "roar"
+ὠρύομαι|verb|---|1. to "roar"
 ὡς|adverb|ὅς|1. which how, i.e. in that manner (very variously used, as follows)
-ὡσαννά|Hebrew|יָשׁעַ|1. "oh save!", an exclamation of adoration
-ὡσαύτως|adverb|αὐτός|1. as thus, i.e. in the same way
-ὡσεί|adverb|εἰ|1. as if
-Ὡσηέ|Name Person|הוֹשֵׁעַ|1. Hosee (i.e. Hoshea), an Israelite
+ὡσαννά|Hebrew|יָשׁעַ|1. "oh save!", an exclamation of adoration
+ὡσαύτως|adverb|αὐτός|1. as thus, i.e. in the same way
+ὡσεί|adverb|εἰ|1. as if
+Ὡσηέ|Name Person|הוֹשֵׁעַ|1. Hosee (i.e. Hoshea), an Israelite
 ὥσπερ|adverb|πέρ|1. just as, i.e. exactly like
-ὡσπερεί|adverb|εἰ|1. just as if, i.e. as it were
+ὡσπερεί|adverb|εἰ|1. just as if, i.e. as it were
 ὥστε|conjunction|τέ|1. so too, i.e. thus therefore (in various relations of consecution, as follow)
-ὠτίον|noun|οὖς|1. an earlet, i.e. one of the ears, or perhaps the lobe of the ear
-ὠφέλεια|noun|ὠφέλιμος|1. usefulness, i.e. benefit
-ὠφελέω|verb|ὠφέλιμος|1. to be useful, i.e. to benefit
-ὠφέλιμος|adjective|ὄφελος|1. helpful or serviceable, i.e. advantageous`;
+ὠτίον|noun|οὖς|1. an earlet, i.e. one of the ears, or perhaps the lobe of the ear
+ὠφέλεια|noun|ὠφέλιμος|1. usefulness, i.e. benefit
+ὠφελέω|verb|ὠφέλιμος|1. to be useful, i.e. to benefit
+ὠφέλιμο|adjective|ὄφελος|1. helpful or serviceable, i.e. advantageous`;
 
     data = data.split('\n');
     for (let i = 0; i < data.length; i++) {
@@ -17213,7 +17213,7 @@ function makePassageName(location) {
 
     let loc = `${start_book} ${l[1]}:${l[2]} - ${end_book} ${l[4]}:${l[5]}`; // multiple books
     if (l[0] === l[3]) {
-        loc = `${start_book} ${l[1]}:${l[2]} - ${l[4]}:${l[5]}`; // multiple chapters
+        loc = `${start_book} ${l[1]}:${l[2]}-${l[4]}:${l[5]}`; // multiple chapters
         if (l[1] === l[4]) { // one chapter
             loc = `${start_book} ${l[1]}:${l[2]}-${l[5]}`;
             if (l[2] === l[5]) { // one verse
@@ -17227,7 +17227,7 @@ function makePassageName(location) {
 
 function displayOutput(output, location) {
     let num, count, pos, word, root, gloss;
-    let xl = (getLanguage(location[0]) === 'Hebrew') ? getHebrewData() : getGreekData();
+    let language_data = (getLanguage(location[0]) === 'Hebrew') ? getHebrewData() : getGreekData();
     resetTable();
     console.log(`Rows: ${output.length}`);
     let table = document.getElementById("output-table-body");
@@ -17235,10 +17235,10 @@ function displayOutput(output, location) {
     for (let i = 0; i < output.length; i++) {
         num = parseInt(output[i][0], 10);
         count = output[i][1];
-        word = xl[num - 1][0];
-        pos = xl[num - 1][1];
-        root = xl[num - 1][2];
-        gloss = xl[num - 1][3];
+        word = language_data[num - 1][0];
+        pos = language_data[num - 1][1];
+        root = language_data[num - 1][2];
+        gloss = language_data[num - 1][3];
         gloss = gloss.slice(0, 1) + gloss.slice(1).replace(/[0-9]\./g, '<br>\$&');  // put breaks between each definition
         
         row = table.insertRow();
@@ -17249,12 +17249,12 @@ function displayOutput(output, location) {
         cell5 = row.insertCell();
         cell6 = row.insertCell();
 
-        cell1.innerHTML = `${num}`;
-        cell2.innerHTML = `${count}`;
-        cell3.innerHTML = `${word}`;
-        cell4.innerHTML = `${pos}`;
-        cell5.innerHTML = `${root}`;
-        cell6.innerHTML = `${gloss}`;
+        cell1.innerHTML = num.toString();
+        cell2.innerHTML = count.toString();
+        cell3.innerHTML = word;
+        cell4.innerHTML = pos;
+        cell5.innerHTML = root;
+        cell6.innerHTML = gloss;
         cell6.style = 'text-align: left;';
 
     }
