@@ -17242,13 +17242,8 @@ function displayOutput(output, location) {
         gloss = gloss.slice(0, 1) + gloss.slice(1).replace(/[0-9]\./g, '<br>\$&');  // put breaks between each definition
         
         row = table.insertRow();
-        cell1 = row.insertCell();
-        cell2 = row.insertCell();
-        cell3 = row.insertCell();
-        cell4 = row.insertCell();
-        cell5 = row.insertCell();
-        cell6 = row.insertCell();
-
+        [cell1, cell2, cell3, cell4, cell5, cell6] = Array.from({length: 6}, () => row.insertCell());
+        
         cell1.innerHTML = num.toString();
         cell2.innerHTML = count.toString();
         cell3.innerHTML = word;

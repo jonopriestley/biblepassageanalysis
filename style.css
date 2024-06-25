@@ -1,14 +1,31 @@
+@media (prefers-color-scheme: light) {
+    :root {
+        --bg: #ffffff;
+        --fg: #000000;
+        --bg-th: #eceff1;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #333333;
+        --fg: #ffffff;
+        --bg-th: #555555;
+    }
+}
 
 :root {
     /* colors */
     --bg-title: #efce63;
-    --bg: #ffffff;
-  }
+    --fg-title: #000000;
+    
+}
 
 body {
     padding: 0;
     margin: 0;
     border: 0;
+    color: var(--fg);
     background-color: var(--bg);
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -24,6 +41,7 @@ h1 {
     padding-left: 35px;
     width: 100%;
     background-color: var(--bg-title);
+    color: var(--fg-title);
     margin-bottom: 20px;
     box-shadow: 0 1px 5px -1px black;
     display: flex;
@@ -41,7 +59,6 @@ h1 {
     display: flex;
     justify-content: left;
 }
-
 
 
 #passage-input {
@@ -89,14 +106,14 @@ h1 {
 
 th {
     border: 1px solid #dededf;
-    background-color: #eceff1;
-    color: #000000;
+    background-color: var(--bg-th);
+    color: var(--fg);
     padding: 5px;
 }
 
 td {
     border: 1px solid #dededf;
-    background-color: #ffffff;
-    color: #000000;
+    background-color: var(--bg);
+    color: var(--fg);
     padding: 5px;
 }
